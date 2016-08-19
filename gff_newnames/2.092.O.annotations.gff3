@@ -1,0 +1,22 @@
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	130	321	.	-	0	ID=NVP2092O_01; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	323	529	.	-	0	ID=NVP2092O_02; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	529	747	.	-	0	ID=NVP2092O_03; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	750	1367	.	-	0	ID=NVP2092O_04; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	1564	1896	.	-	0	ID=NVP2092O_05; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	2005	3609	.	-	0	ID=NVP2092O_06; Name=DNA polymerase type B, organellar and viral; Ontology_term="pfam:PF03175"; Ontology_term="pog:POG0334"; note="aclame_best_match:protein:vir:2124"; note="tara_best_match:OM-RGC.v1.001450554"; note="cvp_best_match:RF_PEP_9626351"
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	3616	4191	.	-	0	ID=NVP2092O_07; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	4208	4936	.	+	0	ID=NVP2092O_08; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	4936	5469	.	+	0	ID=NVP2092O_09; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.021972741"
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	5554	5805	.	+	0	ID=NVP2092O_10; Name=Fibrinogen binding protein ; Ontology_term="kegg:K03646"; Ontology_term="pfam:PF08017"; Ontology_term="cog:COG1652"; Ontology_term="egg:none"; Ontology_term="pog:POG0623"; note="aclame_best_match:protein:proph:183884"; note="tara_best_match:OM-RGC.v1.017471225"; note="cvp_best_match:RF_PEP_370703036"
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	6041	6166	.	+	0	ID=NVP2092O_11; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	6224	7069	.	+	0	ID=NVP2092O_12; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.009973837"
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	7147	7473	.	+	0	ID=NVP2092O_13; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	7487	7636	.	+	0	ID=NVP2092O_14; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	7639	7827	.	+	0	ID=NVP2092O_15; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	7836	8195	.	+	0	ID=NVP2092O_16; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	8192	8683	.	+	0	ID=NVP2092O_17; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	8693	9298	.	+	0	ID=NVP2092O_18; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	9356	9823	.	+	0	ID=NVP2092O_19; Name=hypothetical protein; Ontology_term="egg:none"; note="tara_best_match:OM-RGC.v1.019721584"
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	9832	10224	.	+	0	ID=NVP2092O_20; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	prod	CDS	10234	10455	.	+	0	ID=NVP2092O_21; Name=hypothetical protein
+Vibrio_virus_2.092.O._10N.286.52.B7	crt	putative CRISPR feature	5616	5721	.	.	.	ID=NVP2092O_CRISPR-like_1, note=CRISPR region

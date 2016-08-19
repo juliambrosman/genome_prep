@@ -1,0 +1,63 @@
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	581	1318	.	+	0	ID=NVP1083O_01; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	1540	1956	.	+	0	ID=NVP1083O_02; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	2053	2271	.	+	0	ID=NVP1083O_03; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	2286	2975	.	+	0	ID=NVP1083O_04; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	2972	3220	.	+	0	ID=NVP1083O_05; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	3223	3651	.	+	0	ID=NVP1083O_06; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.025609329"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	3654	4145	.	+	0	ID=NVP1083O_07; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	4147	4284	.	+	0	ID=NVP1083O_08; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	4290	4556	.	+	0	ID=NVP1083O_09; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	4728	4853	.	-	0	ID=NVP1083O_10; Name=Phosphate transporter family; Ontology_term="kegg:K14319"; Ontology_term="pfam:PF01384"; Ontology_term="cog:COG0457"; Ontology_term="egg:none"; note="tara_best_match:OM-RGC.v1.034261236"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	4922	5323	.	+	0	ID=NVP1083O_11; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	5328	5648	.	+	0	ID=NVP1083O_12; Name=hypothetical protein; note="aclame_best_match:protein:plasmid:20283"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	5660	5821	.	+	0	ID=NVP1083O_13; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	5814	6281	.	+	0	ID=NVP1083O_14; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	6281	6526	.	+	0	ID=NVP1083O_15; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	6531	8537	.	+	0	ID=NVP1083O_16; Name=Phage terminase large subunit (GpA); Ontology_term="pfam:PF05876"; Ontology_term="cog:COG5525"; Ontology_term="egg:COG5525"; note="aclame_best_match:protein:proph:166818"; note="tara_best_match:OM-RGC.v1.000684282"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	8537	8752	.	+	0	ID=NVP1083O_17; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	8752	10257	.	+	0	ID=NVP1083O_18; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.002633679"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	10229	10699	.	+	0	ID=NVP1083O_19; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	10638	10865	.	+	0	ID=NVP1083O_20; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	10862	11242	.	-	0	ID=NVP1083O_21; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	11313	11843	.	-	0	ID=NVP1083O_22; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	11987	14002	.	+	0	ID=NVP1083O_23; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.001404744"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	14063	14398	.	+	0	ID=NVP1083O_24; Name=Uncharacterized conserved protein (DUF2190); Ontology_term="pfam:PF09956"; Ontology_term="cog:COG5471"; Ontology_term="egg:COG5471"; Ontology_term="pog:POG4364"; note="aclame_best_match:protein:proph:161893"; note="tara_best_match:OM-RGC.v1.029520284"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	14398	14718	.	+	0	ID=NVP1083O_25; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	14751	15350	.	+	0	ID=NVP1083O_26; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.015037758"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	15347	15796	.	+	0	ID=NVP1083O_27; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	15793	16113	.	+	0	ID=NVP1083O_28; Name=Chaperonin 10 Kd subunit; Ontology_term="kegg:K04078"; Ontology_term="pfam:PF00166"; Ontology_term="cog:COG0234"; Ontology_term="egg:none"; note="tara_best_match:OM-RGC.v1.027675418"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	16100	16267	.	+	0	ID=NVP1083O_29; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	16267	17043	.	+	0	ID=NVP1083O_30; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.010502409"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	17117	21652	.	+	0	ID=NVP1083O_31; Name=hypothetical protein; Ontology_term="egg:ENOG4110QPB"; note="aclame_best_match:protein:proph:176360"; note="tara_best_match:OM-RGC.v1.000046402"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	21652	22023	.	+	0	ID=NVP1083O_32; Name=hypothetical protein; Ontology_term="egg:none"; note="aclame_best_match:protein:proph:176359"; note="tara_best_match:OM-RGC.v1.027822907"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	22036	24486	.	+	0	ID=NVP1083O_33; Name=hypothetical protein; Ontology_term="egg:none"; note="aclame_best_match:protein:proph:180135"; note="tara_best_match:OM-RGC.v1.000351626"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	24500	25465	.	+	0	ID=NVP1083O_34; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	25458	25748	.	+	0	ID=NVP1083O_35; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	25708	27657	.	+	0	ID=NVP1083O_36; Name=hypothetical protein; Ontology_term="egg:none"; note="aclame_best_match:protein:proph:176355"; note="tara_best_match:OM-RGC.v1.001033873"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	27663	27875	.	+	0	ID=NVP1083O_37; Name=hypothetical protein; Ontology_term="egg:none"; note="aclame_best_match:protein:proph:176354"; note="tara_best_match:OM-RGC.v1.035024411"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	27876	28352	.	+	0	ID=NVP1083O_38; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.022954034"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	28349	28711	.	+	0	ID=NVP1083O_39; Name=Protein of unknown function (DUF1353); Ontology_term="pfam:PF07087"; note="tara_best_match:OM-RGC.v1.017786210"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	28750	28974	.	-	0	ID=NVP1083O_40; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	29013	31079	.	-	0	ID=NVP1083O_41; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.000537607"; note="cvp_best_match:RF_PEP_448261073"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	31054	31257	.	-	0	ID=NVP1083O_42; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	31244	32971	.	-	0	ID=NVP1083O_43; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.001184763"; note="cvp_best_match:RF_PEP_448261080"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	33127	34113	.	+	0	ID=NVP1083O_44; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	34127	35293	.	+	0	ID=NVP1083O_45; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.003836204"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	35310	36338	.	+	0	ID=NVP1083O_46; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.008470127"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	36338	36757	.	+	0	ID=NVP1083O_47; Name=VRR-NUC domain; Ontology_term="pfam:PF08774"; note="aclame_best_match:protein:vir:107755"; note="tara_best_match:OM-RGC.v1.025666756"; note="cvp_best_match:RF_PEP_48697539"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	36754	37020	.	+	0	ID=NVP1083O_48; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	37030	39402	.	+	0	ID=NVP1083O_49; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.000393748"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	39546	40010	.	-	0	ID=NVP1083O_50; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	40065	40724	.	-	0	ID=NVP1083O_51; Name=hypothetical protein; Ontology_term="egg:ENOG4111IH4"; note="tara_best_match:OM-RGC.v1.017632773"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	40717	40911	.	-	0	ID=NVP1083O_52; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	41001	41258	.	-	0	ID=NVP1083O_53; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	41221	41460	.	-	0	ID=NVP1083O_54; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	41464	41841	.	-	0	ID=NVP1083O_55; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	41853	42062	.	-	0	ID=NVP1083O_56; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	42080	42358	.	-	0	ID=NVP1083O_57; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	42351	43115	.	-	0	ID=NVP1083O_58; Name=hypothetical protein; Ontology_term="kegg:K03497"; Ontology_term="cog:COG1475"; Ontology_term="egg:ENOG4111HNX"; Ontology_term="pog:POG1931"; note="tara_best_match:OM-RGC.v1.010590252"; note="cvp_best_match:CAMPEP_0000016468"
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	43139	43330	.	-	0	ID=NVP1083O_59; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	43401	44414	.	-	0	ID=NVP1083O_60; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	prod	CDS	44548	44775	.	-	0	ID=NVP1083O_61; Name=hypothetical protein
+Vibriophage_1.083.O._10N.286.52.B9	crt	putative CRISPR feature	4721	4887	.	.	.	ID=NVP1083O_CRISPR-like_1, note=CRISPR region
+Vibriophage_1.083.O._10N.286.52.B9	crt	putative CRISPR feature	33587	33669	.	.	.	ID=NVP1083O_CRISPR-like_2, note=CRISPR region

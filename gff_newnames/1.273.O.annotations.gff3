@@ -1,0 +1,80 @@
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	3	452	.	+	0	ID=NVP1273O_01; Name=DNA-packaging protein gp3; Ontology_term="pfam:PF16677"; Ontology_term="egg:ENOG41128K6"; Ontology_term="pog:POG0253"; note="tara_best_match:OM-RGC.v1.024733122"; note="cvp_best_match:RF_PEP_422934279"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	462	1937	.	+	0	ID=NVP1273O_02; Name=Phage terminase large subunit; Ontology_term="kegg:K06909"; Ontology_term="pfam:PF04466"; Ontology_term="cog:COG1783"; Ontology_term="egg:none"; Ontology_term="pog:POG0252"; note="aclame_best_match:protein:proph:163652"; note="tara_best_match:OM-RGC.v1.002000368"; note="cvp_best_match:CAMPEP_0000012460"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	2106	2255	.	-	0	ID=NVP1273O_03; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	2252	2689	.	-	0	ID=NVP1273O_04; Name=hypothetical protein; note="aclame_best_match:protein:vir:96771"; note="tara_best_match:OM-RGC.v1.023649723"; note="cvp_best_match:CAMPEP_0000029076"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	2741	3031	.	-	0	ID=NVP1273O_05; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	3074	3229	.	-	0	ID=NVP1273O_06; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.037845244"; note="cvp_best_match:CAMPEP_0000029090"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	3318	4685	.	+	0	ID=NVP1273O_07; Name=Protein of unknown function (DUF1073); Ontology_term="kegg:K09961"; Ontology_term="pfam:PF06381"; Ontology_term="egg:none"; Ontology_term="pog:POG1912"; note="aclame_best_match:protein:proph:166219"; note="tara_best_match:OM-RGC.v1.002208841"; note="cvp_best_match:RF_PEP_422936563"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	4717	4893	.	-	0	ID=NVP1273O_08; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	4893	5093	.	-	0	ID=NVP1273O_09; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	5093	5266	.	-	0	ID=NVP1273O_10; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	5263	5511	.	-	0	ID=NVP1273O_11; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	5670	6566	.	+	0	ID=NVP1273O_12; Name=hypothetical protein; Ontology_term="pog:POG1913"; note="tara_best_match:OM-RGC.v1.007168926"; note="cvp_best_match:RF_PEP_197085639"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	6593	6748	.	-	0	ID=NVP1273O_13; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.038283086"; note="cvp_best_match:CAMPEP_0000029054"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	6886	7005	.	-	0	ID=NVP1273O_14; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	7009	7179	.	-	0	ID=NVP1273O_15; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	7176	7520	.	-	0	ID=NVP1273O_16; Name=hypothetical protein; note="aclame_best_match:protein:vir:96796"; note="cvp_best_match:CAMPEP_0000029028"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	7513	7902	.	-	0	ID=NVP1273O_17; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	7865	8101	.	-	0	ID=NVP1273O_18; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	9203	9550	.	+	0	ID=NVP1273O_19; Name=Peptidase M15 ; Ontology_term="pfam:PF08291"; Ontology_term="cog:COG3108"; Ontology_term="egg:ENOG411267Z"; Ontology_term="pog:POG0352"; note="aclame_best_match:protein:vir:105680"; note="tara_best_match:OM-RGC.v1.030515629"; note="cvp_best_match:RF_PEP_456351073"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	9648	10145	.	+	0	ID=NVP1273O_20; Name=hypothetical protein; Ontology_term="egg:ENOG410XZN3"; Ontology_term="pog:POG0994"; note="aclame_best_match:protein:vir:108334"; note="tara_best_match:OM-RGC.v1.022900951"; note="cvp_best_match:RF_PEP_160700617"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	10338	10823	.	+	0	ID=NVP1273O_21; Name=hypothetical protein; Ontology_term="kegg:K03111"; Ontology_term="cog:COG0629"; Ontology_term="egg:COG0629"; Ontology_term="pog:POG0627"; note="aclame_best_match:protein:vir:79622"; note="tara_best_match:OM-RGC.v1.023443173"; note="cvp_best_match:CAMPEP_0000025924"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	10876	11304	.	+	0	ID=NVP1273O_22; Name=hypothetical protein; Ontology_term="pog:POG2284"; note="tara_best_match:OM-RGC.v1.025313451"; note="cvp_best_match:RF_PEP_41057303"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	11338	11556	.	+	0	ID=NVP1273O_23; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.033391458"; note="cvp_best_match:CAMPEP_0000025916"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	11606	12853	.	+	0	ID=NVP1273O_24; Name=hypothetical protein; Ontology_term="egg:ENOG410XVPY"; Ontology_term="pog:POG1059"; note="aclame_best_match:protein:proph:162344"; note="tara_best_match:OM-RGC.v1.003180617"; note="cvp_best_match:RF_PEP_428782990"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	12850	13185	.	+	0	ID=NVP1273O_25; Name=hypothetical protein; Ontology_term="egg:ENOG41122IS"; note="aclame_best_match:protein:proph:184162"; note="tara_best_match:OM-RGC.v1.029675902"; note="cvp_best_match:RF_PEP_414087047"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	13188	13685	.	+	0	ID=NVP1273O_26; Name=hypothetical protein; Ontology_term="pog:POG2062"; note="cvp_best_match:NCBI_PEP_346223381"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	13712	14230	.	+	0	ID=NVP1273O_27; Name=hypothetical protein; note="aclame_best_match:protein:vir:3112"; note="tara_best_match:OM-RGC.v1.019773186"; note="cvp_best_match:RF_PEP_21234384"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	14343	15515	.	+	0	ID=NVP1273O_28; Name=hypothetical protein; Ontology_term="kegg:K09960"; Ontology_term="egg:none"; note="aclame_best_match:protein:proph:166207"; note="tara_best_match:OM-RGC.v1.003640353"; note="cvp_best_match:RF_PEP_448261038"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	15519	16004	.	+	0	ID=NVP1273O_29; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.022476539"; note="cvp_best_match:RF_PEP_197085642"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	16008	17006	.	+	0	ID=NVP1273O_30; Name=Uncharacterized protein conserved in bacteria (DUF2184); Ontology_term="pfam:PF09950"; Ontology_term="cog:COG4834"; Ontology_term="egg:none"; Ontology_term="pog:POG1942"; note="aclame_best_match:protein:proph:164148"; note="tara_best_match:OM-RGC.v1.005139794"; note="cvp_best_match:RF_PEP_422936575"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	17084	17398	.	+	0	ID=NVP1273O_31; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	17443	17691	.	+	0	ID=NVP1273O_32; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	17694	18998	.	+	0	ID=NVP1273O_33; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	18995	20758	.	+	0	ID=NVP1273O_34; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	20798	21145	.	-	0	ID=NVP1273O_35; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	21235	21666	.	+	0	ID=NVP1273O_36; Name=Protein of unknown function (DUF4054); Ontology_term="pfam:PF13262"; note="tara_best_match:OM-RGC.v1.025739860"; note="cvp_best_match:RF_PEP_418489231"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	21663	22253	.	+	0	ID=NVP1273O_37; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.016514197"; note="cvp_best_match:RF_PEP_448261047"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	22253	22639	.	+	0	ID=NVP1273O_38; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.028264174"; note="cvp_best_match:RF_PEP_422936585"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	22671	22928	.	-	0	ID=NVP1273O_39; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	23017	23634	.	+	0	ID=NVP1273O_40; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.020224228"; note="cvp_best_match:RF_PEP_197085658"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	23700	24851	.	+	0	ID=NVP1273O_41; Name=Protein of unknown function (DUF3383); Ontology_term="pfam:PF11863"; Ontology_term="pog:POG1352"; note="tara_best_match:OM-RGC.v1.003853895"; note="cvp_best_match:RF_PEP_422936587"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	24863	25276	.	+	0	ID=NVP1273O_42; Name=hypothetical protein; Ontology_term="egg:none"; Ontology_term="pog:POG1351"; note="aclame_best_match:protein:proph:166191"; note="tara_best_match:OM-RGC.v1.025992717"; note="cvp_best_match:RF_PEP_422936588"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	25313	25522	.	-	0	ID=NVP1273O_43; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	25817	26227	.	+	0	ID=NVP1273O_44; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	26473	26634	.	-	0	ID=NVP1273O_45; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.037281522"; note="cvp_best_match:CAMPEP_0000029098"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	26723	28108	.	+	0	ID=NVP1273O_46; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	28180	28380	.	+	0	ID=NVP1273O_47; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	28429	28689	.	-	0	ID=NVP1273O_48; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	28784	29449	.	+	0	ID=NVP1273O_49; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.013537935"; note="cvp_best_match:RF_PEP_448245105"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	29446	29799	.	+	0	ID=NVP1273O_50; Name=hypothetical protein; note="cvp_best_match:RF_PEP_418489245"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	29799	30662	.	+	0	ID=NVP1273O_51; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.007850148"; note="cvp_best_match:RF_PEP_422936597"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	30662	31360	.	+	0	ID=NVP1273O_52; Name=hypothetical protein; Ontology_term="pog:POG0573"; note="tara_best_match:OM-RGC.v1.008864633"; note="cvp_best_match:RF_PEP_418489247"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	31360	31833	.	+	0	ID=NVP1273O_53; Name=hypothetical protein; note="aclame_best_match:protein:proph:159221"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	31830	33893	.	+	0	ID=NVP1273O_54; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	34040	35260	.	+	0	ID=NVP1273O_55; Name=hypothetical protein; Ontology_term="pog:POG0077"; note="tara_best_match:OM-RGC.v1.003366634"; note="cvp_best_match:RF_PEP_422936600"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	35262	35903	.	+	0	ID=NVP1273O_56; Name=Protein of unknown function (DUF2612); Ontology_term="pfam:PF11041"; Ontology_term="pog:POG1924"; note="tara_best_match:OM-RGC.v1.014118296"; note="cvp_best_match:RF_PEP_422936601"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	35904	36443	.	+	0	ID=NVP1273O_57; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.012111779"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	36397	36840	.	+	0	ID=NVP1273O_58; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	36870	37490	.	-	0	ID=NVP1273O_59; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.016561635"; note="cvp_best_match:CAMPEP_0000025926"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	37492	38355	.	-	0	ID=NVP1273O_60; Name=PDDEXK-like domain of unknown function (DUF3799); Ontology_term="pfam:PF12684"; note="tara_best_match:OM-RGC.v1.008346333"; note="cvp_best_match:CAMPEP_0000025928"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	38352	38546	.	-	0	ID=NVP1273O_61; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	38527	39012	.	-	0	ID=NVP1273O_62; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	39009	39221	.	-	0	ID=NVP1273O_63; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	39224	41062	.	-	0	ID=NVP1273O_64; Name=hypothetical protein; Ontology_term="pog:POG0081"; note="aclame_best_match:protein:vir:104309"; note="tara_best_match:OM-RGC.v1.000773974"; note="cvp_best_match:NCBI_PEP_441463102"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	41055	41306	.	-	0	ID=NVP1273O_65; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	41362	41865	.	-	0	ID=NVP1273O_66; Name=DNA N-6-adenine-methyltransferase (Dam); Ontology_term="pfam:PF05869"; Ontology_term="egg:none"; Ontology_term="pog:POG0822"; note="aclame_best_match:protein:proph:159355"; note="tara_best_match:OM-RGC.v1.022706492"; note="cvp_best_match:NCBI_PEP_377824026"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	41858	42739	.	-	0	ID=NVP1273O_67; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	42742	42975	.	-	0	ID=NVP1273O_68; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	43051	43287	.	-	0	ID=NVP1273O_69; Name=hypothetical protein; note="cvp_best_match:RF_PEP_422936564"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	43274	44008	.	-	0	ID=NVP1273O_70; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	44082	44330	.	-	0	ID=NVP1273O_71; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	44320	44574	.	-	0	ID=NVP1273O_72; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	44586	46007	.	-	0	ID=NVP1273O_73; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	46007	46201	.	-	0	ID=NVP1273O_74; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	46775	47293	.	+	0	ID=NVP1273O_75; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	47297	47440	.	+	0	ID=NVP1273O_76; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.038811236"
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	47619	47810	.	+	0	ID=NVP1273O_77; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	prod	CDS	47812	48117	.	+	0	ID=NVP1273O_78; Name=hypothetical protein
+Vibrio_virus_1.273.O._10N.286.54.C7	tRNAScanSE	tRNA	8772 	8843 	63.23	+	0	ID=NVP1273O_tRNA_1, aa=Gly, anticodon=TCC
+Vibrio_virus_1.273.O._10N.286.54.C7	tRNAScanSE	tRNA	8853 	8926 	77.99	+	0	ID=NVP1273O_tRNA_2, aa=Asn, anticodon=GTT
