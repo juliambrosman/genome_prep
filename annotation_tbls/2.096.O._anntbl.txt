@@ -1,0 +1,383 @@
+>Features Vibrio_virus_2.096.O._10N.286.48.B5
+605	1351	gene
+			locus_tag	NVP2096O_01
+605	1351	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_01
+1451	1867	gene
+			locus_tag	NVP2096O_02
+1451	1867	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_02
+2178	2002	gene
+			locus_tag	NVP2096O_03
+2178	2002	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_03
+2197	2886	gene
+			locus_tag	NVP2096O_04
+2197	2886	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_04
+2883	3131	gene
+			locus_tag	NVP2096O_05
+2883	3131	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_05
+			note	tara_best_match:OM-RGC.v1.031420009
+3135	3563	gene
+			locus_tag	NVP2096O_06
+3135	3563	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_06
+			note	tara_best_match:OM-RGC.v1.025609329
+3566	4057	gene
+			locus_tag	NVP2096O_07
+3566	4057	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_07
+4059	4196	gene
+			locus_tag	NVP2096O_08
+4059	4196	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_08
+4202	4465	gene
+			locus_tag	NVP2096O_09
+4202	4465	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_09
+4906	5373	gene
+			locus_tag	NVP2096O_10
+4906	5373	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_10
+5378	5710	gene
+			locus_tag	NVP2096O_11
+5378	5710	CDS
+			product	SRCR domain
+			protein_id	NVP2096O_11
+			db_xref	InterPro:IPR001190
+5722	5883	gene
+			locus_tag	NVP2096O_12
+5722	5883	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_12
+5876	6343	gene
+			locus_tag	NVP2096O_13
+5876	6343	CDS
+			product	Putative DNA-binding domain
+			protein_id	NVP2096O_13
+			db_xref	InterPro:IPR009061
+6343	6588	gene
+			locus_tag	NVP2096O_14
+6343	6588	CDS
+			product	Adhesin operon regulatory protein
+			protein_id	NVP2096O_14
+			db_xref	pfam:PF03333
+			db_xref	InterPro:IPR004356
+6593	8599	gene
+			locus_tag	NVP2096O_15
+6593	8599	CDS
+			product	Bacteriophage lambda, GpA
+			protein_id	NVP2096O_15
+			db_xref	pfam:PF05876
+			db_xref	cog:COG5525
+			db_xref	egg:COG5525
+			db_xref	InterPro:IPR008866
+			note	aclame_best_match:protein:proph:168204
+			note	tara_best_match:OM-RGC.v1.000684282
+8599	8814	gene
+			locus_tag	NVP2096O_16
+8599	8814	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_16
+8814	10319	gene
+			locus_tag	NVP2096O_17
+8814	10319	CDS
+			product	Phage portal protein, lambda family
+			protein_id	NVP2096O_17
+			db_xref	InterPro:IPR006429
+			note	tara_best_match:OM-RGC.v1.002633679
+10291	10761	gene
+			locus_tag	NVP2096O_18
+10291	10761	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2096O_18
+			db_xref	InterPro:IPS TMHMM
+10700	10927	gene
+			locus_tag	NVP2096O_19
+10700	10927	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2096O_19
+			db_xref	InterPro:IPS TMHMM
+11304	10924	gene
+			locus_tag	NVP2096O_20
+11304	10924	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_20
+11904	11374	gene
+			locus_tag	NVP2096O_21
+11904	11374	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_21
+12048	14045	gene
+			locus_tag	NVP2096O_22
+12048	14045	CDS
+			product	Bacteriophage Mu, GpT
+			protein_id	NVP2096O_22
+			db_xref	egg:ENOG410XZ09
+			db_xref	InterPro:IPR018774
+			note	tara_best_match:OM-RGC.v1.001404744
+14106	14441	gene
+			locus_tag	NVP2096O_23
+14106	14441	CDS
+			product	Bacteriophage VT1-Sakai, H0018
+			protein_id	NVP2096O_23
+			db_xref	pfam:PF09956
+			db_xref	cog:COG5471
+			db_xref	egg:COG5471
+			db_xref	pog:POG4364
+			db_xref	InterPro:IPR011231
+			note	aclame_best_match:protein:proph:161893
+			note	tara_best_match:OM-RGC.v1.029520284
+14441	14761	gene
+			locus_tag	NVP2096O_24
+14441	14761	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_24
+14794	15393	gene
+			locus_tag	NVP2096O_25
+14794	15393	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_25
+			note	tara_best_match:OM-RGC.v1.015037758
+15390	15839	gene
+			locus_tag	NVP2096O_26
+15390	15839	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_26
+15836	16156	gene
+			locus_tag	NVP2096O_27
+15836	16156	CDS
+			product	GroES chaperonin family
+			protein_id	NVP2096O_27
+			db_xref	kegg:K04078
+			db_xref	pfam:PF00166
+			db_xref	cog:COG0234
+			db_xref	egg:none
+			db_xref	InterPro:IPR020818
+			note	tara_best_match:OM-RGC.v1.027675418
+16143	16310	gene
+			locus_tag	NVP2096O_28
+16143	16310	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_28
+16310	17086	gene
+			locus_tag	NVP2096O_29
+16310	17086	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_29
+			db_xref	egg:ENOG4111XEP
+			note	aclame_best_match:protein:proph:168952
+			note	tara_best_match:OM-RGC.v1.010502409
+17160	21692	gene
+			locus_tag	NVP2096O_30
+17160	21692	CDS
+			product	Coil containing protein
+			protein_id	NVP2096O_30
+			db_xref	egg:ENOG4110QPB
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:176360
+			note	tara_best_match:OM-RGC.v1.000046402
+21692	22063	gene
+			locus_tag	NVP2096O_31
+21692	22063	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_31
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:176359
+			note	tara_best_match:OM-RGC.v1.027822907
+22077	24536	gene
+			locus_tag	NVP2096O_32
+22077	24536	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_32
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:180135
+			note	tara_best_match:OM-RGC.v1.000351628
+24552	25523	gene
+			locus_tag	NVP2096O_33
+24552	25523	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_33
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.006320844
+25516	25812	gene
+			locus_tag	NVP2096O_34
+25516	25812	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_34
+25809	27743	gene
+			locus_tag	NVP2096O_35
+25809	27743	CDS
+			product	Coil containing protein
+			protein_id	NVP2096O_35
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:176355
+			note	tara_best_match:OM-RGC.v1.001033873
+27749	27961	gene
+			locus_tag	NVP2096O_36
+27749	27961	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_36
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:176354
+			note	tara_best_match:OM-RGC.v1.035024411
+27962	28438	gene
+			locus_tag	NVP2096O_37
+27962	28438	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_37
+			note	tara_best_match:OM-RGC.v1.022954034
+28435	28797	gene
+			locus_tag	NVP2096O_38
+28435	28797	CDS
+			product	Campylobacter phage CGC-2007, Cje0229
+			protein_id	NVP2096O_38
+			db_xref	pfam:PF07087
+			db_xref	InterPro:IPR010767
+			note	tara_best_match:OM-RGC.v1.027986222
+29060	28836	gene
+			locus_tag	NVP2096O_39
+29060	28836	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_39
+31165	29099	gene
+			locus_tag	NVP2096O_40
+31165	29099	CDS
+			product	DNA-directed DNA polymerase, family B, multifunctional domain
+			protein_id	NVP2096O_40
+			db_xref	InterPro:IPR006134
+			note	tara_best_match:OM-RGC.v1.000537607
+			note	cvp_best_match:RF_PEP_448261073
+31343	31140	gene
+			locus_tag	NVP2096O_41
+31343	31140	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_41
+33057	31330	gene
+			locus_tag	NVP2096O_42
+33057	31330	CDS
+			product	Helicase superfamily 1/2, ATP-binding domain
+			protein_id	NVP2096O_42
+			db_xref	InterPro:IPR014001
+			note	tara_best_match:OM-RGC.v1.001184763
+			note	cvp_best_match:RF_PEP_448261080
+33213	34199	gene
+			locus_tag	NVP2096O_43
+33213	34199	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_43
+34213	35379	gene
+			locus_tag	NVP2096O_44
+34213	35379	CDS
+			product	Protein of unknown function DUF2800
+			protein_id	NVP2096O_44
+			db_xref	InterPro:IPR021229
+			note	tara_best_match:OM-RGC.v1.003836204
+35394	36392	gene
+			locus_tag	NVP2096O_45
+35394	36392	CDS
+			product	Protein of unknown function DUF2815
+			protein_id	NVP2096O_45
+			db_xref	InterPro:IPR022595
+			note	tara_best_match:OM-RGC.v1.008470127
+36392	36811	gene
+			locus_tag	NVP2096O_46
+36392	36811	CDS
+			product	VRR-NUC domain
+			protein_id	NVP2096O_46
+			db_xref	pfam:PF08774
+			note	aclame_best_match:protein:vir:107755
+			note	tara_best_match:OM-RGC.v1.025666756
+			note	cvp_best_match:RF_PEP_48697539
+36808	37074	gene
+			locus_tag	NVP2096O_47
+36808	37074	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_47
+37084	39456	gene
+			locus_tag	NVP2096O_48
+37084	39456	CDS
+			product	Bacteriophage/plasmid primase, P4, C-terminal
+			protein_id	NVP2096O_48
+			db_xref	InterPro:IPR014818
+			note	tara_best_match:OM-RGC.v1.000393748
+40064	39600	gene
+			locus_tag	NVP2096O_49
+40064	39600	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_49
+40668	40051	gene
+			locus_tag	NVP2096O_50
+40668	40051	CDS
+			product	NTP pyrophosphohydrolase-like domain
+			protein_id	NVP2096O_50
+			db_xref	egg:ENOG4111IH4
+			db_xref	InterPro:IPR023292
+			note	tara_best_match:OM-RGC.v1.017632773
+41015	40758	gene
+			locus_tag	NVP2096O_51
+41015	40758	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_51
+41217	40978	gene
+			locus_tag	NVP2096O_52
+41217	40978	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_52
+41598	41221	gene
+			locus_tag	NVP2096O_53
+41598	41221	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_53
+42573	41806	gene
+			locus_tag	NVP2096O_54
+42573	41806	CDS
+			product	Coil containing protein
+			protein_id	NVP2096O_54
+			db_xref	kegg:K03497
+			db_xref	cog:COG1475
+			db_xref	egg:ENOG4111HNX
+			db_xref	pog:POG1931
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.010590252
+			note	cvp_best_match:CAMPEP_0000016468
+42785	42597	gene
+			locus_tag	NVP2096O_55
+42785	42597	CDS
+			product	hypothetical protein
+			protein_id	NVP2096O_55
+43986	42856	gene
+			locus_tag	NVP2096O_56
+43986	42856	CDS
+			product	Coil containing protein
+			protein_id	NVP2096O_56
+			db_xref	InterPro:IPS Coils
+44347	44123	gene
+			locus_tag	NVP2096O_57
+44347	44123	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2096O_57
+			db_xref	InterPro:IPS TMHMM
+25845	26039	gene
+			locus_tag	NVP2096O_CRISPR-like_1
+25845	26039	ncRNA
+			product	 note=CRISPR region
+			locus_tag	NVP2096O_CRISPR-like_1
+33658	33740	gene
+			locus_tag	NVP2096O_CRISPR-like_2
+33658	33740	ncRNA
+			product	 note=CRISPR region
+			locus_tag	NVP2096O_CRISPR-like_2

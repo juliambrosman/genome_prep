@@ -1,0 +1,404 @@
+>Features Vibrio_virus_1.064.O._10N.261.52.E2
+3	458	gene
+			locus_tag	NVP1064O_01
+3	458	CDS
+			product	Terminase small subunit 
+			protein_id	NVP1064O_01
+			db_xref	pfam:PF03592
+			db_xref	cog:COG3728
+			db_xref	egg:ENOG410YU5I
+			db_xref	pog:POG0796
+			note	tara_best_match:OM-RGC.v1.024495477
+			note	cvp_best_match:RF_PEP_327198562
+451	1737	gene
+			locus_tag	NVP1064O_02
+451	1737	CDS
+			product	Terminase-like family
+			protein_id	NVP1064O_02
+			db_xref	pfam:PF03237
+			db_xref	cog:COG1783
+			db_xref	egg:none
+			db_xref	pog:POG0252
+			note	aclame_best_match:protein:proph:179992
+			note	tara_best_match:OM-RGC.v1.002641965
+			note	cvp_best_match:RF_PEP_327198525
+1781	3304	gene
+			locus_tag	NVP1064O_03
+1781	3304	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_03
+			db_xref	egg:ENOG410YZUE
+			db_xref	pog:POG1518
+			note	aclame_best_match:protein:vir:95014
+			note	tara_best_match:OM-RGC.v1.002131365
+			note	cvp_best_match:RF_PEP_375267253
+3306	4406	gene
+			locus_tag	NVP1064O_04
+3306	4406	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_04
+			db_xref	pog:POG0721
+			note	aclame_best_match:protein:vir:95011
+			note	tara_best_match:OM-RGC.v1.005101840
+			note	cvp_best_match:NCBI_PEP_282533137
+4496	5143	gene
+			locus_tag	NVP1064O_05
+4496	5143	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_05
+5156	6133	gene
+			locus_tag	NVP1064O_06
+5156	6133	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_06
+			db_xref	egg:COG5492
+			db_xref	pog:POG1554
+			note	aclame_best_match:protein:proph:170782
+			note	tara_best_match:OM-RGC.v1.005904138
+			note	cvp_best_match:NCBI_PEP_282534195
+6189	6371	gene
+			locus_tag	NVP1064O_07
+6189	6371	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_07
+			note	tara_best_match:OM-RGC.v1.037455357
+6416	6760	gene
+			locus_tag	NVP1064O_08
+6416	6760	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_08
+6757	7323	gene
+			locus_tag	NVP1064O_09
+6757	7323	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_09
+7333	7845	gene
+			locus_tag	NVP1064O_10
+7333	7845	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_10
+			db_xref	pog:POG1527
+			note	aclame_best_match:protein:vir:78383
+			note	cvp_best_match:NCBI_PEP_282547352
+7847	8206	gene
+			locus_tag	NVP1064O_11
+7847	8206	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_11
+			note	cvp_best_match:CAMPEP_0000029052
+8206	8667	gene
+			locus_tag	NVP1064O_12
+8206	8667	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_12
+			note	tara_best_match:OM-RGC.v1.024307204
+			note	cvp_best_match:CAMPEP_0000029092
+8667	9083	gene
+			locus_tag	NVP1064O_13
+8667	9083	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_13
+			note	tara_best_match:OM-RGC.v1.025810965
+			note	cvp_best_match:CAMPEP_0000029042
+9120	10319	gene
+			locus_tag	NVP1064O_14
+9120	10319	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_14
+			note	tara_best_match:OM-RGC.v1.003548523
+			note	cvp_best_match:CAMPEP_0000029044
+10316	10696	gene
+			locus_tag	NVP1064O_15
+10316	10696	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_15
+10717	10992	gene
+			locus_tag	NVP1064O_16
+10717	10992	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_16
+10985	13078	gene
+			locus_tag	NVP1064O_17
+10985	13078	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_17
+13082	13570	gene
+			locus_tag	NVP1064O_18
+13082	13570	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_18
+			note	tara_best_match:OM-RGC.v1.022968936
+			note	cvp_best_match:CAMPEP_0000029004
+13561	14085	gene
+			locus_tag	NVP1064O_19
+13561	14085	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_19
+			note	tara_best_match:OM-RGC.v1.020331787
+			note	cvp_best_match:CAMPEP_0000029094
+14082	14429	gene
+			locus_tag	NVP1064O_20
+14082	14429	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_20
+			note	tara_best_match:OM-RGC.v1.029216920
+			note	cvp_best_match:CAMPEP_0000029036
+14407	17142	gene
+			locus_tag	NVP1064O_21
+14407	17142	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_21
+			note	tara_best_match:OM-RGC.v1.000243936
+			note	cvp_best_match:CAMPEP_0000029064
+17146	19659	gene
+			locus_tag	NVP1064O_22
+17146	19659	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_22
+20171	19809	gene
+			locus_tag	NVP1064O_23
+20171	19809	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_23
+			note	tara_best_match:OM-RGC.v1.028203855
+20583	20164	gene
+			locus_tag	NVP1064O_24
+20583	20164	CDS
+			product	N-acetylmuramoyl-L-alanine amidase
+			protein_id	NVP1064O_24
+			db_xref	kegg:K01447
+			db_xref	pfam:PF01510
+			db_xref	cog:COG3023
+			db_xref	egg:COG3023
+			db_xref	pog:POG0023
+			note	aclame_best_match:protein:proph:178300
+			note	tara_best_match:OM-RGC.v1.025819898
+			note	cvp_best_match:NCBI_PEP_441463247
+20789	20583	gene
+			locus_tag	NVP1064O_25
+20789	20583	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_25
+20968	20789	gene
+			locus_tag	NVP1064O_26
+20968	20789	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_26
+21669	21304	gene
+			locus_tag	NVP1064O_27
+21669	21304	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_27
+21995	21777	gene
+			locus_tag	NVP1064O_28
+21995	21777	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_28
+22134	21982	gene
+			locus_tag	NVP1064O_29
+22134	21982	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_29
+22710	22507	gene
+			locus_tag	NVP1064O_30
+22710	22507	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_30
+22925	22710	gene
+			locus_tag	NVP1064O_31
+22925	22710	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_31
+23094	22915	gene
+			locus_tag	NVP1064O_32
+23094	22915	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_32
+23450	23133	gene
+			locus_tag	NVP1064O_33
+23450	23133	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_33
+			note	tara_best_match:OM-RGC.v1.028462058
+			note	cvp_best_match:RF_PEP_399528346
+24060	23452	gene
+			locus_tag	NVP1064O_34
+24060	23452	CDS
+			product	ERF superfamily
+			protein_id	NVP1064O_34
+			db_xref	pfam:PF04404
+			db_xref	egg:none
+			db_xref	pog:POG0283
+			note	aclame_best_match:protein:proph:181234
+			note	tara_best_match:OM-RGC.v1.016148984
+			note	cvp_best_match:CAMPEP_0000029040
+24215	24057	gene
+			locus_tag	NVP1064O_35
+24215	24057	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_35
+			note	tara_best_match:OM-RGC.v1.037991264
+24366	24863	gene
+			locus_tag	NVP1064O_36
+24366	24863	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_36
+			db_xref	egg:none
+			db_xref	pog:POG0184
+			note	aclame_best_match:protein:vir:97107
+			note	tara_best_match:OM-RGC.v1.016489778
+			note	cvp_best_match:RF_PEP_84662624
+24865	25197	gene
+			locus_tag	NVP1064O_37
+24865	25197	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_37
+			db_xref	cog:COG1694
+			db_xref	egg:none
+			db_xref	pog:POG0148
+			note	aclame_best_match:protein:vir:99253
+			note	tara_best_match:OM-RGC.v1.030530205
+			note	cvp_best_match:RF_PEP_423261940
+25194	25367	gene
+			locus_tag	NVP1064O_38
+25194	25367	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_38
+25337	25534	gene
+			locus_tag	NVP1064O_39
+25337	25534	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_39
+25688	25867	gene
+			locus_tag	NVP1064O_40
+25688	25867	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_40
+25953	26363	gene
+			locus_tag	NVP1064O_41
+25953	26363	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_41
+26364	26525	gene
+			locus_tag	NVP1064O_42
+26364	26525	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_42
+			note	aclame_best_match:protein:vir:96775
+			note	tara_best_match:OM-RGC.v1.037561015
+			note	cvp_best_match:CAMPEP_0000029074
+26556	26750	gene
+			locus_tag	NVP1064O_43
+26556	26750	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_43
+26849	27160	gene
+			locus_tag	NVP1064O_44
+26849	27160	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_44
+27214	27903	gene
+			locus_tag	NVP1064O_45
+27214	27903	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_45
+			db_xref	egg:COG3935
+			note	aclame_best_match:protein:proph:161317
+			note	tara_best_match:OM-RGC.v1.011174212
+27900	29777	gene
+			locus_tag	NVP1064O_46
+27900	29777	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_46
+			db_xref	cog:COG0358
+			db_xref	egg:COG0358
+			db_xref	pog:POG0025
+			note	aclame_best_match:protein:vir:105726
+			note	tara_best_match:OM-RGC.v1.000921916
+			note	cvp_best_match:RF_PEP_399528819
+29781	29960	gene
+			locus_tag	NVP1064O_47
+29781	29960	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_47
+30007	30504	gene
+			locus_tag	NVP1064O_48
+30007	30504	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_48
+			db_xref	egg:ENOG4111N1P
+			note	tara_best_match:OM-RGC.v1.024715766
+30501	31073	gene
+			locus_tag	NVP1064O_49
+30501	31073	CDS
+			product	Bacteriophage Lambda NinG protein
+			protein_id	NVP1064O_49
+			db_xref	pfam:PF05766
+			db_xref	cog:COG1403
+			db_xref	egg:none
+			db_xref	pog:POG0296
+			note	aclame_best_match:protein:proph:183386
+			note	tara_best_match:OM-RGC.v1.022202613
+			note	cvp_best_match:CAMPEP_0000029046
+31748	32422	gene
+			locus_tag	NVP1064O_50
+31748	32422	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_50
+32492	33580	gene
+			locus_tag	NVP1064O_51
+32492	33580	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_51
+33562	33711	gene
+			locus_tag	NVP1064O_52
+33562	33711	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_52
+33726	33866	gene
+			locus_tag	NVP1064O_53
+33726	33866	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_53
+33872	34168	gene
+			locus_tag	NVP1064O_54
+33872	34168	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_54
+34168	34500	gene
+			locus_tag	NVP1064O_55
+34168	34500	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_55
+			note	tara_best_match:OM-RGC.v1.029345843
+			note	cvp_best_match:CAMPEP_0000011790
+34487	34681	gene
+			locus_tag	NVP1064O_56
+34487	34681	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_56
+34690	35178	gene
+			locus_tag	NVP1064O_57
+34690	35178	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_57
+35182	35352	gene
+			locus_tag	NVP1064O_58
+35182	35352	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_58
+35869	36066	gene
+			locus_tag	NVP1064O_59
+35869	36066	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_59
+36122	36376	gene
+			locus_tag	NVP1064O_60
+36122	36376	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_60
+36378	36497	gene
+			locus_tag	NVP1064O_61
+36378	36497	CDS
+			product	hypothetical protein
+			protein_id	NVP1064O_61

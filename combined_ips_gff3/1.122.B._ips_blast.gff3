@@ -1,0 +1,73 @@
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	1	657	.	+	0	ID=NVP1122B_01;Name=Terminase small subunit; Ontology_term="kegg:K07474"; Ontology_term="pfam:PF03592"; Ontology_term="egg:none"; Ontology_term="pog:POG0796"; note="tara_best_match:OM-RGC.v1.016045857"; note="cvp_best_match:RF_PEP_197085631"; ontology_term="InterPro:IPR005335"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	644	2365	.	+	0	ID=NVP1122B_02;Name=Terminase, large subunit; Ontology_term="pfam:PF03237"; Ontology_term="cog:COG5410"; Ontology_term="egg:COG5410"; Ontology_term="pog:POG0042"; note="aclame_best_match:protein:proph:166228"; note="tara_best_match:OM-RGC.v1.001228255"; note="cvp_best_match:CAMPEP_0000020542"; ontology_term="InterPro:IPR004921"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	2405	3952	.	+	0	ID=NVP1122B_03;Name=Protein of unknown function DUF1073; note="tara_best_match:OM-RGC.v1.001991723"; ontology_term="InterPro:IPR024459"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	3933	4910	.	+	0	ID=NVP1122B_04;Name=Phage head morphogenesis domain; Ontology_term="egg:none"; note="tara_best_match:OM-RGC.v1.005419194"; note="cvp_best_match:RF_PEP_423262381"; ontology_term="InterPro:IPR006528"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	5039	5281	.	+	0	ID=NVP1122B_05; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	5290	7275	.	+	0	ID=NVP1122B_06;Name=Coil containing protein;; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	7286	7738	.	+	0	ID=NVP1122B_07; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.024839066"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	7741	8853	.	+	0	ID=NVP1122B_08; Name=hypothetical protein; Ontology_term="egg:none"; note="tara_best_match:OM-RGC.v1.004765993"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	8865	9200	.	+	0	ID=NVP1122B_09; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	9299	9961	.	+	0	ID=NVP1122B_10; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	9963	10178	.	+	0	ID=NVP1122B_11; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	10296	10676	.	+	0	ID=NVP1122B_12; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	10679	11980	.	+	0	ID=NVP1122B_13; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	11977	13740	.	+	0	ID=NVP1122B_14; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	13884	14558	.	+	0	ID=NVP1122B_15; Name=hypothetical protein; Ontology_term="pog:POG0184"; note="aclame_best_match:protein:vir:96801"; note="tara_best_match:OM-RGC.v1.012685103"; note="cvp_best_match:CAMPEP_0000012440"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	14586	14990	.	+	0	ID=NVP1122B_16; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	14987	15349	.	+	0	ID=NVP1122B_17; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	15353	15766	.	+	0	ID=NVP1122B_18; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.026973291"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	15763	16197	.	+	0	ID=NVP1122B_19; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	16254	16763	.	+	0	ID=NVP1122B_20; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	16775	17134	.	+	0	ID=NVP1122B_21; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	17131	17730	.	+	0	ID=NVP1122B_22; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	17727	19820	.	+	0	ID=NVP1122B_23;Name=Coil containing protein;; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	19820	20293	.	+	0	ID=NVP1122B_24; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	20356	20895	.	+	0	ID=NVP1122B_25;Name=Domain of unknown function DUF1833;; ontology_term="InterPro:IPR014974"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	20892	21308	.	+	0	ID=NVP1122B_26; Name=NlpC/P60 family; Ontology_term="pfam:PF00877"; note="tara_best_match:OM-RGC.v1.026312462"; note="cvp_best_match:CAMPEP_0000012472"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	21286	23856	.	+	0	ID=NVP1122B_27;Name=Coil containing protein;; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	23856	26168	.	+	0	ID=NVP1122B_28;Name=Pectin lyase fold/virulence factor;; ontology_term="InterPro:IPR011050"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	26228	26536	.	-	0	ID=NVP1122B_29; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	26682	27197	.	-	0	ID=NVP1122B_30;Name=Single-stranded DNA-binding protein; Ontology_term="kegg:K03111"; Ontology_term="cog:COG0629"; Ontology_term="egg:COG0629"; Ontology_term="pog:POG0226"; note="aclame_best_match:protein:plasmid:133420"; note="tara_best_match:OM-RGC.v1.018675131"; note="cvp_best_match:CAMPEP_0000016380"; ontology_term="InterPro:IPR011344"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	27197	27832	.	-	0	ID=NVP1122B_31;Name=Single-strand annealing protein SAK3; Ontology_term="pfam:PF06378"; Ontology_term="egg:none"; Ontology_term="pog:POG0906"; note="aclame_best_match:protein:vir:902"; note="tara_best_match:OM-RGC.v1.015086857"; note="cvp_best_match:NCBI_PEP_3282307"; ontology_term="InterPro:IPR009425"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	28132	28320	.	+	0	ID=NVP1122B_32; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	28324	28503	.	+	0	ID=NVP1122B_33; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.036647497"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	28496	28771	.	+	0	ID=NVP1122B_34; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	28796	29056	.	+	0	ID=NVP1122B_35; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	29071	29301	.	+	0	ID=NVP1122B_36; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	29291	29518	.	+	0	ID=NVP1122B_37;Name=Domain of unknown function DUF551;; ontology_term="InterPro:IPR007539"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	29518	30000	.	+	0	ID=NVP1122B_38; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	30000	30308	.	+	0	ID=NVP1122B_39;Name=Protein of unknown function DUF1364; Ontology_term="pfam:PF07102"; Ontology_term="egg:none"; Ontology_term="pog:POG0618"; note="aclame_best_match:protein:vir:105608"; note="tara_best_match:OM-RGC.v1.030522789"; note="cvp_best_match:RF_PEP_56692951"; ontology_term="InterPro:IPR010774"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	30305	30583	.	+	0	ID=NVP1122B_40;Name=tRNA endonuclease-like domain; note="tara_best_match:OM-RGC.v1.031141498"; ontology_term="InterPro:IPR011856"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	30580	30981	.	+	0	ID=NVP1122B_41; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	30985	31242	.	+	0	ID=NVP1122B_42; Name=hypothetical protein; Ontology_term="egg:ENOG41122AZ"; note="aclame_best_match:protein:proph:165868"; note="cvp_best_match:RF_PEP_448244902"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	31359	32003	.	+	0	ID=NVP1122B_43;Name=KilA, N-terminal/APSES-type HTH, DNA-binding; note="tara_best_match:OM-RGC.v1.016061693"; ontology_term="InterPro:IPR018004"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	32106	32459	.	+	0	ID=NVP1122B_44;Name=PUA-like domain; Ontology_term="pfam:PF04266"; Ontology_term="egg:ENOG411245K"; note="tara_best_match:OM-RGC.v1.007701456"; ontology_term="InterPro:IPR015947"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	32474	32674	.	+	0	ID=NVP1122B_45; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.035943074"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	32676	33185	.	+	0	ID=NVP1122B_46;Name=Coil containing protein;; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	33796	35097	.	+	0	ID=NVP1122B_47;Name=DNA methylase, C-5 cytosine-specific, active site; Ontology_term="pfam:PF00145"; note="tara_best_match:OM-RGC.v1.004201265"; ontology_term="InterPro:IPR018117"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	35087	35374	.	+	0	ID=NVP1122B_48;Name=Coil containing protein; note="tara_best_match:OM-RGC.v1.034531381"; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	35325	35732	.	+	0	ID=NVP1122B_49; Name=hypothetical protein; Ontology_term="egg:ENOG4112BZ9"; note="tara_best_match:OM-RGC.v1.005938743"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	35797	36075	.	+	0	ID=NVP1122B_50; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.032407151"; note="cvp_best_match:RF_PEP_422937539"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	36075	36233	.	+	0	ID=NVP1122B_51; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	36236	36685	.	+	0	ID=NVP1122B_52;Name=Protein of unknown function DUF1367; Ontology_term="egg:none"; Ontology_term="pog:POG2339"; note="aclame_best_match:protein:proph:163709"; note="tara_best_match:OM-RGC.v1.024963271"; note="cvp_best_match:RF_PEP_160700636"; ontology_term="InterPro:IPR009797"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	36697	37236	.	+	0	ID=NVP1122B_53;Name=DNA N-6-adenine-methyltransferase; Ontology_term="pfam:PF05869"; Ontology_term="egg:none"; Ontology_term="pog:POG0822"; note="aclame_best_match:protein:vir:79615"; note="tara_best_match:OM-RGC.v1.019621919"; note="cvp_best_match:RF_PEP_327198618"; ontology_term="InterPro:IPR008593"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	37344	37721	.	-	0	ID=NVP1122B_54;Name=Holin of 3TMs, for gene-transfer release; Ontology_term="pfam:PF11351"; Ontology_term="egg:none"; note="tara_best_match:OM-RGC.v1.027618775"; ontology_term="InterPro:IPR021497"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	37721	38104	.	-	0	ID=NVP1122B_55;Name=Coil containing protein; Ontology_term="egg:ENOG4111WYZ"; note="tara_best_match:OM-RGC.v1.026953781"; note="cvp_best_match:CAMPEP_0000011658"; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	38239	39408	.	+	0	ID=NVP1122B_56;Name=Histidine kinase-like ATPase, C-terminal domain;; ontology_term="InterPro:IPR003594"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	39416	39589	.	+	0	ID=NVP1122B_57; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	39700	40068	.	+	0	ID=NVP1122B_58;Name=TMhelix containing protein;; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	40096	40431	.	+	0	ID=NVP1122B_59; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	40419	40859	.	+	0	ID=NVP1122B_60;Name=Winged helix-turn-helix DNA-binding domain;; ontology_term="InterPro:IPR011991"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	40876	41169	.	+	0	ID=NVP1122B_61;Name=Carbon storage regulator;; ontology_term="InterPro:IPR003751"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	41660	41839	.	+	0	ID=NVP1122B_62;Name=TMhelix containing protein; note="tara_best_match:OM-RGC.v1.032830840"; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	41839	42009	.	+	0	ID=NVP1122B_63; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.036844510"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	42228	42536	.	+	0	ID=NVP1122B_64; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	42536	42901	.	+	0	ID=NVP1122B_65;Name=Coil containing protein;; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	42951	43166	.	+	0	ID=NVP1122B_66; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	43157	43390	.	+	0	ID=NVP1122B_67; Name=hypothetical protein;
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	43395	44000	.	+	0	ID=NVP1122B_68;Name=Peptidase S1, PA clan; note="tara_best_match:OM-RGC.v1.009887468"; note="cvp_best_match:CAMPEP_0000011380"; ontology_term="InterPro:IPR009003"
+Vibrio_virus_1.122.B._10N.286.46.F8	prod	CDS	44014	44430	.	+	0	ID=NVP1122B_69; Name=hypothetical protein; Ontology_term="egg:none"; note="aclame_best_match:protein:proph:176699"; note="tara_best_match:OM-RGC.v1.026210620"
+Vibrio_virus_1.122.B._10N.286.46.F8	tRNAScanSE	tRNA	41340	41411	60.07	+	0	ID=NVP1122B_tRNA_1, aa=Met, anticodon=CAT
+
+Vibrio_virus_1.122.B._10N.286.46.F8	tRNAScanSE	tRNA	41419	41490	45.74	+	0	ID=NVP1122B_tRNA_2, aa=Cys, anticodon=ACA
+

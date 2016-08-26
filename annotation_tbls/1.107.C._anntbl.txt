@@ -1,0 +1,125 @@
+>Features Vibrio_virus_1.107.C._10N.286.52.E10
+343	119	gene
+			locus_tag	NVP1107C_01
+343	119	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_01
+584	375	gene
+			locus_tag	NVP1107C_02
+584	375	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_02
+1204	587	gene
+			locus_tag	NVP1107C_03
+1204	587	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_03
+1373	1215	gene
+			locus_tag	NVP1107C_04
+1373	1215	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1107C_04
+			db_xref	InterPro:IPS TMHMM
+1909	1571	gene
+			locus_tag	NVP1107C_05
+1909	1571	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_05
+3619	2024	gene
+			locus_tag	NVP1107C_06
+3619	2024	CDS
+			product	Coil containing protein
+			protein_id	NVP1107C_06
+			db_xref	pfam:PF03175
+			db_xref	pog:POG0334
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:2124
+			note	tara_best_match:OM-RGC.v1.001450554
+			note	cvp_best_match:RF_PEP_9626351
+4200	3625	gene
+			locus_tag	NVP1107C_07
+4200	3625	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_07
+4214	4930	gene
+			locus_tag	NVP1107C_08
+4214	4930	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_08
+4933	5466	gene
+			locus_tag	NVP1107C_09
+4933	5466	CDS
+			product	Domain of unknown function DUF87
+			protein_id	NVP1107C_09
+			db_xref	InterPro:IPR002789
+			note	tara_best_match:OM-RGC.v1.021972741
+5463	5690	gene
+			locus_tag	NVP1107C_10
+5463	5690	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_10
+5721	5816	gene
+			locus_tag	NVP1107C_11
+5721	5816	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_11
+5927	6052	gene
+			locus_tag	NVP1107C_12
+5927	6052	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_12
+6108	6962	gene
+			locus_tag	NVP1107C_13
+6108	6962	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_13
+			note	tara_best_match:OM-RGC.v1.009973837
+7032	7358	gene
+			locus_tag	NVP1107C_14
+7032	7358	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1107C_14
+			db_xref	InterPro:IPS TMHMM
+7368	7520	gene
+			locus_tag	NVP1107C_15
+7368	7520	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_15
+7524	7715	gene
+			locus_tag	NVP1107C_16
+7524	7715	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1107C_16
+			db_xref	InterPro:IPS TMHMM
+7717	8076	gene
+			locus_tag	NVP1107C_17
+7717	8076	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_17
+8073	8543	gene
+			locus_tag	NVP1107C_18
+8073	8543	CDS
+			product	Coil containing protein
+			protein_id	NVP1107C_18
+			db_xref	InterPro:IPS Coils
+8555	9160	gene
+			locus_tag	NVP1107C_19
+8555	9160	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_19
+9170	9688	gene
+			locus_tag	NVP1107C_20
+9170	9688	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_20
+9699	10088	gene
+			locus_tag	NVP1107C_21
+9699	10088	CDS
+			product	hypothetical protein
+			protein_id	NVP1107C_21
+10098	10310	gene
+			locus_tag	NVP1107C_22
+10098	10310	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1107C_22
+			db_xref	InterPro:IPS TMHMM

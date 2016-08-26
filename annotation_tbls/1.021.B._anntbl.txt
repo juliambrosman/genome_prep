@@ -1,0 +1,389 @@
+>Features Vibrio_virus_1.021.B._10N.222.51.F9
+115	615	gene
+			locus_tag	NVP1021B_01
+115	615	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_01
+612	1064	gene
+			locus_tag	NVP1021B_02
+612	1064	CDS
+			product	Terminase small subunit
+			protein_id	NVP1021B_02
+			db_xref	InterPro:IPR005335
+			note	tara_best_match:OM-RGC.v1.024355619
+1178	2695	gene
+			locus_tag	NVP1021B_03
+1178	2695	CDS
+			product	Terminase-like family
+			protein_id	NVP1021B_03
+			db_xref	pfam:PF03237
+			db_xref	egg:ENOG410Z5IJ
+			db_xref	pog:POG0252
+			note	aclame_best_match:protein:proph:169152
+			note	tara_best_match:OM-RGC.v1.002741285
+			note	cvp_best_match:RF_PEP_431810294
+2740	2955	gene
+			locus_tag	NVP1021B_04
+2740	2955	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_04
+2958	3920	gene
+			locus_tag	NVP1021B_05
+2958	3920	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_05
+3924	5594	gene
+			locus_tag	NVP1021B_06
+3924	5594	CDS
+			product	Head-to-tail joining protein, podovirus-type
+			protein_id	NVP1021B_06
+			db_xref	pfam:PF12236
+			db_xref	egg:ENOG410ZKS3
+			db_xref	pog:POG0030
+			db_xref	InterPro:IPR020991
+			note	aclame_best_match:protein:proph:176889
+			note	tara_best_match:OM-RGC.v1.001838544
+			note	cvp_best_match:RF_PEP_89152428
+5594	5866	gene
+			locus_tag	NVP1021B_07
+5594	5866	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_07
+5871	6575	gene
+			locus_tag	NVP1021B_08
+5871	6575	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_08
+			db_xref	egg:ENOG411207T
+			db_xref	pog:POG3739
+			note	aclame_best_match:protein:vir:95317
+			note	tara_best_match:OM-RGC.v1.016178330
+			note	cvp_best_match:RF_PEP_89152430
+6595	7593	gene
+			locus_tag	NVP1021B_09
+6595	7593	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_09
+			db_xref	egg:none
+			db_xref	pog:POG3740
+			note	aclame_best_match:protein:vir:95318
+			note	tara_best_match:OM-RGC.v1.005467163
+			note	cvp_best_match:RF_PEP_418487661
+7631	8062	gene
+			locus_tag	NVP1021B_10
+7631	8062	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_10
+			db_xref	egg:ENOG410Y4AM
+			db_xref	pog:POG3741
+			note	aclame_best_match:protein:proph:170251
+			note	tara_best_match:OM-RGC.v1.025330302
+			note	cvp_best_match:RF_PEP_30387387
+8120	8425	gene
+			locus_tag	NVP1021B_11
+8120	8425	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_11
+			note	tara_best_match:OM-RGC.v1.032955469
+8434	8745	gene
+			locus_tag	NVP1021B_12
+8434	8745	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_12
+8858	9433	gene
+			locus_tag	NVP1021B_13
+8858	9433	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_13
+			note	tara_best_match:OM-RGC.v1.013873746
+9437	11758	gene
+			locus_tag	NVP1021B_14
+9437	11758	CDS
+			product	Ubiquitin-activating enzyme E1, FCCH domain
+			protein_id	NVP1021B_14
+			db_xref	InterPro:IPR032418
+			note	tara_best_match:OM-RGC.v1.000212189
+11758	12219	gene
+			locus_tag	NVP1021B_15
+11758	12219	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_15
+			db_xref	egg:none
+			db_xref	pog:POG0035
+			note	aclame_best_match:protein:vir:7330
+			note	tara_best_match:OM-RGC.v1.027592394
+			note	cvp_best_match:NCBI_PEP_383395421
+12219	12785	gene
+			locus_tag	NVP1021B_16
+12219	12785	CDS
+			product	Coil containing protein
+			protein_id	NVP1021B_16
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.017856893
+12785	14416	gene
+			locus_tag	NVP1021B_17
+12785	14416	CDS
+			product	Coil containing protein
+			protein_id	NVP1021B_17
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.002659257
+14416	20589	gene
+			locus_tag	NVP1021B_18
+14416	20589	CDS
+			product	Coil containing protein
+			protein_id	NVP1021B_18
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.000007770
+20625	21335	gene
+			locus_tag	NVP1021B_19
+20625	21335	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_19
+			note	tara_best_match:OM-RGC.v1.017314903
+21335	23050	gene
+			locus_tag	NVP1021B_20
+21335	23050	CDS
+			product	Parallel beta-helix repeat
+			protein_id	NVP1021B_20
+			db_xref	InterPro:IPR006626
+23061	23537	gene
+			locus_tag	NVP1021B_21
+23061	23537	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1021B_21
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.021851204
+23534	24010	gene
+			locus_tag	NVP1021B_22
+23534	24010	CDS
+			product	Phage lysozyme
+			protein_id	NVP1021B_22
+			db_xref	kegg:K01185
+			db_xref	pfam:PF00959
+			db_xref	cog:COG3772
+			db_xref	egg:COG3772
+			db_xref	pog:POG0225
+			note	aclame_best_match:protein:proph:178846
+			note	tara_best_match:OM-RGC.v1.024422313
+			note	cvp_best_match:RF_PEP_388570824
+24015	24347	gene
+			locus_tag	NVP1021B_23
+24015	24347	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1021B_23
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.028129166
+25840	24344	gene
+			locus_tag	NVP1021B_24
+25840	24344	CDS
+			product	SNF2-related, N-terminal domain
+			protein_id	NVP1021B_24
+			db_xref	cog:COG0553
+			db_xref	egg:COG0553
+			db_xref	pog:POG0053
+			db_xref	InterPro:IPR000330
+			note	aclame_best_match:protein:proph:173673
+			note	tara_best_match:OM-RGC.v1.001928781
+			note	cvp_best_match:RF_PEP_66395597
+26049	25837	gene
+			locus_tag	NVP1021B_25
+26049	25837	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1021B_25
+			db_xref	egg:ENOG41125J3
+			db_xref	InterPro:IPS TMHMM
+			note	aclame_best_match:protein:vir:81076
+			note	tara_best_match:OM-RGC.v1.035225699
+			note	cvp_best_match:NCBI_PEP_408385441
+27151	26036	gene
+			locus_tag	NVP1021B_26
+27151	26036	CDS
+			product	DNA methylase, C-5 cytosine-specific, active site
+			protein_id	NVP1021B_26
+			db_xref	egg:COG0270
+			db_xref	pog:POG0191
+			db_xref	InterPro:IPR018117
+			note	tara_best_match:OM-RGC.v1.004390487
+			note	cvp_best_match:RF_PEP_331027909
+27290	27138	gene
+			locus_tag	NVP1021B_27
+27290	27138	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_27
+27594	27277	gene
+			locus_tag	NVP1021B_28
+27594	27277	CDS
+			product	VRR-NUC domain
+			protein_id	NVP1021B_28
+			db_xref	pog:POG0327
+			db_xref	InterPro:IPR014883
+			note	aclame_best_match:protein:vir:107421
+			note	tara_best_match:OM-RGC.v1.030405756
+			note	cvp_best_match:RF_PEP_45580787
+27839	27594	gene
+			locus_tag	NVP1021B_29
+27839	27594	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_29
+			db_xref	egg:ENOG4111HB2
+			db_xref	pog:POG3772
+			note	aclame_best_match:protein:vir:105734
+			note	tara_best_match:OM-RGC.v1.032593268
+			note	cvp_best_match:RF_PEP_62362266
+28164	27787	gene
+			locus_tag	NVP1021B_30
+28164	27787	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_30
+			db_xref	cog:COG5164
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:166558
+			note	tara_best_match:OM-RGC.v1.005801206
+			note	cvp_best_match:RF_PEP_62362266
+30291	28216	gene
+			locus_tag	NVP1021B_31
+30291	28216	CDS
+			product	Ribonuclease H-like domain
+			protein_id	NVP1021B_31
+			db_xref	InterPro:IPR012337
+			note	tara_best_match:OM-RGC.v1.000537607
+			note	cvp_best_match:RF_PEP_448261073
+30743	30288	gene
+			locus_tag	NVP1021B_32
+30743	30288	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_32
+			db_xref	egg:ENOG4111Q6I
+			db_xref	pog:POG0184
+			note	aclame_best_match:protein:proph:178238
+			note	tara_best_match:OM-RGC.v1.021449624
+			note	cvp_best_match:NCBI_PEP_394776222
+31554	30787	gene
+			locus_tag	NVP1021B_33
+31554	30787	CDS
+			product	Nucleic acid-binding, OB-fold
+			protein_id	NVP1021B_33
+			db_xref	InterPro:IPR012340
+32076	31564	gene
+			locus_tag	NVP1021B_34
+32076	31564	CDS
+			product	DNA N-6-adenine-methyltransferase
+			protein_id	NVP1021B_34
+			db_xref	InterPro:IPR008593
+			note	tara_best_match:OM-RGC.v1.018392920
+33033	32134	gene
+			locus_tag	NVP1021B_35
+33033	32134	CDS
+			product	Protein of unknown function DUF2815
+			protein_id	NVP1021B_35
+			db_xref	InterPro:IPR022595
+			note	tara_best_match:OM-RGC.v1.011184908
+34395	33043	gene
+			locus_tag	NVP1021B_36
+34395	33043	CDS
+			product	Coil containing protein
+			protein_id	NVP1021B_36
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.002253706
+34735	34397	gene
+			locus_tag	NVP1021B_37
+34735	34397	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_37
+34943	34725	gene
+			locus_tag	NVP1021B_38
+34943	34725	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_38
+			note	tara_best_match:OM-RGC.v1.033708216
+35175	35732	gene
+			locus_tag	NVP1021B_39
+35175	35732	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_39
+			db_xref	egg:none
+			db_xref	pog:POG0184
+			note	tara_best_match:OM-RGC.v1.019063349
+			note	cvp_best_match:RF_PEP_326632981
+35734	38328	gene
+			locus_tag	NVP1021B_40
+35734	38328	CDS
+			product	Coil containing protein
+			protein_id	NVP1021B_40
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.000259536
+38337	38549	gene
+			locus_tag	NVP1021B_41
+38337	38549	CDS
+			product	Protein of unknwon function DUF3310
+			protein_id	NVP1021B_41
+			db_xref	pfam:PF11753
+			db_xref	egg:none
+			db_xref	pog:POG0328
+			db_xref	InterPro:IPR021739
+			note	aclame_best_match:protein:vir:98496
+			note	tara_best_match:OM-RGC.v1.033019431
+			note	cvp_best_match:RF_PEP_45569540
+38546	40498	gene
+			locus_tag	NVP1021B_42
+38546	40498	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_42
+			db_xref	kegg:K00525
+			db_xref	cog:COG0209
+			db_xref	egg:COG0209
+			note	tara_best_match:OM-RGC.v1.000854570
+			note	cvp_best_match:NCBI_PEP_448933587
+40576	40857	gene
+			locus_tag	NVP1021B_43
+40576	40857	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_43
+			note	tara_best_match:OM-RGC.v1.030936573
+40835	41254	gene
+			locus_tag	NVP1021B_44
+40835	41254	CDS
+			product	dUTPase-like
+			protein_id	NVP1021B_44
+			db_xref	kegg:K01520
+			db_xref	pfam:PF00692
+			db_xref	cog:COG0756
+			db_xref	egg:COG0756
+			db_xref	pog:POG0085
+			db_xref	InterPro:IPR029054
+			note	aclame_best_match:protein:plasmid:117084
+			note	tara_best_match:OM-RGC.v1.024095956
+			note	cvp_best_match:RF_PEP_52801706
+41550	41804	gene
+			locus_tag	NVP1021B_45
+41550	41804	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_45
+41801	42013	gene
+			locus_tag	NVP1021B_46
+41801	42013	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_46
+42010	42423	gene
+			locus_tag	NVP1021B_47
+42010	42423	CDS
+			product	Pectin lyase fold/virulence factor
+			protein_id	NVP1021B_47
+			db_xref	InterPro:IPR011050
+42417	42527	gene
+			locus_tag	NVP1021B_48
+42417	42527	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_48
+42524	42820	gene
+			locus_tag	NVP1021B_49
+42524	42820	CDS
+			product	Coil containing protein
+			protein_id	NVP1021B_49
+			db_xref	InterPro:IPS Coils
+43372	42914	gene
+			locus_tag	NVP1021B_50
+43372	42914	CDS
+			product	hypothetical protein
+			protein_id	NVP1021B_50

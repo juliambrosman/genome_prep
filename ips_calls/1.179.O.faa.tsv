@@ -1,0 +1,31 @@
+Vibriophage_1.179.O._10N.286.45.F12_39	11bf87270df9e8653080c0f745cfde45	182	SMART	SM00843		118	182	3.3E-19	T	28-04-2016	IPR018541	FtsK gamma domain		
+Vibriophage_1.179.O._10N.286.45.F12_39	11bf87270df9e8653080c0f745cfde45	182	Pfam	PF09397	Ftsk gamma domain	120	179	2.3E-20	T	28-04-2016	IPR018541	FtsK gamma domain		
+Vibriophage_1.179.O._10N.286.45.F12_39	11bf87270df9e8653080c0f745cfde45	182	PANTHER	PTHR22683		117	181	3.1E-17	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_39	11bf87270df9e8653080c0f745cfde45	182	SUPERFAMILY	SSF46785		118	179	1.32E-16	T	28-04-2016	IPR011991	Winged helix-turn-helix DNA-binding domain		
+Vibriophage_1.179.O._10N.286.45.F12_39	11bf87270df9e8653080c0f745cfde45	182	PANTHER	PTHR22683:SF41		117	181	3.1E-17	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_40	7260d922b5c045a154e820fd0e4543b0	116	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	57	76	-	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_40	7260d922b5c045a154e820fd0e4543b0	116	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	91	113	-	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_16	67da32c3eea4f5059a05a607f7d8a67c	138	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	90	109	-	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_16	67da32c3eea4f5059a05a607f7d8a67c	138	Coils	Coil		11	38	-	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_38	ffaa6dd3f2b9ffdb32eaa8acb69b6608	132	Pfam	PF08291	Peptidase M15	23	116	1.2E-5	T	28-04-2016	IPR013230	Peptidase M15A, C-terminal		MetaCyc: PWY-6470
+Vibriophage_1.179.O._10N.286.45.F12_38	ffaa6dd3f2b9ffdb32eaa8acb69b6608	132	SUPERFAMILY	SSF55166		35	126	3.3E-6	T	28-04-2016	IPR009045	Hedgehog signalling/DD-peptidase zinc-binding domain		
+Vibriophage_1.179.O._10N.286.45.F12_38	ffaa6dd3f2b9ffdb32eaa8acb69b6608	132	Gene3D	G3DSA:3.30.1380.10		31	121	4.6E-9	T	28-04-2016	IPR009045	Hedgehog signalling/DD-peptidase zinc-binding domain		
+Vibriophage_1.179.O._10N.286.45.F12_45	9ef0ce76a916c82408127ee84d831b74	391	SUPERFAMILY	SSF56349		91	381	2.53E-40	T	28-04-2016	IPR011010	DNA breaking-rejoining enzyme, catalytic core	GO:0003677	
+Vibriophage_1.179.O._10N.286.45.F12_45	9ef0ce76a916c82408127ee84d831b74	391	Pfam	PF00589	Phage integrase family	209	372	5.3E-21	T	28-04-2016	IPR002104	Integrase, catalytic domain	GO:0003677|GO:0006310|GO:0015074	
+Vibriophage_1.179.O._10N.286.45.F12_45	9ef0ce76a916c82408127ee84d831b74	391	PANTHER	PTHR30629:SF2		3	389	2.6E-46	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_45	9ef0ce76a916c82408127ee84d831b74	391	Gene3D	G3DSA:1.10.150.130		92	176	2.4E-4	T	28-04-2016	IPR023109	Integrase/recombinase, N-terminal		
+Vibriophage_1.179.O._10N.286.45.F12_45	9ef0ce76a916c82408127ee84d831b74	391	Gene3D	G3DSA:1.10.443.10		206	374	4.6E-21	T	28-04-2016	IPR013762	Integrase-like, catalytic domain	GO:0003677|GO:0006310|GO:0015074	
+Vibriophage_1.179.O._10N.286.45.F12_45	9ef0ce76a916c82408127ee84d831b74	391	PANTHER	PTHR30629		3	389	2.6E-46	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_42	6d222ea83c39068d10549f98db87a4f6	81	SUPERFAMILY	SSF47413		10	67	2.25E-7	T	28-04-2016	IPR010982	Lambda repressor-like, DNA-binding domain	GO:0003677	
+Vibriophage_1.179.O._10N.286.45.F12_42	6d222ea83c39068d10549f98db87a4f6	81	Gene3D	G3DSA:1.10.260.40		10	70	2.4E-6	T	28-04-2016	IPR010982	Lambda repressor-like, DNA-binding domain	GO:0003677	
+Vibriophage_1.179.O._10N.286.45.F12_21	d1c98484a60880d9eb78aa29ded50dc6	173	Gene3D	G3DSA:2.30.170.10		3	43	6.9E-4	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_33	6c5cc9a5a43da9818d6ea2a24e18c610	130	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	13	32	-	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_33	6c5cc9a5a43da9818d6ea2a24e18c610	130	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	47	69	-	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_31	ff25f3415f0809c3d0ffcbeb9bcc9923	127	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	7	29	-	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_27	830947d462bb39fbdf2f8894ed574010	45	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	9	31	-	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_18	c6ca86569b4bff9992968f69a9ce8547	286	Coils	Coil		150	177	-	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_5	fe013a62a726522559d1b5691a94e45c	527	Pfam	PF12236	Bacteriophage head to tail connecting protein	16	496	2.6E-72	T	28-04-2016	IPR020991	Head-to-tail joining protein, podovirus-type		
+Vibriophage_1.179.O._10N.286.45.F12_36	852a6e92ae08a8575f5eca1d0ae20869	90	Gene3D	G3DSA:2.10.230.10		8	41	9.8E-5	T	28-04-2016	IPR001305	Heat shock protein DnaJ, cysteine-rich domain	GO:0031072|GO:0051082	
+Vibriophage_1.179.O._10N.286.45.F12_36	852a6e92ae08a8575f5eca1d0ae20869	90	SUPERFAMILY	SSF57938		6	45	1.96E-5	T	28-04-2016	IPR001305	Heat shock protein DnaJ, cysteine-rich domain	GO:0031072|GO:0051082	
+Vibriophage_1.179.O._10N.286.45.F12_13	e3ab740978b5f20a3fb7eefcc74a19d6	1049	Coils	Coil		604	624	-	T	28-04-2016
+Vibriophage_1.179.O._10N.286.45.F12_14	de421c2979c3ddd81e64fbe6bcdf9e33	557	Coils	Coil		159	186	-	T	28-04-2016

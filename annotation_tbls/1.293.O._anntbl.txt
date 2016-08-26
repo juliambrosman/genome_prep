@@ -1,0 +1,446 @@
+>Features Vibrio_virus_1.293.O._10N.261.52.E1
+908	1132	gene
+			locus_tag	NVP1293O_01
+908	1132	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_01
+1093	1275	gene
+			locus_tag	NVP1293O_02
+1093	1275	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_02
+1721	2239	gene
+			locus_tag	NVP1293O_03
+1721	2239	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_03
+2241	2507	gene
+			locus_tag	NVP1293O_04
+2241	2507	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_04
+2485	4110	gene
+			locus_tag	NVP1293O_05
+2485	4110	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_05
+			db_xref	pog:POG0042
+			note	aclame_best_match:protein:vir:95431
+			note	tara_best_match:OM-RGC.v1.001360516
+			note	cvp_best_match:RF_PEP_325171219
+4107	5870	gene
+			locus_tag	NVP1293O_06
+4107	5870	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_06
+			note	tara_best_match:OM-RGC.v1.001040151
+5836	6114	gene
+			locus_tag	NVP1293O_07
+5836	6114	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_07
+6114	6887	gene
+			locus_tag	NVP1293O_08
+6114	6887	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_08
+6901	7857	gene
+			locus_tag	NVP1293O_09
+6901	7857	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_09
+			db_xref	pog:POG0032
+			note	tara_best_match:OM-RGC.v1.005898244
+			note	cvp_best_match:RF_PEP_325171215
+7886	8368	gene
+			locus_tag	NVP1293O_10
+7886	8368	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_10
+8416	9216	gene
+			locus_tag	NVP1293O_11
+8416	9216	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_11
+			note	tara_best_match:OM-RGC.v1.010289855
+			note	cvp_best_match:RF_PEP_423261954
+9372	10328	gene
+			locus_tag	NVP1293O_12
+9372	10328	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_12
+10337	11560	gene
+			locus_tag	NVP1293O_13
+10337	11560	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_13
+11557	12006	gene
+			locus_tag	NVP1293O_14
+11557	12006	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_14
+12114	12629	gene
+			locus_tag	NVP1293O_15
+12114	12629	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_15
+			note	tara_best_match:OM-RGC.v1.025828892
+12640	17142	gene
+			locus_tag	NVP1293O_16
+12640	17142	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_16
+17142	19025	gene
+			locus_tag	NVP1293O_17
+17142	19025	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_17
+19015	19302	gene
+			locus_tag	NVP1293O_18
+19015	19302	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_18
+			db_xref	pog:POG2358
+			note	tara_best_match:OM-RGC.v1.030819782
+			note	cvp_best_match:RF_PEP_423261945
+19299	19718	gene
+			locus_tag	NVP1293O_19
+19299	19718	CDS
+			product	Holin of 3TMs, for gene-transfer release
+			protein_id	NVP1293O_19
+			db_xref	pfam:PF11351
+			db_xref	egg:ENOG41125H9
+			note	aclame_best_match:protein:proph:170979
+			note	tara_best_match:OM-RGC.v1.024963369
+			note	cvp_best_match:CAMPEP_0000012590
+19809	20249	gene
+			locus_tag	NVP1293O_20
+19809	20249	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_20
+20249	20773	gene
+			locus_tag	NVP1293O_21
+20249	20773	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_21
+20773	21492	gene
+			locus_tag	NVP1293O_22
+20773	21492	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_22
+			note	tara_best_match:OM-RGC.v1.019592312
+21492	23540	gene
+			locus_tag	NVP1293O_23
+21492	23540	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_23
+24074	23589	gene
+			locus_tag	NVP1293O_24
+24074	23589	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_24
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:176022
+			note	tara_best_match:OM-RGC.v1.022775252
+24439	24074	gene
+			locus_tag	NVP1293O_25
+24439	24074	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_25
+			db_xref	egg:ENOG4111PAV
+			db_xref	pog:POG1077
+			note	aclame_best_match:protein:vir:77616
+			note	tara_best_match:OM-RGC.v1.027626286
+			note	cvp_best_match:NCBI_PEP_410025034
+25068	24577	gene
+			locus_tag	NVP1293O_26
+25068	24577	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_26
+25317	25078	gene
+			locus_tag	NVP1293O_27
+25317	25078	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_27
+25421	25281	gene
+			locus_tag	NVP1293O_28
+25421	25281	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_28
+25584	25426	gene
+			locus_tag	NVP1293O_29
+25584	25426	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_29
+25774	25586	gene
+			locus_tag	NVP1293O_30
+25774	25586	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_30
+26534	25761	gene
+			locus_tag	NVP1293O_31
+26534	25761	CDS
+			product	Calcineurin-like phosphoesterase
+			protein_id	NVP1293O_31
+			db_xref	pfam:PF00149
+			db_xref	pog:POG1606
+			note	aclame_best_match:protein:vir:8824
+			note	tara_best_match:OM-RGC.v1.009771976
+			note	cvp_best_match:RF_PEP_410491840
+26722	26534	gene
+			locus_tag	NVP1293O_32
+26722	26534	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_32
+27204	26719	gene
+			locus_tag	NVP1293O_33
+27204	26719	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_33
+			db_xref	pog:POG1963
+			note	tara_best_match:OM-RGC.v1.027609437
+			note	cvp_best_match:RF_PEP_410492675
+27440	27204	gene
+			locus_tag	NVP1293O_34
+27440	27204	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_34
+27652	27440	gene
+			locus_tag	NVP1293O_35
+27652	27440	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_35
+27995	27720	gene
+			locus_tag	NVP1293O_36
+27995	27720	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_36
+28188	27982	gene
+			locus_tag	NVP1293O_37
+28188	27982	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_37
+28993	28172	gene
+			locus_tag	NVP1293O_38
+28993	28172	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_38
+			note	tara_best_match:OM-RGC.v1.008857475
+			note	cvp_best_match:RF_PEP_388604611
+29791	29006	gene
+			locus_tag	NVP1293O_39
+29791	29006	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_39
+			note	tara_best_match:OM-RGC.v1.013286474
+29989	29795	gene
+			locus_tag	NVP1293O_40
+29989	29795	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_40
+30239	29976	gene
+			locus_tag	NVP1293O_41
+30239	29976	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_41
+32114	30249	gene
+			locus_tag	NVP1293O_42
+32114	30249	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_42
+			note	tara_best_match:OM-RGC.v1.000757726
+32646	32179	gene
+			locus_tag	NVP1293O_43
+32646	32179	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_43
+32823	32662	gene
+			locus_tag	NVP1293O_44
+32823	32662	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_44
+			note	aclame_best_match:protein:vir:95461
+			note	cvp_best_match:CAMPEP_0000032814
+33037	32825	gene
+			locus_tag	NVP1293O_45
+33037	32825	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_45
+33167	33027	gene
+			locus_tag	NVP1293O_46
+33167	33027	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_46
+33315	33154	gene
+			locus_tag	NVP1293O_47
+33315	33154	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_47
+35054	33315	gene
+			locus_tag	NVP1293O_48
+35054	33315	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_48
+			db_xref	pog:POG0025
+			note	aclame_best_match:protein:vir:95478
+			note	tara_best_match:OM-RGC.v1.001339543
+			note	cvp_best_match:RF_PEP_423261928
+35264	35094	gene
+			locus_tag	NVP1293O_49
+35264	35094	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_49
+35478	35248	gene
+			locus_tag	NVP1293O_50
+35478	35248	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_50
+35692	35459	gene
+			locus_tag	NVP1293O_51
+35692	35459	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_51
+35899	35693	gene
+			locus_tag	NVP1293O_52
+35899	35693	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_52
+36125	35892	gene
+			locus_tag	NVP1293O_53
+36125	35892	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_53
+36364	36113	gene
+			locus_tag	NVP1293O_54
+36364	36113	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_54
+36622	36374	gene
+			locus_tag	NVP1293O_55
+36622	36374	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_55
+37377	36625	gene
+			locus_tag	NVP1293O_56
+37377	36625	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_56
+38320	37379	gene
+			locus_tag	NVP1293O_57
+38320	37379	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_57
+			db_xref	pog:POG3680
+			note	aclame_best_match:protein:vir:95418
+			note	tara_best_match:OM-RGC.v1.009428400
+			note	cvp_best_match:RF_PEP_423261921
+39363	38332	gene
+			locus_tag	NVP1293O_58
+39363	38332	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_58
+39913	39344	gene
+			locus_tag	NVP1293O_59
+39913	39344	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_59
+40781	39915	gene
+			locus_tag	NVP1293O_60
+40781	39915	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_60
+			db_xref	pog:POG3683
+			note	aclame_best_match:protein:vir:95442
+			note	tara_best_match:OM-RGC.v1.008149057
+			note	cvp_best_match:RF_PEP_149408164
+42141	40954	gene
+			locus_tag	NVP1293O_61
+42141	40954	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_61
+42509	42141	gene
+			locus_tag	NVP1293O_62
+42509	42141	CDS
+			product	Gamma-glutamyl cyclotransferase, AIG2-like
+			protein_id	NVP1293O_62
+			db_xref	pfam:PF06094
+			db_xref	cog:COG2105
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.026935730
+43551	42502	gene
+			locus_tag	NVP1293O_63
+43551	42502	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_63
+44384	43875	gene
+			locus_tag	NVP1293O_64
+44384	43875	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_64
+44551	44333	gene
+			locus_tag	NVP1293O_65
+44551	44333	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_65
+44817	44620	gene
+			locus_tag	NVP1293O_66
+44817	44620	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_66
+45014	44820	gene
+			locus_tag	NVP1293O_67
+45014	44820	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_67
+45331	45014	gene
+			locus_tag	NVP1293O_68
+45331	45014	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_68
+45612	45397	gene
+			locus_tag	NVP1293O_69
+45612	45397	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_69
+45843	45628	gene
+			locus_tag	NVP1293O_70
+45843	45628	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_70
+46243	45845	gene
+			locus_tag	NVP1293O_71
+46243	45845	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_71
+46464	46240	gene
+			locus_tag	NVP1293O_72
+46464	46240	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_72
+46637	46473	gene
+			locus_tag	NVP1293O_73
+46637	46473	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_73
+46858	46634	gene
+			locus_tag	NVP1293O_74
+46858	46634	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_74
+46968	46855	gene
+			locus_tag	NVP1293O_75
+46968	46855	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_75
+47471	46968	gene
+			locus_tag	NVP1293O_76
+47471	46968	CDS
+			product	hypothetical protein
+			protein_id	NVP1293O_76
+			note	tara_best_match:OM-RGC.v1.018047912
+1389 	1460 	gene
+			locus_tag	NVP1293O_tRNA_1
+1389 	1460 	tRNA
+			locus_tag	NVP1293O_tRNA_1
+			product	tRNA-Gln
+			note	anticodon:TTG

@@ -1,0 +1,247 @@
+>Features Vibrio_virus_1.138.O._10N.261.48.A1
+3	458	gene
+			locus_tag	NVP1138O_01
+3	458	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_01
+472	1995	gene
+			locus_tag	NVP1138O_02
+472	1995	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_02
+			note	tara_best_match:OM-RGC.v1.002323557
+1964	2437	gene
+			locus_tag	NVP1138O_03
+1964	2437	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_03
+2430	2828	gene
+			locus_tag	NVP1138O_04
+2430	2828	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_04
+2893	4470	gene
+			locus_tag	NVP1138O_05
+2893	4470	CDS
+			product	Head-to-tail joining protein, podovirus-type
+			protein_id	NVP1138O_05
+			db_xref	InterPro:IPR020991
+4467	4787	gene
+			locus_tag	NVP1138O_06
+4467	4787	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_06
+4803	5642	gene
+			locus_tag	NVP1138O_07
+4803	5642	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_07
+5710	6639	gene
+			locus_tag	NVP1138O_08
+5710	6639	CDS
+			product	Major capsid protein Gp5
+			protein_id	NVP1138O_08
+			db_xref	InterPro:IPR024659
+			note	tara_best_match:OM-RGC.v1.008166979
+			note	cvp_best_match:CAMPEP_0000003952
+6717	7307	gene
+			locus_tag	NVP1138O_09
+6717	7307	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_09
+7310	9529	gene
+			locus_tag	NVP1138O_10
+7310	9529	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_10
+9533	10027	gene
+			locus_tag	NVP1138O_11
+9533	10027	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_11
+10030	12171	gene
+			locus_tag	NVP1138O_12
+10030	12171	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_12
+12171	15344	gene
+			locus_tag	NVP1138O_13
+12171	15344	CDS
+			product	Coil containing protein
+			protein_id	NVP1138O_13
+			db_xref	InterPro:IPS Coils
+15344	17845	gene
+			locus_tag	NVP1138O_14
+15344	17845	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_14
+17800	18381	gene
+			locus_tag	NVP1138O_15
+17800	18381	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1138O_15
+			db_xref	InterPro:IPS TMHMM
+18454	18792	gene
+			locus_tag	NVP1138O_16
+18454	18792	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_16
+18810	19667	gene
+			locus_tag	NVP1138O_17
+18810	19667	CDS
+			product	Coil containing protein
+			protein_id	NVP1138O_17
+			db_xref	InterPro:IPS Coils
+19669	21897	gene
+			locus_tag	NVP1138O_18
+19669	21897	CDS
+			product	Coil containing protein
+			protein_id	NVP1138O_18
+			db_xref	InterPro:IPS Coils
+21911	22162	gene
+			locus_tag	NVP1138O_19
+21911	22162	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_19
+22423	22944	gene
+			locus_tag	NVP1138O_20
+22423	22944	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_20
+22941	23273	gene
+			locus_tag	NVP1138O_21
+22941	23273	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_21
+23273	23494	gene
+			locus_tag	NVP1138O_22
+23273	23494	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_22
+23501	23773	gene
+			locus_tag	NVP1138O_23
+23501	23773	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_23
+23766	24056	gene
+			locus_tag	NVP1138O_24
+23766	24056	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_24
+24053	24259	gene
+			locus_tag	NVP1138O_25
+24053	24259	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_25
+24262	24444	gene
+			locus_tag	NVP1138O_26
+24262	24444	CDS
+			product	Coil containing protein
+			protein_id	NVP1138O_26
+			db_xref	InterPro:IPS Coils
+24441	24866	gene
+			locus_tag	NVP1138O_27
+24441	24866	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1138O_27
+			db_xref	InterPro:IPS TMHMM
+24970	25233	gene
+			locus_tag	NVP1138O_28
+24970	25233	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_28
+25246	25641	gene
+			locus_tag	NVP1138O_29
+25246	25641	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1138O_29
+			db_xref	InterPro:IPS TMHMM
+25645	26019	gene
+			locus_tag	NVP1138O_30
+25645	26019	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_30
+26016	26204	gene
+			locus_tag	NVP1138O_31
+26016	26204	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_31
+26194	26622	gene
+			locus_tag	NVP1138O_32
+26194	26622	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_32
+26646	26918	gene
+			locus_tag	NVP1138O_33
+26646	26918	CDS
+			product	Heat shock protein DnaJ, cysteine-rich domain
+			protein_id	NVP1138O_33
+			db_xref	InterPro:IPR001305
+26919	27197	gene
+			locus_tag	NVP1138O_34
+26919	27197	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_34
+27212	27460	gene
+			locus_tag	NVP1138O_35
+27212	27460	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_35
+27525	28022	gene
+			locus_tag	NVP1138O_36
+27525	28022	CDS
+			product	Phage protein (N4 Gp49/phage Sf6 gene 66) family
+			protein_id	NVP1138O_36
+			db_xref	egg:none
+			db_xref	InterPro:IPR025915
+28082	28480	gene
+			locus_tag	NVP1138O_37
+28082	28480	CDS
+			product	Hedgehog signalling/DD-peptidase zinc-binding domain
+			protein_id	NVP1138O_37
+			db_xref	InterPro:IPR009045
+28437	28694	gene
+			locus_tag	NVP1138O_38
+28437	28694	CDS
+			product	Coil containing protein
+			protein_id	NVP1138O_38
+			db_xref	InterPro:IPS Coils
+28694	29023	gene
+			locus_tag	NVP1138O_39
+28694	29023	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_39
+29190	29597	gene
+			locus_tag	NVP1138O_40
+29190	29597	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1138O_40
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.028203855
+29713	29976	gene
+			locus_tag	NVP1138O_41
+29713	29976	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_41
+29991	30233	gene
+			locus_tag	NVP1138O_42
+29991	30233	CDS
+			product	Lambda repressor-like, DNA-binding domain
+			protein_id	NVP1138O_42
+			db_xref	InterPro:IPR010982
+30262	30594	gene
+			locus_tag	NVP1138O_43
+30262	30594	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_43
+30605	31003	gene
+			locus_tag	NVP1138O_44
+30605	31003	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_44
+31071	32246	gene
+			locus_tag	NVP1138O_45
+31071	32246	CDS
+			product	hypothetical protein
+			protein_id	NVP1138O_45
+			note	tara_best_match:OM-RGC.v1.002876015

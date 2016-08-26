@@ -1,0 +1,119 @@
+>Features Vibrio_virus_1.044.O._10N.261.51.B8
+373	119	gene
+			locus_tag	NVP1044O_01
+373	119	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_01
+584	375	gene
+			locus_tag	NVP1044O_02
+584	375	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_02
+1201	587	gene
+			locus_tag	NVP1044O_03
+1201	587	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1044O_03
+			db_xref	InterPro:IPS TMHMM
+1735	1397	gene
+			locus_tag	NVP1044O_04
+1735	1397	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_04
+3444	1849	gene
+			locus_tag	NVP1044O_05
+3444	1849	CDS
+			product	Coil containing protein
+			protein_id	NVP1044O_05
+			db_xref	pfam:PF03175
+			db_xref	pog:POG0334
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:2124
+			note	tara_best_match:OM-RGC.v1.001450554
+			note	cvp_best_match:RF_PEP_9626351
+4025	3450	gene
+			locus_tag	NVP1044O_06
+4025	3450	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_06
+4039	4755	gene
+			locus_tag	NVP1044O_07
+4039	4755	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_07
+4758	5291	gene
+			locus_tag	NVP1044O_08
+4758	5291	CDS
+			product	Domain of unknown function DUF87
+			protein_id	NVP1044O_08
+			db_xref	InterPro:IPR002789
+			note	tara_best_match:OM-RGC.v1.021972741
+5288	5515	gene
+			locus_tag	NVP1044O_09
+5288	5515	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_09
+5546	5641	gene
+			locus_tag	NVP1044O_10
+5546	5641	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_10
+5752	5877	gene
+			locus_tag	NVP1044O_11
+5752	5877	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_11
+5933	6787	gene
+			locus_tag	NVP1044O_12
+5933	6787	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_12
+			note	tara_best_match:OM-RGC.v1.009973837
+6857	7183	gene
+			locus_tag	NVP1044O_13
+6857	7183	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1044O_13
+			db_xref	InterPro:IPS TMHMM
+7193	7345	gene
+			locus_tag	NVP1044O_14
+7193	7345	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_14
+7349	7540	gene
+			locus_tag	NVP1044O_15
+7349	7540	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1044O_15
+			db_xref	InterPro:IPS TMHMM
+7542	7901	gene
+			locus_tag	NVP1044O_16
+7542	7901	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_16
+7898	8368	gene
+			locus_tag	NVP1044O_17
+7898	8368	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_17
+8380	8985	gene
+			locus_tag	NVP1044O_18
+8380	8985	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_18
+8995	9513	gene
+			locus_tag	NVP1044O_19
+8995	9513	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_19
+9524	9913	gene
+			locus_tag	NVP1044O_20
+9524	9913	CDS
+			product	hypothetical protein
+			protein_id	NVP1044O_20
+9923	10135	gene
+			locus_tag	NVP1044O_21
+9923	10135	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1044O_21
+			db_xref	InterPro:IPS TMHMM

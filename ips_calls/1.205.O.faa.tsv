@@ -1,0 +1,86 @@
+Vibriophage_1.205.O._10N.222.51.A7_20	aa163cb793bba3daba2c3e257acc98af	3130	Gene3D	G3DSA:3.40.50.150		1826	1997	1.2E-17	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.205.O._10N.222.51.A7_20	aa163cb793bba3daba2c3e257acc98af	3130	Coils	Coil		491	514	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_20	aa163cb793bba3daba2c3e257acc98af	3130	SUPERFAMILY	SSF53335		1826	1990	1.64E-22	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.205.O._10N.222.51.A7_20	aa163cb793bba3daba2c3e257acc98af	3130	PRINTS	PR00507	N12 class N6 adenine-specific DNA methyltransferase signature	1848	1862	5.9E-6	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_20	aa163cb793bba3daba2c3e257acc98af	3130	PRINTS	PR00507	N12 class N6 adenine-specific DNA methyltransferase signature	1903	1915	5.9E-6	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_20	aa163cb793bba3daba2c3e257acc98af	3130	PRINTS	PR00507	N12 class N6 adenine-specific DNA methyltransferase signature	1824	1840	5.9E-6	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_20	aa163cb793bba3daba2c3e257acc98af	3130	PRINTS	PR00507	N12 class N6 adenine-specific DNA methyltransferase signature	1915	1939	5.9E-6	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_20	aa163cb793bba3daba2c3e257acc98af	3130	ProSitePatterns	PS00092	N-6 Adenine-specific DNA methylases signature.	1906	1912	-	T	28-04-2016	IPR002052	DNA methylase, N-6 adenine-specific, conserved site	GO:0003676|GO:0008168|GO:0032259	
+Vibriophage_1.205.O._10N.222.51.A7_20	aa163cb793bba3daba2c3e257acc98af	3130	Pfam	PF13659	Methyltransferase domain	1845	1939	3.5E-6	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_20	aa163cb793bba3daba2c3e257acc98af	3130	Coils	Coil		1311	1331	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_20	aa163cb793bba3daba2c3e257acc98af	3130	Coils	Coil		770	790	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_39	cbd58feb33c9b6ce3ed40034e8ef63ff	381	TIGRFAM	TIGR00675	dcm: DNA (cytosine-5-)-methyltransferase	5	375	2.2E-33	T	28-04-2016	IPR001525	C-5 cytosine methyltransferase	GO:0008168	KEGG: 00270+2.1.1.37
+Vibriophage_1.205.O._10N.222.51.A7_39	cbd58feb33c9b6ce3ed40034e8ef63ff	381	Gene3D	G3DSA:3.40.50.150		1	165	2.0E-27	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.205.O._10N.222.51.A7_39	cbd58feb33c9b6ce3ed40034e8ef63ff	381	SUPERFAMILY	SSF53335		1	271	2.38E-40	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.205.O._10N.222.51.A7_39	cbd58feb33c9b6ce3ed40034e8ef63ff	381	SUPERFAMILY	SSF53335		322	376	2.38E-40	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.205.O._10N.222.51.A7_39	cbd58feb33c9b6ce3ed40034e8ef63ff	381	Gene3D	G3DSA:3.90.120.10		309	365	1.8E-9	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_39	cbd58feb33c9b6ce3ed40034e8ef63ff	381	Gene3D	G3DSA:3.90.120.10		239	274	1.8E-9	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_39	cbd58feb33c9b6ce3ed40034e8ef63ff	381	ProSitePatterns	PS00094	C-5 cytosine-specific DNA methylases active site.	67	79	-	T	28-04-2016	IPR018117	DNA methylase, C-5 cytosine-specific, active site		KEGG: 00270+2.1.1.37
+Vibriophage_1.205.O._10N.222.51.A7_39	cbd58feb33c9b6ce3ed40034e8ef63ff	381	PANTHER	PTHR23068		1	161	1.1E-14	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_39	cbd58feb33c9b6ce3ed40034e8ef63ff	381	ProSiteProfiles	PS51679	C-5 cytosine-specific DNA methylase (Dnmt) domain profile.	1	381	24.507	T	28-04-2016	IPR001525	C-5 cytosine methyltransferase	GO:0008168	KEGG: 00270+2.1.1.37
+Vibriophage_1.205.O._10N.222.51.A7_39	cbd58feb33c9b6ce3ed40034e8ef63ff	381	Pfam	PF00145	C-5 cytosine-specific DNA methylase	1	377	2.5E-37	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.205.O._10N.222.51.A7_39	cbd58feb33c9b6ce3ed40034e8ef63ff	381	PANTHER	PTHR23068:SF3		1	161	1.1E-14	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_68	88c8daf1c0fa4b71367f5c2236909452	312	Coils	Coil		174	194	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_68	88c8daf1c0fa4b71367f5c2236909452	312	Coils	Coil		263	283	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_35	f553f285021121735db7ac29d9f73b9d	214	Pfam	PF09669	Phage regulatory protein Rha (Phage_pRha)	14	93	2.5E-17	T	28-04-2016	IPR014054	Bacteriophage regulatory protein, Rha family		
+Vibriophage_1.205.O._10N.222.51.A7_35	f553f285021121735db7ac29d9f73b9d	214	Pfam	PF03374	Phage antirepressor protein KilAC domain	116	210	5.1E-21	T	28-04-2016	IPR005039	Antirepressor protein, C-terminal	GO:0003677	
+Vibriophage_1.205.O._10N.222.51.A7_53	456e514d342edd279320ad759500e681	135	Pfam	PF08291	Peptidase M15	10	117	5.1E-12	T	28-04-2016	IPR013230	Peptidase M15A, C-terminal		MetaCyc: PWY-6470
+Vibriophage_1.205.O._10N.222.51.A7_53	456e514d342edd279320ad759500e681	135	Gene3D	G3DSA:3.30.1380.10		10	122	7.0E-15	T	28-04-2016	IPR009045	Hedgehog signalling/DD-peptidase zinc-binding domain		
+Vibriophage_1.205.O._10N.222.51.A7_53	456e514d342edd279320ad759500e681	135	SUPERFAMILY	SSF55166		10	129	2.2E-14	T	28-04-2016	IPR009045	Hedgehog signalling/DD-peptidase zinc-binding domain		
+Vibriophage_1.205.O._10N.222.51.A7_66	4949c0f01a9bb0d6ad0ed8801218b70c	108	Pfam	PF04266	ASCH domain	40	99	1.2E-5	T	28-04-2016	IPR007374	ASCH domain		
+Vibriophage_1.205.O._10N.222.51.A7_66	4949c0f01a9bb0d6ad0ed8801218b70c	108	SUPERFAMILY	SSF88697		21	99	3.83E-9	T	28-04-2016	IPR015947	PUA-like domain		
+Vibriophage_1.205.O._10N.222.51.A7_7	2b91fb00ce3217ba21a719b89ed2b5bd	400	TIGRFAM	TIGR04387	capsid_maj_N4: major capsid protein, N4-gp56 family	21	367	9.2E-28	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_7	2b91fb00ce3217ba21a719b89ed2b5bd	400	Pfam	PF13252	Protein of unknown function (DUF4043)	48	395	1.7E-107	T	28-04-2016	IPR025267	Protein of unknown function DUF4043		
+Vibriophage_1.205.O._10N.222.51.A7_40	a70456476cf222ff7beac352a17c2368	200	Pfam	PF07105	Protein of unknown function (DUF1367)	1	199	5.5E-53	T	28-04-2016	IPR009797	Protein of unknown function DUF1367		
+Vibriophage_1.205.O._10N.222.51.A7_54	5a625ec54d93ce76a7c48b3c6af67483	80	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	6	28	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_41	930de7efb366d932065be02e4766dc8d	111	Gene3D	G3DSA:3.30.50.20		28	99	4.5E-23	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_41	930de7efb366d932065be02e4766dc8d	111	Pfam	PF07102	Protein of unknown function (DUF1364)	12	100	6.2E-29	T	28-04-2016	IPR010774	Protein of unknown function DUF1364		
+Vibriophage_1.205.O._10N.222.51.A7_14	773e787e99333cfc8b865b2452bc33b9	706	Gene3D	G3DSA:2.60.40.10		88	164	2.0E-9	T	28-04-2016	IPR013783	Immunoglobulin-like fold		
+Vibriophage_1.205.O._10N.222.51.A7_14	773e787e99333cfc8b865b2452bc33b9	706	SUPERFAMILY	SSF49265		82	169	2.01E-5	T	28-04-2016	IPR003961	Fibronectin type III	GO:0005515	
+Vibriophage_1.205.O._10N.222.51.A7_14	773e787e99333cfc8b865b2452bc33b9	706	Pfam	PF09327	Domain of unknown function (DUF1983)	380	464	8.9E-10	T	28-04-2016	IPR015406	Domain of unknown function DUF1983		
+Vibriophage_1.205.O._10N.222.51.A7_19	8a0548647cbb6809545930622fff7bf0	442	Coils	Coil		54	81	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_47	88d96acab6b78b5582fa95e119dcf3a4	61	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	5	24	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_47	88d96acab6b78b5582fa95e119dcf3a4	61	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	18	5.0	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_38	99d6c6a80fa156fe3efe613a6602f718	305	Gene3D	G3DSA:1.10.10.10		10	78	5.4E-5	T	28-04-2016	IPR011991	Winged helix-turn-helix DNA-binding domain		
+Vibriophage_1.205.O._10N.222.51.A7_32	3c71cdeb0e1c2ec441ce758291b42a61	483	Coils	Coil		354	374	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_32	3c71cdeb0e1c2ec441ce758291b42a61	483	Coils	Coil		266	286	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_32	3c71cdeb0e1c2ec441ce758291b42a61	483	SUPERFAMILY	SSF52540		1	133	5.69E-13	T	28-04-2016	IPR027417	P-loop containing nucleoside triphosphate hydrolase		
+Vibriophage_1.205.O._10N.222.51.A7_32	3c71cdeb0e1c2ec441ce758291b42a61	483	SUPERFAMILY	SSF52540		173	217	5.69E-13	T	28-04-2016	IPR027417	P-loop containing nucleoside triphosphate hydrolase		
+Vibriophage_1.205.O._10N.222.51.A7_32	3c71cdeb0e1c2ec441ce758291b42a61	483	SUPERFAMILY	SSF52540		340	444	5.69E-13	T	28-04-2016	IPR027417	P-loop containing nucleoside triphosphate hydrolase		
+Vibriophage_1.205.O._10N.222.51.A7_32	3c71cdeb0e1c2ec441ce758291b42a61	483	Gene3D	G3DSA:3.40.50.300		1	91	3.0E-8	T	28-04-2016	IPR027417	P-loop containing nucleoside triphosphate hydrolase		
+Vibriophage_1.205.O._10N.222.51.A7_32	3c71cdeb0e1c2ec441ce758291b42a61	483	Coils	Coil		205	225	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_52	45ba5d99f0e2c603fc45f2dcfb4e465f	97	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	10	27	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_52	45ba5d99f0e2c603fc45f2dcfb4e465f	97	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	34	56	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_52	45ba5d99f0e2c603fc45f2dcfb4e465f	97	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	66	88	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_26	2d3601bf6ee7c76acca7027f95a125fd	169	Pfam	PF05565	Siphovirus Gp157	7	157	1.4E-28	T	28-04-2016	IPR008840	Siphovirus Gp157		
+Vibriophage_1.205.O._10N.222.51.A7_26	2d3601bf6ee7c76acca7027f95a125fd	169	Coils	Coil		61	88	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_26	2d3601bf6ee7c76acca7027f95a125fd	169	Gene3D	G3DSA:1.10.287.370		49	96	9.9E-4	T	28-04-2016	IPR009053	Prefoldin		
+Vibriophage_1.205.O._10N.222.51.A7_70	bb1c50dfec541d149c5d512ee6fadda5	174	ProSiteProfiles	PS50935	Single-strand binding (SSB) domain profile.	6	111	34.343	T	28-04-2016	IPR000424	Primosome PriB/single-strand DNA-binding	GO:0003697	
+Vibriophage_1.205.O._10N.222.51.A7_70	bb1c50dfec541d149c5d512ee6fadda5	174	PIRSF	PIRSF002070		2	171	3.4E-40	T	28-04-2016	IPR011344	Single-stranded DNA-binding protein	GO:0003697|GO:0006260	
+Vibriophage_1.205.O._10N.222.51.A7_70	bb1c50dfec541d149c5d512ee6fadda5	174	Pfam	PF00436	Single-strand binding protein family	6	113	2.0E-43	T	28-04-2016	IPR000424	Primosome PriB/single-strand DNA-binding	GO:0003697	
+Vibriophage_1.205.O._10N.222.51.A7_70	bb1c50dfec541d149c5d512ee6fadda5	174	Hamap	MF_00984	Single-stranded DNA-binding protein.	6	118	37.906	T	28-04-2016	IPR011344	Single-stranded DNA-binding protein	GO:0003697|GO:0006260	
+Vibriophage_1.205.O._10N.222.51.A7_70	bb1c50dfec541d149c5d512ee6fadda5	174	Gene3D	G3DSA:2.40.50.140		4	172	7.3E-54	T	28-04-2016	IPR012340	Nucleic acid-binding, OB-fold		
+Vibriophage_1.205.O._10N.222.51.A7_70	bb1c50dfec541d149c5d512ee6fadda5	174	PANTHER	PTHR10302		4	172	9.3E-50	T	28-04-2016	IPR011344	Single-stranded DNA-binding protein	GO:0003697|GO:0006260	
+Vibriophage_1.205.O._10N.222.51.A7_70	bb1c50dfec541d149c5d512ee6fadda5	174	TIGRFAM	TIGR00621	ssb: single-stranded DNA-binding protein	3	172	4.4E-59	T	28-04-2016	IPR011344	Single-stranded DNA-binding protein	GO:0003697|GO:0006260	
+Vibriophage_1.205.O._10N.222.51.A7_70	bb1c50dfec541d149c5d512ee6fadda5	174	SUPERFAMILY	SSF50249		4	172	8.23E-58	T	28-04-2016	IPR012340	Nucleic acid-binding, OB-fold		
+Vibriophage_1.205.O._10N.222.51.A7_3	f7d4f146ffbedce0c355ec18cf521375	696	Coils	Coil		625	645	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_3	f7d4f146ffbedce0c355ec18cf521375	696	Coils	Coil		85	112	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_9	4a788fafe9c14e0f22c5b3b2dc76d855	155	Coils	Coil		68	96	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_21	59ccd0be81d4ef69b083c2458d47c652	90	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	68	85	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_21	59ccd0be81d4ef69b083c2458d47c652	90	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	31	53	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_27	d6dce21e9ad673c1144cb1b0edee7b9f	256	Coils	Coil		224	244	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_27	d6dce21e9ad673c1144cb1b0edee7b9f	256	Pfam	PF04098	Rad52/22 family double-strand break repair protein	22	140	7.5E-5	T	28-04-2016	IPR007232	DNA repair protein Rad52/59/22	GO:0006281|GO:0006310	
+Vibriophage_1.205.O._10N.222.51.A7_31	bd0f4471febef7d8a1d367a30ac55be9	306	PANTHER	PTHR38103:SF1		5	306	2.8E-136	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_31	bd0f4471febef7d8a1d367a30ac55be9	306	PANTHER	PTHR38103		5	306	2.8E-136	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_31	bd0f4471febef7d8a1d367a30ac55be9	306	Hamap	MF_00194	Recombination-associated protein RdgC [rdgC].	3	303	35.28	T	28-04-2016	IPR007476	Putative exonuclease, RdgC	GO:0006310	
+Vibriophage_1.205.O._10N.222.51.A7_31	bd0f4471febef7d8a1d367a30ac55be9	306	Pfam	PF04381	Putative exonuclease, RdgC	5	300	8.6E-111	T	28-04-2016	IPR007476	Putative exonuclease, RdgC	GO:0006310	
+Vibriophage_1.205.O._10N.222.51.A7_23	25f487ba03b5ce74e0266773c8842351	176	Gene3D	G3DSA:1.10.10.10		5	62	2.2E-4	T	28-04-2016	IPR011991	Winged helix-turn-helix DNA-binding domain		
+Vibriophage_1.205.O._10N.222.51.A7_6	91c8c92741fe2827531a08239e639104	402	Coils	Coil		19	49	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_6	91c8c92741fe2827531a08239e639104	402	Coils	Coil		135	162	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_64	62e1269434df2516a045cbd9c29885c3	133	Pfam	PF04448	Protein of unknown function (DUF551)	68	133	5.5E-12	T	28-04-2016	IPR007539	Domain of unknown function DUF551		
+Vibriophage_1.205.O._10N.222.51.A7_64	62e1269434df2516a045cbd9c29885c3	133	Pfam	PF14354	Restriction alleviation protein Lar	3	66	8.3E-12	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_4	23927ddf1d53b69fdb5f2041c225ef1d	170	Pfam	PF11195	Protein of unknown function (DUF2829)	82	169	7.9E-22	T	28-04-2016	IPR021361	Protein of unknown function DUF2829		
+Vibriophage_1.205.O._10N.222.51.A7_24	5e5b39528e9ec7daca014c6d8c9d9ac4	199	Pfam	PF05869	DNA N-6-adenine-methyltransferase (Dam)	86	177	1.9E-12	T	28-04-2016	IPR008593	DNA N-6-adenine-methyltransferase	GO:0003677|GO:0009007|GO:0032775	
+Vibriophage_1.205.O._10N.222.51.A7_15	1d2cb618ed8459a58af3c7b294d57e3f	131	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	43	65	-	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_55	5a8cbe2ab4436425066f61ed1c3be658	73	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	25	6.0	T	28-04-2016
+Vibriophage_1.205.O._10N.222.51.A7_49	d2b7afc1dd9475367046b3a92783f5bf	60	Coils	Coil		1	21	-	T	28-04-2016

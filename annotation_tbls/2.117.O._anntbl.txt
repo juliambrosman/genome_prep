@@ -1,0 +1,545 @@
+>Features Vibrio_virus_2.117.O._10N.261.45.E9
+2	199	gene
+			locus_tag	NVP2117O_01
+2	199	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_01
+246	653	gene
+			locus_tag	NVP2117O_02
+246	653	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_02
+782	1183	gene
+			locus_tag	NVP2117O_03
+782	1183	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_03
+1201	1455	gene
+			locus_tag	NVP2117O_04
+1201	1455	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_04
+1442	1861	gene
+			locus_tag	NVP2117O_05
+1442	1861	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_05
+1919	2182	gene
+			locus_tag	NVP2117O_06
+1919	2182	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_06
+2327	2572	gene
+			locus_tag	NVP2117O_07
+2327	2572	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_07
+2620	2865	gene
+			locus_tag	NVP2117O_08
+2620	2865	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_08
+2869	3345	gene
+			locus_tag	NVP2117O_09
+2869	3345	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_09
+3318	3767	gene
+			locus_tag	NVP2117O_10
+3318	3767	CDS
+			product	Dihydrofolate reductase
+			protein_id	NVP2117O_10
+			db_xref	kegg:K00287
+			db_xref	pfam:PF00186
+			db_xref	cog:COG0262
+			db_xref	egg:COG0262
+			note	tara_best_match:OM-RGC.v1.020531968
+3751	3957	gene
+			locus_tag	NVP2117O_11
+3751	3957	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_11
+3970	4215	gene
+			locus_tag	NVP2117O_12
+3970	4215	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_12
+4215	4469	gene
+			locus_tag	NVP2117O_13
+4215	4469	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_13
+4527	4694	gene
+			locus_tag	NVP2117O_14
+4527	4694	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_14
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.035082584
+4773	5084	gene
+			locus_tag	NVP2117O_15
+4773	5084	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_15
+5350	5520	gene
+			locus_tag	NVP2117O_16
+5350	5520	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_16
+5524	5781	gene
+			locus_tag	NVP2117O_17
+5524	5781	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_17
+5784	6113	gene
+			locus_tag	NVP2117O_18
+5784	6113	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_18
+6175	6537	gene
+			locus_tag	NVP2117O_19
+6175	6537	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_19
+6501	7211	gene
+			locus_tag	NVP2117O_20
+6501	7211	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_20
+7279	7671	gene
+			locus_tag	NVP2117O_21
+7279	7671	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_21
+7652	7789	gene
+			locus_tag	NVP2117O_22
+7652	7789	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_22
+7852	8376	gene
+			locus_tag	NVP2117O_23
+7852	8376	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_23
+8473	8901	gene
+			locus_tag	NVP2117O_24
+8473	8901	CDS
+			product	N-acetylmuramoyl-L-alanine amidase
+			protein_id	NVP2117O_24
+			db_xref	pfam:PF01510
+			db_xref	cog:COG3023
+			db_xref	egg:COG3023
+			note	aclame_best_match:protein:proph:171204
+			note	tara_best_match:OM-RGC.v1.023413919
+			note	cvp_best_match:NCBI_PEP_441463247
+8888	9223	gene
+			locus_tag	NVP2117O_25
+8888	9223	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_25
+			db_xref	egg:none
+			db_xref	pog:POG3881
+			note	aclame_best_match:protein:proph:164186
+			note	tara_best_match:OM-RGC.v1.025400972
+			note	cvp_best_match:RF_PEP_41057681
+9201	9623	gene
+			locus_tag	NVP2117O_26
+9201	9623	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_26
+9743	11296	gene
+			locus_tag	NVP2117O_27
+9743	11296	CDS
+			product	Terminase-like family
+			protein_id	NVP2117O_27
+			db_xref	pfam:PF03237
+			db_xref	cog:COG1783
+			db_xref	egg:ENOG410ZQEY
+			db_xref	pog:POG1357
+			note	aclame_best_match:protein:vir:80432
+			note	tara_best_match:OM-RGC.v1.001478849
+			note	cvp_best_match:RF_PEP_146329916
+11354	12886	gene
+			locus_tag	NVP2117O_28
+11354	12886	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_28
+			db_xref	pog:POG1518
+			note	tara_best_match:OM-RGC.v1.001844735
+			note	cvp_best_match:RF_PEP_62327246
+12890	14065	gene
+			locus_tag	NVP2117O_29
+12890	14065	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_29
+			note	tara_best_match:OM-RGC.v1.000835868
+14144	14935	gene
+			locus_tag	NVP2117O_30
+14144	14935	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_30
+			note	tara_best_match:OM-RGC.v1.008424250
+			note	cvp_best_match:RF_PEP_62327252
+15089	16096	gene
+			locus_tag	NVP2117O_31
+15089	16096	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_31
+			db_xref	egg:ENOG41114EC
+			db_xref	pog:POG1329
+			note	aclame_best_match:protein:proph:173660
+			note	tara_best_match:OM-RGC.v1.004172702
+			note	cvp_best_match:RF_PEP_62327253
+16170	16685	gene
+			locus_tag	NVP2117O_32
+16170	16685	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_32
+16701	17210	gene
+			locus_tag	NVP2117O_33
+16701	17210	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_33
+			db_xref	pog:POG4226
+			note	tara_best_match:OM-RGC.v1.020881748
+			note	cvp_best_match:RF_PEP_62327183
+17207	17569	gene
+			locus_tag	NVP2117O_34
+17207	17569	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_34
+			note	tara_best_match:OM-RGC.v1.027534811
+17566	17982	gene
+			locus_tag	NVP2117O_35
+17566	17982	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_35
+17972	18388	gene
+			locus_tag	NVP2117O_36
+17972	18388	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_36
+			note	tara_best_match:OM-RGC.v1.025906240
+18528	19472	gene
+			locus_tag	NVP2117O_37
+18528	19472	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_37
+			note	tara_best_match:OM-RGC.v1.006358787
+19500	19889	gene
+			locus_tag	NVP2117O_38
+19500	19889	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_38
+			note	tara_best_match:OM-RGC.v1.026661404
+19979	20200	gene
+			locus_tag	NVP2117O_39
+19979	20200	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_39
+20193	22430	gene
+			locus_tag	NVP2117O_40
+20193	22430	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_40
+22430	23278	gene
+			locus_tag	NVP2117O_41
+22430	23278	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_41
+23278	24234	gene
+			locus_tag	NVP2117O_42
+23278	24234	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_42
+24238	25869	gene
+			locus_tag	NVP2117O_43
+24238	25869	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_43
+25866	26624	gene
+			locus_tag	NVP2117O_44
+25866	26624	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_44
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:164310
+26626	26844	gene
+			locus_tag	NVP2117O_45
+26626	26844	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_45
+			db_xref	egg:none
+			db_xref	pog:POG1474
+			note	aclame_best_match:protein:proph:174760
+			note	tara_best_match:OM-RGC.v1.033250557
+			note	cvp_best_match:RF_PEP_162135156
+26844	27044	gene
+			locus_tag	NVP2117O_46
+26844	27044	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_46
+			db_xref	egg:ENOG410Y2X2
+			note	aclame_best_match:protein:proph:176334
+			note	tara_best_match:OM-RGC.v1.037012778
+			note	cvp_best_match:RF_PEP_399529092
+27014	31570	gene
+			locus_tag	NVP2117O_47
+27014	31570	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_47
+32755	31601	gene
+			locus_tag	NVP2117O_48
+32755	31601	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_48
+33037	32828	gene
+			locus_tag	NVP2117O_49
+33037	32828	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_49
+33507	33025	gene
+			locus_tag	NVP2117O_50
+33507	33025	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_50
+33700	33548	gene
+			locus_tag	NVP2117O_51
+33700	33548	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_51
+			note	tara_best_match:OM-RGC.v1.037615457
+34012	33803	gene
+			locus_tag	NVP2117O_52
+34012	33803	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_52
+36139	34103	gene
+			locus_tag	NVP2117O_53
+36139	34103	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_53
+			note	tara_best_match:OM-RGC.v1.000697875
+37098	36136	gene
+			locus_tag	NVP2117O_54
+37098	36136	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_54
+			note	aclame_best_match:protein:vir:80384
+			note	tara_best_match:OM-RGC.v1.005699105
+			note	cvp_best_match:RF_PEP_146329940
+38021	37098	gene
+			locus_tag	NVP2117O_55
+38021	37098	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_55
+			note	aclame_best_match:protein:vir:80390
+			note	tara_best_match:OM-RGC.v1.006408476
+			note	cvp_best_match:RF_PEP_146329943
+39015	38092	gene
+			locus_tag	NVP2117O_56
+39015	38092	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_56
+			db_xref	kegg:K01495
+			db_xref	cog:COG0302
+			db_xref	egg:COG0302
+			note	tara_best_match:OM-RGC.v1.006769071
+39494	39015	gene
+			locus_tag	NVP2117O_57
+39494	39015	CDS
+			product	6-pyruvoyl tetrahydropterin synthase
+			protein_id	NVP2117O_57
+			db_xref	kegg:K01737
+			db_xref	pfam:PF01242
+			db_xref	cog:COG0720
+			db_xref	egg:COG0720
+			note	tara_best_match:OM-RGC.v1.021097231
+40252	39551	gene
+			locus_tag	NVP2117O_58
+40252	39551	CDS
+			product	Queuosine biosynthesis protein QueC
+			protein_id	NVP2117O_58
+			db_xref	kegg:K06920
+			db_xref	pfam:PF06508
+			db_xref	cog:COG0603
+			db_xref	egg:COG0603
+			db_xref	pog:POG1020
+			note	aclame_best_match:protein:vir:80433
+			note	tara_best_match:OM-RGC.v1.011593209
+			note	cvp_best_match:CAMPEP_0000022224
+40957	40259	gene
+			locus_tag	NVP2117O_59
+40957	40259	CDS
+			product	Radical SAM superfamily
+			protein_id	NVP2117O_59
+			db_xref	pfam:PF04055
+			db_xref	cog:COG0602
+			db_xref	egg:COG0602
+			note	aclame_best_match:protein:vir:80451
+			note	tara_best_match:OM-RGC.v1.012285316
+			note	cvp_best_match:NCBI_PEP_441463622
+41351	41025	gene
+			locus_tag	NVP2117O_60
+41351	41025	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_60
+			note	tara_best_match:OM-RGC.v1.017168471
+			note	cvp_best_match:NCBI_PEP_441463546
+42026	41451	gene
+			locus_tag	NVP2117O_61
+42026	41451	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_61
+42681	42073	gene
+			locus_tag	NVP2117O_62
+42681	42073	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_62
+43020	42808	gene
+			locus_tag	NVP2117O_63
+43020	42808	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_63
+44627	43017	gene
+			locus_tag	NVP2117O_64
+44627	43017	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_64
+			db_xref	cog:COG1061
+			db_xref	egg:COG1061
+			note	aclame_best_match:protein:vir:95172
+			note	tara_best_match:OM-RGC.v1.001095759
+			note	cvp_best_match:NCBI_PEP_441463473
+45055	44600	gene
+			locus_tag	NVP2117O_65
+45055	44600	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_65
+45974	45063	gene
+			locus_tag	NVP2117O_66
+45974	45063	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_66
+			db_xref	egg:ENOG410Y40S
+			db_xref	pog:POG4368
+			note	aclame_best_match:protein:vir:80426
+			note	tara_best_match:OM-RGC.v1.004887771
+			note	cvp_best_match:RF_PEP_146329955
+46534	45974	gene
+			locus_tag	NVP2117O_67
+46534	45974	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_67
+			db_xref	kegg:K06952
+			db_xref	cog:COG1896
+			db_xref	egg:COG1896
+			db_xref	pog:POG3617
+			note	aclame_best_match:protein:vir:4536
+			note	tara_best_match:OM-RGC.v1.017007467
+			note	cvp_best_match:RF_PEP_19549017
+46992	46531	gene
+			locus_tag	NVP2117O_68
+46992	46531	CDS
+			product	Protein of unknown function (DUF3268)
+			protein_id	NVP2117O_68
+			db_xref	pfam:PF11672
+			db_xref	egg:none
+			db_xref	pog:POG0159
+			note	aclame_best_match:protein:plasmid:143065
+			note	tara_best_match:OM-RGC.v1.021099500
+			note	cvp_best_match:RF_PEP_422935894
+47443	46958	gene
+			locus_tag	NVP2117O_69
+47443	46958	CDS
+			product	Putative vitamin uptake transporter
+			protein_id	NVP2117O_69
+			db_xref	kegg:K09125
+			db_xref	pfam:PF02592
+			db_xref	cog:COG1738
+			db_xref	egg:ENOG411244Z
+			note	tara_best_match:OM-RGC.v1.023673736
+			note	cvp_best_match:NCBI_PEP_441463553
+48233	47520	gene
+			locus_tag	NVP2117O_70
+48233	47520	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_70
+			db_xref	kegg:K08867
+			db_xref	egg:ENOG4112B7T
+			db_xref	pog:POG0133
+			note	tara_best_match:OM-RGC.v1.009807429
+			note	cvp_best_match:NCBI_PEP_441463636
+49027	48302	gene
+			locus_tag	NVP2117O_71
+49027	48302	CDS
+			product	AAA domain
+			protein_id	NVP2117O_71
+			db_xref	pfam:PF13479
+			db_xref	egg:none
+			db_xref	pog:POG0322
+			note	aclame_best_match:protein:vir:80392
+			note	tara_best_match:OM-RGC.v1.010939268
+			note	cvp_best_match:NCBI_PEP_441463555
+49912	49091	gene
+			locus_tag	NVP2117O_72
+49912	49091	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_72
+			db_xref	pog:POG2406
+			note	tara_best_match:OM-RGC.v1.008959951
+			note	cvp_best_match:NCBI_PEP_398255507
+50385	49990	gene
+			locus_tag	NVP2117O_73
+50385	49990	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_73
+50535	50738	gene
+			locus_tag	NVP2117O_74
+50535	50738	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_74
+50738	53032	gene
+			locus_tag	NVP2117O_75
+50738	53032	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_75
+			note	aclame_best_match:protein:vir:95163
+			note	tara_best_match:OM-RGC.v1.000413080
+			note	cvp_best_match:RF_PEP_399528746
+53384	53818	gene
+			locus_tag	NVP2117O_76
+53384	53818	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_76
+			note	tara_best_match:OM-RGC.v1.024656726
+53870	54121	gene
+			locus_tag	NVP2117O_77
+53870	54121	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_77
+54115	54315	gene
+			locus_tag	NVP2117O_78
+54115	54315	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_78
+54442	54642	gene
+			locus_tag	NVP2117O_79
+54442	54642	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_79
+54742	55098	gene
+			locus_tag	NVP2117O_80
+54742	55098	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_80
+55222	55464	gene
+			locus_tag	NVP2117O_81
+55222	55464	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_81
+55651	55794	gene
+			locus_tag	NVP2117O_82
+55651	55794	CDS
+			product	hypothetical protein
+			protein_id	NVP2117O_82

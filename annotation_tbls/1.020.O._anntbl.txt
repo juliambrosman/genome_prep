@@ -1,0 +1,131 @@
+>Features Vibrio_virus_1.020.O._10N.222.48.A2
+369	127	gene
+			locus_tag	NVP1020O_01
+369	127	CDS
+			product	hypothetical protein
+			protein_id	NVP1020O_01
+559	374	gene
+			locus_tag	NVP1020O_02
+559	374	CDS
+			product	hypothetical protein
+			protein_id	NVP1020O_02
+752	498	gene
+			locus_tag	NVP1020O_03
+752	498	CDS
+			product	hypothetical protein
+			protein_id	NVP1020O_03
+1291	755	gene
+			locus_tag	NVP1020O_04
+1291	755	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1020O_04
+			db_xref	InterPro:IPS TMHMM
+1821	1489	gene
+			locus_tag	NVP1020O_05
+1821	1489	CDS
+			product	hypothetical protein
+			protein_id	NVP1020O_05
+3529	1934	gene
+			locus_tag	NVP1020O_06
+3529	1934	CDS
+			product	Coil containing protein
+			protein_id	NVP1020O_06
+			db_xref	pfam:PF03175
+			db_xref	pog:POG0334
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:2124
+			note	tara_best_match:OM-RGC.v1.001450554
+			note	cvp_best_match:RF_PEP_9626351
+4110	3535	gene
+			locus_tag	NVP1020O_07
+4110	3535	CDS
+			product	hypothetical protein
+			protein_id	NVP1020O_07
+4124	4858	gene
+			locus_tag	NVP1020O_08
+4124	4858	CDS
+			product	hypothetical protein
+			protein_id	NVP1020O_08
+4861	5394	gene
+			locus_tag	NVP1020O_09
+4861	5394	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP1020O_09
+			db_xref	InterPro:IPR027417
+			note	tara_best_match:OM-RGC.v1.021972741
+5485	5709	gene
+			locus_tag	NVP1020O_10
+5485	5709	CDS
+			product	Coil containing protein
+			protein_id	NVP1020O_10
+			db_xref	kegg:none
+			db_xref	pfam:PF08017
+			db_xref	cog:COG3064
+			db_xref	egg:COG3064
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:plasmid:123104
+			note	tara_best_match:OM-RGC.v1.008892567
+			note	cvp_best_match:RF_PEP_370703038
+5947	6072	gene
+			locus_tag	NVP1020O_11
+5947	6072	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1020O_11
+			db_xref	InterPro:IPS TMHMM
+6124	6969	gene
+			locus_tag	NVP1020O_12
+6124	6969	CDS
+			product	hypothetical protein
+			protein_id	NVP1020O_12
+			note	tara_best_match:OM-RGC.v1.009973837
+7047	7373	gene
+			locus_tag	NVP1020O_13
+7047	7373	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1020O_13
+			db_xref	InterPro:IPS TMHMM
+7385	7534	gene
+			locus_tag	NVP1020O_14
+7385	7534	CDS
+			product	hypothetical protein
+			protein_id	NVP1020O_14
+7538	7723	gene
+			locus_tag	NVP1020O_15
+7538	7723	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1020O_15
+			db_xref	InterPro:IPS TMHMM
+7733	8092	gene
+			locus_tag	NVP1020O_16
+7733	8092	CDS
+			product	hypothetical protein
+			protein_id	NVP1020O_16
+8089	8658	gene
+			locus_tag	NVP1020O_17
+8089	8658	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1020O_17
+			db_xref	InterPro:IPS TMHMM
+8669	9343	gene
+			locus_tag	NVP1020O_18
+8669	9343	CDS
+			product	hypothetical protein
+			protein_id	NVP1020O_18
+9353	9871	gene
+			locus_tag	NVP1020O_19
+9353	9871	CDS
+			product	hypothetical protein
+			protein_id	NVP1020O_19
+			db_xref	egg:ENOG4111U4Z
+			note	tara_best_match:OM-RGC.v1.023097787
+9884	10291	gene
+			locus_tag	NVP1020O_20
+9884	10291	CDS
+			product	hypothetical protein
+			protein_id	NVP1020O_20
+10300	10512	gene
+			locus_tag	NVP1020O_21
+10300	10512	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1020O_21
+			db_xref	InterPro:IPS TMHMM

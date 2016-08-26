@@ -1,0 +1,65 @@
+Vibriophage_1.182.O._10N.286.46.E1_32	44775b487f0e212c856788d6be675991	110	Pfam	PF03819	MazG nucleotide pyrophosphohydrolase domain	41	97	6.4E-5	T	28-04-2016	IPR004518	NTP pyrophosphohydrolase MazG, putative catalytic core		
+Vibriophage_1.182.O._10N.286.46.E1_32	44775b487f0e212c856788d6be675991	110	Gene3D	G3DSA:1.10.287.1080		32	86	7.2E-6	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_32	44775b487f0e212c856788d6be675991	110	SUPERFAMILY	SSF101386		31	97	1.33E-8	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_46	929897df7a18d2cb4df188fc8f51c817	166	Gene3D	G3DSA:3.60.21.10		3	165	1.2E-29	T	28-04-2016	IPR029052	Metallo-dependent phosphatase-like		
+Vibriophage_1.182.O._10N.286.46.E1_46	929897df7a18d2cb4df188fc8f51c817	166	SUPERFAMILY	SSF56300		5	148	8.39E-14	T	28-04-2016	IPR029052	Metallo-dependent phosphatase-like		
+Vibriophage_1.182.O._10N.286.46.E1_46	929897df7a18d2cb4df188fc8f51c817	166	Pfam	PF00149	Calcineurin-like phosphoesterase	3	130	1.6E-4	T	28-04-2016	IPR004843	Calcineurin-like phosphoesterase domain, apaH type	GO:0016787	
+Vibriophage_1.182.O._10N.286.46.E1_51	b469391f23fe46dd2a80231fbf3c1ed6	49	Coils	Coil		24	44	-	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_43	af4d9d49ae4111299cf53b8f468bc495	203	SUPERFAMILY	SSF53335		1	117	1.86E-17	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.182.O._10N.286.46.E1_43	af4d9d49ae4111299cf53b8f468bc495	203	Gene3D	G3DSA:3.40.50.150		1	113	1.1E-17	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.182.O._10N.286.46.E1_43	af4d9d49ae4111299cf53b8f468bc495	203	Pfam	PF00145	C-5 cytosine-specific DNA methylase	1	112	2.3E-11	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.182.O._10N.286.46.E1_24	2d2514b54e4959fc0ab9eed14c78b88d	77	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	39	61	-	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_24	2d2514b54e4959fc0ab9eed14c78b88d	77	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	13	35	-	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_16	8b920bd03ffb471300ef89a6123d27de	566	Coils	Coil		539	559	-	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_36	81d4376c0ab7cd33aaad7e9a867437b3	139	Gene3D	G3DSA:2.30.30.290		40	130	9.3E-14	T	28-04-2016	IPR023385	YopX-like domain, beta barrel type		
+Vibriophage_1.182.O._10N.286.46.E1_36	81d4376c0ab7cd33aaad7e9a867437b3	139	SUPERFAMILY	SSF159006		2	136	8.37E-20	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_36	81d4376c0ab7cd33aaad7e9a867437b3	139	Pfam	PF09643	YopX protein	37	137	5.3E-15	T	28-04-2016	IPR019096	YopX protein		
+Vibriophage_1.182.O._10N.286.46.E1_36	81d4376c0ab7cd33aaad7e9a867437b3	139	TIGRFAM	TIGR01671	phage_TIGR01671: phage conserved hypothetical protein TIGR01671	38	137	1.2E-13	T	28-04-2016	IPR010024	Conserved hypothetical protein CHP1671		
+Vibriophage_1.182.O._10N.286.46.E1_41	c6cc9b57f882520ac980d514edc03c40	444	Pfam	PF03796	DnaB-like helicase C terminal domain	170	382	2.7E-18	T	28-04-2016	IPR007694	DNA helicase, DnaB-like, C-terminal	GO:0003678|GO:0005524|GO:0006260	
+Vibriophage_1.182.O._10N.286.46.E1_41	c6cc9b57f882520ac980d514edc03c40	444	PANTHER	PTHR30153		1	369	9.8E-33	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_41	c6cc9b57f882520ac980d514edc03c40	444	Pfam	PF00772	DnaB-like helicase N terminal domain	7	98	5.1E-15	T	28-04-2016	IPR007693	DNA helicase, DnaB-like, N-terminal	GO:0003678|GO:0005524|GO:0006260	
+Vibriophage_1.182.O._10N.286.46.E1_41	c6cc9b57f882520ac980d514edc03c40	444	Gene3D	G3DSA:1.10.860.10		8	98	1.3E-15	T	28-04-2016	IPR016136	DNA helicase DnaB, N-terminal/DNA primase DnaG, C-terminal		
+Vibriophage_1.182.O._10N.286.46.E1_41	c6cc9b57f882520ac980d514edc03c40	444	Gene3D	G3DSA:3.40.50.300		164	383	2.1E-17	T	28-04-2016	IPR027417	P-loop containing nucleoside triphosphate hydrolase		
+Vibriophage_1.182.O._10N.286.46.E1_41	c6cc9b57f882520ac980d514edc03c40	444	SUPERFAMILY	SSF52540		307	400	2.16E-14	T	28-04-2016	IPR027417	P-loop containing nucleoside triphosphate hydrolase		
+Vibriophage_1.182.O._10N.286.46.E1_41	c6cc9b57f882520ac980d514edc03c40	444	SUPERFAMILY	SSF52540		165	246	2.16E-14	T	28-04-2016	IPR027417	P-loop containing nucleoside triphosphate hydrolase		
+Vibriophage_1.182.O._10N.286.46.E1_41	c6cc9b57f882520ac980d514edc03c40	444	SUPERFAMILY	SSF48024		5	107	7.72E-20	T	28-04-2016	IPR007693	DNA helicase, DnaB-like, N-terminal	GO:0003678|GO:0005524|GO:0006260	
+Vibriophage_1.182.O._10N.286.46.E1_20	26ad59dc25c06a975d415a51c1efc914	139	SMART	SM00701	Animal peptidoglycan recognition proteins homologous to Bacteriophage T3 lysozyme.	1	120	3.1E-4	T	28-04-2016	IPR006619	Peptidoglycan recognition protein family domain, metazoa/bacteria	GO:0008270|GO:0008745|GO:0009253	
+Vibriophage_1.182.O._10N.286.46.E1_20	26ad59dc25c06a975d415a51c1efc914	139	PANTHER	PTHR11022:SF41		2	138	2.2E-18	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_20	26ad59dc25c06a975d415a51c1efc914	139	SUPERFAMILY	SSF55846		2	138	4.84E-37	T	28-04-2016	IPR002502	N-acetylmuramoyl-L-alanine amidase domain	GO:0008745|GO:0009253	
+Vibriophage_1.182.O._10N.286.46.E1_20	26ad59dc25c06a975d415a51c1efc914	139	SMART	SM00644		1	127	2.2E-4	T	28-04-2016	IPR002502	N-acetylmuramoyl-L-alanine amidase domain	GO:0008745|GO:0009253	
+Vibriophage_1.182.O._10N.286.46.E1_20	26ad59dc25c06a975d415a51c1efc914	139	PANTHER	PTHR11022		2	138	2.2E-18	T	28-04-2016	IPR015510	Peptidoglycan recognition protein	GO:0008745|GO:0009253	
+Vibriophage_1.182.O._10N.286.46.E1_20	26ad59dc25c06a975d415a51c1efc914	139	Pfam	PF01510	N-acetylmuramoyl-L-alanine amidase	2	126	7.1E-15	T	28-04-2016	IPR002502	N-acetylmuramoyl-L-alanine amidase domain	GO:0008745|GO:0009253	
+Vibriophage_1.182.O._10N.286.46.E1_20	26ad59dc25c06a975d415a51c1efc914	139	Gene3D	G3DSA:3.40.80.10		2	138	3.8E-41	T	28-04-2016	IPR002502	N-acetylmuramoyl-L-alanine amidase domain	GO:0008745|GO:0009253	
+Vibriophage_1.182.O._10N.286.46.E1_45	a1516796c579635284830a8a2c7478f1	142	SUPERFAMILY	SSF103370		25	127	4.97E-13	T	28-04-2016	IPR008711	Recombinase NinB		
+Vibriophage_1.182.O._10N.286.46.E1_45	a1516796c579635284830a8a2c7478f1	142	Pfam	PF05772	NinB protein	24	125	3.1E-6	T	28-04-2016	IPR008711	Recombinase NinB		
+Vibriophage_1.182.O._10N.286.46.E1_45	a1516796c579635284830a8a2c7478f1	142	Coils	Coil		129	142	-	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_45	a1516796c579635284830a8a2c7478f1	142	ProDom	PD033929	YBCN ECS1616 SIMILAR 5'REGION ORF151 RUSA LAMBDOID DLP12 BACTERIOPHAGE PROPHAGE	17	141	4.0E-14	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_45	a1516796c579635284830a8a2c7478f1	142	Gene3D	G3DSA:1.10.3790.10		17	138	8.6E-19	T	28-04-2016	IPR008711	Recombinase NinB		
+Vibriophage_1.182.O._10N.286.46.E1_13	92d891e56837ea56edcc36c176eadb7e	138	SUPERFAMILY	SSF55729		1	137	4.66E-6	T	28-04-2016	IPR016181	Acyl-CoA N-acyltransferase		
+Vibriophage_1.182.O._10N.286.46.E1_54	08eff91694010b2b68499a7474921ea6	166	Coils	Coil		54	74	-	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_19	bcbd09b4b545b6f552ebf9c38c0236d7	120	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	93	115	-	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_19	bcbd09b4b545b6f552ebf9c38c0236d7	120	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	56	78	-	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_9	e914901f57f709973a08887b460e0b3c	295	Pfam	PF11651	P22 coat protein - gene protein 5	146	226	1.1E-7	T	28-04-2016	IPR024659	Major capsid protein Gp5		
+Vibriophage_1.182.O._10N.286.46.E1_27	3b7a24751c3933fc5b703e2ad58b92d8	95	ProDom	PD029230	GPA 5'REGION GP83 ORF83 GENE GP45 BACTERIOPHAGE SIMILAR ORF4	5	74	2.0E-4	T	28-04-2016	IPR020284	Protein of unknown function CP83		
+Vibriophage_1.182.O._10N.286.46.E1_4	08aa9af0cdf0986dbf03b2379bbcec91	539	Pfam	PF12236	Bacteriophage head to tail connecting protein	9	498	3.9E-108	T	28-04-2016	IPR020991	Head-to-tail joining protein, podovirus-type		
+Vibriophage_1.182.O._10N.286.46.E1_44	67a9516a806f5ab64c8ab35c53b88a38	165	TIGRFAM	TIGR01712	phage_N6A_met: phage N-6-adenine-methyltransferase	5	162	1.5E-42	T	28-04-2016	IPR008593	DNA N-6-adenine-methyltransferase	GO:0003677|GO:0009007|GO:0032775	
+Vibriophage_1.182.O._10N.286.46.E1_44	67a9516a806f5ab64c8ab35c53b88a38	165	Pfam	PF05869	DNA N-6-adenine-methyltransferase (Dam)	6	162	1.0E-51	T	28-04-2016	IPR008593	DNA N-6-adenine-methyltransferase	GO:0003677|GO:0009007|GO:0032775	
+Vibriophage_1.182.O._10N.286.46.E1_31	e12fcfcf492cd38f2ffe929a421681e3	165	SUPERFAMILY	SSF54171		110	157	8.5E-6	T	28-04-2016	IPR016177	DNA-binding domain	GO:0003677	
+Vibriophage_1.182.O._10N.286.46.E1_31	e12fcfcf492cd38f2ffe929a421681e3	165	Pfam	PF13392	HNH endonuclease	55	99	2.0E-17	T	28-04-2016	IPR003615	HNH nuclease		
+Vibriophage_1.182.O._10N.286.46.E1_31	e12fcfcf492cd38f2ffe929a421681e3	165	SMART	SM00507	HNH nucleases	49	98	0.0014	T	28-04-2016	IPR003615	HNH nuclease		
+Vibriophage_1.182.O._10N.286.46.E1_31	e12fcfcf492cd38f2ffe929a421681e3	165	SUPERFAMILY	SSF54060		2	105	3.3E-20	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_38	3e2804796678962a7f35478bbf0d3ca9	220	Pfam	PF03374	Phage antirepressor protein KilAC domain	117	213	8.4E-27	T	28-04-2016	IPR005039	Antirepressor protein, C-terminal	GO:0003677	
+Vibriophage_1.182.O._10N.286.46.E1_38	3e2804796678962a7f35478bbf0d3ca9	220	Pfam	PF09669	Phage regulatory protein Rha (Phage_pRha)	13	94	7.2E-19	T	28-04-2016	IPR014054	Bacteriophage regulatory protein, Rha family		
+Vibriophage_1.182.O._10N.286.46.E1_50	ef2ab9bba7744228d23e25b7a6d0508f	120	Pfam	PF14354	Restriction alleviation protein Lar	13	73	1.4E-10	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_35	5e57904f5e32a1e9c781de9bae01b92c	113	Pfam	PF09643	YopX protein	37	102	8.2E-11	T	28-04-2016	IPR019096	YopX protein		
+Vibriophage_1.182.O._10N.286.46.E1_35	5e57904f5e32a1e9c781de9bae01b92c	113	SUPERFAMILY	SSF159006		3	109	4.05E-16	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_35	5e57904f5e32a1e9c781de9bae01b92c	113	Gene3D	G3DSA:2.30.30.290		48	73	2.7E-10	T	28-04-2016	IPR023385	YopX-like domain, beta barrel type		
+Vibriophage_1.182.O._10N.286.46.E1_14	4f61e4f4ac2310b98e91832dbbf0f1ac	147	Coils	Coil		19	46	-	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_18	b35caec1879b3a7ad6d1e6f824e22465	894	Coils	Coil		96	116	-	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_1	28a48bfd58eacfb59dc5018b1ccc6112	92	Coils	Coil		19	56	-	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_8	7d89d138a6f3dd2147c338b8a58f80c8	303	Coils	Coil		158	178	-	T	28-04-2016
+Vibriophage_1.182.O._10N.286.46.E1_49	4d11bb31fd7b0bb7f6a6b1d9dcbb57cf	117	Gene3D	G3DSA:1.10.10.10		37	109	1.6E-4	T	28-04-2016	IPR011991	Winged helix-turn-helix DNA-binding domain		
+Vibriophage_1.182.O._10N.286.46.E1_29	745c30cbd6eaf751cee0e176c7d499de	219	Pfam	PF06378	Protein of unknown function (DUF1071)	5	164	1.2E-49	T	28-04-2016	IPR009425	Single-strand annealing protein SAK3		
+Vibriophage_1.182.O._10N.286.46.E1_30	830b6bfefe04f6f79a8a885b7fd6ee54	55	Gene3D	G3DSA:1.10.1220.10		2	48	1.7E-6	T	28-04-2016	IPR013321	Arc-type ribbon-helix-helix	GO:0006355	
+Vibriophage_1.182.O._10N.286.46.E1_30	830b6bfefe04f6f79a8a885b7fd6ee54	55	SUPERFAMILY	SSF47598		2	44	3.5E-6	T	28-04-2016	IPR010985	Ribbon-helix-helix	GO:0006355	
+Vibriophage_1.182.O._10N.286.46.E1_15	be34266e9a40d1691a883692f5fd2428	666	Coils	Coil		666	666	-	T	28-04-2016

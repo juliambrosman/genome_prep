@@ -1,0 +1,438 @@
+>Features Vibrio_virus_1.087.A._10N.261.45.F9
+218	934	gene
+			locus_tag	NVP1087A_01
+218	934	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_01
+			note	tara_best_match:OM-RGC.v1.012624289
+927	2924	gene
+			locus_tag	NVP1087A_02
+927	2924	CDS
+			product	Phage terminase large subunit (GpA)
+			protein_id	NVP1087A_02
+			db_xref	pfam:PF05876
+			note	tara_best_match:OM-RGC.v1.001255007
+			note	cvp_best_match:NCBI_PEP_37626094
+3027	3932	gene
+			locus_tag	NVP1087A_03
+3027	3932	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_03
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.001552365
+3947	4204	gene
+			locus_tag	NVP1087A_04
+3947	4204	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_04
+4204	5829	gene
+			locus_tag	NVP1087A_05
+4204	5829	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_05
+			note	tara_best_match:OM-RGC.v1.001375511
+5829	7076	gene
+			locus_tag	NVP1087A_06
+5829	7076	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_06
+			note	tara_best_match:OM-RGC.v1.003735006
+7076	7474	gene
+			locus_tag	NVP1087A_07
+7076	7474	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_07
+			note	tara_best_match:OM-RGC.v1.026568368
+7488	8567	gene
+			locus_tag	NVP1087A_08
+7488	8567	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_08
+			note	tara_best_match:OM-RGC.v1.004725050
+8571	8924	gene
+			locus_tag	NVP1087A_09
+8571	8924	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_09
+			note	tara_best_match:OM-RGC.v1.028841318
+8924	9307	gene
+			locus_tag	NVP1087A_10
+8924	9307	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_10
+			note	tara_best_match:OM-RGC.v1.027198666
+9258	9965	gene
+			locus_tag	NVP1087A_11
+9258	9965	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_11
+			note	tara_best_match:OM-RGC.v1.013382471
+9975	10217	gene
+			locus_tag	NVP1087A_12
+9975	10217	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_12
+			db_xref	egg:none
+			db_xref	pog:POG0438
+			note	aclame_best_match:protein:vir:103400
+			note	tara_best_match:OM-RGC.v1.033190469
+			note	cvp_best_match:RF_PEP_311992508
+10230	11690	gene
+			locus_tag	NVP1087A_13
+10230	11690	CDS
+			product	Phage tail sheath protein
+			protein_id	NVP1087A_13
+			db_xref	pfam:PF04984
+			db_xref	cog:COG4386
+			db_xref	egg:COG4386
+			note	tara_best_match:OM-RGC.v1.001709828
+			note	cvp_best_match:NCBI_PEP_37626103
+11692	12069	gene
+			locus_tag	NVP1087A_14
+11692	12069	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_14
+			note	tara_best_match:OM-RGC.v1.027450810
+12296	12108	gene
+			locus_tag	NVP1087A_15
+12296	12108	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_15
+			note	cvp_best_match:CAMPEP_0000011458
+12611	12456	gene
+			locus_tag	NVP1087A_16
+12611	12456	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_16
+13025	12792	gene
+			locus_tag	NVP1087A_17
+13025	12792	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_17
+13243	13025	gene
+			locus_tag	NVP1087A_18
+13243	13025	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_18
+13408	13824	gene
+			locus_tag	NVP1087A_19
+13408	13824	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_19
+			note	tara_best_match:OM-RGC.v1.026198438
+14061	15608	gene
+			locus_tag	NVP1087A_20
+14061	15608	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_20
+15707	16366	gene
+			locus_tag	NVP1087A_21
+15707	16366	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_21
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:183872
+			note	tara_best_match:OM-RGC.v1.013265264
+			note	cvp_best_match:RF_PEP_423261866
+16729	16914	gene
+			locus_tag	NVP1087A_22
+16729	16914	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_22
+16968	18215	gene
+			locus_tag	NVP1087A_23
+16968	18215	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_23
+			note	tara_best_match:OM-RGC.v1.003002752
+18217	19428	gene
+			locus_tag	NVP1087A_24
+18217	19428	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_24
+			note	tara_best_match:OM-RGC.v1.004244712
+			note	cvp_best_match:NCBI_PEP_37626109
+19416	20072	gene
+			locus_tag	NVP1087A_25
+19416	20072	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_25
+			note	tara_best_match:OM-RGC.v1.008864633
+20156	20821	gene
+			locus_tag	NVP1087A_26
+20156	20821	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_26
+20821	21009	gene
+			locus_tag	NVP1087A_27
+20821	21009	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_27
+21009	21194	gene
+			locus_tag	NVP1087A_28
+21009	21194	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_28
+21284	21697	gene
+			locus_tag	NVP1087A_29
+21284	21697	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_29
+			note	tara_best_match:OM-RGC.v1.026568944
+			note	cvp_best_match:NCBI_PEP_37626177
+21690	22883	gene
+			locus_tag	NVP1087A_30
+21690	22883	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_30
+			note	tara_best_match:OM-RGC.v1.003380575
+			note	cvp_best_match:NCBI_PEP_37626113
+22892	23659	gene
+			locus_tag	NVP1087A_31
+22892	23659	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_31
+			note	tara_best_match:OM-RGC.v1.007239044
+23680	24531	gene
+			locus_tag	NVP1087A_32
+23680	24531	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_32
+24913	24566	gene
+			locus_tag	NVP1087A_33
+24913	24566	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_33
+25438	24929	gene
+			locus_tag	NVP1087A_34
+25438	24929	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_34
+			db_xref	kegg:none
+			db_xref	cog:COG2226
+			db_xref	egg:none
+			db_xref	pog:POG1298
+			note	aclame_best_match:protein:proph:175134
+			note	tara_best_match:OM-RGC.v1.021513539
+			note	cvp_best_match:RF_PEP_157325461
+25611	25435	gene
+			locus_tag	NVP1087A_35
+25611	25435	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_35
+26001	25612	gene
+			locus_tag	NVP1087A_36
+26001	25612	CDS
+			product	Pyrimidine dimer DNA glycosylase
+			protein_id	NVP1087A_36
+			db_xref	kegg:K01161
+			db_xref	pfam:PF03013
+			db_xref	egg:ENOG4111P9T
+			db_xref	pog:POG0269
+			note	aclame_best_match:protein:vir:5512
+			note	tara_best_match:OM-RGC.v1.027206325
+			note	cvp_best_match:NCBI_PEP_283481442
+26144	26344	gene
+			locus_tag	NVP1087A_37
+26144	26344	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_37
+26427	26726	gene
+			locus_tag	NVP1087A_38
+26427	26726	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_38
+26794	27135	gene
+			locus_tag	NVP1087A_39
+26794	27135	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_39
+			note	tara_best_match:OM-RGC.v1.025691959
+27147	27491	gene
+			locus_tag	NVP1087A_40
+27147	27491	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_40
+			note	tara_best_match:OM-RGC.v1.029735331
+27532	28554	gene
+			locus_tag	NVP1087A_41
+27532	28554	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_41
+28554	29015	gene
+			locus_tag	NVP1087A_42
+28554	29015	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_42
+29457	29275	gene
+			locus_tag	NVP1087A_43
+29457	29275	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_43
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:184474
+29654	29454	gene
+			locus_tag	NVP1087A_44
+29654	29454	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_44
+			note	tara_best_match:OM-RGC.v1.035630079
+30109	29651	gene
+			locus_tag	NVP1087A_45
+30109	29651	CDS
+			product	N-acetylmuramoyl-L-alanine amidase
+			protein_id	NVP1087A_45
+			db_xref	kegg:K01447
+			db_xref	pfam:PF01510
+			db_xref	cog:COG3023
+			db_xref	egg:COG3023
+			db_xref	pog:POG0023
+			note	aclame_best_match:protein:vir:99670
+			note	tara_best_match:OM-RGC.v1.025694263
+			note	cvp_best_match:RF_PEP_418489052
+30379	30122	gene
+			locus_tag	NVP1087A_46
+30379	30122	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_46
+30582	30379	gene
+			locus_tag	NVP1087A_47
+30582	30379	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_47
+31115	30684	gene
+			locus_tag	NVP1087A_48
+31115	30684	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_48
+			db_xref	egg:ENOG4111IH4
+			db_xref	pog:POG1408
+			note	aclame_best_match:protein:vir:95842
+			note	tara_best_match:OM-RGC.v1.023782345
+			note	cvp_best_match:CAMPEP_0000029120
+31396	31112	gene
+			locus_tag	NVP1087A_49
+31396	31112	CDS
+			product	Domain of unknown function (DUF4406)
+			protein_id	NVP1087A_49
+			db_xref	pfam:PF14359
+			db_xref	cog:COG3613
+			db_xref	egg:none
+			db_xref	pog:POG1253
+			note	aclame_best_match:protein:proph:172552
+			note	tara_best_match:OM-RGC.v1.020780256
+			note	cvp_best_match:RF_PEP_46402144
+31951	31397	gene
+			locus_tag	NVP1087A_50
+31951	31397	CDS
+			product	DNA N-6-adenine-methyltransferase (Dam)
+			protein_id	NVP1087A_50
+			db_xref	pfam:PF05869
+			db_xref	egg:ENOG4111JM0
+			db_xref	pog:POG0822
+			note	aclame_best_match:protein:vir:234
+			note	tara_best_match:OM-RGC.v1.019412599
+			note	cvp_best_match:NCBI_PEP_164414537
+32468	31935	gene
+			locus_tag	NVP1087A_51
+32468	31935	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_51
+32863	32468	gene
+			locus_tag	NVP1087A_52
+32863	32468	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_52
+33039	32860	gene
+			locus_tag	NVP1087A_53
+33039	32860	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_53
+33728	33138	gene
+			locus_tag	NVP1087A_54
+33728	33138	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_54
+34150	33872	gene
+			locus_tag	NVP1087A_55
+34150	33872	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_55
+			note	tara_best_match:OM-RGC.v1.028203355
+34542	34123	gene
+			locus_tag	NVP1087A_56
+34542	34123	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_56
+			db_xref	pog:POG0241
+			note	aclame_best_match:protein:vir:96779
+			note	tara_best_match:OM-RGC.v1.026366283
+			note	cvp_best_match:RF_PEP_418487734
+34751	34539	gene
+			locus_tag	NVP1087A_57
+34751	34539	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_57
+36729	34744	gene
+			locus_tag	NVP1087A_58
+36729	34744	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_58
+			db_xref	cog:COG1061
+			db_xref	egg:COG1061
+			note	tara_best_match:OM-RGC.v1.000929532
+37403	36789	gene
+			locus_tag	NVP1087A_59
+37403	36789	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_59
+37825	40647	gene
+			locus_tag	NVP1087A_60
+37825	40647	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_60
+41179	41625	gene
+			locus_tag	NVP1087A_61
+41179	41625	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_61
+41600	41932	gene
+			locus_tag	NVP1087A_62
+41600	41932	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_62
+41929	43041	gene
+			locus_tag	NVP1087A_63
+41929	43041	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_63
+43080	43874	gene
+			locus_tag	NVP1087A_64
+43080	43874	CDS
+			product	PDDEXK-like domain of unknown function (DUF3799)
+			protein_id	NVP1087A_64
+			db_xref	kegg:K10906
+			db_xref	pfam:PF12684
+			db_xref	egg:ENOG410XPW2
+			db_xref	pog:POG1171
+			note	aclame_best_match:protein:proph:173540
+			note	tara_best_match:OM-RGC.v1.009541823
+			note	cvp_best_match:RF_PEP_89152454
+43931	44803	gene
+			locus_tag	NVP1087A_65
+43931	44803	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_65
+			db_xref	egg:ENOG4111HT0
+			note	aclame_best_match:protein:proph:178671
+			note	tara_best_match:OM-RGC.v1.009940467
+44865	45578	gene
+			locus_tag	NVP1087A_66
+44865	45578	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_66
+45575	45673	gene
+			locus_tag	NVP1087A_67
+45575	45673	CDS
+			product	hypothetical protein
+			protein_id	NVP1087A_67

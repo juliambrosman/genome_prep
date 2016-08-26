@@ -1,0 +1,46 @@
+Vibriophage_1.154.O._10N.222.52.B12_32	f3148de2d1bcc33745d7763c50d3f97f	181	Pfam	PF16754	Bacterial toxin homologue of phage lysozyme	12	155	6.5E-16	T	28-04-2016	IPR031922	Bacterial toxin homologue of phage lysozyme		
+Vibriophage_1.154.O._10N.222.52.B12_32	f3148de2d1bcc33745d7763c50d3f97f	181	SUPERFAMILY	SSF53955		7	178	2.77E-12	T	28-04-2016	IPR023346	Lysozyme-like domain		
+Vibriophage_1.154.O._10N.222.52.B12_32	f3148de2d1bcc33745d7763c50d3f97f	181	Gene3D	G3DSA:1.10.530.40		81	178	6.6E-7	T	28-04-2016	IPR023347	Lysozyme domain	GO:0003796	
+Vibriophage_1.154.O._10N.222.52.B12_32	f3148de2d1bcc33745d7763c50d3f97f	181	Coils	Coil		180	181	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_6	2fed635544edc60531d01f1675495645	485	Coils	Coil		479	485	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_6	2fed635544edc60531d01f1675495645	485	Pfam	PF09979	Uncharacterized protein conserved in bacteria (DUF2213)	128	276	5.3E-13	T	28-04-2016	IPR016913	Uncharacterised conserved protein UCP029215		
+Vibriophage_1.154.O._10N.222.52.B12_41	d4c74d3f942188eb9c223d37c2059f83	67	SMART	SM00530	Helix-turn-helix XRE-family like proteins	6	61	1.4E-6	T	28-04-2016	IPR001387	Cro/C1-type helix-turn-helix domain	GO:0043565	
+Vibriophage_1.154.O._10N.222.52.B12_41	d4c74d3f942188eb9c223d37c2059f83	67	ProSiteProfiles	PS50943	Cro/C1-type HTH domain profile.	7	61	11.221	T	28-04-2016	IPR001387	Cro/C1-type helix-turn-helix domain	GO:0043565	
+Vibriophage_1.154.O._10N.222.52.B12_41	d4c74d3f942188eb9c223d37c2059f83	67	SUPERFAMILY	SSF47413		1	64	5.9E-12	T	28-04-2016	IPR010982	Lambda repressor-like, DNA-binding domain	GO:0003677	
+Vibriophage_1.154.O._10N.222.52.B12_41	d4c74d3f942188eb9c223d37c2059f83	67	Gene3D	G3DSA:1.10.260.40		1	63	1.8E-15	T	28-04-2016	IPR010982	Lambda repressor-like, DNA-binding domain	GO:0003677	
+Vibriophage_1.154.O._10N.222.52.B12_41	d4c74d3f942188eb9c223d37c2059f83	67	Pfam	PF12844	Helix-turn-helix domain	18	65	8.5E-10	T	28-04-2016	IPR001387	Cro/C1-type helix-turn-helix domain	GO:0043565	
+Vibriophage_1.154.O._10N.222.52.B12_15	416f675b74a60c9dcce3f7b9d1727a39	497	Pfam	PF11863	Protein of unknown function (DUF3383)	4	493	3.7E-76	T	28-04-2016	IPR021808	Bacteriophage rv5, Orf53		
+Vibriophage_1.154.O._10N.222.52.B12_30	0f080a242b5a23e20bcbc5b26a9da726	98	Coils	Coil		57	77	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_30	0f080a242b5a23e20bcbc5b26a9da726	98	Coils	Coil		33	53	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_30	0f080a242b5a23e20bcbc5b26a9da726	98	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	10	28	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_37	1d9afed080139fc77dbdef2b1dc58576	65	Pfam	PF13443	Cro/C1-type HTH DNA-binding domain	5	62	6.9E-6	T	28-04-2016	IPR001387	Cro/C1-type helix-turn-helix domain	GO:0043565	
+Vibriophage_1.154.O._10N.222.52.B12_37	1d9afed080139fc77dbdef2b1dc58576	65	SUPERFAMILY	SSF47413		3	63	2.76E-9	T	28-04-2016	IPR010982	Lambda repressor-like, DNA-binding domain	GO:0003677	
+Vibriophage_1.154.O._10N.222.52.B12_37	1d9afed080139fc77dbdef2b1dc58576	65	Gene3D	G3DSA:1.10.260.40		2	62	5.0E-11	T	28-04-2016	IPR010982	Lambda repressor-like, DNA-binding domain	GO:0003677	
+Vibriophage_1.154.O._10N.222.52.B12_37	1d9afed080139fc77dbdef2b1dc58576	65	ProSiteProfiles	PS50943	Cro/C1-type HTH domain profile.	5	59	9.845	T	28-04-2016	IPR001387	Cro/C1-type helix-turn-helix domain	GO:0043565	
+Vibriophage_1.154.O._10N.222.52.B12_37	1d9afed080139fc77dbdef2b1dc58576	65	SMART	SM00530	Helix-turn-helix XRE-family like proteins	4	59	4.5E-4	T	28-04-2016	IPR001387	Cro/C1-type helix-turn-helix domain	GO:0043565	
+Vibriophage_1.154.O._10N.222.52.B12_51	812145dc905ace92eafe68906c3012e3	124	Gene3D	G3DSA:3.30.1330.70		10	106	2.3E-4	T	28-04-2016	IPR008822	Crossover junction endodeoxyribonuclease, RusA-like	GO:0000287|GO:0006281|GO:0006310	
+Vibriophage_1.154.O._10N.222.52.B12_51	812145dc905ace92eafe68906c3012e3	124	SUPERFAMILY	SSF103084		7	106	1.26E-7	T	28-04-2016	IPR008822	Crossover junction endodeoxyribonuclease, RusA-like	GO:0000287|GO:0006281|GO:0006310	
+Vibriophage_1.154.O._10N.222.52.B12_17	7a718ab97337b0871a8812ba93128a3d	135	ProDom	PD298513	SIMILAR PD1186 XF1585/XF1690 PD0970	65	114	0.003	T	28-04-2016	IPR020351	Phage tail assemb.y chaperone protein, TAC		
+Vibriophage_1.154.O._10N.222.52.B12_33	b38b60e53f9da285e804d104f931329a	104	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	76	98	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_33	b38b60e53f9da285e804d104f931329a	104	Coils	Coil		18	38	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_48	9fb369daf364f0b08eafc7c6a509fc16	205	Gene3D	G3DSA:3.40.50.150		1	112	2.9E-6	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.154.O._10N.222.52.B12_48	9fb369daf364f0b08eafc7c6a509fc16	205	SUPERFAMILY	SSF53335		2	132	2.21E-5	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.154.O._10N.222.52.B12_35	b5a426c7d37320fcc917a80b0f5ccdec	316	Pfam	PF03837	RecT family	29	204	3.5E-27	T	28-04-2016	IPR018330	RecT family	GO:0003677|GO:0006259	
+Vibriophage_1.154.O._10N.222.52.B12_60	0c7a0411d9134f09c22725a33d0c1a4e	156	Pfam	PF10045	Uncharacterized conserved protein (DUF2280)	1	103	1.4E-42	T	28-04-2016	IPR018738	Protein of unknown function DUF2280		
+Vibriophage_1.154.O._10N.222.52.B12_31	c5e2b05d082a2157e10493d85b313439	68	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	12	34	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_36	d0a2d7fd929f2280460afa6159a74b2a	862	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	9	31	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_43	bdaf0a536eea79d8114a03bfe90d838d	292	Pfam	PF14297	Domain of unknown function (DUF4373)	3	86	5.2E-12	T	28-04-2016	IPR025400	Domain of unknown function DUF4373		
+Vibriophage_1.154.O._10N.222.52.B12_19	89a9693298a8d9b02acdced8af32dfc5	479	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	268	285	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_19	89a9693298a8d9b02acdced8af32dfc5	479	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	292	314	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_58	da958b1aaed63d941869c2512fb3144b	75	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	28	50	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_4	f77e22d6cca3b899c913679e4598ad78	331	Pfam	PF04233	Phage Mu protein F like protein	218	322	2.7E-11	T	28-04-2016	IPR006528	Phage head morphogenesis domain		
+Vibriophage_1.154.O._10N.222.52.B12_4	f77e22d6cca3b899c913679e4598ad78	331	TIGRFAM	TIGR01641	phageSPP1_gp7: phage head morphogenesis protein, SPP1 gp7 family	220	321	5.0E-12	T	28-04-2016	IPR006528	Phage head morphogenesis domain		
+Vibriophage_1.154.O._10N.222.52.B12_54	d053b39f5f41178a050689ff3fddf4e7	54	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	26	48	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_26	427164fef268367ddcc20596ce972fcb	242	Pfam	PF11041	Protein of unknown function (DUF2612)	11	198	3.9E-32	T	28-04-2016	IPR021283	Protein of unknown function DUF2612		
+Vibriophage_1.154.O._10N.222.52.B12_8	4e13d733cba287a3aa29733528e684f5	324	Pfam	PF09950	Uncharacterized protein conserved in bacteria (DUF2184)	94	321	1.4E-21	T	28-04-2016	IPR020049	Protein of unknown function DUF2184		
+Vibriophage_1.154.O._10N.222.52.B12_10	5d0d0f67421730a4f0a0879ed3c793b0	118	Pfam	PF13262	Protein of unknown function (DUF4054)	7	108	6.9E-18	T	28-04-2016	IPR025127	Protein of unknown function DUF4054		
+Vibriophage_1.154.O._10N.222.52.B12_25	0481776a1591871baf42e1a5f64be4e5	404	Pfam	PF04865	Baseplate J-like protein	80	223	3.5E-9	T	28-04-2016	IPR006949	Baseplate protein J-like		
+Vibriophage_1.154.O._10N.222.52.B12_27	d7b66ad1cd8d3d353f2eff58b18dfa20	806	Gene3D	G3DSA:3.40.50.1110		553	640	4.5E-12	T	28-04-2016	IPR013830	SGNH hydrolase-type esterase domain		
+Vibriophage_1.154.O._10N.222.52.B12_27	d7b66ad1cd8d3d353f2eff58b18dfa20	806	SUPERFAMILY	SSF52266		558	654	8.61E-11	T	28-04-2016	IPR013830	SGNH hydrolase-type esterase domain		
+Vibriophage_1.154.O._10N.222.52.B12_53	301e26152618c54e6a1bcfd146dbb237	65	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	42	64	-	T	28-04-2016
+Vibriophage_1.154.O._10N.222.52.B12_3	ad1c6871b9696b16f04ec635030e9262	413	Pfam	PF06381	Protein of unknown function (DUF1073)	68	358	5.4E-43	T	28-04-2016	IPR024459	Protein of unknown function DUF1073		

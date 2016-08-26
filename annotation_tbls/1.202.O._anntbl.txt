@@ -1,0 +1,412 @@
+>Features Vibrio_virus_1.202.O._10N.222.45.E8
+680	1666	gene
+			locus_tag	NVP1202O_01
+680	1666	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_01
+3142	2105	gene
+			locus_tag	NVP1202O_02
+3142	2105	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_02
+			db_xref	egg:ENOG4111HU7
+			note	aclame_best_match:protein:plasmid:24367
+			note	tara_best_match:OM-RGC.v1.004697219
+4187	3159	gene
+			locus_tag	NVP1202O_03
+4187	3159	CDS
+			product	DNA breaking-rejoining enzyme, catalytic core
+			protein_id	NVP1202O_03
+			db_xref	cog:COG0582
+			db_xref	egg:ENOG410XRDV
+			db_xref	pog:POG0275
+			db_xref	InterPro:IPR011010
+			note	aclame_best_match:protein:proph:164506
+			note	tara_best_match:OM-RGC.v1.004711837
+			note	cvp_best_match:RF_PEP_418489683
+4816	4187	gene
+			locus_tag	NVP1202O_04
+4816	4187	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_04
+6218	4809	gene
+			locus_tag	NVP1202O_05
+6218	4809	CDS
+			product	Coil containing protein
+			protein_id	NVP1202O_05
+			db_xref	pfam:PF13304
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.002332198
+6922	6293	gene
+			locus_tag	NVP1202O_06
+6922	6293	CDS
+			product	Bacteriophage CI repressor, C-terminal
+			protein_id	NVP1202O_06
+			db_xref	cog:COG2932
+			db_xref	egg:none
+			db_xref	pog:POG2215
+			db_xref	InterPro:IPR032499
+			note	aclame_best_match:protein:proph:164499
+			note	tara_best_match:OM-RGC.v1.016440437
+			note	cvp_best_match:RF_PEP_165970238
+7083	7283	gene
+			locus_tag	NVP1202O_07
+7083	7283	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_07
+			db_xref	egg:none
+			db_xref	pog:POG3379
+			note	aclame_best_match:protein:proph:174078
+			note	tara_best_match:OM-RGC.v1.035569398
+			note	cvp_best_match:RF_PEP_109302900
+7280	7453	gene
+			locus_tag	NVP1202O_08
+7280	7453	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_08
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.038128605
+7463	8002	gene
+			locus_tag	NVP1202O_09
+7463	8002	CDS
+			product	Bacteriophage 186, CII
+			protein_id	NVP1202O_09
+			db_xref	pfam:PF06892
+			db_xref	egg:none
+			db_xref	pog:POG2186
+			db_xref	InterPro:IPR009679
+			note	aclame_best_match:protein:proph:176026
+			note	tara_best_match:OM-RGC.v1.020727682
+			note	cvp_best_match:CAMPEP_0000012698
+8013	8222	gene
+			locus_tag	NVP1202O_10
+8013	8222	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_10
+			db_xref	egg:none
+8228	8635	gene
+			locus_tag	NVP1202O_11
+8228	8635	CDS
+			product	Coil containing protein
+			protein_id	NVP1202O_11
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.024268268
+8635	8865	gene
+			locus_tag	NVP1202O_12
+8635	8865	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_12
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:172183
+			note	tara_best_match:OM-RGC.v1.034075718
+			note	cvp_best_match:RF_PEP_17975116
+8862	9083	gene
+			locus_tag	NVP1202O_13
+8862	9083	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_13
+			note	aclame_best_match:protein:proph:169051
+			note	tara_best_match:OM-RGC.v1.034434982
+			note	cvp_best_match:RF_PEP_165970248
+9080	9358	gene
+			locus_tag	NVP1202O_14
+9080	9358	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_14
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.031732021
+9359	11293	gene
+			locus_tag	NVP1202O_15
+9359	11293	CDS
+			product	Coil containing protein
+			protein_id	NVP1202O_15
+			db_xref	egg:ENOG410YQ7Z
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.000871142
+11457	11603	gene
+			locus_tag	NVP1202O_16
+11457	11603	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_16
+11656	11892	gene
+			locus_tag	NVP1202O_17
+11656	11892	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_17
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:176031
+			note	tara_best_match:OM-RGC.v1.031731697
+			note	cvp_best_match:CAMPEP_0000012720
+12341	11889	gene
+			locus_tag	NVP1202O_18
+12341	11889	CDS
+			product	Zinc finger, Ogr/Delta-type
+			protein_id	NVP1202O_18
+			db_xref	egg:ENOG4111Y02
+			db_xref	InterPro:IPR007684
+			note	tara_best_match:OM-RGC.v1.024319608
+13441	12407	gene
+			locus_tag	NVP1202O_19
+13441	12407	CDS
+			product	Bacteriophage/Gene transfer agent portal protein
+			protein_id	NVP1202O_19
+			db_xref	pfam:PF04860
+			db_xref	cog:COG4695
+			db_xref	egg:none
+			db_xref	pog:POG0059
+			db_xref	InterPro:IPR006944
+			note	aclame_best_match:protein:vir:267
+			note	tara_best_match:OM-RGC.v1.005006172
+			note	cvp_best_match:RF_PEP_17975125
+15210	13438	gene
+			locus_tag	NVP1202O_20
+15210	13438	CDS
+			product	Terminase, large subunit
+			protein_id	NVP1202O_20
+			db_xref	cog:COG4373
+			db_xref	egg:none
+			db_xref	pog:POG0252
+			db_xref	InterPro:IPR004921
+			note	aclame_best_match:protein:proph:176016
+			note	tara_best_match:OM-RGC.v1.001011759
+			note	cvp_best_match:CAMPEP_0000012726
+15392	16270	gene
+			locus_tag	NVP1202O_21
+15392	16270	CDS
+			product	Capsid scaffolding protein GpO
+			protein_id	NVP1202O_21
+			db_xref	pfam:PF05929
+			db_xref	egg:none
+			db_xref	pog:POG0566
+			db_xref	InterPro:IPR009228
+			note	aclame_best_match:protein:proph:176017
+			note	tara_best_match:OM-RGC.v1.007562736
+			note	cvp_best_match:CAMPEP_0000012728
+16284	17294	gene
+			locus_tag	NVP1202O_22
+16284	17294	CDS
+			product	Bacteriophage P2, GpN, major capsid
+			protein_id	NVP1202O_22
+			db_xref	pfam:PF05125
+			db_xref	egg:none
+			db_xref	pog:POG0764
+			db_xref	InterPro:IPR006441
+			note	aclame_best_match:protein:vir:78777
+			note	tara_best_match:OM-RGC.v1.005279312
+			note	cvp_best_match:RF_PEP_148727153
+17311	18027	gene
+			locus_tag	NVP1202O_23
+17311	18027	CDS
+			product	Bacteriophage P2, GpM
+			protein_id	NVP1202O_23
+			db_xref	egg:none
+			db_xref	pog:POG0567
+			db_xref	InterPro:IPR010270
+			note	aclame_best_match:protein:proph:176019
+			note	tara_best_match:OM-RGC.v1.011807885
+			note	cvp_best_match:RF_PEP_17975129
+18164	18583	gene
+			locus_tag	NVP1202O_24
+18164	18583	CDS
+			product	Bacteriophage head completion protein GpL
+			protein_id	NVP1202O_24
+			db_xref	pfam:PF05926
+			db_xref	egg:none
+			db_xref	InterPro:IPR009225
+			note	aclame_best_match:protein:proph:176007
+			note	tara_best_match:OM-RGC.v1.025812554
+18580	19071	gene
+			locus_tag	NVP1202O_25
+18580	19071	CDS
+			product	Bacteriophage tail completion protein R
+			protein_id	NVP1202O_25
+			db_xref	pfam:PF06891
+			db_xref	egg:none
+			db_xref	InterPro:IPR009678
+			note	aclame_best_match:protein:proph:176008
+			note	tara_best_match:OM-RGC.v1.022854055
+19055	19711	gene
+			locus_tag	NVP1202O_26
+19055	19711	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_26
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:176009
+			note	tara_best_match:OM-RGC.v1.013948029
+19727	20857	gene
+			locus_tag	NVP1202O_27
+19727	20857	CDS
+			product	Bacteriophage HP1, Orf23
+			protein_id	NVP1202O_27
+			db_xref	pfam:PF10758
+			db_xref	egg:none
+			db_xref	pog:POG2211
+			db_xref	InterPro:IPR019694
+			note	aclame_best_match:protein:proph:176010
+			note	tara_best_match:OM-RGC.v1.003976621
+			note	cvp_best_match:RF_PEP_148727158
+20860	21315	gene
+			locus_tag	NVP1202O_28
+20860	21315	CDS
+			product	Bacteriophage HP1, Orf24
+			protein_id	NVP1202O_28
+			db_xref	pfam:PF10772
+			db_xref	egg:none
+			db_xref	pog:POG2210
+			db_xref	InterPro:IPR019708
+			note	aclame_best_match:protein:proph:176020
+			note	tara_best_match:OM-RGC.v1.024308943
+			note	cvp_best_match:RF_PEP_148727159
+21343	21549	gene
+			locus_tag	NVP1202O_29
+21343	21549	CDS
+			product	Zinc finger, DksA/TraR C4-type
+			protein_id	NVP1202O_29
+			db_xref	cog:COG1734
+			db_xref	egg:none
+			db_xref	pog:POG0585
+			db_xref	InterPro:IPR000962
+			note	aclame_best_match:protein:proph:176021
+			note	tara_best_match:OM-RGC.v1.035324058
+			note	cvp_best_match:RF_PEP_165970266
+21555	21764	gene
+			locus_tag	NVP1202O_30
+21555	21764	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1202O_30
+			db_xref	pfam:PF16080
+			db_xref	egg:none
+			db_xref	pog:POG0765
+			db_xref	InterPro:IPS TMHMM
+			note	aclame_best_match:protein:proph:164462
+			note	tara_best_match:OM-RGC.v1.035173362
+			note	cvp_best_match:CAMPEP_0000012748
+21751	22341	gene
+			locus_tag	NVP1202O_31
+21751	22341	CDS
+			product	Lysozyme-like domain
+			protein_id	NVP1202O_31
+			db_xref	kegg:K01185
+			db_xref	cog:COG3772
+			db_xref	egg:none
+			db_xref	pog:POG0225
+			db_xref	InterPro:IPR023346
+			note	aclame_best_match:protein:vir:280
+			note	tara_best_match:OM-RGC.v1.016889167
+			note	cvp_best_match:CAMPEP_0000012750
+22316	22657	gene
+			locus_tag	NVP1202O_32
+22316	22657	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1202O_32
+			db_xref	egg:none
+			db_xref	InterPro:IPS TMHMM
+			note	aclame_best_match:protein:vir:281
+			note	tara_best_match:OM-RGC.v1.029088221
+			note	cvp_best_match:CAMPEP_0000012752
+22862	23122	gene
+			locus_tag	NVP1202O_33
+22862	23122	CDS
+			product	Phage tail assembly chaperone TAC_10
+			protein_id	NVP1202O_33
+			db_xref	pfam:PF10963
+			db_xref	egg:none
+			db_xref	InterPro:IPR024406
+			note	aclame_best_match:protein:proph:176011
+			note	tara_best_match:OM-RGC.v1.032681180
+23335	25221	gene
+			locus_tag	NVP1202O_34
+23335	25221	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1202O_34
+			db_xref	cog:COG5283
+			db_xref	egg:none
+			db_xref	InterPro:IPS TMHMM
+			note	aclame_best_match:protein:proph:169046
+			note	tara_best_match:OM-RGC.v1.000828585
+			note	cvp_best_match:CAMPEP_0000012756
+25221	25568	gene
+			locus_tag	NVP1202O_35
+25221	25568	CDS
+			product	Bacteriophage HP1, Orf28
+			protein_id	NVP1202O_35
+			db_xref	pfam:PF10761
+			db_xref	egg:none
+			db_xref	pog:POG2207
+			db_xref	InterPro:IPR019697
+			note	aclame_best_match:protein:proph:176014
+			note	tara_best_match:OM-RGC.v1.028834113
+			note	cvp_best_match:NCBI_PEP_323146158
+25561	26748	gene
+			locus_tag	NVP1202O_36
+25561	26748	CDS
+			product	Baseplate protein J-like
+			protein_id	NVP1202O_36
+			db_xref	cog:COG3299
+			db_xref	egg:none
+			db_xref	pog:POG0077
+			db_xref	InterPro:IPR006949
+			note	aclame_best_match:protein:proph:175996
+			note	tara_best_match:OM-RGC.v1.003475152
+			note	cvp_best_match:RF_PEP_148727168
+26693	27337	gene
+			locus_tag	NVP1202O_37
+26693	27337	CDS
+			product	Phage tail protein (Tail_P2_I)
+			protein_id	NVP1202O_37
+			db_xref	pfam:PF09684
+			db_xref	egg:none
+			db_xref	pog:POG2206
+			note	aclame_best_match:protein:proph:175997
+			note	tara_best_match:OM-RGC.v1.016294550
+			note	cvp_best_match:NCBI_PEP_323146146
+27351	29858	gene
+			locus_tag	NVP1202O_38
+27351	29858	CDS
+			product	Phage tail fibre protein
+			protein_id	NVP1202O_38
+			db_xref	InterPro:IPR022225
+			note	tara_best_match:OM-RGC.v1.000303786
+29861	30397	gene
+			locus_tag	NVP1202O_39
+29861	30397	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_39
+			db_xref	egg:none
+			db_xref	pog:POG2204
+			note	aclame_best_match:protein:proph:176001
+			note	tara_best_match:OM-RGC.v1.019948846
+			note	cvp_best_match:NCBI_PEP_323146147
+30407	31096	gene
+			locus_tag	NVP1202O_40
+30407	31096	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_40
+			db_xref	egg:none
+			db_xref	pog:POG2202
+			note	aclame_best_match:protein:proph:176002
+			note	tara_best_match:OM-RGC.v1.012723057
+			note	cvp_best_match:RF_PEP_148727175
+31087	31782	gene
+			locus_tag	NVP1202O_41
+31087	31782	CDS
+			product	Coil containing protein
+			protein_id	NVP1202O_41
+			db_xref	cog:COG3501
+			db_xref	egg:none
+			db_xref	pog:POG2202
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:176003
+			note	tara_best_match:OM-RGC.v1.012513831
+			note	cvp_best_match:RF_PEP_17981851
+31785	31982	gene
+			locus_tag	NVP1202O_42
+31785	31982	CDS
+			product	hypothetical protein
+			protein_id	NVP1202O_42
+			db_xref	egg:none
+			db_xref	pog:POG0978
+			note	aclame_best_match:protein:proph:176004
+			note	tara_best_match:OM-RGC.v1.035778362
+			note	cvp_best_match:CAMPEP_0000012684

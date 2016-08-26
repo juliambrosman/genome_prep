@@ -1,0 +1,502 @@
+>Features Vibrio_virus_1.188.A._10N.286.51.A6
+310	104	gene
+			locus_tag	NVP1188A_01
+310	104	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_01
+637	479	gene
+			locus_tag	NVP1188A_02
+637	479	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_02
+982	695	gene
+			locus_tag	NVP1188A_03
+982	695	CDS
+			product	Coil containing protein
+			protein_id	NVP1188A_03
+			db_xref	InterPro:IPS Coils
+1341	985	gene
+			locus_tag	NVP1188A_04
+1341	985	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_04
+			note	cvp_best_match:CAMPEP_0000029076
+1553	1344	gene
+			locus_tag	NVP1188A_05
+1553	1344	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_05
+1747	1550	gene
+			locus_tag	NVP1188A_06
+1747	1550	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP1188A_06
+			db_xref	InterPro:IPR011991
+1987	1757	gene
+			locus_tag	NVP1188A_07
+1987	1757	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_07
+2376	1990	gene
+			locus_tag	NVP1188A_08
+2376	1990	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_08
+2576	2379	gene
+			locus_tag	NVP1188A_09
+2576	2379	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1188A_09
+			db_xref	InterPro:IPS TMHMM
+2906	2586	gene
+			locus_tag	NVP1188A_10
+2906	2586	CDS
+			product	Coil containing protein
+			protein_id	NVP1188A_10
+			db_xref	InterPro:IPS Coils
+3308	2952	gene
+			locus_tag	NVP1188A_11
+3308	2952	CDS
+			product	Homeodomain-like
+			protein_id	NVP1188A_11
+			db_xref	InterPro:IPR009057
+3711	3292	gene
+			locus_tag	NVP1188A_12
+3711	3292	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_12
+3951	3721	gene
+			locus_tag	NVP1188A_13
+3951	3721	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1188A_13
+			db_xref	InterPro:IPS TMHMM
+4235	3954	gene
+			locus_tag	NVP1188A_14
+4235	3954	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_14
+			note	aclame_best_match:protein:vir:80780
+			note	tara_best_match:OM-RGC.v1.030511836
+			note	cvp_best_match:RF_PEP_327197777
+4671	4246	gene
+			locus_tag	NVP1188A_15
+4671	4246	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_15
+5233	4646	gene
+			locus_tag	NVP1188A_16
+5233	4646	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_16
+5641	5297	gene
+			locus_tag	NVP1188A_17
+5641	5297	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_17
+5915	5631	gene
+			locus_tag	NVP1188A_18
+5915	5631	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_18
+6339	5935	gene
+			locus_tag	NVP1188A_19
+6339	5935	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_19
+6965	6675	gene
+			locus_tag	NVP1188A_20
+6965	6675	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_20
+7558	7001	gene
+			locus_tag	NVP1188A_21
+7558	7001	CDS
+			product	Phosphoribosyl-ATP pyrophosphohydrolase-like
+			protein_id	NVP1188A_21
+			db_xref	InterPro:IPR021130
+7925	7539	gene
+			locus_tag	NVP1188A_22
+7925	7539	CDS
+			product	HNH nuclease
+			protein_id	NVP1188A_22
+			db_xref	InterPro:IPR003615
+			note	tara_best_match:OM-RGC.v1.017243657
+8707	8318	gene
+			locus_tag	NVP1188A_23
+8707	8318	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP1188A_23
+			db_xref	InterPro:IPR011991
+10656	9022	gene
+			locus_tag	NVP1188A_24
+10656	9022	CDS
+			product	RIIB EARLY PROTECTOR PROPHAGE-INDUCED MEMBRANE FROM LYSIS DNA-BINDING RIIA-RIIB DNA
+			protein_id	NVP1188A_24
+			db_xref	InterPro:IPS ProDom
+13211	10659	gene
+			locus_tag	NVP1188A_25
+13211	10659	CDS
+			product	Histidine kinase-like ATPase, C-terminal domain
+			protein_id	NVP1188A_25
+			db_xref	InterPro:IPR003594
+13716	13243	gene
+			locus_tag	NVP1188A_26
+13716	13243	CDS
+			product	Macro domain
+			protein_id	NVP1188A_26
+			db_xref	pog:POG1382
+			db_xref	InterPro:IPR002589
+			note	aclame_best_match:protein:vir:6531
+			note	tara_best_match:OM-RGC.v1.024771101
+			note	cvp_best_match:RF_PEP_238694971
+13833	14573	gene
+			locus_tag	NVP1188A_27
+13833	14573	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_27
+14582	16210	gene
+			locus_tag	NVP1188A_28
+14582	16210	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_28
+			db_xref	egg:none
+			db_xref	pog:POG0042
+			note	aclame_best_match:protein:vir:95873
+			note	tara_best_match:OM-RGC.v1.001374367
+			note	cvp_best_match:RF_PEP_237651533
+16210	16986	gene
+			locus_tag	NVP1188A_29
+16210	16986	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_29
+16983	18011	gene
+			locus_tag	NVP1188A_30
+16983	18011	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_30
+18012	18338	gene
+			locus_tag	NVP1188A_31
+18012	18338	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_31
+18348	18734	gene
+			locus_tag	NVP1188A_32
+18348	18734	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_32
+18731	19729	gene
+			locus_tag	NVP1188A_33
+18731	19729	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_33
+19729	20751	gene
+			locus_tag	NVP1188A_34
+19729	20751	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_34
+20748	21242	gene
+			locus_tag	NVP1188A_35
+20748	21242	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_35
+21239	22279	gene
+			locus_tag	NVP1188A_36
+21239	22279	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_36
+22282	23616	gene
+			locus_tag	NVP1188A_37
+22282	23616	CDS
+			product	Galactose-binding domain-like
+			protein_id	NVP1188A_37
+			db_xref	InterPro:IPR008979
+23649	24737	gene
+			locus_tag	NVP1188A_38
+23649	24737	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_38
+24792	25169	gene
+			locus_tag	NVP1188A_39
+24792	25169	CDS
+			product	Hedgehog signalling/DD-peptidase zinc-binding domain
+			protein_id	NVP1188A_39
+			db_xref	InterPro:IPR009045
+			note	tara_best_match:OM-RGC.v1.027457100
+25171	25377	gene
+			locus_tag	NVP1188A_40
+25171	25377	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1188A_40
+			db_xref	InterPro:IPS TMHMM
+25477	25824	gene
+			locus_tag	NVP1188A_41
+25477	25824	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1188A_41
+			db_xref	InterPro:IPS TMHMM
+25980	27647	gene
+			locus_tag	NVP1188A_42
+25980	27647	CDS
+			product	Domain of unknown function DUF1983
+			protein_id	NVP1188A_42
+			db_xref	InterPro:IPR015406
+27658	28293	gene
+			locus_tag	NVP1188A_43
+27658	28293	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_43
+28301	28609	gene
+			locus_tag	NVP1188A_44
+28301	28609	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_44
+28626	30761	gene
+			locus_tag	NVP1188A_45
+28626	30761	CDS
+			product	Coil containing protein
+			protein_id	NVP1188A_45
+			db_xref	InterPro:IPS Coils
+30850	31260	gene
+			locus_tag	NVP1188A_46
+30850	31260	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_46
+31276	32307	gene
+			locus_tag	NVP1188A_47
+31276	32307	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_47
+32331	33530	gene
+			locus_tag	NVP1188A_48
+32331	33530	CDS
+			product	capsid_maj_N4: major capsid protein, N4-gp56 family
+			protein_id	NVP1188A_48
+			db_xref	egg:none
+			db_xref	pog:POG2384
+			db_xref	InterPro:IPS TIGRFAM
+			note	aclame_best_match:protein:vir:95875
+			note	tara_best_match:OM-RGC.v1.003495888
+			note	cvp_best_match:RF_PEP_119952248
+33604	34254	gene
+			locus_tag	NVP1188A_49
+33604	34254	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_49
+34265	35032	gene
+			locus_tag	NVP1188A_50
+34265	35032	CDS
+			product	Coil containing protein
+			protein_id	NVP1188A_50
+			db_xref	InterPro:IPS Coils
+35061	37178	gene
+			locus_tag	NVP1188A_51
+35061	37178	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1188A_51
+			db_xref	InterPro:IPS TMHMM
+37188	37535	gene
+			locus_tag	NVP1188A_52
+37188	37535	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_52
+37545	39305	gene
+			locus_tag	NVP1188A_53
+37545	39305	CDS
+			product	Coil containing protein
+			protein_id	NVP1188A_53
+			db_xref	InterPro:IPS Coils
+39384	51665	gene
+			locus_tag	NVP1188A_54
+39384	51665	CDS
+			product	Coil containing protein
+			protein_id	NVP1188A_54
+			db_xref	InterPro:IPS Coils
+51717	51974	gene
+			locus_tag	NVP1188A_55
+51717	51974	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_55
+52722	51886	gene
+			locus_tag	NVP1188A_56
+52722	51886	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_56
+52821	53033	gene
+			locus_tag	NVP1188A_57
+52821	53033	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_57
+53873	53133	gene
+			locus_tag	NVP1188A_58
+53873	53133	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_58
+54675	53890	gene
+			locus_tag	NVP1188A_59
+54675	53890	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_59
+56862	54697	gene
+			locus_tag	NVP1188A_60
+56862	54697	CDS
+			product	Primase, C-terminal 1
+			protein_id	NVP1188A_60
+			db_xref	InterPro:IPR014820
+57866	56868	gene
+			locus_tag	NVP1188A_61
+57866	56868	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_61
+			db_xref	egg:none
+			db_xref	pog:POG2375
+			note	aclame_best_match:protein:vir:95828
+			note	tara_best_match:OM-RGC.v1.005663243
+			note	cvp_best_match:RF_PEP_282598906
+60422	57939	gene
+			locus_tag	NVP1188A_62
+60422	57939	CDS
+			product	Coil containing protein
+			protein_id	NVP1188A_62
+			db_xref	egg:none
+			db_xref	pog:POG0026
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:95863
+			note	tara_best_match:OM-RGC.v1.000268856
+			note	cvp_best_match:RF_PEP_418489343
+61855	60422	gene
+			locus_tag	NVP1188A_63
+61855	60422	CDS
+			product	von Willebrand factor, type A
+			protein_id	NVP1188A_63
+			db_xref	InterPro:IPR002035
+62960	61842	gene
+			locus_tag	NVP1188A_64
+62960	61842	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_64
+63213	63028	gene
+			locus_tag	NVP1188A_65
+63213	63028	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_65
+64137	63223	gene
+			locus_tag	NVP1188A_66
+64137	63223	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_66
+64834	64124	gene
+			locus_tag	NVP1188A_67
+64834	64124	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_67
+65642	65121	gene
+			locus_tag	NVP1188A_68
+65642	65121	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_68
+			note	tara_best_match:OM-RGC.v1.021127329
+			note	cvp_best_match:RF_PEP_345461833
+66245	65793	gene
+			locus_tag	NVP1188A_69
+66245	65793	CDS
+			product	DNA-directed RNA polymerase, phage-type
+			protein_id	NVP1188A_69
+			db_xref	InterPro:IPR002092
+66493	66248	gene
+			locus_tag	NVP1188A_70
+66493	66248	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_70
+66886	66506	gene
+			locus_tag	NVP1188A_71
+66886	66506	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_71
+67221	66883	gene
+			locus_tag	NVP1188A_72
+67221	66883	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_72
+67432	67214	gene
+			locus_tag	NVP1188A_73
+67432	67214	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_73
+67629	67435	gene
+			locus_tag	NVP1188A_74
+67629	67435	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_74
+68141	67809	gene
+			locus_tag	NVP1188A_75
+68141	67809	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_75
+68350	68138	gene
+			locus_tag	NVP1188A_76
+68350	68138	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_76
+68516	68328	gene
+			locus_tag	NVP1188A_77
+68516	68328	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_77
+68716	68519	gene
+			locus_tag	NVP1188A_78
+68716	68519	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_78
+69159	68719	gene
+			locus_tag	NVP1188A_79
+69159	68719	CDS
+			product	Conserved hypothetical protein CHP02464
+			protein_id	NVP1188A_79
+			db_xref	pfam:PF08719
+			db_xref	InterPro:IPR012816
+			note	tara_best_match:OM-RGC.v1.022945986
+			note	cvp_best_match:CAMPEP_0000008054
+69397	69152	gene
+			locus_tag	NVP1188A_80
+69397	69152	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_80
+69581	69414	gene
+			locus_tag	NVP1188A_81
+69581	69414	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1188A_81
+			db_xref	InterPro:IPS TMHMM
+70261	69899	gene
+			locus_tag	NVP1188A_82
+70261	69899	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_82
+70589	70392	gene
+			locus_tag	NVP1188A_83
+70589	70392	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_83
+70745	70617	gene
+			locus_tag	NVP1188A_84
+70745	70617	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1188A_84
+			db_xref	InterPro:IPS TMHMM
+71282	70842	gene
+			locus_tag	NVP1188A_85
+71282	70842	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_85
+71621	71376	gene
+			locus_tag	NVP1188A_86
+71621	71376	CDS
+			product	hypothetical protein
+			protein_id	NVP1188A_86
+6475 	6548 	gene
+			locus_tag	NVP1188A_tRNA_1
+6475 	6548 	tRNA
+			locus_tag	NVP1188A_tRNA_1
+			product	tRNA-Pro
+			note	anticodon:TGG

@@ -1,0 +1,438 @@
+>Features Vibrio_virus_1.009.O._10N.261.51.C9
+125	856	gene
+			locus_tag	NVP1009O_01
+125	856	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_01
+			note	cvp_best_match:NCBI_PEP_37626158
+849	2879	gene
+			locus_tag	NVP1009O_02
+849	2879	CDS
+			product	Bacteriophage lambda, GpA
+			protein_id	NVP1009O_02
+			db_xref	pfam:PF05876
+			db_xref	InterPro:IPR008866
+			note	tara_best_match:OM-RGC.v1.000699516
+			note	cvp_best_match:NCBI_PEP_37626159
+2916	3194	gene
+			locus_tag	NVP1009O_03
+2916	3194	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_03
+			note	cvp_best_match:NCBI_PEP_37626095
+3176	4882	gene
+			locus_tag	NVP1009O_04
+3176	4882	CDS
+			product	Phage portal protein, lambda family
+			protein_id	NVP1009O_04
+			db_xref	InterPro:IPR006429
+			note	tara_best_match:OM-RGC.v1.001427799
+			note	cvp_best_match:NCBI_PEP_37626161
+4866	6053	gene
+			locus_tag	NVP1009O_05
+4866	6053	CDS
+			product	Peptidase S49
+			protein_id	NVP1009O_05
+			db_xref	InterPro:IPR002142
+			note	tara_best_match:OM-RGC.v1.003605502
+			note	cvp_best_match:NCBI_PEP_37626162
+6069	6464	gene
+			locus_tag	NVP1009O_06
+6069	6464	CDS
+			product	Head decoration protein D
+			protein_id	NVP1009O_06
+			db_xref	pfam:PF02924
+			db_xref	InterPro:IPR004195
+			note	cvp_best_match:NCBI_PEP_37626098
+6479	7561	gene
+			locus_tag	NVP1009O_07
+6479	7561	CDS
+			product	Phage major capsid protein E
+			protein_id	NVP1009O_07
+			db_xref	pfam:PF03864
+			note	tara_best_match:OM-RGC.v1.004370017
+			note	cvp_best_match:NCBI_PEP_37626164
+7616	7948	gene
+			locus_tag	NVP1009O_08
+7616	7948	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_08
+			note	cvp_best_match:NCBI_PEP_37626100
+7945	8331	gene
+			locus_tag	NVP1009O_09
+7945	8331	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_09
+			note	tara_best_match:OM-RGC.v1.027154273
+			note	cvp_best_match:NCBI_PEP_37626166
+8324	9013	gene
+			locus_tag	NVP1009O_10
+8324	9013	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_10
+			note	tara_best_match:OM-RGC.v1.013233358
+			note	cvp_best_match:NCBI_PEP_37626167
+9024	10526	gene
+			locus_tag	NVP1009O_11
+9024	10526	CDS
+			product	Tail sheath protein
+			protein_id	NVP1009O_11
+			db_xref	pfam:PF04984
+			db_xref	cog:COG4386
+			db_xref	egg:COG4386
+			db_xref	InterPro:IPR007067
+			note	tara_best_match:OM-RGC.v1.001709828
+			note	cvp_best_match:NCBI_PEP_37626103
+10539	10922	gene
+			locus_tag	NVP1009O_12
+10539	10922	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_12
+			note	tara_best_match:OM-RGC.v1.027157979
+			note	cvp_best_match:NCBI_PEP_37626104
+11011	11406	gene
+			locus_tag	NVP1009O_13
+11011	11406	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_13
+			note	cvp_best_match:NCBI_PEP_37626170
+11610	13454	gene
+			locus_tag	NVP1009O_14
+11610	13454	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1009O_14
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.001180007
+			note	cvp_best_match:NCBI_PEP_37626172
+13454	14707	gene
+			locus_tag	NVP1009O_15
+13454	14707	CDS
+			product	Coil containing protein
+			protein_id	NVP1009O_15
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.003029205
+			note	cvp_best_match:NCBI_PEP_37626173
+14700	15959	gene
+			locus_tag	NVP1009O_16
+14700	15959	CDS
+			product	LysM domain
+			protein_id	NVP1009O_16
+			db_xref	InterPro:IPR018392
+			note	tara_best_match:OM-RGC.v1.003088209
+			note	cvp_best_match:NCBI_PEP_37626109
+15938	16525	gene
+			locus_tag	NVP1009O_17
+15938	16525	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_17
+			note	tara_best_match:OM-RGC.v1.015601559
+			note	cvp_best_match:NCBI_PEP_37626110
+16544	16951	gene
+			locus_tag	NVP1009O_18
+16544	16951	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_18
+			db_xref	egg:ENOG410XXU2
+			note	tara_best_match:OM-RGC.v1.026464483
+			note	cvp_best_match:NCBI_PEP_37626111
+16954	17619	gene
+			locus_tag	NVP1009O_19
+16954	17619	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_19
+			note	cvp_best_match:NCBI_PEP_37626112
+17629	18816	gene
+			locus_tag	NVP1009O_20
+17629	18816	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_20
+			note	tara_best_match:OM-RGC.v1.003454377
+			note	cvp_best_match:NCBI_PEP_37626113
+18809	19540	gene
+			locus_tag	NVP1009O_21
+18809	19540	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_21
+			note	cvp_best_match:NCBI_PEP_37626179
+19553	20122	gene
+			locus_tag	NVP1009O_22
+19553	20122	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_22
+			note	cvp_best_match:NCBI_PEP_37626115
+20141	20359	gene
+			locus_tag	NVP1009O_23
+20141	20359	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_23
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.034705454
+			note	cvp_best_match:CAMPEP_0000006714
+20362	20595	gene
+			locus_tag	NVP1009O_24
+20362	20595	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_24
+20617	20889	gene
+			locus_tag	NVP1009O_25
+20617	20889	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_25
+			note	tara_best_match:OM-RGC.v1.034313209
+20902	21294	gene
+			locus_tag	NVP1009O_26
+20902	21294	CDS
+			product	Peptidase M15A, C-terminal
+			protein_id	NVP1009O_26
+			db_xref	InterPro:IPR013230
+			note	tara_best_match:OM-RGC.v1.027457100
+21299	21895	gene
+			locus_tag	NVP1009O_27
+21299	21895	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1009O_27
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.017690059
+			note	cvp_best_match:NCBI_PEP_37626183
+22001	22228	gene
+			locus_tag	NVP1009O_28
+22001	22228	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_28
+			note	cvp_best_match:NCBI_PEP_37626119
+22233	22805	gene
+			locus_tag	NVP1009O_29
+22233	22805	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_29
+23073	23552	gene
+			locus_tag	NVP1009O_30
+23073	23552	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1009O_30
+			db_xref	InterPro:IPS TMHMM
+			note	cvp_best_match:NCBI_PEP_37626122
+23561	23830	gene
+			locus_tag	NVP1009O_31
+23561	23830	CDS
+			product	Coil containing protein
+			protein_id	NVP1009O_31
+			db_xref	InterPro:IPS Coils
+			note	cvp_best_match:NCBI_PEP_37626188
+24292	23855	gene
+			locus_tag	NVP1009O_32
+24292	23855	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_32
+24846	24289	gene
+			locus_tag	NVP1009O_33
+24846	24289	CDS
+			product	Ribonuclease H-like domain
+			protein_id	NVP1009O_33
+			db_xref	kegg:none
+			db_xref	pfam:PF16473
+			db_xref	cog:COG0847
+			db_xref	egg:ENOG4111NBJ
+			db_xref	pog:POG0982
+			db_xref	InterPro:IPR012337
+			note	aclame_best_match:protein:proph:172199
+			note	tara_best_match:OM-RGC.v1.018492473
+			note	cvp_best_match:RF_PEP_428782342
+25379	24843	gene
+			locus_tag	NVP1009O_34
+25379	24843	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_34
+			note	cvp_best_match:NCBI_PEP_37626126
+25642	25382	gene
+			locus_tag	NVP1009O_35
+25642	25382	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_35
+			note	tara_best_match:OM-RGC.v1.031305163
+25874	25644	gene
+			locus_tag	NVP1009O_36
+25874	25644	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1009O_36
+			db_xref	InterPro:IPS TMHMM
+26113	25874	gene
+			locus_tag	NVP1009O_37
+26113	25874	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_37
+26374	26183	gene
+			locus_tag	NVP1009O_38
+26374	26183	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_38
+28758	26380	gene
+			locus_tag	NVP1009O_39
+28758	26380	CDS
+			product	DNA-directed DNA polymerase, family A, palm domain
+			protein_id	NVP1009O_39
+			db_xref	InterPro:IPR001098
+			note	tara_best_match:OM-RGC.v1.000330922
+			note	cvp_best_match:NCBI_PEP_37626129
+29620	28826	gene
+			locus_tag	NVP1009O_40
+29620	28826	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_40
+			note	cvp_best_match:NCBI_PEP_37626131
+30763	29633	gene
+			locus_tag	NVP1009O_41
+30763	29633	CDS
+			product	Protein of unknown function DUF2800
+			protein_id	NVP1009O_41
+			db_xref	pfam:PF10926
+			db_xref	InterPro:IPR021229
+			note	tara_best_match:OM-RGC.v1.006276030
+			note	cvp_best_match:NCBI_PEP_37626198
+31627	30767	gene
+			locus_tag	NVP1009O_42
+31627	30767	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_42
+			note	cvp_best_match:NCBI_PEP_37626199
+31721	31918	gene
+			locus_tag	NVP1009O_43
+31721	31918	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP1009O_43
+			db_xref	InterPro:IPR011991
+31908	34556	gene
+			locus_tag	NVP1009O_44
+31908	34556	CDS
+			product	Homing endonuclease
+			protein_id	NVP1009O_44
+			db_xref	InterPro:IPR027434
+			note	tara_best_match:OM-RGC.v1.000247303
+			note	cvp_best_match:RF_PEP_448245151
+34556	35062	gene
+			locus_tag	NVP1009O_45
+34556	35062	CDS
+			product	HD domain
+			protein_id	NVP1009O_45
+			db_xref	kegg:K06952
+			db_xref	cog:COG1896
+			db_xref	egg:COG1896
+			db_xref	pog:POG3617
+			db_xref	InterPro:IPR006674
+			note	aclame_best_match:protein:proph:184289
+			note	tara_best_match:OM-RGC.v1.021569491
+			note	cvp_best_match:NCBI_PEP_37626136
+35059	35577	gene
+			locus_tag	NVP1009O_46
+35059	35577	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_46
+			note	tara_best_match:OM-RGC.v1.021685160
+			note	cvp_best_match:NCBI_PEP_37626202
+35613	35939	gene
+			locus_tag	NVP1009O_47
+35613	35939	CDS
+			product	Homeodomain-like
+			protein_id	NVP1009O_47
+			db_xref	InterPro:IPR009057
+			note	tara_best_match:OM-RGC.v1.030394177
+			note	cvp_best_match:NCBI_PEP_37626203
+35927	36109	gene
+			locus_tag	NVP1009O_48
+35927	36109	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1009O_48
+			db_xref	InterPro:IPS TMHMM
+36109	36285	gene
+			locus_tag	NVP1009O_49
+36109	36285	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_49
+			note	cvp_best_match:NCBI_PEP_37626204
+36446	36655	gene
+			locus_tag	NVP1009O_50
+36446	36655	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_50
+36665	36904	gene
+			locus_tag	NVP1009O_51
+36665	36904	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_51
+36891	37226	gene
+			locus_tag	NVP1009O_52
+36891	37226	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_52
+			note	cvp_best_match:NCBI_PEP_37626206
+37223	37420	gene
+			locus_tag	NVP1009O_53
+37223	37420	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_53
+37417	37677	gene
+			locus_tag	NVP1009O_54
+37417	37677	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_54
+37706	37849	gene
+			locus_tag	NVP1009O_55
+37706	37849	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_55
+38489	37893	gene
+			locus_tag	NVP1009O_56
+38489	37893	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_56
+39004	38600	gene
+			locus_tag	NVP1009O_57
+39004	38600	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1009O_57
+			db_xref	InterPro:IPS TMHMM
+39261	39001	gene
+			locus_tag	NVP1009O_58
+39261	39001	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP1009O_58
+			db_xref	InterPro:IPR011991
+			note	cvp_best_match:NCBI_PEP_37626211
+40670	39258	gene
+			locus_tag	NVP1009O_59
+40670	39258	CDS
+			product	S-adenosyl-L-methionine-dependent methyltransferase
+			protein_id	NVP1009O_59
+			db_xref	kegg:K00558
+			db_xref	pfam:PF00145
+			db_xref	cog:COG0270
+			db_xref	egg:COG0270
+			db_xref	InterPro:IPR029063
+			note	aclame_best_match:protein:proph:166562
+			note	tara_best_match:OM-RGC.v1.004580008
+			note	cvp_best_match:RF_PEP_422936552
+43045	40667	gene
+			locus_tag	NVP1009O_60
+43045	40667	CDS
+			product	DNA primase/polymerase, bifunctional, N-terminal
+			protein_id	NVP1009O_60
+			db_xref	InterPro:IPR015330
+			note	cvp_best_match:NCBI_PEP_37626216
+43211	43020	gene
+			locus_tag	NVP1009O_61
+43211	43020	CDS
+			product	Homeodomain-like
+			protein_id	NVP1009O_61
+			db_xref	InterPro:IPR009057
+43658	44347	gene
+			locus_tag	NVP1009O_62
+43658	44347	CDS
+			product	hypothetical protein
+			protein_id	NVP1009O_62
+			note	tara_best_match:OM-RGC.v1.012175920
+			note	cvp_best_match:NCBI_PEP_37626218
+28877	29053	gene
+			locus_tag	NVP1009O_CRISPR-like_1
+28877	29053	ncRNA
+			product	 note=CRISPR region
+			locus_tag	NVP1009O_CRISPR-like_1

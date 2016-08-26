@@ -1,0 +1,73 @@
+Vibriophage_1.264.O._10N.286.51.F2_51	06b93d51ce6ffa9ec0b931561485d658	552	Pfam	PF13155	Toprim-like	159	254	1.4E-6	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_51	06b93d51ce6ffa9ec0b931561485d658	552	Gene3D	G3DSA:3.40.1360.10		143	272	1.3E-20	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_51	06b93d51ce6ffa9ec0b931561485d658	552	SUPERFAMILY	SSF56731		77	265	6.15E-23	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_51	06b93d51ce6ffa9ec0b931561485d658	552	Pfam	PF03796	DnaB-like helicase C terminal domain	296	549	4.5E-9	T	28-04-2016	IPR007694	DNA helicase, DnaB-like, C-terminal	GO:0003678|GO:0005524|GO:0006260	
+Vibriophage_1.264.O._10N.286.51.F2_51	06b93d51ce6ffa9ec0b931561485d658	552	Gene3D	G3DSA:3.40.50.300		295	551	8.2E-28	T	28-04-2016	IPR027417	P-loop containing nucleoside triphosphate hydrolase		
+Vibriophage_1.264.O._10N.286.51.F2_51	06b93d51ce6ffa9ec0b931561485d658	552	ProSiteProfiles	PS51199	Superfamily 4 helicase domain profile.	290	552	30.868	T	28-04-2016	IPR007694	DNA helicase, DnaB-like, C-terminal	GO:0003678|GO:0005524|GO:0006260	
+Vibriophage_1.264.O._10N.286.51.F2_51	06b93d51ce6ffa9ec0b931561485d658	552	SUPERFAMILY	SSF52540		296	542	6.38E-13	T	28-04-2016	IPR027417	P-loop containing nucleoside triphosphate hydrolase		
+Vibriophage_1.264.O._10N.286.51.F2_40	335bac29b71139cd25e6feccde01f24b	271	Gene3D	G3DSA:3.40.50.1010		80	187	1.6E-6	T	28-04-2016	IPR029060	PIN domain-like		
+Vibriophage_1.264.O._10N.286.51.F2_40	335bac29b71139cd25e6feccde01f24b	271	Gene3D	G3DSA:1.10.150.20		188	222	5.6E-10	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_40	335bac29b71139cd25e6feccde01f24b	271	SUPERFAMILY	SSF47807		179	247	3.29E-10	T	28-04-2016	IPR020045	5'-3' exonuclease, C-terminal domain	GO:0003677|GO:0003824	
+Vibriophage_1.264.O._10N.286.51.F2_40	335bac29b71139cd25e6feccde01f24b	271	SUPERFAMILY	SSF88723		74	146	1.3E-7	T	28-04-2016	IPR029060	PIN domain-like		
+Vibriophage_1.264.O._10N.286.51.F2_40	335bac29b71139cd25e6feccde01f24b	271	SMART	SM00279	Helix-hairpin-helix class 2 (Pol1 family) motifs	173	208	0.0041	T	28-04-2016	IPR008918	Helix-hairpin-helix motif, class 2	GO:0003677|GO:0003824	
+Vibriophage_1.264.O._10N.286.51.F2_65	e8989326ebe1617dfc8b1684415e7c5f	95	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	20	42	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_27	5a948dc53a6d30d668ddc8b9a7d0bfba	117	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	15	37	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_54	ab299a823dedce1b9ef591b72e7c8777	294	Coils	Coil		232	259	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_54	ab299a823dedce1b9ef591b72e7c8777	294	Coils	Coil		281	294	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_62	8403740a22c9eb9924714da498a2dc9c	113	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	7	26	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_46	c2a8af351828e2d2e9ad5dfac12f5e50	658	Pfam	PF00476	DNA polymerase family A	281	656	2.8E-20	T	28-04-2016	IPR001098	DNA-directed DNA polymerase, family A, palm domain	GO:0003677|GO:0003887|GO:0006260	KEGG: 00230+2.7.7.7|KEGG: 00240+2.7.7.7
+Vibriophage_1.264.O._10N.286.51.F2_46	c2a8af351828e2d2e9ad5dfac12f5e50	658	Gene3D	G3DSA:1.10.150.20		440	552	3.4E-8	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_46	c2a8af351828e2d2e9ad5dfac12f5e50	658	SUPERFAMILY	SSF53098		6	156	1.79E-24	T	28-04-2016	IPR012337	Ribonuclease H-like domain	GO:0003676	
+Vibriophage_1.264.O._10N.286.51.F2_46	c2a8af351828e2d2e9ad5dfac12f5e50	658	SMART	SM00482	DNA polymerase A domain	400	618	7.9E-5	T	28-04-2016	IPR001098	DNA-directed DNA polymerase, family A, palm domain	GO:0003677|GO:0003887|GO:0006260	KEGG: 00230+2.7.7.7|KEGG: 00240+2.7.7.7
+Vibriophage_1.264.O._10N.286.51.F2_46	c2a8af351828e2d2e9ad5dfac12f5e50	658	Gene3D	G3DSA:3.30.70.370		372	429	9.0E-28	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_46	c2a8af351828e2d2e9ad5dfac12f5e50	658	Gene3D	G3DSA:3.30.70.370		553	658	9.0E-28	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_46	c2a8af351828e2d2e9ad5dfac12f5e50	658	Gene3D	G3DSA:3.30.420.10		5	184	2.0E-31	T	28-04-2016	IPR012337	Ribonuclease H-like domain	GO:0003676	
+Vibriophage_1.264.O._10N.286.51.F2_46	c2a8af351828e2d2e9ad5dfac12f5e50	658	SUPERFAMILY	SSF56672		168	658	2.11E-50	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_30	1f40e7d0e4027d50c8932c6112065ab5	139	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	5	27	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_30	1f40e7d0e4027d50c8932c6112065ab5	139	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	20	7.0	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_47	8b615c5c0c1aec7a53d573c32cc3664f	101	Gene3D	G3DSA:1.10.10.10		42	99	1.6E-6	T	28-04-2016	IPR011991	Winged helix-turn-helix DNA-binding domain		
+Vibriophage_1.264.O._10N.286.51.F2_47	8b615c5c0c1aec7a53d573c32cc3664f	101	SUPERFAMILY	SSF88659		47	99	1.13E-9	T	28-04-2016	IPR013324	RNA polymerase sigma factor, region 3/4	GO:0003677|GO:0003700|GO:0006352|GO:0006355|GO:0016987	
+Vibriophage_1.264.O._10N.286.51.F2_22	9b9160b009bc62e63e205e4dc6d1c791	149	Gene3D	G3DSA:3.40.630.30		4	127	8.9E-11	T	28-04-2016	IPR016181	Acyl-CoA N-acyltransferase		
+Vibriophage_1.264.O._10N.286.51.F2_22	9b9160b009bc62e63e205e4dc6d1c791	149	SUPERFAMILY	SSF55729		10	127	3.37E-11	T	28-04-2016	IPR016181	Acyl-CoA N-acyltransferase		
+Vibriophage_1.264.O._10N.286.51.F2_22	9b9160b009bc62e63e205e4dc6d1c791	149	ProSiteProfiles	PS51186	Gcn5-related N-acetyltransferase (GNAT) domain profile.	1	149	10.064	T	28-04-2016	IPR000182	GNAT domain	GO:0008080	
+Vibriophage_1.264.O._10N.286.51.F2_52	1c27ec2728144e8ebf501e5362f4e5b0	244	Coils	Coil		120	140	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_64	c9ef387fc0cd533b6636a178c8e1b242	114	Coils	Coil		94	114	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_64	c9ef387fc0cd533b6636a178c8e1b242	114	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	68	90	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_64	c9ef387fc0cd533b6636a178c8e1b242	114	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	20	42	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_37	24400abeb177bb220f913f1f0e6318b1	67	Coils	Coil		14	34	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_48	71cad47fd2089e5e7c28e0237802c1b4	85	Pfam	PF04542	Sigma-70 region 2	29	72	1.4E-5	T	28-04-2016	IPR007627	RNA polymerase sigma-70 region 2	GO:0003677|GO:0003700|GO:0006352|GO:0006355|GO:0016987	
+Vibriophage_1.264.O._10N.286.51.F2_48	71cad47fd2089e5e7c28e0237802c1b4	85	SUPERFAMILY	SSF88946		13	74	3.18E-5	T	28-04-2016	IPR013325	RNA polymerase sigma factor, region 2	GO:0003677|GO:0003700|GO:0006352|GO:0006355|GO:0016987	
+Vibriophage_1.264.O._10N.286.51.F2_48	71cad47fd2089e5e7c28e0237802c1b4	85	Gene3D	G3DSA:1.10.1740.10		11	74	8.0E-5	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_35	75a7352fbf43122ee11e99842fa304a2	32	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	5	27	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_32	88c9a19b39e080845175e8c64fbdf5bb	119	Gene3D	G3DSA:3.40.50.450		74	116	1.4E-4	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_32	88c9a19b39e080845175e8c64fbdf5bb	119	SUPERFAMILY	SSF102405		18	116	7.78E-6	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_32	88c9a19b39e080845175e8c64fbdf5bb	119	Pfam	PF10686	Protein of unknown function (DUF2493)	4	65	1.7E-15	T	28-04-2016	IPR019627	Mycobacteriophage D29, Gp61		
+Vibriophage_1.264.O._10N.286.51.F2_26	eb4901c2f1b7bcf8470e82d04e4bc17b	97	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	5	27	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_26	eb4901c2f1b7bcf8470e82d04e4bc17b	97	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	16	5.0	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_26	eb4901c2f1b7bcf8470e82d04e4bc17b	97	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	55	74	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_8	5a7dfcc4634d8ebad44500fafe3be5d3	771	SUPERFAMILY	SSF51126		187	258	1.88E-19	T	28-04-2016	IPR011050	Pectin lyase fold/virulence factor		
+Vibriophage_1.264.O._10N.286.51.F2_8	5a7dfcc4634d8ebad44500fafe3be5d3	771	SUPERFAMILY	SSF51126		363	568	1.88E-19	T	28-04-2016	IPR011050	Pectin lyase fold/virulence factor		
+Vibriophage_1.264.O._10N.286.51.F2_8	5a7dfcc4634d8ebad44500fafe3be5d3	771	SUPERFAMILY	SSF51126		292	329	1.88E-19	T	28-04-2016	IPR011050	Pectin lyase fold/virulence factor		
+Vibriophage_1.264.O._10N.286.51.F2_8	5a7dfcc4634d8ebad44500fafe3be5d3	771	Coils	Coil		770	771	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_8	5a7dfcc4634d8ebad44500fafe3be5d3	771	Gene3D	G3DSA:2.160.20.10		293	455	2.2E-21	T	28-04-2016	IPR012334	Pectin lyase fold		
+Vibriophage_1.264.O._10N.286.51.F2_8	5a7dfcc4634d8ebad44500fafe3be5d3	771	Gene3D	G3DSA:2.160.20.10		492	690	2.2E-21	T	28-04-2016	IPR012334	Pectin lyase fold		
+Vibriophage_1.264.O._10N.286.51.F2_8	5a7dfcc4634d8ebad44500fafe3be5d3	771	Gene3D	G3DSA:2.160.20.10		187	252	2.2E-21	T	28-04-2016	IPR012334	Pectin lyase fold		
+Vibriophage_1.264.O._10N.286.51.F2_8	5a7dfcc4634d8ebad44500fafe3be5d3	771	Pfam	PF12708	Pectate lyase superfamily protein	190	410	1.3E-12	T	28-04-2016	IPR024535	Pectate lyase superfamily protein		
+Vibriophage_1.264.O._10N.286.51.F2_13	d4de511e7feee241db4f8d857749dbe2	583	Pfam	PF12236	Bacteriophage head to tail connecting protein	296	481	1.2E-7	T	28-04-2016	IPR020991	Head-to-tail joining protein, podovirus-type		
+Vibriophage_1.264.O._10N.286.51.F2_28	a9ec0db5db834fceeedf90313774fe57	77	Pfam	PF11753	Protein of unknwon function (DUF3310)	12	60	1.1E-11	T	28-04-2016	IPR021739	Protein of unknwon function DUF3310		
+Vibriophage_1.264.O._10N.286.51.F2_58	64803922222fb7b7f8655dceed682ece	260	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	7	26	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_58	64803922222fb7b7f8655dceed682ece	260	SUPERFAMILY	SSF53955		129	249	1.74E-5	T	28-04-2016	IPR023346	Lysozyme-like domain		
+Vibriophage_1.264.O._10N.286.51.F2_57	725c11292051dd956404f532e191f04e	86	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	5	27	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_57	725c11292051dd956404f532e191f04e	86	Coils	Coil		27	47	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_10	aec969ba8a1465f5aa1edb6dff432cc6	495	Gene3D	G3DSA:2.160.20.10		15	378	2.7E-17	T	28-04-2016	IPR012334	Pectin lyase fold		
+Vibriophage_1.264.O._10N.286.51.F2_10	aec969ba8a1465f5aa1edb6dff432cc6	495	Pfam	PF12708	Pectate lyase superfamily protein	15	226	1.7E-9	T	28-04-2016	IPR024535	Pectate lyase superfamily protein		
+Vibriophage_1.264.O._10N.286.51.F2_10	aec969ba8a1465f5aa1edb6dff432cc6	495	SUPERFAMILY	SSF51126		15	343	6.28E-19	T	28-04-2016	IPR011050	Pectin lyase fold/virulence factor		
+Vibriophage_1.264.O._10N.286.51.F2_15	4ede6e6cadbee63fe6f4b4e797848705	248	Coils	Coil		55	89	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_3	b8c25652a4e75625567467612b6ed7b4	76	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	5	27	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_3	b8c25652a4e75625567467612b6ed7b4	76	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	42	64	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_2	dcac5e508f1e4cde02657ac3c7b348b2	294	Coils	Coil		185	205	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_56	33cf59e45fde99d522ca9ce49c0386a9	153	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	15	37	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_53	5404d96f4f45ced7b2fa6f19597b4879	201	Coils	Coil		106	193	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_53	5404d96f4f45ced7b2fa6f19597b4879	201	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	51	68	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_36	d96f3406c3c9fd307b1a79c32946540a	228	Coils	Coil		1	21	-	T	28-04-2016
+Vibriophage_1.264.O._10N.286.51.F2_23	dd90038f331d2925670eb459dc37fbbe	154	Coils	Coil		38	58	-	T	28-04-2016

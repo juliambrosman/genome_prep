@@ -1,0 +1,246 @@
+>Features Vibrio_virus_1.254.O._10N.286.45.C8
+2	451	gene
+			locus_tag	NVP1254O_01
+2	451	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_01
+465	1979	gene
+			locus_tag	NVP1254O_02
+465	1979	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_02
+			note	tara_best_match:OM-RGC.v1.002323557
+1954	2427	gene
+			locus_tag	NVP1254O_03
+1954	2427	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_03
+2420	2827	gene
+			locus_tag	NVP1254O_04
+2420	2827	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_04
+2830	4413	gene
+			locus_tag	NVP1254O_05
+2830	4413	CDS
+			product	Head-to-tail joining protein, podovirus-type
+			protein_id	NVP1254O_05
+			db_xref	InterPro:IPR020991
+4410	4730	gene
+			locus_tag	NVP1254O_06
+4410	4730	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_06
+4745	5560	gene
+			locus_tag	NVP1254O_07
+4745	5560	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_07
+5631	6560	gene
+			locus_tag	NVP1254O_08
+5631	6560	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_08
+			note	tara_best_match:OM-RGC.v1.008178761
+6629	7216	gene
+			locus_tag	NVP1254O_09
+6629	7216	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_09
+7220	9442	gene
+			locus_tag	NVP1254O_10
+7220	9442	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_10
+9446	9937	gene
+			locus_tag	NVP1254O_11
+9446	9937	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_11
+9940	12081	gene
+			locus_tag	NVP1254O_12
+9940	12081	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_12
+12081	15230	gene
+			locus_tag	NVP1254O_13
+12081	15230	CDS
+			product	Coil containing protein
+			protein_id	NVP1254O_13
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+15230	17983	gene
+			locus_tag	NVP1254O_14
+15230	17983	CDS
+			product	Coil containing protein
+			protein_id	NVP1254O_14
+			db_xref	InterPro:IPS Coils
+18097	18510	gene
+			locus_tag	NVP1254O_15
+18097	18510	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1254O_15
+			db_xref	InterPro:IPS TMHMM
+18585	18923	gene
+			locus_tag	NVP1254O_16
+18585	18923	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_16
+18942	20351	gene
+			locus_tag	NVP1254O_17
+18942	20351	CDS
+			product	Coil containing protein
+			protein_id	NVP1254O_17
+			db_xref	InterPro:IPS Coils
+20354	22465	gene
+			locus_tag	NVP1254O_18
+20354	22465	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_18
+22483	22728	gene
+			locus_tag	NVP1254O_19
+22483	22728	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_19
+22981	23502	gene
+			locus_tag	NVP1254O_20
+22981	23502	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_20
+23502	23828	gene
+			locus_tag	NVP1254O_21
+23502	23828	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_21
+23847	24044	gene
+			locus_tag	NVP1254O_22
+23847	24044	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_22
+24083	24358	gene
+			locus_tag	NVP1254O_23
+24083	24358	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_23
+24333	24461	gene
+			locus_tag	NVP1254O_24
+24333	24461	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_24
+24490	24630	gene
+			locus_tag	NVP1254O_25
+24490	24630	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_25
+24788	24973	gene
+			locus_tag	NVP1254O_26
+24788	24973	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_26
+24970	25287	gene
+			locus_tag	NVP1254O_27
+24970	25287	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_27
+25284	25724	gene
+			locus_tag	NVP1254O_28
+25284	25724	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1254O_28
+			db_xref	InterPro:IPS TMHMM
+25827	26090	gene
+			locus_tag	NVP1254O_29
+25827	26090	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_29
+26102	26263	gene
+			locus_tag	NVP1254O_30
+26102	26263	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_30
+26269	26661	gene
+			locus_tag	NVP1254O_31
+26269	26661	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1254O_31
+			db_xref	InterPro:IPS TMHMM
+26665	27039	gene
+			locus_tag	NVP1254O_32
+26665	27039	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_32
+27036	27476	gene
+			locus_tag	NVP1254O_33
+27036	27476	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_33
+27499	27771	gene
+			locus_tag	NVP1254O_34
+27499	27771	CDS
+			product	Heat shock protein DnaJ, cysteine-rich domain
+			protein_id	NVP1254O_34
+			db_xref	InterPro:IPR001305
+27771	28118	gene
+			locus_tag	NVP1254O_35
+27771	28118	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_35
+28136	28414	gene
+			locus_tag	NVP1254O_36
+28136	28414	CDS
+			product	Coil containing protein
+			protein_id	NVP1254O_36
+			db_xref	InterPro:IPS Coils
+28458	28799	gene
+			locus_tag	NVP1254O_37
+28458	28799	CDS
+			product	Hedgehog signalling/DD-peptidase zinc-binding domain
+			protein_id	NVP1254O_37
+			db_xref	egg:ENOG4111SPI
+			db_xref	InterPro:IPR009045
+			note	tara_best_match:OM-RGC.v1.029185613
+			note	cvp_best_match:CAMPEP_0000012536
+28783	29157	gene
+			locus_tag	NVP1254O_38
+28783	29157	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_38
+29167	29316	gene
+			locus_tag	NVP1254O_39
+29167	29316	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_39
+29321	29728	gene
+			locus_tag	NVP1254O_40
+29321	29728	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1254O_40
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.028203855
+29845	30108	gene
+			locus_tag	NVP1254O_41
+29845	30108	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_41
+30121	30366	gene
+			locus_tag	NVP1254O_42
+30121	30366	CDS
+			product	Cro/C1-type helix-turn-helix domain
+			protein_id	NVP1254O_42
+			db_xref	InterPro:IPR001387
+30341	30724	gene
+			locus_tag	NVP1254O_43
+30341	30724	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_43
+30737	31183	gene
+			locus_tag	NVP1254O_44
+30737	31183	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_44
+31254	32429	gene
+			locus_tag	NVP1254O_45
+31254	32429	CDS
+			product	hypothetical protein
+			protein_id	NVP1254O_45
+			note	tara_best_match:OM-RGC.v1.002876015

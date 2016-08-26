@@ -1,0 +1,138 @@
+>Features Vibrio_virus_1.125.O._10N.286.49.F5
+320	129	gene
+			locus_tag	NVP1125O_01
+320	129	CDS
+			product	hypothetical protein
+			protein_id	NVP1125O_01
+528	322	gene
+			locus_tag	NVP1125O_02
+528	322	CDS
+			product	hypothetical protein
+			protein_id	NVP1125O_02
+746	528	gene
+			locus_tag	NVP1125O_03
+746	528	CDS
+			product	hypothetical protein
+			protein_id	NVP1125O_03
+1366	749	gene
+			locus_tag	NVP1125O_04
+1366	749	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1125O_04
+			db_xref	InterPro:IPS TMHMM
+1895	1563	gene
+			locus_tag	NVP1125O_05
+1895	1563	CDS
+			product	hypothetical protein
+			protein_id	NVP1125O_05
+3608	2004	gene
+			locus_tag	NVP1125O_06
+3608	2004	CDS
+			product	DNA-directed DNA polymerase, family B, mitochondria/virus
+			protein_id	NVP1125O_06
+			db_xref	pfam:PF03175
+			db_xref	pog:POG0334
+			db_xref	InterPro:IPR004868
+			note	aclame_best_match:protein:vir:2124
+			note	tara_best_match:OM-RGC.v1.001450554
+			note	cvp_best_match:RF_PEP_9626351
+4190	3615	gene
+			locus_tag	NVP1125O_07
+4190	3615	CDS
+			product	hypothetical protein
+			protein_id	NVP1125O_07
+4207	4935	gene
+			locus_tag	NVP1125O_08
+4207	4935	CDS
+			product	Coil containing protein
+			protein_id	NVP1125O_08
+			db_xref	InterPro:IPS Coils
+4935	5468	gene
+			locus_tag	NVP1125O_09
+4935	5468	CDS
+			product	Domain of unknown function DUF87
+			protein_id	NVP1125O_09
+			db_xref	InterPro:IPR002789
+			note	tara_best_match:OM-RGC.v1.021972741
+5553	5804	gene
+			locus_tag	NVP1125O_10
+5553	5804	CDS
+			product	Coil containing protein
+			protein_id	NVP1125O_10
+			db_xref	kegg:K02519
+			db_xref	pfam:PF08017
+			db_xref	cog:COG1652
+			db_xref	egg:none
+			db_xref	pog:POG0623
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:105367
+			note	tara_best_match:OM-RGC.v1.010270429
+			note	cvp_best_match:NCBI_PEP_448930578
+6040	6165	gene
+			locus_tag	NVP1125O_11
+6040	6165	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1125O_11
+			db_xref	InterPro:IPS TMHMM
+6222	7067	gene
+			locus_tag	NVP1125O_12
+6222	7067	CDS
+			product	Coil containing protein
+			protein_id	NVP1125O_12
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.009973837
+7145	7471	gene
+			locus_tag	NVP1125O_13
+7145	7471	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1125O_13
+			db_xref	InterPro:IPS TMHMM
+7485	7634	gene
+			locus_tag	NVP1125O_14
+7485	7634	CDS
+			product	hypothetical protein
+			protein_id	NVP1125O_14
+7637	7825	gene
+			locus_tag	NVP1125O_15
+7637	7825	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1125O_15
+			db_xref	InterPro:IPS TMHMM
+7834	8193	gene
+			locus_tag	NVP1125O_16
+7834	8193	CDS
+			product	hypothetical protein
+			protein_id	NVP1125O_16
+8190	8681	gene
+			locus_tag	NVP1125O_17
+8190	8681	CDS
+			product	hypothetical protein
+			protein_id	NVP1125O_17
+8691	9296	gene
+			locus_tag	NVP1125O_18
+8691	9296	CDS
+			product	hypothetical protein
+			protein_id	NVP1125O_18
+9354	9821	gene
+			locus_tag	NVP1125O_19
+9354	9821	CDS
+			product	hypothetical protein
+			protein_id	NVP1125O_19
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.019721584
+9830	10222	gene
+			locus_tag	NVP1125O_20
+9830	10222	CDS
+			product	hypothetical protein
+			protein_id	NVP1125O_20
+10232	10453	gene
+			locus_tag	NVP1125O_21
+10232	10453	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1125O_21
+			db_xref	InterPro:IPS TMHMM
+5629	5735	gene
+			locus_tag	NVP1125O_CRISPR-like_1
+5629	5735	ncRNA
+			product	 note=CRISPR region
+			locus_tag	NVP1125O_CRISPR-like_1

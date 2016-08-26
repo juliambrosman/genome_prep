@@ -1,0 +1,352 @@
+>Features Vibrio_virus_1.183.O._10N.286.48.B7
+1	636	gene
+			locus_tag	NVP1183O_01
+1	636	CDS
+			product	Terminase small subunit
+			protein_id	NVP1183O_01
+			db_xref	kegg:K07474
+			db_xref	pfam:PF03592
+			db_xref	egg:none
+			db_xref	InterPro:IPR005335
+			note	tara_best_match:OM-RGC.v1.017469300
+			note	cvp_best_match:RF_PEP_460042902
+892	2523	gene
+			locus_tag	NVP1183O_02
+892	2523	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_02
+			db_xref	pog:POG0042
+			note	aclame_best_match:protein:vir:108299
+			note	cvp_best_match:RF_PEP_160700611
+2557	3126	gene
+			locus_tag	NVP1183O_03
+2557	3126	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_03
+			db_xref	pog:POG0184
+			note	tara_best_match:OM-RGC.v1.010732348
+			note	cvp_best_match:RF_PEP_414087273
+3119	3295	gene
+			locus_tag	NVP1183O_04
+3119	3295	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_04
+			note	aclame_best_match:protein:vir:108297
+			note	cvp_best_match:RF_PEP_160700610
+3295	5445	gene
+			locus_tag	NVP1183O_05
+3295	5445	CDS
+			product	Coil containing protein
+			protein_id	NVP1183O_05
+			db_xref	pfam:PF16510
+			db_xref	egg:none
+			db_xref	pog:POG0254
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:108295
+			note	tara_best_match:OM-RGC.v1.000666532
+			note	cvp_best_match:RF_PEP_160700609
+5538	6452	gene
+			locus_tag	NVP1183O_06
+5538	6452	CDS
+			product	Coil containing protein
+			protein_id	NVP1183O_06
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:108310
+			note	cvp_best_match:RF_PEP_160700608
+6473	7723	gene
+			locus_tag	NVP1183O_07
+6473	7723	CDS
+			product	MAJOR HEAD GENE DIRECT CAPSID P24 STRUCTURAL SEQUENCING COAT APSE
+			protein_id	NVP1183O_07
+			db_xref	pfam:PF11651
+			db_xref	egg:ENOG4111WK6
+			db_xref	pog:POG0256
+			db_xref	InterPro:IPS ProDom
+			note	aclame_best_match:protein:vir:108303
+			note	tara_best_match:OM-RGC.v1.003313367
+			note	cvp_best_match:RF_PEP_160700607
+7785	8321	gene
+			locus_tag	NVP1183O_08
+7785	8321	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_08
+			note	aclame_best_match:protein:vir:108307
+8323	9087	gene
+			locus_tag	NVP1183O_09
+8323	9087	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_09
+			note	aclame_best_match:protein:vir:108311
+			note	cvp_best_match:RF_PEP_160700604
+9090	10463	gene
+			locus_tag	NVP1183O_10
+9090	10463	CDS
+			product	Coil containing protein
+			protein_id	NVP1183O_10
+			db_xref	pfam:PF11134
+			db_xref	egg:none
+			db_xref	pog:POG0259
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:108312
+			note	tara_best_match:OM-RGC.v1.001977989
+			note	cvp_best_match:RF_PEP_160700603
+10463	11167	gene
+			locus_tag	NVP1183O_11
+10463	11167	CDS
+			product	Coil containing protein
+			protein_id	NVP1183O_11
+			db_xref	InterPro:IPS Coils
+11175	11735	gene
+			locus_tag	NVP1183O_12
+11175	11735	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_12
+			note	aclame_best_match:protein:vir:108302
+			note	tara_best_match:OM-RGC.v1.008709471
+			note	cvp_best_match:RF_PEP_160700601
+11726	12499	gene
+			locus_tag	NVP1183O_13
+11726	12499	CDS
+			product	Coil containing protein
+			protein_id	NVP1183O_13
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:108308
+			note	tara_best_match:OM-RGC.v1.015472417
+			note	cvp_best_match:RF_PEP_160700600
+12499	13377	gene
+			locus_tag	NVP1183O_14
+12499	13377	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_14
+			note	aclame_best_match:protein:vir:108298
+			note	cvp_best_match:RF_PEP_160700599
+13398	21518	gene
+			locus_tag	NVP1183O_15
+13398	21518	CDS
+			product	Coil containing protein
+			protein_id	NVP1183O_15
+			db_xref	InterPro:IPS Coils
+21520	23718	gene
+			locus_tag	NVP1183O_16
+21520	23718	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_16
+23730	23987	gene
+			locus_tag	NVP1183O_17
+23730	23987	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_17
+24649	23984	gene
+			locus_tag	NVP1183O_18
+24649	23984	CDS
+			product	Coil containing protein
+			protein_id	NVP1183O_18
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.014845249
+25092	24649	gene
+			locus_tag	NVP1183O_19
+25092	24649	CDS
+			product	Protein of unknown function DUF1367
+			protein_id	NVP1183O_19
+			db_xref	egg:ENOG410YFMR
+			db_xref	pog:POG2339
+			db_xref	InterPro:IPR009797
+			note	aclame_best_match:protein:vir:108318
+			note	tara_best_match:OM-RGC.v1.024963271
+			note	cvp_best_match:RF_PEP_160700636
+25324	25082	gene
+			locus_tag	NVP1183O_20
+25324	25082	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_20
+25917	25381	gene
+			locus_tag	NVP1183O_21
+25917	25381	CDS
+			product	DNA N-6-adenine-methyltransferase
+			protein_id	NVP1183O_21
+			db_xref	pfam:PF05869
+			db_xref	egg:none
+			db_xref	pog:POG0822
+			db_xref	InterPro:IPR008593
+			note	aclame_best_match:protein:vir:79615
+			note	tara_best_match:OM-RGC.v1.019621919
+			note	cvp_best_match:RF_PEP_327198618
+26782	25910	gene
+			locus_tag	NVP1183O_22
+26782	25910	CDS
+			product	DNA methylase, C-5 cytosine-specific, active site
+			protein_id	NVP1183O_22
+			db_xref	pfam:PF00145
+			db_xref	pog:POG0191
+			db_xref	InterPro:IPR018117
+			note	tara_best_match:OM-RGC.v1.010493998
+			note	cvp_best_match:RF_PEP_414087310
+27257	26769	gene
+			locus_tag	NVP1183O_23
+27257	26769	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_23
+			note	tara_best_match:OM-RGC.v1.011532744
+28203	27238	gene
+			locus_tag	NVP1183O_24
+28203	27238	CDS
+			product	Protein of unknown function DUF1376
+			protein_id	NVP1183O_24
+			db_xref	InterPro:IPR010781
+			note	aclame_best_match:protein:vir:108322
+			note	cvp_best_match:RF_PEP_160700630
+28670	28206	gene
+			locus_tag	NVP1183O_25
+28670	28206	CDS
+			product	GIY-YIG nuclease superfamily
+			protein_id	NVP1183O_25
+			db_xref	InterPro:IPR000305
+28831	28667	gene
+			locus_tag	NVP1183O_26
+28831	28667	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_26
+			note	tara_best_match:OM-RGC.v1.035815503
+28959	29123	gene
+			locus_tag	NVP1183O_27
+28959	29123	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_27
+			note	aclame_best_match:protein:vir:95142
+			note	tara_best_match:OM-RGC.v1.035586513
+			note	cvp_best_match:RF_PEP_460042919
+29132	29290	gene
+			locus_tag	NVP1183O_28
+29132	29290	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_28
+29333	29617	gene
+			locus_tag	NVP1183O_29
+29333	29617	CDS
+			product	Coil containing protein
+			protein_id	NVP1183O_29
+			db_xref	InterPro:IPS Coils
+29630	30385	gene
+			locus_tag	NVP1183O_30
+29630	30385	CDS
+			product	Essential recombination function protein
+			protein_id	NVP1183O_30
+			db_xref	egg:ENOG4111TY9
+			db_xref	pog:POG0283
+			db_xref	InterPro:IPR007499
+			note	aclame_best_match:protein:vir:108325
+			note	tara_best_match:OM-RGC.v1.012130236
+			note	cvp_best_match:RF_PEP_160700627
+30387	32204	gene
+			locus_tag	NVP1183O_31
+30387	32204	CDS
+			product	Coil containing protein
+			protein_id	NVP1183O_31
+			db_xref	egg:COG5377
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:108326
+			note	tara_best_match:OM-RGC.v1.001030028
+			note	cvp_best_match:RF_PEP_160700626
+32261	32818	gene
+			locus_tag	NVP1183O_32
+32261	32818	CDS
+			product	Exonuclease, RNase T/DNA polymerase III
+			protein_id	NVP1183O_32
+			db_xref	kegg:K02342
+			db_xref	pfam:PF00929
+			db_xref	cog:COG0847
+			db_xref	egg:ENOG410ZXR6
+			db_xref	pog:POG1929
+			db_xref	InterPro:IPR013520
+			note	aclame_best_match:protein:vir:105622
+			note	tara_best_match:OM-RGC.v1.018028956
+			note	cvp_best_match:RF_PEP_460042915
+32821	33228	gene
+			locus_tag	NVP1183O_33
+32821	33228	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_33
+			db_xref	egg:none
+			db_xref	pog:POG2337
+			note	aclame_best_match:protein:vir:108327
+			note	tara_best_match:OM-RGC.v1.028757598
+			note	cvp_best_match:RF_PEP_160700625
+33286	34107	gene
+			locus_tag	NVP1183O_34
+33286	34107	CDS
+			product	Protein of unkown function DUF2303
+			protein_id	NVP1183O_34
+			db_xref	pfam:PF10065
+			db_xref	cog:COG5532
+			db_xref	egg:none
+			db_xref	pog:POG2336
+			db_xref	InterPro:IPR019276
+			note	aclame_best_match:protein:vir:108338
+			note	tara_best_match:OM-RGC.v1.008929585
+			note	cvp_best_match:RF_PEP_160700624
+34171	34491	gene
+			locus_tag	NVP1183O_35
+34171	34491	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_35
+			db_xref	egg:none
+			note	aclame_best_match:protein:vir:108329
+			note	tara_best_match:OM-RGC.v1.029507030
+			note	cvp_best_match:RF_PEP_160700622
+34491	34877	gene
+			locus_tag	NVP1183O_36
+34491	34877	CDS
+			product	Coil containing protein
+			protein_id	NVP1183O_36
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:108330
+			note	cvp_best_match:RF_PEP_160700621
+34870	35292	gene
+			locus_tag	NVP1183O_37
+34870	35292	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_37
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.028716927
+35481	36035	gene
+			locus_tag	NVP1183O_38
+35481	36035	CDS
+			product	Cell wall hydrolase/autolysin, catalytic
+			protein_id	NVP1183O_38
+			db_xref	pfam:PF01520
+			db_xref	cog:COG0860
+			db_xref	egg:COG0860
+			db_xref	InterPro:IPR002508
+			note	tara_best_match:OM-RGC.v1.018499595
+36037	36447	gene
+			locus_tag	NVP1183O_39
+36037	36447	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1183O_39
+			db_xref	pfam:PF11351
+			db_xref	egg:ENOG41125H9
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.024963369
+			note	cvp_best_match:CAMPEP_0000012590
+36520	36921	gene
+			locus_tag	NVP1183O_40
+36520	36921	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1183O_40
+			db_xref	pog:POG3673
+			db_xref	InterPro:IPS TMHMM
+			note	aclame_best_match:protein:vir:108335
+			note	cvp_best_match:RF_PEP_160700616
+36905	37405	gene
+			locus_tag	NVP1183O_41
+36905	37405	CDS
+			product	hypothetical protein
+			protein_id	NVP1183O_41
+			note	aclame_best_match:protein:vir:108336
+			note	cvp_best_match:RF_PEP_160700615
+27789	27867	gene
+			locus_tag	NVP1183O_CRISPR-like_1
+27789	27867	ncRNA
+			product	 note=CRISPR region
+			locus_tag	NVP1183O_CRISPR-like_1

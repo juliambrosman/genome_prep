@@ -1,0 +1,19 @@
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	158	367	.	-	0	ID=NVP1080O_01; Name=hypothetical protein;
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	370	984	.	-	0	ID=NVP1080O_02;Name=TMhelix containing protein;; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	1177	1512	.	-	0	ID=NVP1080O_03; Name=hypothetical protein;
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	1622	3217	.	-	0	ID=NVP1080O_04;Name=Coil containing protein; Ontology_term="pfam:PF03175"; Ontology_term="pog:POG0334"; note="aclame_best_match:protein:vir:2124"; note="tara_best_match:OM-RGC.v1.001450554"; note="cvp_best_match:RF_PEP_9626351"; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	3223	3798	.	-	0	ID=NVP1080O_05; Name=hypothetical protein;
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	3812	4519	.	+	0	ID=NVP1080O_06;Name=Coil containing protein;; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	4522	5055	.	+	0	ID=NVP1080O_07;Name=P-loop containing nucleoside triphosphate hydrolase; note="tara_best_match:OM-RGC.v1.021972741"; ontology_term="InterPro:IPR027417"
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	5052	5279	.	+	0	ID=NVP1080O_08; Name=hypothetical protein;
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	5516	5641	.	+	0	ID=NVP1080O_09; Name=hypothetical protein;
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	5696	6550	.	+	0	ID=NVP1080O_10; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.009973837"
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	6593	6946	.	+	0	ID=NVP1080O_11;Name=TMhelix containing protein;; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	6958	7110	.	+	0	ID=NVP1080O_12; Name=hypothetical protein;
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	7138	7305	.	+	0	ID=NVP1080O_13;Name=TMhelix containing protein;; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	7307	7666	.	+	0	ID=NVP1080O_14; Name=hypothetical protein;
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	7663	8133	.	+	0	ID=NVP1080O_15; Name=hypothetical protein;
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	8145	8759	.	+	0	ID=NVP1080O_16; Name=hypothetical protein;
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	8768	9286	.	+	0	ID=NVP1080O_17; Name=hypothetical protein;
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	9297	9683	.	+	0	ID=NVP1080O_18; Name=hypothetical protein;
+Vibrio_virus_1.080.O._10N.286.48.A4	prod	CDS	9693	9911	.	+	0	ID=NVP1080O_19;Name=TMhelix containing protein;; ontology_term="InterPro:IPS TMHMM"

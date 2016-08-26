@@ -1,0 +1,475 @@
+>Features Vibrio_virus_1.247.A._10N.261.54.E12
+3	656	gene
+			locus_tag	NVP1247A_01
+3	656	CDS
+			product	Coil containing protein
+			protein_id	NVP1247A_01
+			db_xref	kegg:K07474
+			db_xref	pfam:PF03592
+			db_xref	egg:none
+			db_xref	pog:POG0796
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.016045857
+			note	cvp_best_match:RF_PEP_197085631
+643	2364	gene
+			locus_tag	NVP1247A_02
+643	2364	CDS
+			product	Archaeophage PsiM2, terminase large subunit
+			protein_id	NVP1247A_02
+			db_xref	pfam:PF03237
+			db_xref	cog:COG5410
+			db_xref	egg:COG5410
+			db_xref	pog:POG0042
+			db_xref	InterPro:IPR006517
+			note	aclame_best_match:protein:proph:166228
+			note	tara_best_match:OM-RGC.v1.001228255
+			note	cvp_best_match:CAMPEP_0000020542
+2404	3951	gene
+			locus_tag	NVP1247A_03
+2404	3951	CDS
+			product	Protein of unknown function DUF1073
+			protein_id	NVP1247A_03
+			db_xref	InterPro:IPR024459
+			note	tara_best_match:OM-RGC.v1.001991723
+3932	4915	gene
+			locus_tag	NVP1247A_04
+3932	4915	CDS
+			product	Phage head morphogenesis domain
+			protein_id	NVP1247A_04
+			db_xref	egg:ENOG410YXQG
+			db_xref	InterPro:IPR006528
+			note	aclame_best_match:protein:vir:105781
+			note	tara_best_match:OM-RGC.v1.005419194
+			note	cvp_best_match:RF_PEP_423262381
+4941	5162	gene
+			locus_tag	NVP1247A_05
+4941	5162	CDS
+			product	Bacteriophage P22, Orf80
+			protein_id	NVP1247A_05
+			db_xref	InterPro:IPR022544
+5297	5539	gene
+			locus_tag	NVP1247A_06
+5297	5539	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_06
+5548	7521	gene
+			locus_tag	NVP1247A_07
+5548	7521	CDS
+			product	Coil containing protein
+			protein_id	NVP1247A_07
+			db_xref	InterPro:IPS Coils
+7532	7984	gene
+			locus_tag	NVP1247A_08
+7532	7984	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_08
+			note	tara_best_match:OM-RGC.v1.024839066
+7987	9099	gene
+			locus_tag	NVP1247A_09
+7987	9099	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_09
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.004765993
+9111	9443	gene
+			locus_tag	NVP1247A_10
+9111	9443	CDS
+			product	Coil containing protein
+			protein_id	NVP1247A_10
+			db_xref	InterPro:IPS Coils
+9585	10310	gene
+			locus_tag	NVP1247A_11
+9585	10310	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_11
+			note	tara_best_match:OM-RGC.v1.015141871
+10312	10539	gene
+			locus_tag	NVP1247A_12
+10312	10539	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1247A_12
+			db_xref	InterPro:IPS TMHMM
+10658	11038	gene
+			locus_tag	NVP1247A_13
+10658	11038	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_13
+11041	12342	gene
+			locus_tag	NVP1247A_14
+11041	12342	CDS
+			product	Coil containing protein
+			protein_id	NVP1247A_14
+			db_xref	InterPro:IPS Coils
+12339	14102	gene
+			locus_tag	NVP1247A_15
+12339	14102	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_15
+14183	14317	gene
+			locus_tag	NVP1247A_16
+14183	14317	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1247A_16
+			db_xref	InterPro:IPS TMHMM
+14317	14703	gene
+			locus_tag	NVP1247A_17
+14317	14703	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_17
+14718	15080	gene
+			locus_tag	NVP1247A_18
+14718	15080	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_18
+15084	15497	gene
+			locus_tag	NVP1247A_19
+15084	15497	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_19
+			note	tara_best_match:OM-RGC.v1.026973291
+15494	15928	gene
+			locus_tag	NVP1247A_20
+15494	15928	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_20
+15985	16494	gene
+			locus_tag	NVP1247A_21
+15985	16494	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_21
+16506	16865	gene
+			locus_tag	NVP1247A_22
+16506	16865	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_22
+16862	17461	gene
+			locus_tag	NVP1247A_23
+16862	17461	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_23
+17458	19590	gene
+			locus_tag	NVP1247A_24
+17458	19590	CDS
+			product	Coil containing protein
+			protein_id	NVP1247A_24
+			db_xref	InterPro:IPS Coils
+19590	20063	gene
+			locus_tag	NVP1247A_25
+19590	20063	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_25
+20126	20665	gene
+			locus_tag	NVP1247A_26
+20126	20665	CDS
+			product	Domain of unknown function DUF1833
+			protein_id	NVP1247A_26
+			db_xref	InterPro:IPR014974
+20662	21078	gene
+			locus_tag	NVP1247A_27
+20662	21078	CDS
+			product	Endopeptidase, NLPC/P60 domain
+			protein_id	NVP1247A_27
+			db_xref	pfam:PF00877
+			db_xref	egg:none
+			db_xref	InterPro:IPR000064
+			note	tara_best_match:OM-RGC.v1.026312462
+			note	cvp_best_match:CAMPEP_0000012472
+21056	23617	gene
+			locus_tag	NVP1247A_28
+21056	23617	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_28
+23617	26166	gene
+			locus_tag	NVP1247A_29
+23617	26166	CDS
+			product	SGNH hydrolase-type esterase domain
+			protein_id	NVP1247A_29
+			db_xref	InterPro:IPR013830
+26536	26228	gene
+			locus_tag	NVP1247A_30
+26536	26228	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_30
+27150	26671	gene
+			locus_tag	NVP1247A_31
+27150	26671	CDS
+			product	Coil containing protein
+			protein_id	NVP1247A_31
+			db_xref	pfam:PF05565
+			db_xref	egg:none
+			db_xref	pog:POG0321
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:183615
+			note	tara_best_match:OM-RGC.v1.022739148
+			note	cvp_best_match:RF_PEP_428781979
+28079	27153	gene
+			locus_tag	NVP1247A_32
+28079	27153	CDS
+			product	DNA single-strand annealing protein RecT
+			protein_id	NVP1247A_32
+			db_xref	kegg:K07455
+			db_xref	cog:COG3723
+			db_xref	egg:none
+			db_xref	pog:POG1309
+			db_xref	InterPro:IPR004590
+			note	aclame_best_match:protein:proph:183021
+			note	tara_best_match:OM-RGC.v1.011997006
+			note	cvp_best_match:RF_PEP_428781906
+28345	28079	gene
+			locus_tag	NVP1247A_33
+28345	28079	CDS
+			product	Lambda repressor-like, DNA-binding domain
+			protein_id	NVP1247A_33
+			db_xref	InterPro:IPR010982
+28580	28840	gene
+			locus_tag	NVP1247A_34
+28580	28840	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_34
+28855	29691	gene
+			locus_tag	NVP1247A_35
+28855	29691	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_35
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.008481822
+			note	cvp_best_match:CAMPEP_0000025962
+29706	29993	gene
+			locus_tag	NVP1247A_36
+29706	29993	CDS
+			product	Coil containing protein
+			protein_id	NVP1247A_36
+			db_xref	InterPro:IPS Coils
+29993	30475	gene
+			locus_tag	NVP1247A_37
+29993	30475	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_37
+30475	31059	gene
+			locus_tag	NVP1247A_38
+30475	31059	CDS
+			product	Coil containing protein
+			protein_id	NVP1247A_38
+			db_xref	pfam:PF05766
+			db_xref	cog:COG1403
+			db_xref	egg:ENOG4111XAF
+			db_xref	pog:POG0296
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:183386
+			note	tara_best_match:OM-RGC.v1.017162288
+			note	cvp_best_match:RF_PEP_31544019
+31034	31414	gene
+			locus_tag	NVP1247A_39
+31034	31414	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_39
+31547	31762	gene
+			locus_tag	NVP1247A_40
+31547	31762	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_40
+31737	32522	gene
+			locus_tag	NVP1247A_41
+31737	32522	CDS
+			product	Bacteriophage regulatory protein, Rha family
+			protein_id	NVP1247A_41
+			db_xref	cog:COG3646
+			db_xref	egg:ENOG4111Z4H
+			db_xref	InterPro:IPR014054
+			note	aclame_best_match:protein:proph:159414
+			note	tara_best_match:OM-RGC.v1.009662399
+			note	cvp_best_match:RF_PEP_148912814
+32550	32813	gene
+			locus_tag	NVP1247A_42
+32550	32813	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_42
+32936	33262	gene
+			locus_tag	NVP1247A_43
+32936	33262	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_43
+			db_xref	egg:none
+33249	33449	gene
+			locus_tag	NVP1247A_44
+33249	33449	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_44
+			note	tara_best_match:OM-RGC.v1.035943074
+33524	33703	gene
+			locus_tag	NVP1247A_45
+33524	33703	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_45
+33758	34126	gene
+			locus_tag	NVP1247A_46
+33758	34126	CDS
+			product	HNH endonuclease
+			protein_id	NVP1247A_46
+			db_xref	cog:COG1403
+			db_xref	InterPro:IPR002711
+			note	tara_best_match:OM-RGC.v1.029918186
+34123	35010	gene
+			locus_tag	NVP1247A_47
+34123	35010	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_47
+			note	tara_best_match:OM-RGC.v1.009129648
+35000	35449	gene
+			locus_tag	NVP1247A_48
+35000	35449	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_48
+35452	36096	gene
+			locus_tag	NVP1247A_49
+35452	36096	CDS
+			product	S-adenosyl-L-methionine-dependent methyltransferase
+			protein_id	NVP1247A_49
+			db_xref	egg:ENOG410Y6PC
+			db_xref	pog:POG1340
+			db_xref	InterPro:IPR029063
+			note	aclame_best_match:protein:proph:176638
+			note	tara_best_match:OM-RGC.v1.016480850
+			note	cvp_best_match:RF_PEP_372217724
+36110	36334	gene
+			locus_tag	NVP1247A_50
+36110	36334	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_50
+36336	36533	gene
+			locus_tag	NVP1247A_51
+36336	36533	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1247A_51
+			db_xref	InterPro:IPS TMHMM
+36536	36697	gene
+			locus_tag	NVP1247A_52
+36536	36697	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_52
+36699	36893	gene
+			locus_tag	NVP1247A_53
+36699	36893	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_53
+36905	37246	gene
+			locus_tag	NVP1247A_54
+36905	37246	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_54
+			note	tara_best_match:OM-RGC.v1.029185436
+37256	37777	gene
+			locus_tag	NVP1247A_55
+37256	37777	CDS
+			product	DNA N-6-adenine-methyltransferase
+			protein_id	NVP1247A_55
+			db_xref	pfam:PF05869
+			db_xref	egg:ENOG4111JM0
+			db_xref	pog:POG0822
+			db_xref	InterPro:IPR008593
+			note	aclame_best_match:protein:proph:159355
+			note	tara_best_match:OM-RGC.v1.022665414
+			note	cvp_best_match:NCBI_PEP_164414537
+38296	37856	gene
+			locus_tag	NVP1247A_56
+38296	37856	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1247A_56
+			db_xref	pfam:PF11351
+			db_xref	egg:ENOG41125H9
+			db_xref	InterPro:IPS TMHMM
+			note	aclame_best_match:protein:proph:170979
+			note	tara_best_match:OM-RGC.v1.024963369
+			note	cvp_best_match:CAMPEP_0000012590
+38820	38299	gene
+			locus_tag	NVP1247A_57
+38820	38299	CDS
+			product	Peptidoglycan binding domain
+			protein_id	NVP1247A_57
+			db_xref	cog:COG3926
+			db_xref	egg:none
+			db_xref	InterPro:IPR018537
+			note	aclame_best_match:protein:proph:184476
+			note	tara_best_match:OM-RGC.v1.021416887
+			note	cvp_best_match:RF_PEP_418489254
+38953	39309	gene
+			locus_tag	NVP1247A_58
+38953	39309	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_58
+39309	39482	gene
+			locus_tag	NVP1247A_59
+39309	39482	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_59
+39593	39961	gene
+			locus_tag	NVP1247A_60
+39593	39961	CDS
+			product	Coil containing protein
+			protein_id	NVP1247A_60
+			db_xref	InterPro:IPS Coils
+39989	40324	gene
+			locus_tag	NVP1247A_61
+39989	40324	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_61
+40312	40752	gene
+			locus_tag	NVP1247A_62
+40312	40752	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP1247A_62
+			db_xref	InterPro:IPR011991
+40769	41062	gene
+			locus_tag	NVP1247A_63
+40769	41062	CDS
+			product	Carbon storage regulator
+			protein_id	NVP1247A_63
+			db_xref	InterPro:IPR003751
+41428	41571	gene
+			locus_tag	NVP1247A_64
+41428	41571	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_64
+41568	41960	gene
+			locus_tag	NVP1247A_65
+41568	41960	CDS
+			product	Conserved hypothetical protein CHP1671
+			protein_id	NVP1247A_65
+			db_xref	InterPro:IPR010024
+			note	aclame_best_match:protein:proph:174257
+			note	cvp_best_match:RF_PEP_195661248
+42167	42511	gene
+			locus_tag	NVP1247A_66
+42167	42511	CDS
+			product	Coil containing protein
+			protein_id	NVP1247A_66
+			db_xref	InterPro:IPS Coils
+42514	42699	gene
+			locus_tag	NVP1247A_67
+42514	42699	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1247A_67
+			db_xref	InterPro:IPS TMHMM
+42717	42971	gene
+			locus_tag	NVP1247A_68
+42717	42971	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_68
+42949	43554	gene
+			locus_tag	NVP1247A_69
+42949	43554	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_69
+			note	tara_best_match:OM-RGC.v1.009887468
+			note	cvp_best_match:CAMPEP_0000011380
+43570	43812	gene
+			locus_tag	NVP1247A_70
+43570	43812	CDS
+			product	hypothetical protein
+			protein_id	NVP1247A_70
+41231	41302	gene
+			locus_tag	NVP1247A_tRNA_1
+41231	41302	tRNA
+			locus_tag	NVP1247A_tRNA_1
+			product	tRNA-Cys
+			note	anticodon:ACA

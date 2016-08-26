@@ -1,0 +1,138 @@
+>Features Vibrio_virus_1.008.O._10N.286.54.E5
+320	129	gene
+			locus_tag	NVP1008O_01
+320	129	CDS
+			product	hypothetical protein
+			protein_id	NVP1008O_01
+528	322	gene
+			locus_tag	NVP1008O_02
+528	322	CDS
+			product	hypothetical protein
+			protein_id	NVP1008O_02
+746	528	gene
+			locus_tag	NVP1008O_03
+746	528	CDS
+			product	hypothetical protein
+			protein_id	NVP1008O_03
+1366	749	gene
+			locus_tag	NVP1008O_04
+1366	749	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1008O_04
+			db_xref	InterPro:IPS TMHMM
+1895	1563	gene
+			locus_tag	NVP1008O_05
+1895	1563	CDS
+			product	hypothetical protein
+			protein_id	NVP1008O_05
+3608	2004	gene
+			locus_tag	NVP1008O_06
+3608	2004	CDS
+			product	DNA-directed DNA polymerase, family B, mitochondria/virus
+			protein_id	NVP1008O_06
+			db_xref	pfam:PF03175
+			db_xref	pog:POG0334
+			db_xref	InterPro:IPR004868
+			note	aclame_best_match:protein:vir:2124
+			note	tara_best_match:OM-RGC.v1.001450554
+			note	cvp_best_match:RF_PEP_9626351
+4190	3615	gene
+			locus_tag	NVP1008O_07
+4190	3615	CDS
+			product	hypothetical protein
+			protein_id	NVP1008O_07
+4207	4935	gene
+			locus_tag	NVP1008O_08
+4207	4935	CDS
+			product	Coil containing protein
+			protein_id	NVP1008O_08
+			db_xref	InterPro:IPS Coils
+4935	5468	gene
+			locus_tag	NVP1008O_09
+4935	5468	CDS
+			product	Domain of unknown function DUF87
+			protein_id	NVP1008O_09
+			db_xref	InterPro:IPR002789
+			note	tara_best_match:OM-RGC.v1.021972741
+5553	5804	gene
+			locus_tag	NVP1008O_10
+5553	5804	CDS
+			product	Coil containing protein
+			protein_id	NVP1008O_10
+			db_xref	kegg:K03646
+			db_xref	pfam:PF08017
+			db_xref	cog:COG1652
+			db_xref	egg:none
+			db_xref	pog:POG0623
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:183884
+			note	tara_best_match:OM-RGC.v1.017471225
+			note	cvp_best_match:RF_PEP_370703036
+6040	6165	gene
+			locus_tag	NVP1008O_11
+6040	6165	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1008O_11
+			db_xref	InterPro:IPS TMHMM
+6223	7068	gene
+			locus_tag	NVP1008O_12
+6223	7068	CDS
+			product	Coil containing protein
+			protein_id	NVP1008O_12
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.009973837
+7146	7472	gene
+			locus_tag	NVP1008O_13
+7146	7472	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1008O_13
+			db_xref	InterPro:IPS TMHMM
+7486	7635	gene
+			locus_tag	NVP1008O_14
+7486	7635	CDS
+			product	hypothetical protein
+			protein_id	NVP1008O_14
+7638	7826	gene
+			locus_tag	NVP1008O_15
+7638	7826	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1008O_15
+			db_xref	InterPro:IPS TMHMM
+7835	8194	gene
+			locus_tag	NVP1008O_16
+7835	8194	CDS
+			product	hypothetical protein
+			protein_id	NVP1008O_16
+8191	8682	gene
+			locus_tag	NVP1008O_17
+8191	8682	CDS
+			product	hypothetical protein
+			protein_id	NVP1008O_17
+8692	9297	gene
+			locus_tag	NVP1008O_18
+8692	9297	CDS
+			product	hypothetical protein
+			protein_id	NVP1008O_18
+9355	9822	gene
+			locus_tag	NVP1008O_19
+9355	9822	CDS
+			product	hypothetical protein
+			protein_id	NVP1008O_19
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.019721584
+9831	10223	gene
+			locus_tag	NVP1008O_20
+9831	10223	CDS
+			product	hypothetical protein
+			protein_id	NVP1008O_20
+10233	10454	gene
+			locus_tag	NVP1008O_21
+10233	10454	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1008O_21
+			db_xref	InterPro:IPS TMHMM
+5615	5721	gene
+			locus_tag	NVP1008O_CRISPR-like_1
+5615	5721	ncRNA
+			product	 note=CRISPR region
+			locus_tag	NVP1008O_CRISPR-like_1

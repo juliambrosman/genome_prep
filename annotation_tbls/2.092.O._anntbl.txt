@@ -1,0 +1,138 @@
+>Features Vibrio_virus_2.092.O._10N.286.52.B7
+321	130	gene
+			locus_tag	NVP2092O_01
+321	130	CDS
+			product	hypothetical protein
+			protein_id	NVP2092O_01
+529	323	gene
+			locus_tag	NVP2092O_02
+529	323	CDS
+			product	hypothetical protein
+			protein_id	NVP2092O_02
+747	529	gene
+			locus_tag	NVP2092O_03
+747	529	CDS
+			product	hypothetical protein
+			protein_id	NVP2092O_03
+1367	750	gene
+			locus_tag	NVP2092O_04
+1367	750	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2092O_04
+			db_xref	InterPro:IPS TMHMM
+1896	1564	gene
+			locus_tag	NVP2092O_05
+1896	1564	CDS
+			product	hypothetical protein
+			protein_id	NVP2092O_05
+3609	2005	gene
+			locus_tag	NVP2092O_06
+3609	2005	CDS
+			product	DNA-directed DNA polymerase, family B, mitochondria/virus
+			protein_id	NVP2092O_06
+			db_xref	pfam:PF03175
+			db_xref	pog:POG0334
+			db_xref	InterPro:IPR004868
+			note	aclame_best_match:protein:vir:2124
+			note	tara_best_match:OM-RGC.v1.001450554
+			note	cvp_best_match:RF_PEP_9626351
+4191	3616	gene
+			locus_tag	NVP2092O_07
+4191	3616	CDS
+			product	hypothetical protein
+			protein_id	NVP2092O_07
+4208	4936	gene
+			locus_tag	NVP2092O_08
+4208	4936	CDS
+			product	Coil containing protein
+			protein_id	NVP2092O_08
+			db_xref	InterPro:IPS Coils
+4936	5469	gene
+			locus_tag	NVP2092O_09
+4936	5469	CDS
+			product	Domain of unknown function DUF87
+			protein_id	NVP2092O_09
+			db_xref	InterPro:IPR002789
+			note	tara_best_match:OM-RGC.v1.021972741
+5554	5805	gene
+			locus_tag	NVP2092O_10
+5554	5805	CDS
+			product	Coil containing protein
+			protein_id	NVP2092O_10
+			db_xref	kegg:K03646
+			db_xref	pfam:PF08017
+			db_xref	cog:COG1652
+			db_xref	egg:none
+			db_xref	pog:POG0623
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:183884
+			note	tara_best_match:OM-RGC.v1.017471225
+			note	cvp_best_match:RF_PEP_370703036
+6041	6166	gene
+			locus_tag	NVP2092O_11
+6041	6166	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2092O_11
+			db_xref	InterPro:IPS TMHMM
+6224	7069	gene
+			locus_tag	NVP2092O_12
+6224	7069	CDS
+			product	Coil containing protein
+			protein_id	NVP2092O_12
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.009973837
+7147	7473	gene
+			locus_tag	NVP2092O_13
+7147	7473	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2092O_13
+			db_xref	InterPro:IPS TMHMM
+7487	7636	gene
+			locus_tag	NVP2092O_14
+7487	7636	CDS
+			product	hypothetical protein
+			protein_id	NVP2092O_14
+7639	7827	gene
+			locus_tag	NVP2092O_15
+7639	7827	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2092O_15
+			db_xref	InterPro:IPS TMHMM
+7836	8195	gene
+			locus_tag	NVP2092O_16
+7836	8195	CDS
+			product	hypothetical protein
+			protein_id	NVP2092O_16
+8192	8683	gene
+			locus_tag	NVP2092O_17
+8192	8683	CDS
+			product	hypothetical protein
+			protein_id	NVP2092O_17
+8693	9298	gene
+			locus_tag	NVP2092O_18
+8693	9298	CDS
+			product	hypothetical protein
+			protein_id	NVP2092O_18
+9356	9823	gene
+			locus_tag	NVP2092O_19
+9356	9823	CDS
+			product	hypothetical protein
+			protein_id	NVP2092O_19
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.019721584
+9832	10224	gene
+			locus_tag	NVP2092O_20
+9832	10224	CDS
+			product	hypothetical protein
+			protein_id	NVP2092O_20
+10234	10455	gene
+			locus_tag	NVP2092O_21
+10234	10455	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2092O_21
+			db_xref	InterPro:IPS TMHMM
+5616	5721	gene
+			locus_tag	NVP2092O_CRISPR-like_1
+5616	5721	ncRNA
+			product	 note=CRISPR region
+			locus_tag	NVP2092O_CRISPR-like_1

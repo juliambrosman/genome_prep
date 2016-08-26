@@ -1,0 +1,417 @@
+>Features Vibrio_virus_1.139.B._10N.261.48.C6
+364	780	gene
+			locus_tag	NVP1139B_01
+364	780	CDS
+			product	HAD-like domain
+			protein_id	NVP1139B_01
+			db_xref	InterPro:IPR023214
+			note	tara_best_match:OM-RGC.v1.025506694
+773	1219	gene
+			locus_tag	NVP1139B_02
+773	1219	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_02
+1225	1419	gene
+			locus_tag	NVP1139B_03
+1225	1419	CDS
+			product	Putative regulatory protein, FmdB, Zinc ribbon domain
+			protein_id	NVP1139B_03
+			db_xref	InterPro:IPR013429
+1420	1725	gene
+			locus_tag	NVP1139B_04
+1420	1725	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_04
+1725	2015	gene
+			locus_tag	NVP1139B_05
+1725	2015	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_05
+			note	aclame_best_match:protein:proph:166029
+2025	2333	gene
+			locus_tag	NVP1139B_06
+2025	2333	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_06
+2326	3849	gene
+			locus_tag	NVP1139B_07
+2326	3849	CDS
+			product	Regulator of chromosome condensation 1/beta-lactamase-inhibitor protein II
+			protein_id	NVP1139B_07
+			db_xref	InterPro:IPR009091
+3859	4398	gene
+			locus_tag	NVP1139B_08
+3859	4398	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_08
+4373	4627	gene
+			locus_tag	NVP1139B_09
+4373	4627	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1139B_09
+			db_xref	InterPro:IPS TMHMM
+4629	6185	gene
+			locus_tag	NVP1139B_10
+4629	6185	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_10
+			db_xref	pog:POG0042
+			note	aclame_best_match:protein:vir:3140
+			note	tara_best_match:OM-RGC.v1.001616084
+			note	cvp_best_match:RF_PEP_325171219
+6188	7993	gene
+			locus_tag	NVP1139B_11
+6188	7993	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_11
+			db_xref	pog:POG2360
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:3139
+			note	tara_best_match:OM-RGC.v1.000959381
+			note	cvp_best_match:RF_PEP_21234402
+7990	8244	gene
+			locus_tag	NVP1139B_12
+7990	8244	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_12
+8276	9037	gene
+			locus_tag	NVP1139B_13
+8276	9037	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_13
+			db_xref	InterPro:IPS Coils
+9062	10012	gene
+			locus_tag	NVP1139B_14
+9062	10012	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_14
+			db_xref	pog:POG0032
+			note	aclame_best_match:protein:vir:3136
+			note	tara_best_match:OM-RGC.v1.006230448
+			note	cvp_best_match:RF_PEP_21234405
+10026	10550	gene
+			locus_tag	NVP1139B_15
+10026	10550	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_15
+			note	aclame_best_match:protein:vir:3135
+			note	cvp_best_match:RF_PEP_21234406
+10618	11877	gene
+			locus_tag	NVP1139B_16
+10618	11877	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_16
+11892	13955	gene
+			locus_tag	NVP1139B_17
+11892	13955	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_17
+13955	16558	gene
+			locus_tag	NVP1139B_18
+13955	16558	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_18
+16567	16854	gene
+			locus_tag	NVP1139B_19
+16567	16854	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_19
+16857	17645	gene
+			locus_tag	NVP1139B_20
+16857	17645	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_20
+			db_xref	pog:POG2357
+			note	aclame_best_match:protein:vir:3130
+			note	cvp_best_match:RF_PEP_21234411
+17647	17955	gene
+			locus_tag	NVP1139B_21
+17647	17955	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_21
+			db_xref	InterPro:IPS Coils
+18087	18542	gene
+			locus_tag	NVP1139B_22
+18087	18542	CDS
+			product	Acyl-CoA N-acyltransferase
+			protein_id	NVP1139B_22
+			db_xref	InterPro:IPR016181
+18548	19021	gene
+			locus_tag	NVP1139B_23
+18548	19021	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_23
+			db_xref	InterPro:IPS Coils
+19031	23620	gene
+			locus_tag	NVP1139B_24
+19031	23620	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_24
+			db_xref	pog:POG2354
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:3126
+			note	cvp_best_match:RF_PEP_21234415
+23633	25432	gene
+			locus_tag	NVP1139B_25
+23633	25432	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_25
+			db_xref	InterPro:IPS Coils
+25442	25708	gene
+			locus_tag	NVP1139B_26
+25442	25708	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_26
+25713	26435	gene
+			locus_tag	NVP1139B_27
+25713	26435	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_27
+			note	aclame_best_match:protein:vir:3124
+			note	cvp_best_match:RF_PEP_21234417
+26733	26464	gene
+			locus_tag	NVP1139B_28
+26733	26464	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_28
+27023	26733	gene
+			locus_tag	NVP1139B_29
+27023	26733	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1139B_29
+			db_xref	InterPro:IPS TMHMM
+27183	27016	gene
+			locus_tag	NVP1139B_30
+27183	27016	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_30
+27533	27183	gene
+			locus_tag	NVP1139B_31
+27533	27183	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_31
+			db_xref	pog:POG0086
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:106806
+			note	tara_best_match:OM-RGC.v1.029134523
+			note	cvp_best_match:RF_PEP_333798274
+27808	27533	gene
+			locus_tag	NVP1139B_32
+27808	27533	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_32
+28273	27851	gene
+			locus_tag	NVP1139B_33
+28273	27851	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_33
+28469	28275	gene
+			locus_tag	NVP1139B_34
+28469	28275	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_34
+28624	28466	gene
+			locus_tag	NVP1139B_35
+28624	28466	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_35
+28890	28621	gene
+			locus_tag	NVP1139B_36
+28890	28621	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_36
+			db_xref	InterPro:IPS Coils
+29249	28887	gene
+			locus_tag	NVP1139B_37
+29249	28887	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1139B_37
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.024393170
+30014	29259	gene
+			locus_tag	NVP1139B_38
+30014	29259	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_38
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	cvp_best_match:RF_PEP_428782633
+30215	30018	gene
+			locus_tag	NVP1139B_39
+30215	30018	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_39
+30523	30212	gene
+			locus_tag	NVP1139B_40
+30523	30212	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_40
+31521	30520	gene
+			locus_tag	NVP1139B_41
+31521	30520	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_41
+			db_xref	InterPro:IPS Coils
+32297	31587	gene
+			locus_tag	NVP1139B_42
+32297	31587	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_42
+34191	32302	gene
+			locus_tag	NVP1139B_43
+34191	32302	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_43
+			db_xref	pog:POG0026
+			note	aclame_best_match:protein:vir:3098
+			note	tara_best_match:OM-RGC.v1.001021639
+			note	cvp_best_match:RF_PEP_21234370
+34466	34182	gene
+			locus_tag	NVP1139B_44
+34466	34182	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP1139B_44
+			db_xref	InterPro:IPR011991
+34729	34466	gene
+			locus_tag	NVP1139B_45
+34729	34466	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1139B_45
+			db_xref	InterPro:IPS TMHMM
+35934	34726	gene
+			locus_tag	NVP1139B_46
+35934	34726	CDS
+			product	AAA domain
+			protein_id	NVP1139B_46
+			db_xref	InterPro:IPS Pfam
+36814	35885	gene
+			locus_tag	NVP1139B_47
+36814	35885	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_47
+37082	36801	gene
+			locus_tag	NVP1139B_48
+37082	36801	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_48
+			db_xref	InterPro:IPS Coils
+37225	37079	gene
+			locus_tag	NVP1139B_49
+37225	37079	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_49
+37491	37225	gene
+			locus_tag	NVP1139B_50
+37491	37225	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_50
+37673	37488	gene
+			locus_tag	NVP1139B_51
+37673	37488	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_51
+			db_xref	InterPro:IPS Coils
+37961	37737	gene
+			locus_tag	NVP1139B_52
+37961	37737	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_52
+			note	aclame_best_match:protein:vir:3089
+			note	cvp_best_match:RF_PEP_418488957
+38377	37946	gene
+			locus_tag	NVP1139B_53
+38377	37946	CDS
+			product	Coil containing protein
+			protein_id	NVP1139B_53
+			db_xref	InterPro:IPS Coils
+38571	38377	gene
+			locus_tag	NVP1139B_54
+38571	38377	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_54
+38795	38559	gene
+			locus_tag	NVP1139B_55
+38795	38559	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_55
+39176	38808	gene
+			locus_tag	NVP1139B_56
+39176	38808	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_56
+39425	39180	gene
+			locus_tag	NVP1139B_57
+39425	39180	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_57
+39848	39459	gene
+			locus_tag	NVP1139B_58
+39848	39459	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_58
+			note	aclame_best_match:protein:vir:4974
+			note	tara_best_match:OM-RGC.v1.018318553
+			note	cvp_best_match:RF_PEP_9632919
+40262	39858	gene
+			locus_tag	NVP1139B_59
+40262	39858	CDS
+			product	Trimeric LpxA-like
+			protein_id	NVP1139B_59
+			db_xref	pfam:PF04519
+			db_xref	cog:COG1044
+			db_xref	egg:ENOG4111PAV
+			db_xref	InterPro:IPR011004
+			note	aclame_best_match:protein:vir:4974
+			note	tara_best_match:OM-RGC.v1.013440161
+			note	cvp_best_match:RF_PEP_414090251
+40540	40337	gene
+			locus_tag	NVP1139B_60
+40540	40337	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_60
+40749	40537	gene
+			locus_tag	NVP1139B_61
+40749	40537	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_61
+41328	40786	gene
+			locus_tag	NVP1139B_62
+41328	40786	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_62
+41536	41396	gene
+			locus_tag	NVP1139B_63
+41536	41396	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1139B_63
+			db_xref	InterPro:IPS TMHMM
+41633	41529	gene
+			locus_tag	NVP1139B_64
+41633	41529	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_64
+41919	41662	gene
+			locus_tag	NVP1139B_65
+41919	41662	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_65
+42390	41989	gene
+			locus_tag	NVP1139B_66
+42390	41989	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_66
+42857	42573	gene
+			locus_tag	NVP1139B_67
+42857	42573	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_67
+43490	42924	gene
+			locus_tag	NVP1139B_68
+43490	42924	CDS
+			product	hypothetical protein
+			protein_id	NVP1139B_68
+39691	40075	gene
+			locus_tag	NVP1139B_CRISPR-like_1
+39691	40075	ncRNA
+			product	 note=CRISPR region
+			locus_tag	NVP1139B_CRISPR-like_1

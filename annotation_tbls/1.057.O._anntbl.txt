@@ -1,0 +1,119 @@
+>Features Vibrio_virus_1.057.O._10N.261.46.B12
+373	119	gene
+			locus_tag	NVP1057O_01
+373	119	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_01
+584	375	gene
+			locus_tag	NVP1057O_02
+584	375	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_02
+1201	587	gene
+			locus_tag	NVP1057O_03
+1201	587	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1057O_03
+			db_xref	InterPro:IPS TMHMM
+1735	1397	gene
+			locus_tag	NVP1057O_04
+1735	1397	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_04
+3445	1850	gene
+			locus_tag	NVP1057O_05
+3445	1850	CDS
+			product	Coil containing protein
+			protein_id	NVP1057O_05
+			db_xref	pfam:PF03175
+			db_xref	pog:POG0334
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:2124
+			note	tara_best_match:OM-RGC.v1.001450554
+			note	cvp_best_match:RF_PEP_9626351
+4026	3451	gene
+			locus_tag	NVP1057O_06
+4026	3451	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_06
+4040	4756	gene
+			locus_tag	NVP1057O_07
+4040	4756	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_07
+4759	5292	gene
+			locus_tag	NVP1057O_08
+4759	5292	CDS
+			product	Domain of unknown function DUF87
+			protein_id	NVP1057O_08
+			db_xref	InterPro:IPR002789
+			note	tara_best_match:OM-RGC.v1.021972741
+5289	5516	gene
+			locus_tag	NVP1057O_09
+5289	5516	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_09
+5547	5642	gene
+			locus_tag	NVP1057O_10
+5547	5642	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_10
+5753	5878	gene
+			locus_tag	NVP1057O_11
+5753	5878	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_11
+5934	6788	gene
+			locus_tag	NVP1057O_12
+5934	6788	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_12
+			note	tara_best_match:OM-RGC.v1.009973837
+6858	7184	gene
+			locus_tag	NVP1057O_13
+6858	7184	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1057O_13
+			db_xref	InterPro:IPS TMHMM
+7194	7346	gene
+			locus_tag	NVP1057O_14
+7194	7346	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_14
+7350	7541	gene
+			locus_tag	NVP1057O_15
+7350	7541	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1057O_15
+			db_xref	InterPro:IPS TMHMM
+7543	7902	gene
+			locus_tag	NVP1057O_16
+7543	7902	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_16
+7899	8369	gene
+			locus_tag	NVP1057O_17
+7899	8369	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_17
+8381	8986	gene
+			locus_tag	NVP1057O_18
+8381	8986	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_18
+8996	9514	gene
+			locus_tag	NVP1057O_19
+8996	9514	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_19
+9525	9914	gene
+			locus_tag	NVP1057O_20
+9525	9914	CDS
+			product	hypothetical protein
+			protein_id	NVP1057O_20
+9924	10136	gene
+			locus_tag	NVP1057O_21
+9924	10136	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1057O_21
+			db_xref	InterPro:IPS TMHMM

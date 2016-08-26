@@ -1,0 +1,323 @@
+>Features Vibrio_virus_1.066.O._10N.286.46.E8
+166	876	gene
+			locus_tag	NVP1066O_01
+166	876	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_01
+873	1280	gene
+			locus_tag	NVP1066O_02
+873	1280	CDS
+			product	Putative phage terminase, small subunit, P27 family
+			protein_id	NVP1066O_02
+			db_xref	InterPro:IPR006448
+			note	tara_best_match:OM-RGC.v1.028160891
+1303	1482	gene
+			locus_tag	NVP1066O_03
+1303	1482	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_03
+			db_xref	egg:ENOG41125XR
+			db_xref	pog:POG2483
+			note	aclame_best_match:protein:proph:167575
+			note	tara_best_match:OM-RGC.v1.036663065
+			note	cvp_best_match:RF_PEP_326536156
+1577	1813	gene
+			locus_tag	NVP1066O_04
+1577	1813	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_04
+1797	1949	gene
+			locus_tag	NVP1066O_05
+1797	1949	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1066O_05
+			db_xref	InterPro:IPS TMHMM
+1940	3769	gene
+			locus_tag	NVP1066O_06
+1940	3769	CDS
+			product	Phage terminase
+			protein_id	NVP1066O_06
+			db_xref	pfam:PF03354
+			db_xref	egg:COG4626
+			db_xref	InterPro:IPR005021
+			note	tara_best_match:OM-RGC.v1.001153157
+3766	5085	gene
+			locus_tag	NVP1066O_07
+3766	5085	CDS
+			product	Bacteriophage/Gene transfer agent portal protein
+			protein_id	NVP1066O_07
+			db_xref	InterPro:IPR006944
+5057	5707	gene
+			locus_tag	NVP1066O_08
+5057	5707	CDS
+			product	Prohead protease
+			protein_id	NVP1066O_08
+			db_xref	egg:COG3740
+			db_xref	InterPro:IPR006433
+			note	tara_best_match:OM-RGC.v1.014799126
+			note	cvp_best_match:CAMPEP_0000023972
+5792	7171	gene
+			locus_tag	NVP1066O_09
+5792	7171	CDS
+			product	Coil containing protein
+			protein_id	NVP1066O_09
+			db_xref	InterPro:IPS Coils
+7264	7788	gene
+			locus_tag	NVP1066O_10
+7264	7788	CDS
+			product	Phage gp6-like head-tail connector protein
+			protein_id	NVP1066O_10
+			db_xref	InterPro:IPR021146
+7778	8107	gene
+			locus_tag	NVP1066O_11
+7778	8107	CDS
+			product	Bacteriophage SPP1, head-tail adaptor
+			protein_id	NVP1066O_11
+			db_xref	InterPro:IPR008767
+8255	12298	gene
+			locus_tag	NVP1066O_12
+8255	12298	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_12
+12301	12591	gene
+			locus_tag	NVP1066O_13
+12301	12591	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_13
+12735	13676	gene
+			locus_tag	NVP1066O_14
+12735	13676	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_14
+13776	14135	gene
+			locus_tag	NVP1066O_15
+13776	14135	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_15
+14147	14839	gene
+			locus_tag	NVP1066O_16
+14147	14839	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_16
+14841	15218	gene
+			locus_tag	NVP1066O_17
+14841	15218	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_17
+15448	15966	gene
+			locus_tag	NVP1066O_18
+15448	15966	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_18
+15963	18305	gene
+			locus_tag	NVP1066O_19
+15963	18305	CDS
+			product	Coil containing protein
+			protein_id	NVP1066O_19
+			db_xref	InterPro:IPS Coils
+18308	18916	gene
+			locus_tag	NVP1066O_20
+18308	18916	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_20
+			note	aclame_best_match:protein:vir:5751
+			note	tara_best_match:OM-RGC.v1.016267011
+			note	cvp_best_match:RF_PEP_33770525
+18909	19487	gene
+			locus_tag	NVP1066O_21
+18909	19487	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_21
+			db_xref	egg:ENOG4111UF4
+19487	19882	gene
+			locus_tag	NVP1066O_22
+19487	19882	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_22
+			db_xref	egg:ENOG410XWP4
+			note	tara_best_match:OM-RGC.v1.026023124
+19879	23409	gene
+			locus_tag	NVP1066O_23
+19879	23409	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1066O_23
+			db_xref	InterPro:IPS TMHMM
+23474	26530	gene
+			locus_tag	NVP1066O_24
+23474	26530	CDS
+			product	Coil containing protein
+			protein_id	NVP1066O_24
+			db_xref	InterPro:IPS Coils
+26566	27234	gene
+			locus_tag	NVP1066O_25
+26566	27234	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_25
+29457	27220	gene
+			locus_tag	NVP1066O_26
+29457	27220	CDS
+			product	Coil containing protein
+			protein_id	NVP1066O_26
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.000637619
+			note	cvp_best_match:RF_PEP_448261073
+30672	29509	gene
+			locus_tag	NVP1066O_27
+30672	29509	CDS
+			product	BRCT domain
+			protein_id	NVP1066O_27
+			db_xref	InterPro:IPR001357
+33225	30736	gene
+			locus_tag	NVP1066O_28
+33225	30736	CDS
+			product	DNA primase, phage/plasmid
+			protein_id	NVP1066O_28
+			db_xref	InterPro:IPR006500
+			note	tara_best_match:OM-RGC.v1.000393748
+33467	33228	gene
+			locus_tag	NVP1066O_29
+33467	33228	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_29
+33898	33467	gene
+			locus_tag	NVP1066O_30
+33898	33467	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_30
+35026	33902	gene
+			locus_tag	NVP1066O_31
+35026	33902	CDS
+			product	Nucleic acid-binding, OB-fold
+			protein_id	NVP1066O_31
+			db_xref	InterPro:IPR012340
+36164	35028	gene
+			locus_tag	NVP1066O_32
+36164	35028	CDS
+			product	Protein of unknown function DUF2800
+			protein_id	NVP1066O_32
+			db_xref	InterPro:IPR021229
+37057	36170	gene
+			locus_tag	NVP1066O_33
+37057	36170	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_33
+37206	37502	gene
+			locus_tag	NVP1066O_34
+37206	37502	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_34
+37499	39367	gene
+			locus_tag	NVP1066O_35
+37499	39367	CDS
+			product	Helicase superfamily 1/2, ATP-binding domain
+			protein_id	NVP1066O_35
+			db_xref	InterPro:IPR014001
+			note	tara_best_match:OM-RGC.v1.001184763
+			note	cvp_best_match:RF_PEP_448261080
+39369	39584	gene
+			locus_tag	NVP1066O_36
+39369	39584	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_36
+39550	40002	gene
+			locus_tag	NVP1066O_37
+39550	40002	CDS
+			product	EF-Hand 1, calcium-binding site
+			protein_id	NVP1066O_37
+			db_xref	kegg:K01447
+			db_xref	pfam:PF01510
+			db_xref	cog:COG3023
+			db_xref	egg:COG3023
+			db_xref	pog:POG0023
+			db_xref	InterPro:IPR018247
+			note	aclame_best_match:protein:vir:1517
+			note	tara_best_match:OM-RGC.v1.022945812
+			note	cvp_best_match:NCBI_PEP_441463247
+40011	40190	gene
+			locus_tag	NVP1066O_38
+40011	40190	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1066O_38
+			db_xref	InterPro:IPS TMHMM
+40187	40462	gene
+			locus_tag	NVP1066O_39
+40187	40462	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_39
+40990	40655	gene
+			locus_tag	NVP1066O_40
+40990	40655	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1066O_40
+			db_xref	InterPro:IPS TMHMM
+41488	41201	gene
+			locus_tag	NVP1066O_41
+41488	41201	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_41
+41759	41580	gene
+			locus_tag	NVP1066O_42
+41759	41580	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_42
+			note	tara_best_match:OM-RGC.v1.036786759
+42115	41756	gene
+			locus_tag	NVP1066O_43
+42115	41756	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_43
+42683	42306	gene
+			locus_tag	NVP1066O_44
+42683	42306	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_44
+43531	42680	gene
+			locus_tag	NVP1066O_45
+43531	42680	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_45
+43823	44134	gene
+			locus_tag	NVP1066O_46
+43823	44134	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_46
+44161	44352	gene
+			locus_tag	NVP1066O_47
+44161	44352	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_47
+44352	44771	gene
+			locus_tag	NVP1066O_48
+44352	44771	CDS
+			product	HNH nuclease
+			protein_id	NVP1066O_48
+			db_xref	InterPro:IPR003615
+			note	aclame_best_match:protein:vir:81205
+			note	tara_best_match:OM-RGC.v1.028797246
+			note	cvp_best_match:RF_PEP_428781871
+45143	46120	gene
+			locus_tag	NVP1066O_49
+45143	46120	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_49
+46123	46347	gene
+			locus_tag	NVP1066O_50
+46123	46347	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_50
+46350	46538	gene
+			locus_tag	NVP1066O_51
+46350	46538	CDS
+			product	Lambda repressor-like, DNA-binding domain
+			protein_id	NVP1066O_51
+			db_xref	InterPro:IPR010982
+46535	46720	gene
+			locus_tag	NVP1066O_52
+46535	46720	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_52
+46717	46842	gene
+			locus_tag	NVP1066O_53
+46717	46842	CDS
+			product	hypothetical protein
+			protein_id	NVP1066O_53

@@ -1,0 +1,315 @@
+>Features Vibrio_virus_1.072.O._10N.286.48.A12
+146	856	gene
+			locus_tag	NVP1072O_01
+146	856	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_01
+853	1260	gene
+			locus_tag	NVP1072O_02
+853	1260	CDS
+			product	Putative phage terminase, small subunit, P27 family
+			protein_id	NVP1072O_02
+			db_xref	InterPro:IPR006448
+			note	tara_best_match:OM-RGC.v1.028160891
+1283	1462	gene
+			locus_tag	NVP1072O_03
+1283	1462	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_03
+			db_xref	egg:ENOG41125XR
+			db_xref	pog:POG2483
+			note	aclame_best_match:protein:proph:167575
+			note	tara_best_match:OM-RGC.v1.036663065
+			note	cvp_best_match:RF_PEP_326536156
+1557	1793	gene
+			locus_tag	NVP1072O_04
+1557	1793	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_04
+1777	1929	gene
+			locus_tag	NVP1072O_05
+1777	1929	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1072O_05
+			db_xref	InterPro:IPS TMHMM
+1920	3749	gene
+			locus_tag	NVP1072O_06
+1920	3749	CDS
+			product	Phage terminase
+			protein_id	NVP1072O_06
+			db_xref	pfam:PF03354
+			db_xref	egg:COG4626
+			db_xref	InterPro:IPR005021
+			note	tara_best_match:OM-RGC.v1.001153157
+3746	5065	gene
+			locus_tag	NVP1072O_07
+3746	5065	CDS
+			product	Bacteriophage/Gene transfer agent portal protein
+			protein_id	NVP1072O_07
+			db_xref	InterPro:IPR006944
+5037	5687	gene
+			locus_tag	NVP1072O_08
+5037	5687	CDS
+			product	Prohead protease
+			protein_id	NVP1072O_08
+			db_xref	egg:COG3740
+			db_xref	InterPro:IPR006433
+			note	tara_best_match:OM-RGC.v1.014799126
+			note	cvp_best_match:CAMPEP_0000023972
+5772	7151	gene
+			locus_tag	NVP1072O_09
+5772	7151	CDS
+			product	Coil containing protein
+			protein_id	NVP1072O_09
+			db_xref	InterPro:IPS Coils
+7244	7768	gene
+			locus_tag	NVP1072O_10
+7244	7768	CDS
+			product	Phage gp6-like head-tail connector protein
+			protein_id	NVP1072O_10
+			db_xref	InterPro:IPR021146
+7758	8087	gene
+			locus_tag	NVP1072O_11
+7758	8087	CDS
+			product	Bacteriophage SPP1, head-tail adaptor
+			protein_id	NVP1072O_11
+			db_xref	InterPro:IPR008767
+8235	10391	gene
+			locus_tag	NVP1072O_12
+8235	10391	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_12
+10491	10850	gene
+			locus_tag	NVP1072O_13
+10491	10850	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_13
+10862	11554	gene
+			locus_tag	NVP1072O_14
+10862	11554	CDS
+			product	Bacterial Ig-like, group 2
+			protein_id	NVP1072O_14
+			db_xref	InterPro:IPR003343
+11556	11933	gene
+			locus_tag	NVP1072O_15
+11556	11933	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_15
+12163	12681	gene
+			locus_tag	NVP1072O_16
+12163	12681	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_16
+12678	15020	gene
+			locus_tag	NVP1072O_17
+12678	15020	CDS
+			product	Coil containing protein
+			protein_id	NVP1072O_17
+			db_xref	InterPro:IPS Coils
+15023	15631	gene
+			locus_tag	NVP1072O_18
+15023	15631	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_18
+			note	aclame_best_match:protein:vir:5751
+			note	tara_best_match:OM-RGC.v1.016267011
+			note	cvp_best_match:RF_PEP_33770525
+15624	16202	gene
+			locus_tag	NVP1072O_19
+15624	16202	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_19
+			db_xref	egg:ENOG4111UF4
+16202	16597	gene
+			locus_tag	NVP1072O_20
+16202	16597	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_20
+			db_xref	egg:ENOG410XWP4
+			note	tara_best_match:OM-RGC.v1.026023124
+16594	20124	gene
+			locus_tag	NVP1072O_21
+16594	20124	CDS
+			product	Coil containing protein
+			protein_id	NVP1072O_21
+			db_xref	InterPro:IPS Coils
+20189	23245	gene
+			locus_tag	NVP1072O_22
+20189	23245	CDS
+			product	Coil containing protein
+			protein_id	NVP1072O_22
+			db_xref	InterPro:IPS Coils
+23281	23949	gene
+			locus_tag	NVP1072O_23
+23281	23949	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_23
+26172	23935	gene
+			locus_tag	NVP1072O_24
+26172	23935	CDS
+			product	Coil containing protein
+			protein_id	NVP1072O_24
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.000637619
+			note	cvp_best_match:RF_PEP_448261073
+27387	26224	gene
+			locus_tag	NVP1072O_25
+27387	26224	CDS
+			product	BRCT domain
+			protein_id	NVP1072O_25
+			db_xref	InterPro:IPR001357
+29940	27451	gene
+			locus_tag	NVP1072O_26
+29940	27451	CDS
+			product	DNA primase, phage/plasmid
+			protein_id	NVP1072O_26
+			db_xref	InterPro:IPR006500
+			note	tara_best_match:OM-RGC.v1.000393748
+30182	29943	gene
+			locus_tag	NVP1072O_27
+30182	29943	CDS
+			product	Coil containing protein
+			protein_id	NVP1072O_27
+			db_xref	InterPro:IPS Coils
+30613	30182	gene
+			locus_tag	NVP1072O_28
+30613	30182	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_28
+31741	30617	gene
+			locus_tag	NVP1072O_29
+31741	30617	CDS
+			product	Protein of unknown function DUF2815
+			protein_id	NVP1072O_29
+			db_xref	InterPro:IPR022595
+32879	31743	gene
+			locus_tag	NVP1072O_30
+32879	31743	CDS
+			product	Protein of unknown function DUF2800
+			protein_id	NVP1072O_30
+			db_xref	InterPro:IPR021229
+33772	32885	gene
+			locus_tag	NVP1072O_31
+33772	32885	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_31
+33921	34217	gene
+			locus_tag	NVP1072O_32
+33921	34217	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_32
+34214	36082	gene
+			locus_tag	NVP1072O_33
+34214	36082	CDS
+			product	Helicase superfamily 1/2, ATP-binding domain
+			protein_id	NVP1072O_33
+			db_xref	InterPro:IPR014001
+			note	tara_best_match:OM-RGC.v1.001184763
+			note	cvp_best_match:RF_PEP_448261080
+36084	36299	gene
+			locus_tag	NVP1072O_34
+36084	36299	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_34
+36265	36717	gene
+			locus_tag	NVP1072O_35
+36265	36717	CDS
+			product	EF-Hand 1, calcium-binding site
+			protein_id	NVP1072O_35
+			db_xref	kegg:K01447
+			db_xref	pfam:PF01510
+			db_xref	cog:COG3023
+			db_xref	egg:COG3023
+			db_xref	pog:POG0023
+			db_xref	InterPro:IPR018247
+			note	aclame_best_match:protein:vir:1517
+			note	tara_best_match:OM-RGC.v1.022945812
+			note	cvp_best_match:NCBI_PEP_441463247
+36726	36905	gene
+			locus_tag	NVP1072O_36
+36726	36905	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1072O_36
+			db_xref	InterPro:IPS TMHMM
+36902	37177	gene
+			locus_tag	NVP1072O_37
+36902	37177	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_37
+37705	37370	gene
+			locus_tag	NVP1072O_38
+37705	37370	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1072O_38
+			db_xref	InterPro:IPS TMHMM
+38203	37916	gene
+			locus_tag	NVP1072O_39
+38203	37916	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_39
+38474	38295	gene
+			locus_tag	NVP1072O_40
+38474	38295	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_40
+			note	tara_best_match:OM-RGC.v1.036786759
+38830	38471	gene
+			locus_tag	NVP1072O_41
+38830	38471	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_41
+39398	39021	gene
+			locus_tag	NVP1072O_42
+39398	39021	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_42
+40246	39395	gene
+			locus_tag	NVP1072O_43
+40246	39395	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_43
+40538	40849	gene
+			locus_tag	NVP1072O_44
+40538	40849	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_44
+40876	41067	gene
+			locus_tag	NVP1072O_45
+40876	41067	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_45
+41067	41486	gene
+			locus_tag	NVP1072O_46
+41067	41486	CDS
+			product	HNH nuclease
+			protein_id	NVP1072O_46
+			db_xref	InterPro:IPR003615
+			note	aclame_best_match:protein:vir:81205
+			note	tara_best_match:OM-RGC.v1.028797246
+			note	cvp_best_match:RF_PEP_428781871
+41858	42835	gene
+			locus_tag	NVP1072O_47
+41858	42835	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_47
+42838	43062	gene
+			locus_tag	NVP1072O_48
+42838	43062	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_48
+43065	43253	gene
+			locus_tag	NVP1072O_49
+43065	43253	CDS
+			product	Lambda repressor-like, DNA-binding domain
+			protein_id	NVP1072O_49
+			db_xref	InterPro:IPR010982
+43250	43435	gene
+			locus_tag	NVP1072O_50
+43250	43435	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_50
+43432	43557	gene
+			locus_tag	NVP1072O_51
+43432	43557	CDS
+			product	hypothetical protein
+			protein_id	NVP1072O_51

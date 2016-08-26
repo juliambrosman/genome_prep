@@ -1,0 +1,710 @@
+>Features Vibrio_virus_1.215.B._10N.222.54.F7
+3	809	gene
+			locus_tag	NVP1215B_001
+3	809	CDS
+			product	Coil containing protein
+			protein_id	NVP1215B_001
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.009422065
+			note	cvp_best_match:NCBI_PEP_334898906
+796	2808	gene
+			locus_tag	NVP1215B_002
+796	2808	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_002
+			db_xref	pog:POG1886
+			note	tara_best_match:OM-RGC.v1.000665854
+			note	cvp_best_match:NCBI_PEP_334898907
+2825	3067	gene
+			locus_tag	NVP1215B_003
+2825	3067	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_003
+			note	tara_best_match:OM-RGC.v1.033977046
+			note	cvp_best_match:NCBI_PEP_334898908
+3183	3452	gene
+			locus_tag	NVP1215B_004
+3183	3452	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_004
+			note	tara_best_match:OM-RGC.v1.033248532
+			note	cvp_best_match:NCBI_PEP_334898910
+3442	3849	gene
+			locus_tag	NVP1215B_005
+3442	3849	CDS
+			product	Coil containing protein
+			protein_id	NVP1215B_005
+			db_xref	InterPro:IPS Coils
+3873	5939	gene
+			locus_tag	NVP1215B_006
+3873	5939	CDS
+			product	PEP-utilising enzyme, active site
+			protein_id	NVP1215B_006
+			db_xref	kegg:K01006
+			db_xref	cog:COG3605
+			db_xref	egg:COG0574
+			db_xref	InterPro:IPR018274
+			note	aclame_best_match:protein:plasmid:19088
+			note	tara_best_match:OM-RGC.v1.000640808
+			note	cvp_best_match:NCBI_PEP_334898913
+5945	6427	gene
+			locus_tag	NVP1215B_007
+5945	6427	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_007
+			note	cvp_best_match:NCBI_PEP_334898914
+6459	6959	gene
+			locus_tag	NVP1215B_008
+6459	6959	CDS
+			product	Protein-tyrosine phosphatase-like
+			protein_id	NVP1215B_008
+			db_xref	InterPro:IPR029021
+			note	cvp_best_match:NCBI_PEP_334898915
+6978	8018	gene
+			locus_tag	NVP1215B_009
+6978	8018	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_009
+			note	cvp_best_match:NCBI_PEP_334898916
+8024	8854	gene
+			locus_tag	NVP1215B_010
+8024	8854	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_010
+			note	tara_best_match:OM-RGC.v1.008077168
+			note	cvp_best_match:CAMPEP_0000010492
+8857	11214	gene
+			locus_tag	NVP1215B_011
+8857	11214	CDS
+			product	Ribonuclease H-like domain
+			protein_id	NVP1215B_011
+			db_xref	pog:POG0026
+			db_xref	InterPro:IPR012337
+			note	tara_best_match:OM-RGC.v1.000400915
+			note	cvp_best_match:NCBI_PEP_334898919
+11215	13065	gene
+			locus_tag	NVP1215B_012
+11215	13065	CDS
+			product	Bacteriophage/Gene transfer agent portal protein
+			protein_id	NVP1215B_012
+			db_xref	pog:POG0059
+			db_xref	InterPro:IPR006944
+			note	tara_best_match:OM-RGC.v1.000857894
+			note	cvp_best_match:NCBI_PEP_334898920
+13062	14150	gene
+			locus_tag	NVP1215B_013
+13062	14150	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_013
+			note	tara_best_match:OM-RGC.v1.004558182
+			note	cvp_best_match:CAMPEP_0000010498
+14158	14811	gene
+			locus_tag	NVP1215B_014
+14158	14811	CDS
+			product	S-adenosyl-L-methionine-dependent methyltransferase
+			protein_id	NVP1215B_014
+			db_xref	pfam:PF05063
+			db_xref	cog:COG4725
+			db_xref	egg:COG4725
+			db_xref	pog:POG2123
+			db_xref	InterPro:IPR029063
+			note	aclame_best_match:protein:vir:7346
+			note	tara_best_match:OM-RGC.v1.014305924
+			note	cvp_best_match:NCBI_PEP_334898923
+14940	15365	gene
+			locus_tag	NVP1215B_015
+14940	15365	CDS
+			product	Coil containing protein
+			protein_id	NVP1215B_015
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.025429444
+			note	cvp_best_match:NCBI_PEP_334898924
+15310	15855	gene
+			locus_tag	NVP1215B_016
+15310	15855	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_016
+			note	tara_best_match:OM-RGC.v1.023932047
+			note	cvp_best_match:CAMPEP_0000010504
+16001	16399	gene
+			locus_tag	NVP1215B_017
+16001	16399	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_017
+			note	cvp_best_match:NCBI_PEP_334898926
+16401	16736	gene
+			locus_tag	NVP1215B_018
+16401	16736	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_018
+			note	cvp_best_match:CAMPEP_0000010506
+16760	17026	gene
+			locus_tag	NVP1215B_019
+16760	17026	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1215B_019
+			db_xref	InterPro:IPS TMHMM
+17023	17475	gene
+			locus_tag	NVP1215B_020
+17023	17475	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_020
+17472	17765	gene
+			locus_tag	NVP1215B_021
+17472	17765	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_021
+			note	cvp_best_match:NCBI_PEP_334898931
+17845	18156	gene
+			locus_tag	NVP1215B_022
+17845	18156	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_022
+			note	cvp_best_match:NCBI_PEP_334898933
+18215	19618	gene
+			locus_tag	NVP1215B_023
+18215	19618	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_023
+19773	20228	gene
+			locus_tag	NVP1215B_024
+19773	20228	CDS
+			product	Putative zinc- or iron-chelating domain containing protein
+			protein_id	NVP1215B_024
+			db_xref	InterPro:IPR005358
+			note	cvp_best_match:NCBI_PEP_334898937
+20225	20629	gene
+			locus_tag	NVP1215B_025
+20225	20629	CDS
+			product	SEC-C motif
+			protein_id	NVP1215B_025
+			db_xref	InterPro:IPR004027
+20610	21176	gene
+			locus_tag	NVP1215B_026
+20610	21176	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_026
+			note	cvp_best_match:NCBI_PEP_334898938
+21799	22518	gene
+			locus_tag	NVP1215B_027
+21799	22518	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_027
+22521	23342	gene
+			locus_tag	NVP1215B_028
+22521	23342	CDS
+			product	Coil containing protein
+			protein_id	NVP1215B_028
+			db_xref	InterPro:IPS Coils
+			note	cvp_best_match:NCBI_PEP_334898821
+23474	23953	gene
+			locus_tag	NVP1215B_029
+23474	23953	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_029
+23973	24650	gene
+			locus_tag	NVP1215B_030
+23973	24650	CDS
+			product	Coil containing protein
+			protein_id	NVP1215B_030
+			db_xref	InterPro:IPS Coils
+			note	cvp_best_match:NCBI_PEP_334898824
+24743	25021	gene
+			locus_tag	NVP1215B_031
+24743	25021	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_031
+			note	tara_best_match:OM-RGC.v1.033156037
+			note	cvp_best_match:NCBI_PEP_334898827
+25026	25430	gene
+			locus_tag	NVP1215B_032
+25026	25430	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_032
+			note	cvp_best_match:NCBI_PEP_334898828
+25457	25906	gene
+			locus_tag	NVP1215B_033
+25457	25906	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_033
+25945	26169	gene
+			locus_tag	NVP1215B_034
+25945	26169	CDS
+			product	Coil containing protein
+			protein_id	NVP1215B_034
+			db_xref	InterPro:IPS Coils
+26268	26783	gene
+			locus_tag	NVP1215B_035
+26268	26783	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_035
+26788	26982	gene
+			locus_tag	NVP1215B_036
+26788	26982	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_036
+			note	cvp_best_match:NCBI_PEP_334898825
+27045	27389	gene
+			locus_tag	NVP1215B_037
+27045	27389	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1215B_037
+			db_xref	InterPro:IPS TMHMM
+27391	27663	gene
+			locus_tag	NVP1215B_038
+27391	27663	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1215B_038
+			db_xref	InterPro:IPS TMHMM
+27660	28238	gene
+			locus_tag	NVP1215B_039
+27660	28238	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1215B_039
+			db_xref	InterPro:IPS TMHMM
+28235	28672	gene
+			locus_tag	NVP1215B_040
+28235	28672	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_040
+28817	29032	gene
+			locus_tag	NVP1215B_041
+28817	29032	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_041
+29055	29366	gene
+			locus_tag	NVP1215B_042
+29055	29366	CDS
+			product	Coil containing protein
+			protein_id	NVP1215B_042
+			db_xref	InterPro:IPS Coils
+			note	cvp_best_match:NCBI_PEP_334898842
+29484	30209	gene
+			locus_tag	NVP1215B_043
+29484	30209	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_043
+30263	30868	gene
+			locus_tag	NVP1215B_044
+30263	30868	CDS
+			product	Coil containing protein
+			protein_id	NVP1215B_044
+			db_xref	InterPro:IPS Coils
+30874	31317	gene
+			locus_tag	NVP1215B_045
+30874	31317	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_045
+31319	31618	gene
+			locus_tag	NVP1215B_046
+31319	31618	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_046
+31708	32046	gene
+			locus_tag	NVP1215B_047
+31708	32046	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_047
+32102	32974	gene
+			locus_tag	NVP1215B_048
+32102	32974	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_048
+33281	33481	gene
+			locus_tag	NVP1215B_049
+33281	33481	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_049
+			note	cvp_best_match:NCBI_PEP_334898846
+33543	33815	gene
+			locus_tag	NVP1215B_050
+33543	33815	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_050
+33815	34102	gene
+			locus_tag	NVP1215B_051
+33815	34102	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1215B_051
+			db_xref	InterPro:IPS TMHMM
+34092	35192	gene
+			locus_tag	NVP1215B_052
+34092	35192	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_052
+35382	37271	gene
+			locus_tag	NVP1215B_053
+35382	37271	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_053
+37352	39112	gene
+			locus_tag	NVP1215B_054
+37352	39112	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_054
+39325	39690	gene
+			locus_tag	NVP1215B_055
+39325	39690	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_055
+			note	cvp_best_match:NCBI_PEP_334898850
+39659	40255	gene
+			locus_tag	NVP1215B_056
+39659	40255	CDS
+			product	Coil containing protein
+			protein_id	NVP1215B_056
+			db_xref	InterPro:IPS Coils
+40319	40666	gene
+			locus_tag	NVP1215B_057
+40319	40666	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_057
+			note	cvp_best_match:NCBI_PEP_334898852
+40959	41507	gene
+			locus_tag	NVP1215B_058
+40959	41507	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_058
+			note	tara_best_match:OM-RGC.v1.016887690
+			note	cvp_best_match:CAMPEP_0000010606
+41583	41927	gene
+			locus_tag	NVP1215B_059
+41583	41927	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_059
+			note	cvp_best_match:NCBI_PEP_334898856
+41933	42385	gene
+			locus_tag	NVP1215B_060
+41933	42385	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_060
+			note	cvp_best_match:NCBI_PEP_334898857
+42465	43166	gene
+			locus_tag	NVP1215B_061
+42465	43166	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_061
+			note	cvp_best_match:NCBI_PEP_334898858
+43163	43438	gene
+			locus_tag	NVP1215B_062
+43163	43438	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_062
+			note	cvp_best_match:NCBI_PEP_334898859
+43601	43894	gene
+			locus_tag	NVP1215B_063
+43601	43894	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_063
+			note	cvp_best_match:NCBI_PEP_334898860
+43906	44214	gene
+			locus_tag	NVP1215B_064
+43906	44214	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_064
+44220	44741	gene
+			locus_tag	NVP1215B_065
+44220	44741	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_065
+			note	tara_best_match:OM-RGC.v1.020331784
+			note	cvp_best_match:NCBI_PEP_334898862
+45093	45875	gene
+			locus_tag	NVP1215B_066
+45093	45875	CDS
+			product	Coil containing protein
+			protein_id	NVP1215B_066
+			db_xref	pog:POG0246
+			db_xref	InterPro:IPS Coils
+			note	cvp_best_match:NCBI_PEP_334898864
+45875	47755	gene
+			locus_tag	NVP1215B_067
+45875	47755	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_067
+47841	48182	gene
+			locus_tag	NVP1215B_068
+47841	48182	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_068
+48316	48936	gene
+			locus_tag	NVP1215B_069
+48316	48936	CDS
+			product	Phage-like element PBSX protein, XkdF
+			protein_id	NVP1215B_069
+			db_xref	pog:POG0747
+			db_xref	InterPro:IPR027924
+			note	tara_best_match:OM-RGC.v1.015724014
+			note	cvp_best_match:NCBI_PEP_334898867
+48929	50092	gene
+			locus_tag	NVP1215B_070
+48929	50092	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_070
+			note	tara_best_match:OM-RGC.v1.003574676
+			note	cvp_best_match:NCBI_PEP_334898868
+50178	51128	gene
+			locus_tag	NVP1215B_071
+50178	51128	CDS
+			product	Phage capsid
+			protein_id	NVP1215B_071
+			db_xref	pfam:PF05065
+			db_xref	egg:none
+			db_xref	pog:POG0749
+			db_xref	InterPro:IPR024455
+			note	aclame_best_match:protein:proph:177356
+			note	tara_best_match:OM-RGC.v1.006318957
+			note	cvp_best_match:NCBI_PEP_334898869
+51204	51488	gene
+			locus_tag	NVP1215B_072
+51204	51488	CDS
+			product	Coil containing protein
+			protein_id	NVP1215B_072
+			db_xref	InterPro:IPS Coils
+			note	cvp_best_match:NCBI_PEP_334898870
+51503	52135	gene
+			locus_tag	NVP1215B_073
+51503	52135	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_073
+			note	tara_best_match:OM-RGC.v1.020726340
+			note	cvp_best_match:NCBI_PEP_334898871
+52132	52596	gene
+			locus_tag	NVP1215B_074
+52132	52596	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_074
+			note	tara_best_match:OM-RGC.v1.024056480
+			note	cvp_best_match:NCBI_PEP_334898872
+52593	53060	gene
+			locus_tag	NVP1215B_075
+52593	53060	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_075
+			note	tara_best_match:OM-RGC.v1.024182380
+			note	cvp_best_match:NCBI_PEP_334898873
+53113	53907	gene
+			locus_tag	NVP1215B_076
+53113	53907	CDS
+			product	Protein of unknown function UCP028589
+			protein_id	NVP1215B_076
+			db_xref	pog:POG2167
+			db_xref	InterPro:IPR016893
+			note	tara_best_match:OM-RGC.v1.009422066
+			note	cvp_best_match:NCBI_PEP_334898874
+53996	54421	gene
+			locus_tag	NVP1215B_077
+53996	54421	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_077
+			note	tara_best_match:OM-RGC.v1.025179181
+			note	cvp_best_match:NCBI_PEP_334898875
+54627	58760	gene
+			locus_tag	NVP1215B_078
+54627	58760	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1215B_078
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.000051756
+			note	cvp_best_match:NCBI_PEP_334898877
+58757	59143	gene
+			locus_tag	NVP1215B_079
+58757	59143	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_079
+			note	tara_best_match:OM-RGC.v1.027316027
+			note	cvp_best_match:NCBI_PEP_334898878
+59155	60141	gene
+			locus_tag	NVP1215B_080
+59155	60141	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_080
+			note	tara_best_match:OM-RGC.v1.005844368
+			note	cvp_best_match:NCBI_PEP_334898879
+60154	61038	gene
+			locus_tag	NVP1215B_081
+60154	61038	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_081
+			note	tara_best_match:OM-RGC.v1.008688999
+			note	cvp_best_match:NCBI_PEP_334898880
+61049	62347	gene
+			locus_tag	NVP1215B_082
+61049	62347	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_082
+			note	tara_best_match:OM-RGC.v1.003284738
+			note	cvp_best_match:NCBI_PEP_334898881
+62350	62883	gene
+			locus_tag	NVP1215B_083
+62350	62883	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_083
+			note	cvp_best_match:NCBI_PEP_334898882
+62883	63185	gene
+			locus_tag	NVP1215B_084
+62883	63185	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_084
+			note	cvp_best_match:NCBI_PEP_334898883
+63182	63409	gene
+			locus_tag	NVP1215B_085
+63182	63409	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_085
+			note	cvp_best_match:NCBI_PEP_334898884
+63399	63833	gene
+			locus_tag	NVP1215B_086
+63399	63833	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_086
+			db_xref	egg:ENOG410XY2Q
+			note	aclame_best_match:protein:proph:170477
+			note	tara_best_match:OM-RGC.v1.022852906
+			note	cvp_best_match:NCBI_PEP_334898885
+63836	64366	gene
+			locus_tag	NVP1215B_087
+63836	64366	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1215B_087
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.019028064
+			note	cvp_best_match:NCBI_PEP_334898886
+64484	65704	gene
+			locus_tag	NVP1215B_088
+64484	65704	CDS
+			product	AAA+ ATPase domain
+			protein_id	NVP1215B_088
+			db_xref	InterPro:IPR003593
+			note	tara_best_match:OM-RGC.v1.003678623
+			note	cvp_best_match:NCBI_PEP_334898887
+66086	67663	gene
+			locus_tag	NVP1215B_089
+66086	67663	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP1215B_089
+			db_xref	InterPro:IPR011991
+67670	68269	gene
+			locus_tag	NVP1215B_090
+67670	68269	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_090
+			note	tara_best_match:OM-RGC.v1.017507213
+			note	cvp_best_match:NCBI_PEP_334898889
+68254	69705	gene
+			locus_tag	NVP1215B_091
+68254	69705	CDS
+			product	DNA helicase, DnaB-like, C-terminal
+			protein_id	NVP1215B_091
+			db_xref	pog:POG0025
+			db_xref	InterPro:IPR007694
+			note	tara_best_match:OM-RGC.v1.001680827
+			note	cvp_best_match:NCBI_PEP_334898890
+69784	70374	gene
+			locus_tag	NVP1215B_092
+69784	70374	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_092
+			note	tara_best_match:OM-RGC.v1.015314464
+			note	cvp_best_match:CAMPEP_0000010678
+70367	71353	gene
+			locus_tag	NVP1215B_093
+70367	71353	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_093
+			db_xref	pog:POG0084
+			note	tara_best_match:OM-RGC.v1.005663242
+			note	cvp_best_match:NCBI_PEP_334898893
+71365	72294	gene
+			locus_tag	NVP1215B_094
+71365	72294	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_094
+			note	tara_best_match:OM-RGC.v1.006369603
+			note	cvp_best_match:NCBI_PEP_334898894
+72346	73770	gene
+			locus_tag	NVP1215B_095
+72346	73770	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP1215B_095
+			db_xref	pog:POG0081
+			db_xref	InterPro:IPR027417
+			note	tara_best_match:OM-RGC.v1.001987172
+			note	cvp_best_match:NCBI_PEP_334898895
+73865	74320	gene
+			locus_tag	NVP1215B_096
+73865	74320	CDS
+			product	Putative DNA-binding domain
+			protein_id	NVP1215B_096
+			db_xref	InterPro:IPR009061
+			note	tara_best_match:OM-RGC.v1.026813334
+			note	cvp_best_match:NCBI_PEP_334898896
+74323	74709	gene
+			locus_tag	NVP1215B_097
+74323	74709	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_097
+			note	tara_best_match:OM-RGC.v1.025937616
+			note	cvp_best_match:NCBI_PEP_334898897
+74722	75801	gene
+			locus_tag	NVP1215B_098
+74722	75801	CDS
+			product	DNA recombination and repair protein RecA, monomer-monomer interface
+			protein_id	NVP1215B_098
+			db_xref	kegg:K03553
+			db_xref	pfam:PF00154
+			db_xref	cog:COG0468
+			db_xref	egg:COG0468
+			db_xref	InterPro:IPR020587
+			note	tara_best_match:OM-RGC.v1.004493100
+			note	cvp_best_match:NCBI_PEP_334898898
+75779	76201	gene
+			locus_tag	NVP1215B_099
+75779	76201	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_099
+			note	tara_best_match:OM-RGC.v1.026188773
+			note	cvp_best_match:NCBI_PEP_334898899
+76182	77177	gene
+			locus_tag	NVP1215B_100
+76182	77177	CDS
+			product	Rubredoxin-type fold
+			protein_id	NVP1215B_100
+			db_xref	InterPro:IPR004039
+			note	tara_best_match:OM-RGC.v1.005577789
+			note	cvp_best_match:NCBI_PEP_334898900
+77177	77740	gene
+			locus_tag	NVP1215B_101
+77177	77740	CDS
+			product	Ribonuclease H-like domain
+			protein_id	NVP1215B_101
+			db_xref	pog:POG1093
+			db_xref	InterPro:IPR012337
+			note	tara_best_match:OM-RGC.v1.018155985
+			note	cvp_best_match:NCBI_PEP_334898901
+77851	78831	gene
+			locus_tag	NVP1215B_102
+77851	78831	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_102
+			note	tara_best_match:OM-RGC.v1.005236834
+			note	cvp_best_match:NCBI_PEP_334898902
+78893	79237	gene
+			locus_tag	NVP1215B_103
+78893	79237	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_103
+			note	cvp_best_match:NCBI_PEP_46243952
+79265	80011	gene
+			locus_tag	NVP1215B_104
+79265	80011	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_104
+			note	cvp_best_match:NCBI_PEP_46243951
+80087	80818	gene
+			locus_tag	NVP1215B_105
+80087	80818	CDS
+			product	hypothetical protein
+			protein_id	NVP1215B_105
+			note	tara_best_match:OM-RGC.v1.013263609
+			note	cvp_best_match:NCBI_PEP_334898905

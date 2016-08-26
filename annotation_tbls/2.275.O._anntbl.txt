@@ -1,0 +1,3150 @@
+>Features Vibrio_virus_2.275.O._10N.286.54.E11
+1	498	gene
+			locus_tag	NVP2275O_001
+1	498	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_001
+614	2227	gene
+			locus_tag	NVP2275O_002
+614	2227	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP2275O_002
+			db_xref	pfam:PF03237
+			db_xref	InterPro:IPR027417
+			note	tara_best_match:OM-RGC.v1.001533414
+			note	cvp_best_match:RF_PEP_414087187
+2245	3582	gene
+			locus_tag	NVP2275O_003
+2245	3582	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_003
+3767	4759	gene
+			locus_tag	NVP2275O_004
+3767	4759	CDS
+			product	Bacteriophage T4, Gp32, single-stranded DNA-binding
+			protein_id	NVP2275O_004
+			db_xref	InterPro:IPR012339
+			note	tara_best_match:OM-RGC.v1.004739853
+			note	cvp_best_match:RF_PEP_414087189
+4811	5953	gene
+			locus_tag	NVP2275O_005
+4811	5953	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP2275O_005
+			db_xref	InterPro:IPR027417
+			note	tara_best_match:OM-RGC.v1.004460285
+			note	cvp_best_match:RF_PEP_414087190
+5957	6418	gene
+			locus_tag	NVP2275O_006
+5957	6418	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_006
+			db_xref	pfam:PF11056
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.023776004
+			note	cvp_best_match:RF_PEP_422937006
+6562	7368	gene
+			locus_tag	NVP2275O_007
+6562	7368	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_007
+			note	cvp_best_match:RF_PEP_422937007
+7370	8872	gene
+			locus_tag	NVP2275O_008
+7370	8872	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP2275O_008
+			db_xref	InterPro:IPR027417
+			note	tara_best_match:OM-RGC.v1.001839776
+			note	cvp_best_match:RF_PEP_422937008
+8962	9345	gene
+			locus_tag	NVP2275O_009
+8962	9345	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_009
+9549	10010	gene
+			locus_tag	NVP2275O_010
+9549	10010	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_010
+			note	tara_best_match:OM-RGC.v1.022066393
+			note	cvp_best_match:RF_PEP_414087196
+10011	10643	gene
+			locus_tag	NVP2275O_011
+10011	10643	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_011
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.023670528
+10645	11331	gene
+			locus_tag	NVP2275O_012
+10645	11331	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_012
+			note	tara_best_match:OM-RGC.v1.021007966
+			note	cvp_best_match:NCBI_PEP_441462882
+11331	11609	gene
+			locus_tag	NVP2275O_013
+11331	11609	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_013
+			db_xref	InterPro:IPS Coils
+11625	12224	gene
+			locus_tag	NVP2275O_014
+11625	12224	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_014
+			note	tara_best_match:OM-RGC.v1.017693442
+			note	cvp_best_match:RF_PEP_414087200
+12608	12231	gene
+			locus_tag	NVP2275O_015
+12608	12231	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_015
+			note	tara_best_match:OM-RGC.v1.027484424
+			note	cvp_best_match:RF_PEP_414087201
+12677	13672	gene
+			locus_tag	NVP2275O_016
+12677	13672	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_016
+13749	14795	gene
+			locus_tag	NVP2275O_017
+13749	14795	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_017
+			note	tara_best_match:OM-RGC.v1.005582463
+			note	cvp_best_match:RF_PEP_414087203
+14805	16172	gene
+			locus_tag	NVP2275O_018
+14805	16172	CDS
+			product	DNA helicase, DnaB-like, C-terminal
+			protein_id	NVP2275O_018
+			db_xref	InterPro:IPR007694
+			note	tara_best_match:OM-RGC.v1.002092378
+			note	cvp_best_match:RF_PEP_422937018
+16208	16459	gene
+			locus_tag	NVP2275O_019
+16208	16459	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_019
+			note	tara_best_match:OM-RGC.v1.032825208
+			note	cvp_best_match:NCBI_PEP_441462875
+16459	16635	gene
+			locus_tag	NVP2275O_020
+16459	16635	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_020
+			note	cvp_best_match:NCBI_PEP_441462874
+16635	17042	gene
+			locus_tag	NVP2275O_021
+16635	17042	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_021
+17071	17406	gene
+			locus_tag	NVP2275O_022
+17071	17406	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_022
+17399	17599	gene
+			locus_tag	NVP2275O_023
+17399	17599	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_023
+			db_xref	InterPro:IPS Coils
+17610	18431	gene
+			locus_tag	NVP2275O_024
+17610	18431	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_024
+18462	19361	gene
+			locus_tag	NVP2275O_025
+18462	19361	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_025
+19365	19721	gene
+			locus_tag	NVP2275O_026
+19365	19721	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_026
+19805	20512	gene
+			locus_tag	NVP2275O_027
+19805	20512	CDS
+			product	Restriction endonuclease  type II-like
+			protein_id	NVP2275O_027
+			db_xref	egg:ENOG410XWHK
+			db_xref	InterPro:IPR011335
+			note	tara_best_match:OM-RGC.v1.013777703
+			note	cvp_best_match:RF_PEP_414087213
+20516	21067	gene
+			locus_tag	NVP2275O_028
+20516	21067	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_028
+21088	21723	gene
+			locus_tag	NVP2275O_029
+21088	21723	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_029
+			note	cvp_best_match:RF_PEP_414087215
+21804	22010	gene
+			locus_tag	NVP2275O_030
+21804	22010	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_030
+22010	22729	gene
+			locus_tag	NVP2275O_031
+22010	22729	CDS
+			product	Phosphoribosyl-ATP pyrophosphohydrolase-like
+			protein_id	NVP2275O_031
+			db_xref	InterPro:IPR021130
+			note	cvp_best_match:NCBI_PEP_441462859
+22784	23503	gene
+			locus_tag	NVP2275O_032
+22784	23503	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_032
+23550	23801	gene
+			locus_tag	NVP2275O_033
+23550	23801	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_033
+23833	26088	gene
+			locus_tag	NVP2275O_034
+23833	26088	CDS
+			product	Histidine kinase-like ATPase, C-terminal domain
+			protein_id	NVP2275O_034
+			db_xref	InterPro:IPR003594
+26196	26657	gene
+			locus_tag	NVP2275O_035
+26196	26657	CDS
+			product	Prokaryotic membrane lipoprotein lipid attachment site profile.
+			protein_id	NVP2275O_035
+			db_xref	InterPro:IPS ProSiteProfiles
+26715	27119	gene
+			locus_tag	NVP2275O_036
+26715	27119	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_036
+27250	27591	gene
+			locus_tag	NVP2275O_037
+27250	27591	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_037
+27588	28109	gene
+			locus_tag	NVP2275O_038
+27588	28109	CDS
+			product	Dihydrofolate reductase
+			protein_id	NVP2275O_038
+			db_xref	kegg:K00287
+			db_xref	pfam:PF00186
+			db_xref	cog:COG0262
+			db_xref	egg:COG0207
+			db_xref	InterPro:IPR012259
+			note	tara_best_match:OM-RGC.v1.022873603
+28084	28389	gene
+			locus_tag	NVP2275O_039
+28084	28389	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_039
+			db_xref	InterPro:IPS Coils
+28482	29387	gene
+			locus_tag	NVP2275O_040
+28482	29387	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_040
+29397	30716	gene
+			locus_tag	NVP2275O_041
+29397	30716	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP2275O_041
+			db_xref	InterPro:IPR027417
+			note	cvp_best_match:RF_PEP_414087228
+30778	31410	gene
+			locus_tag	NVP2275O_042
+30778	31410	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_042
+31424	31636	gene
+			locus_tag	NVP2275O_043
+31424	31636	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_043
+31702	32223	gene
+			locus_tag	NVP2275O_044
+31702	32223	CDS
+			product	Translation initiation factor 3, N-terminal
+			protein_id	NVP2275O_044
+			db_xref	kegg:K02520
+			db_xref	cog:COG0290
+			db_xref	egg:COG0290
+			db_xref	InterPro:IPR019814
+			note	tara_best_match:OM-RGC.v1.018611987
+			note	cvp_best_match:RF_PEP_414087231
+32234	32479	gene
+			locus_tag	NVP2275O_045
+32234	32479	CDS
+			product	Ribosomal protein S21
+			protein_id	NVP2275O_045
+			db_xref	kegg:K02970
+			db_xref	pfam:PF01165
+			db_xref	cog:COG0828
+			db_xref	InterPro:IPR001911
+			note	tara_best_match:OM-RGC.v1.032382201
+32577	32933	gene
+			locus_tag	NVP2275O_046
+32577	32933	CDS
+			product	Ribosomal protein L7/L12, C-terminal/adaptor protein ClpS-like
+			protein_id	NVP2275O_046
+			db_xref	InterPro:IPR014719
+32972	33505	gene
+			locus_tag	NVP2275O_047
+32972	33505	CDS
+			product	KTSC domain
+			protein_id	NVP2275O_047
+			db_xref	InterPro:IPR025309
+			note	cvp_best_match:RF_PEP_414087233
+33530	34051	gene
+			locus_tag	NVP2275O_048
+33530	34051	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_048
+34051	34620	gene
+			locus_tag	NVP2275O_049
+34051	34620	CDS
+			product	Manganese/iron superoxide dismutase, C-terminal
+			protein_id	NVP2275O_049
+			db_xref	InterPro:IPR019832
+			note	tara_best_match:OM-RGC.v1.017085054
+34782	36902	gene
+			locus_tag	NVP2275O_050
+34782	36902	CDS
+			product	DNA topoisomerase, type IIA, subunit B, domain 2
+			protein_id	NVP2275O_050
+			db_xref	InterPro:IPR013506
+			note	cvp_best_match:NCBI_PEP_441462845
+37000	38406	gene
+			locus_tag	NVP2275O_051
+37000	38406	CDS
+			product	DNA topoisomerase, type IIA, subunit A/ C-terminal, alpha-beta
+			protein_id	NVP2275O_051
+			db_xref	pfam:PF00521
+			db_xref	InterPro:IPR013758
+			note	cvp_best_match:NCBI_PEP_441462844
+38448	39269	gene
+			locus_tag	NVP2275O_052
+38448	39269	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_052
+39269	41185	gene
+			locus_tag	NVP2275O_053
+39269	41185	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_053
+41213	41551	gene
+			locus_tag	NVP2275O_054
+41213	41551	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_054
+41616	41984	gene
+			locus_tag	NVP2275O_055
+41616	41984	CDS
+			product	Bacterial DNA polymerase III, alpha subunit
+			protein_id	NVP2275O_055
+			db_xref	pfam:PF07733
+			db_xref	InterPro:IPR011708
+			note	tara_best_match:OM-RGC.v1.021406030
+			note	cvp_best_match:RF_PEP_422937052
+41984	42307	gene
+			locus_tag	NVP2275O_056
+41984	42307	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_056
+			note	tara_best_match:OM-RGC.v1.026624998
+			note	cvp_best_match:NCBI_PEP_441462840
+42309	42650	gene
+			locus_tag	NVP2275O_057
+42309	42650	CDS
+			product	GroES-like
+			protein_id	NVP2275O_057
+			db_xref	pfam:PF00166
+			db_xref	InterPro:IPR011032
+			note	tara_best_match:OM-RGC.v1.028181273
+			note	cvp_best_match:NCBI_PEP_441462839
+42749	43552	gene
+			locus_tag	NVP2275O_058
+42749	43552	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_058
+			db_xref	InterPro:IPS TMHMM
+43624	43953	gene
+			locus_tag	NVP2275O_059
+43624	43953	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_059
+44020	44298	gene
+			locus_tag	NVP2275O_060
+44020	44298	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_060
+44310	44921	gene
+			locus_tag	NVP2275O_061
+44310	44921	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_061
+44972	45241	gene
+			locus_tag	NVP2275O_062
+44972	45241	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_062
+			db_xref	InterPro:IPS Coils
+45257	46240	gene
+			locus_tag	NVP2275O_063
+45257	46240	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP2275O_063
+			db_xref	InterPro:IPR027417
+			note	tara_best_match:OM-RGC.v1.006765405
+			note	cvp_best_match:RF_PEP_414087245
+46523	46750	gene
+			locus_tag	NVP2275O_064
+46523	46750	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_064
+46750	47007	gene
+			locus_tag	NVP2275O_065
+46750	47007	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_065
+			db_xref	InterPro:IPS TMHMM
+47007	47633	gene
+			locus_tag	NVP2275O_066
+47007	47633	CDS
+			product	HAD-like domain
+			protein_id	NVP2275O_066
+			db_xref	InterPro:IPR023214
+47688	48308	gene
+			locus_tag	NVP2275O_067
+47688	48308	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_067
+			db_xref	InterPro:IPS Coils
+48428	48733	gene
+			locus_tag	NVP2275O_068
+48428	48733	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_068
+48723	49265	gene
+			locus_tag	NVP2275O_069
+48723	49265	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_069
+			note	tara_best_match:OM-RGC.v1.022855786
+			note	cvp_best_match:RF_PEP_414087247
+49267	49956	gene
+			locus_tag	NVP2275O_070
+49267	49956	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_070
+			note	cvp_best_match:RF_PEP_422937059
+49966	50724	gene
+			locus_tag	NVP2275O_071
+49966	50724	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_071
+50764	51084	gene
+			locus_tag	NVP2275O_072
+50764	51084	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_072
+51086	51676	gene
+			locus_tag	NVP2275O_073
+51086	51676	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_073
+51779	52279	gene
+			locus_tag	NVP2275O_074
+51779	52279	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_074
+			db_xref	InterPro:IPS TMHMM
+52279	52755	gene
+			locus_tag	NVP2275O_075
+52279	52755	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_075
+52755	52925	gene
+			locus_tag	NVP2275O_076
+52755	52925	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_076
+			db_xref	InterPro:IPS Coils
+52928	53164	gene
+			locus_tag	NVP2275O_077
+52928	53164	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_077
+			db_xref	InterPro:IPS Coils
+53243	54148	gene
+			locus_tag	NVP2275O_078
+53243	54148	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_078
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.006481732
+54393	54566	gene
+			locus_tag	NVP2275O_079
+54393	54566	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_079
+54636	54809	gene
+			locus_tag	NVP2275O_080
+54636	54809	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_080
+54903	55253	gene
+			locus_tag	NVP2275O_081
+54903	55253	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_081
+55250	55429	gene
+			locus_tag	NVP2275O_082
+55250	55429	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_082
+			db_xref	InterPro:IPS TMHMM
+55429	55704	gene
+			locus_tag	NVP2275O_083
+55429	55704	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_083
+55738	56532	gene
+			locus_tag	NVP2275O_084
+55738	56532	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_084
+56532	57221	gene
+			locus_tag	NVP2275O_085
+56532	57221	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_085
+57221	57826	gene
+			locus_tag	NVP2275O_086
+57221	57826	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_086
+57813	58094	gene
+			locus_tag	NVP2275O_087
+57813	58094	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_087
+58102	58392	gene
+			locus_tag	NVP2275O_088
+58102	58392	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_088
+58521	59507	gene
+			locus_tag	NVP2275O_089
+58521	59507	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP2275O_089
+			db_xref	InterPro:IPR027417
+			note	aclame_best_match:protein:vir:100406
+			note	cvp_best_match:RF_PEP_423262305
+59553	59780	gene
+			locus_tag	NVP2275O_090
+59553	59780	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_090
+59780	59986	gene
+			locus_tag	NVP2275O_091
+59780	59986	CDS
+			product	Zinc finger, DksA/TraR C4-type conserved site
+			protein_id	NVP2275O_091
+			db_xref	cog:COG1734
+			db_xref	egg:COG1734
+			db_xref	pog:POG0585
+			db_xref	InterPro:IPR020458
+			note	aclame_best_match:protein:vir:1190
+			note	tara_best_match:OM-RGC.v1.032333609
+			note	cvp_best_match:RF_PEP_17313259
+59990	60316	gene
+			locus_tag	NVP2275O_092
+59990	60316	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_092
+60316	60900	gene
+			locus_tag	NVP2275O_093
+60316	60900	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_093
+61071	61577	gene
+			locus_tag	NVP2275O_094
+61071	61577	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_094
+61809	62045	gene
+			locus_tag	NVP2275O_095
+61809	62045	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_095
+			db_xref	InterPro:IPS TMHMM
+62114	62314	gene
+			locus_tag	NVP2275O_096
+62114	62314	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_096
+			db_xref	InterPro:IPS TMHMM
+62384	62734	gene
+			locus_tag	NVP2275O_097
+62384	62734	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_097
+62746	63003	gene
+			locus_tag	NVP2275O_098
+62746	63003	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_098
+			db_xref	InterPro:IPS TMHMM
+62996	63508	gene
+			locus_tag	NVP2275O_099
+62996	63508	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_099
+63505	63729	gene
+			locus_tag	NVP2275O_100
+63505	63729	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_100
+			db_xref	InterPro:IPS TMHMM
+63789	64409	gene
+			locus_tag	NVP2275O_101
+63789	64409	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_101
+64596	64949	gene
+			locus_tag	NVP2275O_102
+64596	64949	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_102
+65126	65650	gene
+			locus_tag	NVP2275O_103
+65126	65650	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_103
+65665	66012	gene
+			locus_tag	NVP2275O_104
+65665	66012	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_104
+66117	66446	gene
+			locus_tag	NVP2275O_105
+66117	66446	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_105
+66616	67461	gene
+			locus_tag	NVP2275O_106
+66616	67461	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_106
+67553	68395	gene
+			locus_tag	NVP2275O_107
+67553	68395	CDS
+			product	HNH endonuclease
+			protein_id	NVP2275O_107
+			db_xref	InterPro:IPR002711
+68592	69188	gene
+			locus_tag	NVP2275O_108
+68592	69188	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_108
+			note	cvp_best_match:RF_PEP_422937124
+69243	69539	gene
+			locus_tag	NVP2275O_109
+69243	69539	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_109
+69620	69865	gene
+			locus_tag	NVP2275O_110
+69620	69865	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_110
+69867	70370	gene
+			locus_tag	NVP2275O_111
+69867	70370	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_111
+			db_xref	InterPro:IPS TMHMM
+70442	71332	gene
+			locus_tag	NVP2275O_112
+70442	71332	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_112
+71341	71832	gene
+			locus_tag	NVP2275O_113
+71341	71832	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_113
+71832	72023	gene
+			locus_tag	NVP2275O_114
+71832	72023	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_114
+72081	72464	gene
+			locus_tag	NVP2275O_115
+72081	72464	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_115
+72436	72759	gene
+			locus_tag	NVP2275O_116
+72436	72759	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_116
+72834	73598	gene
+			locus_tag	NVP2275O_117
+72834	73598	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_117
+73729	74841	gene
+			locus_tag	NVP2275O_118
+73729	74841	CDS
+			product	RNA polymerase sigma-70 region 2
+			protein_id	NVP2275O_118
+			db_xref	InterPro:IPR007627
+74935	75612	gene
+			locus_tag	NVP2275O_119
+74935	75612	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_119
+			db_xref	InterPro:IPS Coils
+75686	76381	gene
+			locus_tag	NVP2275O_120
+75686	76381	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_120
+76398	76550	gene
+			locus_tag	NVP2275O_121
+76398	76550	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_121
+76553	76885	gene
+			locus_tag	NVP2275O_122
+76553	76885	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_122
+76897	77649	gene
+			locus_tag	NVP2275O_123
+76897	77649	CDS
+			product	Sirtuin family, catalytic core small domain
+			protein_id	NVP2275O_123
+			db_xref	kegg:K12410
+			db_xref	pfam:PF02146
+			db_xref	cog:COG0846
+			db_xref	egg:COG0846
+			db_xref	pog:POG1363
+			db_xref	InterPro:IPR026591
+			note	aclame_best_match:protein:vir:5352
+			note	tara_best_match:OM-RGC.v1.010427517
+			note	cvp_best_match:RF_PEP_34419278
+77652	78071	gene
+			locus_tag	NVP2275O_124
+77652	78071	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_124
+78136	79575	gene
+			locus_tag	NVP2275O_125
+78136	79575	CDS
+			product	DNA ligase, ATP-dependent, central
+			protein_id	NVP2275O_125
+			db_xref	InterPro:IPR012310
+			note	cvp_best_match:NCBI_PEP_441462501
+80312	79581	gene
+			locus_tag	NVP2275O_126
+80312	79581	CDS
+			product	Nuclease associated modular domain 3
+			protein_id	NVP2275O_126
+			db_xref	InterPro:IPR003611
+80435	80974	gene
+			locus_tag	NVP2275O_127
+80435	80974	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_127
+			db_xref	InterPro:IPS Coils
+81112	81705	gene
+			locus_tag	NVP2275O_128
+81112	81705	CDS
+			product	Cell wall hydrolase, SleB
+			protein_id	NVP2275O_128
+			db_xref	InterPro:IPR011105
+			note	tara_best_match:OM-RGC.v1.021842078
+81775	82170	gene
+			locus_tag	NVP2275O_129
+81775	82170	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_129
+82182	82358	gene
+			locus_tag	NVP2275O_130
+82182	82358	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_130
+			db_xref	InterPro:IPS TMHMM
+82674	83165	gene
+			locus_tag	NVP2275O_131
+82674	83165	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_131
+83165	83497	gene
+			locus_tag	NVP2275O_132
+83165	83497	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_132
+83494	83628	gene
+			locus_tag	NVP2275O_133
+83494	83628	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_133
+83629	84006	gene
+			locus_tag	NVP2275O_134
+83629	84006	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_134
+84003	84227	gene
+			locus_tag	NVP2275O_135
+84003	84227	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_135
+84357	84638	gene
+			locus_tag	NVP2275O_136
+84357	84638	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_136
+84711	85379	gene
+			locus_tag	NVP2275O_137
+84711	85379	CDS
+			product	Peptidase S1, PA clan
+			protein_id	NVP2275O_137
+			db_xref	egg:none
+			db_xref	InterPro:IPR009003
+			note	tara_best_match:OM-RGC.v1.015417561
+			note	cvp_best_match:CAMPEP_0000023942
+85392	85745	gene
+			locus_tag	NVP2275O_138
+85392	85745	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_138
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.029345843
+			note	cvp_best_match:CAMPEP_0000011790
+86057	86440	gene
+			locus_tag	NVP2275O_139
+86057	86440	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_139
+			note	tara_best_match:OM-RGC.v1.027326986
+86479	86841	gene
+			locus_tag	NVP2275O_140
+86479	86841	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_140
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.028080452
+86935	87408	gene
+			locus_tag	NVP2275O_141
+86935	87408	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_141
+87565	88146	gene
+			locus_tag	NVP2275O_142
+87565	88146	CDS
+			product	SprT-like
+			protein_id	NVP2275O_142
+			db_xref	InterPro:IPR006640
+88263	88574	gene
+			locus_tag	NVP2275O_143
+88263	88574	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_143
+			db_xref	InterPro:IPS Coils
+88705	89067	gene
+			locus_tag	NVP2275O_144
+88705	89067	CDS
+			product	Uncharacterised conserved protein UCP031804
+			protein_id	NVP2275O_144
+			db_xref	cog:COG3339
+			db_xref	egg:COG3339
+			db_xref	InterPro:IPR016983
+			note	tara_best_match:OM-RGC.v1.028202773
+89295	89606	gene
+			locus_tag	NVP2275O_145
+89295	89606	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_145
+89625	90206	gene
+			locus_tag	NVP2275O_146
+89625	90206	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_146
+90345	90599	gene
+			locus_tag	NVP2275O_147
+90345	90599	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_147
+90743	90928	gene
+			locus_tag	NVP2275O_148
+90743	90928	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_148
+92171	93022	gene
+			locus_tag	NVP2275O_149
+92171	93022	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_149
+			db_xref	InterPro:IPS Coils
+94111	94638	gene
+			locus_tag	NVP2275O_150
+94111	94638	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_150
+95061	95879	gene
+			locus_tag	NVP2275O_151
+95061	95879	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_151
+			db_xref	InterPro:IPS Coils
+96141	96461	gene
+			locus_tag	NVP2275O_152
+96141	96461	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_152
+96512	96760	gene
+			locus_tag	NVP2275O_153
+96512	96760	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_153
+96893	97534	gene
+			locus_tag	NVP2275O_154
+96893	97534	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_154
+			db_xref	InterPro:IPS Coils
+97616	97837	gene
+			locus_tag	NVP2275O_155
+97616	97837	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_155
+98401	98258	gene
+			locus_tag	NVP2275O_156
+98401	98258	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_156
+98681	98995	gene
+			locus_tag	NVP2275O_157
+98681	98995	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_157
+98992	99297	gene
+			locus_tag	NVP2275O_158
+98992	99297	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_158
+99297	99617	gene
+			locus_tag	NVP2275O_159
+99297	99617	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_159
+99614	99769	gene
+			locus_tag	NVP2275O_160
+99614	99769	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_160
+99766	99939	gene
+			locus_tag	NVP2275O_161
+99766	99939	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_161
+99943	100191	gene
+			locus_tag	NVP2275O_162
+99943	100191	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_162
+100178	100522	gene
+			locus_tag	NVP2275O_163
+100178	100522	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_163
+100519	100788	gene
+			locus_tag	NVP2275O_164
+100519	100788	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_164
+100785	100937	gene
+			locus_tag	NVP2275O_165
+100785	100937	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_165
+100934	101272	gene
+			locus_tag	NVP2275O_166
+100934	101272	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_166
+101272	101607	gene
+			locus_tag	NVP2275O_167
+101272	101607	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_167
+101604	101918	gene
+			locus_tag	NVP2275O_168
+101604	101918	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_168
+101918	102226	gene
+			locus_tag	NVP2275O_169
+101918	102226	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_169
+102223	102594	gene
+			locus_tag	NVP2275O_170
+102223	102594	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_170
+102545	102832	gene
+			locus_tag	NVP2275O_171
+102545	102832	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_171
+			db_xref	InterPro:IPS Coils
+102832	103167	gene
+			locus_tag	NVP2275O_172
+102832	103167	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_172
+103164	103604	gene
+			locus_tag	NVP2275O_173
+103164	103604	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_173
+103688	103810	gene
+			locus_tag	NVP2275O_174
+103688	103810	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_174
+103810	104139	gene
+			locus_tag	NVP2275O_175
+103810	104139	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_175
+104171	104407	gene
+			locus_tag	NVP2275O_176
+104171	104407	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_176
+104472	104915	gene
+			locus_tag	NVP2275O_177
+104472	104915	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_177
+104988	105167	gene
+			locus_tag	NVP2275O_178
+104988	105167	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_178
+105214	105405	gene
+			locus_tag	NVP2275O_179
+105214	105405	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_179
+105377	105598	gene
+			locus_tag	NVP2275O_180
+105377	105598	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_180
+105747	106007	gene
+			locus_tag	NVP2275O_181
+105747	106007	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_181
+105946	106152	gene
+			locus_tag	NVP2275O_182
+105946	106152	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_182
+106193	106537	gene
+			locus_tag	NVP2275O_183
+106193	106537	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_183
+106537	107031	gene
+			locus_tag	NVP2275O_184
+106537	107031	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_184
+107057	107479	gene
+			locus_tag	NVP2275O_185
+107057	107479	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_185
+107541	107903	gene
+			locus_tag	NVP2275O_186
+107541	107903	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_186
+107914	108093	gene
+			locus_tag	NVP2275O_187
+107914	108093	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_187
+108106	108630	gene
+			locus_tag	NVP2275O_188
+108106	108630	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_188
+108630	109055	gene
+			locus_tag	NVP2275O_189
+108630	109055	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_189
+			db_xref	InterPro:IPS TMHMM
+109055	109723	gene
+			locus_tag	NVP2275O_190
+109055	109723	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_190
+109775	110950	gene
+			locus_tag	NVP2275O_191
+109775	110950	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_191
+110950	111282	gene
+			locus_tag	NVP2275O_192
+110950	111282	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_192
+111279	111611	gene
+			locus_tag	NVP2275O_193
+111279	111611	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_193
+111608	111943	gene
+			locus_tag	NVP2275O_194
+111608	111943	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_194
+111940	112275	gene
+			locus_tag	NVP2275O_195
+111940	112275	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_195
+112272	112700	gene
+			locus_tag	NVP2275O_196
+112272	112700	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_196
+			db_xref	InterPro:IPS Coils
+112703	112969	gene
+			locus_tag	NVP2275O_197
+112703	112969	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_197
+112980	113279	gene
+			locus_tag	NVP2275O_198
+112980	113279	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_198
+113362	115641	gene
+			locus_tag	NVP2275O_199
+113362	115641	CDS
+			product	Ribonucleotide reductase R1 subunit, N-terminal
+			protein_id	NVP2275O_199
+			db_xref	egg:COG0209
+			db_xref	pog:POG0088
+			db_xref	InterPro:IPR008926
+			note	aclame_best_match:protein:vir:95189
+			note	tara_best_match:OM-RGC.v1.000434798
+			note	cvp_best_match:RF_PEP_422936424
+115681	116799	gene
+			locus_tag	NVP2275O_200
+115681	116799	CDS
+			product	Ribonucleotide reductase small subunit
+			protein_id	NVP2275O_200
+			db_xref	pfam:PF00268
+			db_xref	pog:POG0089
+			db_xref	InterPro:IPR000358
+			note	tara_best_match:OM-RGC.v1.004296826
+			note	cvp_best_match:CAMPEP_0000011646
+116844	117770	gene
+			locus_tag	NVP2275O_201
+116844	117770	CDS
+			product	Nuclease associated modular domain 3
+			protein_id	NVP2275O_201
+			db_xref	InterPro:IPR003611
+117841	118098	gene
+			locus_tag	NVP2275O_202
+117841	118098	CDS
+			product	Glutaredoxin
+			protein_id	NVP2275O_202
+			db_xref	InterPro:IPR002109
+118353	118667	gene
+			locus_tag	NVP2275O_203
+118353	118667	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_203
+118713	118937	gene
+			locus_tag	NVP2275O_204
+118713	118937	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_204
+120552	119023	gene
+			locus_tag	NVP2275O_205
+120552	119023	CDS
+			product	Pectin lyase fold/virulence factor
+			protein_id	NVP2275O_205
+			db_xref	InterPro:IPR011050
+122072	120564	gene
+			locus_tag	NVP2275O_206
+122072	120564	CDS
+			product	Pectin lyase fold
+			protein_id	NVP2275O_206
+			db_xref	InterPro:IPR012334
+124023	122188	gene
+			locus_tag	NVP2275O_207
+124023	122188	CDS
+			product	Pectin lyase fold/virulence factor
+			protein_id	NVP2275O_207
+			db_xref	InterPro:IPR011050
+124159	126300	gene
+			locus_tag	NVP2275O_208
+124159	126300	CDS
+			product	Parallel beta-helix repeat
+			protein_id	NVP2275O_208
+			db_xref	InterPro:IPR006626
+126399	126965	gene
+			locus_tag	NVP2275O_209
+126399	126965	CDS
+			product	Rossmann-like alpha/beta/alpha sandwich fold
+			protein_id	NVP2275O_209
+			db_xref	InterPro:IPR014729
+			note	tara_best_match:OM-RGC.v1.015938532
+126965	128134	gene
+			locus_tag	NVP2275O_210
+126965	128134	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_210
+128119	128463	gene
+			locus_tag	NVP2275O_211
+128119	128463	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_211
+128463	128723	gene
+			locus_tag	NVP2275O_212
+128463	128723	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_212
+128728	129048	gene
+			locus_tag	NVP2275O_213
+128728	129048	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_213
+129114	129377	gene
+			locus_tag	NVP2275O_214
+129114	129377	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_214
+129442	129996	gene
+			locus_tag	NVP2275O_215
+129442	129996	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_215
+129993	130442	gene
+			locus_tag	NVP2275O_216
+129993	130442	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_216
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.015182560
+			note	cvp_best_match:CAMPEP_0000001546
+130458	130793	gene
+			locus_tag	NVP2275O_217
+130458	130793	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_217
+130793	131959	gene
+			locus_tag	NVP2275O_218
+130793	131959	CDS
+			product	Bacteriophage T4  RNA ligase Rnl1
+			protein_id	NVP2275O_218
+			db_xref	pog:POG0492
+			db_xref	InterPro:IPR012648
+			note	aclame_best_match:protein:vir:6950
+			note	tara_best_match:OM-RGC.v1.003893412
+			note	cvp_best_match:RF_PEP_414086996
+131959	132231	gene
+			locus_tag	NVP2275O_219
+131959	132231	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_219
+132176	132490	gene
+			locus_tag	NVP2275O_220
+132176	132490	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_220
+132460	132708	gene
+			locus_tag	NVP2275O_221
+132460	132708	CDS
+			product	Prokaryotic membrane lipoprotein lipid attachment site profile.
+			protein_id	NVP2275O_221
+			db_xref	InterPro:IPS ProSiteProfiles
+132677	132964	gene
+			locus_tag	NVP2275O_222
+132677	132964	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_222
+133014	133406	gene
+			locus_tag	NVP2275O_223
+133014	133406	CDS
+			product	NUDIX hydrolase, conserved site
+			protein_id	NVP2275O_223
+			db_xref	kegg:K03574
+			db_xref	pfam:PF00293
+			db_xref	cog:COG1051
+			db_xref	egg:COG0494
+			db_xref	InterPro:IPR020084
+			note	tara_best_match:OM-RGC.v1.026612928
+133399	133959	gene
+			locus_tag	NVP2275O_224
+133399	133959	CDS
+			product	ClpP/crotonase-like domain
+			protein_id	NVP2275O_224
+			db_xref	pfam:PF00574
+			db_xref	egg:none
+			db_xref	InterPro:IPR029045
+			note	tara_best_match:OM-RGC.v1.017823150
+133959	134228	gene
+			locus_tag	NVP2275O_225
+133959	134228	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_225
+134225	134458	gene
+			locus_tag	NVP2275O_226
+134225	134458	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_226
+134514	134963	gene
+			locus_tag	NVP2275O_227
+134514	134963	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_227
+135190	135375	gene
+			locus_tag	NVP2275O_228
+135190	135375	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_228
+135372	135611	gene
+			locus_tag	NVP2275O_229
+135372	135611	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_229
+135635	136552	gene
+			locus_tag	NVP2275O_230
+135635	136552	CDS
+			product	HAD-like domain
+			protein_id	NVP2275O_230
+			db_xref	InterPro:IPR023214
+			note	cvp_best_match:RF_PEP_414087000
+136932	137216	gene
+			locus_tag	NVP2275O_231
+136932	137216	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_231
+137216	137443	gene
+			locus_tag	NVP2275O_232
+137216	137443	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_232
+137440	137715	gene
+			locus_tag	NVP2275O_233
+137440	137715	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_233
+137762	137977	gene
+			locus_tag	NVP2275O_234
+137762	137977	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_234
+137970	138245	gene
+			locus_tag	NVP2275O_235
+137970	138245	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_235
+138242	138439	gene
+			locus_tag	NVP2275O_236
+138242	138439	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_236
+138432	138641	gene
+			locus_tag	NVP2275O_237
+138432	138641	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_237
+138634	138867	gene
+			locus_tag	NVP2275O_238
+138634	138867	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_238
+138864	139049	gene
+			locus_tag	NVP2275O_239
+138864	139049	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_239
+139046	139246	gene
+			locus_tag	NVP2275O_240
+139046	139246	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_240
+139239	139436	gene
+			locus_tag	NVP2275O_241
+139239	139436	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_241
+139417	139641	gene
+			locus_tag	NVP2275O_242
+139417	139641	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_242
+139634	139837	gene
+			locus_tag	NVP2275O_243
+139634	139837	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_243
+139830	140042	gene
+			locus_tag	NVP2275O_244
+139830	140042	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_244
+140086	140361	gene
+			locus_tag	NVP2275O_245
+140086	140361	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_245
+140361	140678	gene
+			locus_tag	NVP2275O_246
+140361	140678	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_246
+140920	141885	gene
+			locus_tag	NVP2275O_247
+140920	141885	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_247
+141912	142424	gene
+			locus_tag	NVP2275O_248
+141912	142424	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_248
+			note	tara_best_match:OM-RGC.v1.024177596
+142435	142818	gene
+			locus_tag	NVP2275O_249
+142435	142818	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_249
+142808	143254	gene
+			locus_tag	NVP2275O_250
+142808	143254	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_250
+143254	143544	gene
+			locus_tag	NVP2275O_251
+143254	143544	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_251
+143659	143748	gene
+			locus_tag	NVP2275O_252
+143659	143748	CDS
+			product	Calcineurin-like phosphoesterase superfamily domain
+			protein_id	NVP2275O_252
+			db_xref	pfam:PF12850
+			db_xref	cog:COG4186
+			db_xref	egg:none
+			db_xref	pog:POG0157
+			note	tara_best_match:OM-RGC.v1.017347846
+			note	cvp_best_match:RF_PEP_418488253
+143819	144310	gene
+			locus_tag	NVP2275O_253
+143819	144310	CDS
+			product	Metallo-dependent phosphatase-like
+			protein_id	NVP2275O_253
+			db_xref	InterPro:IPR029052
+144449	145591	gene
+			locus_tag	NVP2275O_254
+144449	145591	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_254
+145652	146464	gene
+			locus_tag	NVP2275O_255
+145652	146464	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_255
+146464	146559	gene
+			locus_tag	NVP2275O_256
+146464	146559	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_256
+			db_xref	InterPro:IPS TMHMM
+146576	147370	gene
+			locus_tag	NVP2275O_257
+146576	147370	CDS
+			product	Calcineurin-like phosphoesterase domain, apaH type
+			protein_id	NVP2275O_257
+			db_xref	pfam:PF00149
+			db_xref	cog:COG1409
+			db_xref	egg:ENOG4111PK8
+			db_xref	pog:POG3241
+			db_xref	InterPro:IPR004843
+			note	aclame_best_match:protein:vir:5360
+			note	tara_best_match:OM-RGC.v1.009663047
+			note	cvp_best_match:NCBI_PEP_441462500
+147370	147735	gene
+			locus_tag	NVP2275O_258
+147370	147735	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_258
+147785	148486	gene
+			locus_tag	NVP2275O_259
+147785	148486	CDS
+			product	ClpP/crotonase-like domain
+			protein_id	NVP2275O_259
+			db_xref	kegg:K01358
+			db_xref	pfam:PF00574
+			db_xref	cog:COG0740
+			db_xref	egg:COG0740
+			db_xref	InterPro:IPR029045
+			note	aclame_best_match:protein:proph:180717
+			note	tara_best_match:OM-RGC.v1.014754503
+			note	cvp_best_match:RF_PEP_414087019
+148490	148813	gene
+			locus_tag	NVP2275O_260
+148490	148813	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_260
+			db_xref	cog:COG4997
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.030442029
+148815	149549	gene
+			locus_tag	NVP2275O_261
+148815	149549	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_261
+			note	tara_best_match:OM-RGC.v1.008390323
+149632	150057	gene
+			locus_tag	NVP2275O_262
+149632	150057	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_262
+150125	150289	gene
+			locus_tag	NVP2275O_263
+150125	150289	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_263
+150270	150716	gene
+			locus_tag	NVP2275O_264
+150270	150716	CDS
+			product	APOBEC/CMP deaminase, zinc-binding
+			protein_id	NVP2275O_264
+			db_xref	kegg:K01493
+			db_xref	pfam:PF00383
+			db_xref	cog:COG2131
+			db_xref	egg:COG2131
+			db_xref	pog:POG0050
+			db_xref	InterPro:IPR016192
+			note	aclame_best_match:protein:vir:6658
+			note	tara_best_match:OM-RGC.v1.024807343
+			note	cvp_best_match:RF_PEP_422937385
+150720	151109	gene
+			locus_tag	NVP2275O_265
+150720	151109	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_265
+			db_xref	InterPro:IPS TMHMM
+151114	151374	gene
+			locus_tag	NVP2275O_266
+151114	151374	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_266
+			db_xref	InterPro:IPS TMHMM
+151465	152322	gene
+			locus_tag	NVP2275O_267
+151465	152322	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_267
+153166	152378	gene
+			locus_tag	NVP2275O_268
+153166	152378	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_268
+153236	153619	gene
+			locus_tag	NVP2275O_269
+153236	153619	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_269
+			db_xref	InterPro:IPS Coils
+153621	153878	gene
+			locus_tag	NVP2275O_270
+153621	153878	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_270
+			db_xref	InterPro:IPS Coils
+153878	154834	gene
+			locus_tag	NVP2275O_271
+153878	154834	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_271
+154975	155601	gene
+			locus_tag	NVP2275O_272
+154975	155601	CDS
+			product	ClpP/crotonase-like domain
+			protein_id	NVP2275O_272
+			db_xref	InterPro:IPR029045
+155609	155770	gene
+			locus_tag	NVP2275O_273
+155609	155770	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_273
+155772	156848	gene
+			locus_tag	NVP2275O_274
+155772	156848	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_274
+			db_xref	kegg:K13522
+			db_xref	cog:COG1056
+			db_xref	egg:COG1056
+			db_xref	pog:POG1844
+			note	aclame_best_match:protein:plasmid:21849
+			note	tara_best_match:OM-RGC.v1.005157759
+			note	cvp_best_match:RF_PEP_414087028
+156892	157053	gene
+			locus_tag	NVP2275O_275
+156892	157053	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_275
+157082	157444	gene
+			locus_tag	NVP2275O_276
+157082	157444	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_276
+			db_xref	InterPro:IPS TMHMM
+157444	157767	gene
+			locus_tag	NVP2275O_277
+157444	157767	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_277
+			db_xref	InterPro:IPS TMHMM
+157832	158020	gene
+			locus_tag	NVP2275O_278
+157832	158020	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_278
+			db_xref	InterPro:IPS TMHMM
+158022	158303	gene
+			locus_tag	NVP2275O_279
+158022	158303	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_279
+			db_xref	InterPro:IPS Coils
+158464	159204	gene
+			locus_tag	NVP2275O_280
+158464	159204	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_280
+			db_xref	InterPro:IPS TMHMM
+159254	160267	gene
+			locus_tag	NVP2275O_281
+159254	160267	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP2275O_281
+			db_xref	InterPro:IPR027417
+160264	160749	gene
+			locus_tag	NVP2275O_282
+160264	160749	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_282
+160802	161008	gene
+			locus_tag	NVP2275O_283
+160802	161008	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_283
+161068	162555	gene
+			locus_tag	NVP2275O_284
+161068	162555	CDS
+			product	Nicotinate phosphoribosyltransferase family
+			protein_id	NVP2275O_284
+			db_xref	kegg:K03462
+			db_xref	cog:COG1488
+			db_xref	egg:COG1488
+			db_xref	InterPro:IPR007229
+			note	tara_best_match:OM-RGC.v1.002219604
+			note	cvp_best_match:RF_PEP_414087030
+162628	162918	gene
+			locus_tag	NVP2275O_285
+162628	162918	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_285
+162944	163255	gene
+			locus_tag	NVP2275O_286
+162944	163255	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_286
+163255	163863	gene
+			locus_tag	NVP2275O_287
+163255	163863	CDS
+			product	Alpha/Beta hydrolase fold
+			protein_id	NVP2275O_287
+			db_xref	pfam:PF12695
+			db_xref	cog:COG1075
+			db_xref	egg:none
+			db_xref	InterPro:IPR029058
+			note	tara_best_match:OM-RGC.v1.012908968
+164215	163961	gene
+			locus_tag	NVP2275O_288
+164215	163961	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_288
+			db_xref	InterPro:IPS TMHMM
+164667	164218	gene
+			locus_tag	NVP2275O_289
+164667	164218	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_289
+			db_xref	InterPro:IPS TMHMM
+164701	164973	gene
+			locus_tag	NVP2275O_290
+164701	164973	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_290
+164973	165242	gene
+			locus_tag	NVP2275O_291
+164973	165242	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_291
+165313	166698	gene
+			locus_tag	NVP2275O_292
+165313	166698	CDS
+			product	PIN domain
+			protein_id	NVP2275O_292
+			db_xref	kegg:K07175
+			db_xref	cog:COG1875
+			db_xref	egg:COG1875
+			db_xref	InterPro:IPR002716
+			note	aclame_best_match:protein:plasmid:115699
+			note	tara_best_match:OM-RGC.v1.002084949
+			note	cvp_best_match:NCBI_PEP_441462483
+166826	167107	gene
+			locus_tag	NVP2275O_293
+166826	167107	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_293
+167797	168507	gene
+			locus_tag	NVP2275O_294
+167797	168507	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_294
+			note	tara_best_match:OM-RGC.v1.012784625
+			note	cvp_best_match:NCBI_PEP_347449330
+168510	168791	gene
+			locus_tag	NVP2275O_295
+168510	168791	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_295
+			db_xref	InterPro:IPS Coils
+168788	168961	gene
+			locus_tag	NVP2275O_296
+168788	168961	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_296
+169045	169236	gene
+			locus_tag	NVP2275O_297
+169045	169236	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_297
+			db_xref	InterPro:IPS TMHMM
+169226	169441	gene
+			locus_tag	NVP2275O_298
+169226	169441	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_298
+			db_xref	pog:POG3809
+			note	aclame_best_match:protein:vir:101085
+			note	tara_best_match:OM-RGC.v1.034278291
+			note	cvp_best_match:CAMPEP_0000033886
+169724	169930	gene
+			locus_tag	NVP2275O_299
+169724	169930	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_299
+170048	170269	gene
+			locus_tag	NVP2275O_300
+170048	170269	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_300
+170479	170724	gene
+			locus_tag	NVP2275O_301
+170479	170724	CDS
+			product	Glutaredoxin active site
+			protein_id	NVP2275O_301
+			db_xref	kegg:K03674
+			db_xref	pfam:PF00462
+			db_xref	cog:COG0695
+			db_xref	egg:none
+			db_xref	InterPro:IPR011767
+			note	aclame_best_match:protein:proph:184617
+			note	tara_best_match:OM-RGC.v1.032544360
+			note	cvp_best_match:RF_PEP_414087106
+170784	171194	gene
+			locus_tag	NVP2275O_302
+170784	171194	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_302
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.023637106
+172132	172869	gene
+			locus_tag	NVP2275O_303
+172132	172869	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_303
+			db_xref	InterPro:IPS Coils
+172869	173237	gene
+			locus_tag	NVP2275O_304
+172869	173237	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_304
+173471	173929	gene
+			locus_tag	NVP2275O_305
+173471	173929	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_305
+			note	tara_best_match:OM-RGC.v1.025049926
+174853	173939	gene
+			locus_tag	NVP2275O_306
+174853	173939	CDS
+			product	Protein of unknown function DUF723
+			protein_id	NVP2275O_306
+			db_xref	InterPro:IPR007929
+			note	tara_best_match:OM-RGC.v1.004008057
+174900	175736	gene
+			locus_tag	NVP2275O_307
+174900	175736	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_307
+			db_xref	InterPro:IPS Coils
+175729	175983	gene
+			locus_tag	NVP2275O_308
+175729	175983	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_308
+			note	tara_best_match:OM-RGC.v1.032781367
+			note	cvp_best_match:RF_PEP_414088188
+175983	176540	gene
+			locus_tag	NVP2275O_309
+175983	176540	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_309
+			note	tara_best_match:OM-RGC.v1.019384768
+			note	cvp_best_match:RF_PEP_311992873
+176530	176763	gene
+			locus_tag	NVP2275O_310
+176530	176763	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_310
+176798	177817	gene
+			locus_tag	NVP2275O_311
+176798	177817	CDS
+			product	GIY-YIG domain
+			protein_id	NVP2275O_311
+			db_xref	InterPro:IPR027299
+177817	179067	gene
+			locus_tag	NVP2275O_312
+177817	179067	CDS
+			product	Nucleotidyltransferase, predicted
+			protein_id	NVP2275O_312
+			db_xref	pog:POG0431
+			db_xref	InterPro:IPR018775
+			note	cvp_best_match:RF_PEP_363539688
+179048	179431	gene
+			locus_tag	NVP2275O_313
+179048	179431	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_313
+179520	180077	gene
+			locus_tag	NVP2275O_314
+179520	180077	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_314
+			db_xref	InterPro:IPS TMHMM
+180138	180563	gene
+			locus_tag	NVP2275O_315
+180138	180563	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_315
+180576	180671	gene
+			locus_tag	NVP2275O_316
+180576	180671	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_316
+180695	181117	gene
+			locus_tag	NVP2275O_317
+180695	181117	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_317
+181133	181606	gene
+			locus_tag	NVP2275O_318
+181133	181606	CDS
+			product	CYTH domain
+			protein_id	NVP2275O_318
+			db_xref	kegg:K01768
+			db_xref	pfam:PF01928
+			db_xref	cog:COG2954
+			db_xref	egg:COG2954
+			note	tara_best_match:OM-RGC.v1.021717314
+182084	182500	gene
+			locus_tag	NVP2275O_319
+182084	182500	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_319
+			db_xref	InterPro:IPS Coils
+182844	183302	gene
+			locus_tag	NVP2275O_320
+182844	183302	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_320
+183310	183534	gene
+			locus_tag	NVP2275O_321
+183310	183534	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_321
+			note	tara_best_match:OM-RGC.v1.035172102
+			note	cvp_best_match:CAMPEP_0000001712
+183518	183787	gene
+			locus_tag	NVP2275O_322
+183518	183787	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_322
+183982	184848	gene
+			locus_tag	NVP2275O_323
+183982	184848	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_323
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.013305822
+185527	187533	gene
+			locus_tag	NVP2275O_324
+185527	187533	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_324
+			db_xref	cog:COG4676
+			db_xref	egg:none
+			db_xref	pog:POG3108
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.000686601
+			note	cvp_best_match:RF_PEP_440789353
+187594	187983	gene
+			locus_tag	NVP2275O_325
+187594	187983	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_325
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+188410	189225	gene
+			locus_tag	NVP2275O_326
+188410	189225	CDS
+			product	HNH nuclease
+			protein_id	NVP2275O_326
+			db_xref	InterPro:IPR003615
+			note	cvp_best_match:RF_PEP_414086548
+190121	190267	gene
+			locus_tag	NVP2275O_327
+190121	190267	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_327
+			db_xref	InterPro:IPS TMHMM
+190670	191035	gene
+			locus_tag	NVP2275O_328
+190670	191035	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_328
+190995	191498	gene
+			locus_tag	NVP2275O_329
+190995	191498	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_329
+			db_xref	InterPro:IPS Coils
+193132	193455	gene
+			locus_tag	NVP2275O_330
+193132	193455	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_330
+193518	193835	gene
+			locus_tag	NVP2275O_331
+193518	193835	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_331
+			db_xref	InterPro:IPS TMHMM
+194181	194465	gene
+			locus_tag	NVP2275O_332
+194181	194465	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_332
+			db_xref	pfam:PF10507
+			db_xref	egg:ENOG4111UFU
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.029264835
+194496	195056	gene
+			locus_tag	NVP2275O_333
+194496	195056	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_333
+			db_xref	InterPro:IPS Coils
+195330	195752	gene
+			locus_tag	NVP2275O_334
+195330	195752	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_334
+			note	cvp_best_match:RF_PEP_414087083
+195795	196250	gene
+			locus_tag	NVP2275O_335
+195795	196250	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_335
+196250	196570	gene
+			locus_tag	NVP2275O_336
+196250	196570	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_336
+196603	196956	gene
+			locus_tag	NVP2275O_337
+196603	196956	CDS
+			product	Formate C-acetyltransferase glycine radical, conserved site
+			protein_id	NVP2275O_337
+			db_xref	kegg:K06866
+			db_xref	pfam:PF01228
+			db_xref	cog:COG3445
+			db_xref	egg:COG3445
+			db_xref	pog:POG0440
+			db_xref	InterPro:IPR019777
+			note	aclame_best_match:protein:vir:103532
+			note	tara_best_match:OM-RGC.v1.027779924
+			note	cvp_best_match:RF_PEP_294661496
+197075	197611	gene
+			locus_tag	NVP2275O_338
+197075	197611	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_338
+197617	197847	gene
+			locus_tag	NVP2275O_339
+197617	197847	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_339
+197851	198342	gene
+			locus_tag	NVP2275O_340
+197851	198342	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_340
+			note	tara_best_match:OM-RGC.v1.022707591
+			note	cvp_best_match:RF_PEP_414087096
+198499	198663	gene
+			locus_tag	NVP2275O_341
+198499	198663	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_341
+198656	199243	gene
+			locus_tag	NVP2275O_342
+198656	199243	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_342
+199752	200207	gene
+			locus_tag	NVP2275O_343
+199752	200207	CDS
+			product	Uncharacterised protein family CreA
+			protein_id	NVP2275O_343
+			db_xref	kegg:K05805
+			db_xref	pfam:PF05981
+			db_xref	cog:COG3045
+			db_xref	egg:COG3045
+			db_xref	pog:POG1781
+			db_xref	InterPro:IPR010292
+			note	aclame_best_match:protein:vir:106195
+			note	tara_best_match:OM-RGC.v1.024605567
+			note	cvp_best_match:RF_PEP_310722759
+200207	200473	gene
+			locus_tag	NVP2275O_344
+200207	200473	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_344
+200473	201225	gene
+			locus_tag	NVP2275O_345
+200473	201225	CDS
+			product	Phosphotransferase system EIIB, cysteine phosphorylation site
+			protein_id	NVP2275O_345
+			db_xref	InterPro:IPR018113
+201278	201661	gene
+			locus_tag	NVP2275O_346
+201278	201661	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_346
+			db_xref	InterPro:IPS Coils
+201961	202377	gene
+			locus_tag	NVP2275O_347
+201961	202377	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_347
+			db_xref	InterPro:IPS Coils
+202374	203501	gene
+			locus_tag	NVP2275O_348
+202374	203501	CDS
+			product	tRNA nucleotidyltransferase/poly(A) polymerase, RNA and SrmB- binding domain
+			protein_id	NVP2275O_348
+			db_xref	kegg:K00974
+			db_xref	cog:COG0617
+			db_xref	egg:COG0617
+			db_xref	pog:POG1850
+			db_xref	InterPro:IPR032828
+			note	aclame_best_match:protein:vir:106365
+			note	tara_best_match:OM-RGC.v1.004277917
+			note	cvp_best_match:RF_PEP_414087104
+203525	204013	gene
+			locus_tag	NVP2275O_349
+203525	204013	CDS
+			product	Conserved hypothetical protein CHP02464
+			protein_id	NVP2275O_349
+			db_xref	kegg:K09935
+			db_xref	pfam:PF08719
+			db_xref	cog:COG3236
+			db_xref	egg:COG3236
+			db_xref	pog:POG0154
+			db_xref	InterPro:IPR012816
+			note	aclame_best_match:protein:vir:95700
+			note	tara_best_match:OM-RGC.v1.022426314
+			note	cvp_best_match:RF_PEP_66395034
+204013	204345	gene
+			locus_tag	NVP2275O_350
+204013	204345	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_350
+			note	tara_best_match:OM-RGC.v1.029521170
+204342	204800	gene
+			locus_tag	NVP2275O_351
+204342	204800	CDS
+			product	HD domain
+			protein_id	NVP2275O_351
+			db_xref	pfam:PF13328
+			db_xref	cog:COG0317
+			db_xref	egg:ENOG4111UWJ
+			db_xref	pog:POG0677
+			note	aclame_best_match:protein:vir:100610
+			note	tara_best_match:OM-RGC.v1.024583878
+			note	cvp_best_match:NCBI_PEP_408386739
+204869	205789	gene
+			locus_tag	NVP2275O_352
+204869	205789	CDS
+			product	Cyclic nucleotide-binding domain
+			protein_id	NVP2275O_352
+			db_xref	InterPro:IPR000595
+205844	206275	gene
+			locus_tag	NVP2275O_353
+205844	206275	CDS
+			product	NUDIX hydrolase, conserved site
+			protein_id	NVP2275O_353
+			db_xref	pfam:PF00293
+			db_xref	cog:COG0494
+			db_xref	egg:COG0494
+			db_xref	pog:POG0443
+			db_xref	InterPro:IPR020084
+			note	aclame_best_match:protein:vir:98288
+			note	tara_best_match:OM-RGC.v1.025505598
+			note	cvp_best_match:RF_PEP_414087105
+206288	206554	gene
+			locus_tag	NVP2275O_354
+206288	206554	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_354
+			db_xref	InterPro:IPS TMHMM
+206906	208525	gene
+			locus_tag	NVP2275O_355
+206906	208525	CDS
+			product	Chaperonin Cpn60, conserved site
+			protein_id	NVP2275O_355
+			db_xref	kegg:K04077
+			db_xref	pfam:PF00118
+			db_xref	cog:COG0459
+			db_xref	egg:COG0459
+			db_xref	InterPro:IPR018370
+			note	aclame_best_match:protein:proph:171961
+			note	tara_best_match:OM-RGC.v1.001275812
+209122	209397	gene
+			locus_tag	NVP2275O_356
+209122	209397	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_356
+209665	210243	gene
+			locus_tag	NVP2275O_357
+209665	210243	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_357
+			note	aclame_best_match:protein:vir:5471
+			note	tara_best_match:OM-RGC.v1.015314475
+			note	cvp_best_match:RF_PEP_34419397
+210316	210981	gene
+			locus_tag	NVP2275O_358
+210316	210981	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_358
+211381	211569	gene
+			locus_tag	NVP2275O_359
+211381	211569	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_359
+211556	211996	gene
+			locus_tag	NVP2275O_360
+211556	211996	CDS
+			product	Yqey-like protein
+			protein_id	NVP2275O_360
+			db_xref	kegg:K09117
+			db_xref	pfam:PF09424
+			db_xref	cog:COG1610
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.024592845
+211999	212193	gene
+			locus_tag	NVP2275O_361
+211999	212193	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_361
+			db_xref	InterPro:IPS TMHMM
+212268	212507	gene
+			locus_tag	NVP2275O_362
+212268	212507	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_362
+212539	212841	gene
+			locus_tag	NVP2275O_363
+212539	212841	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_363
+212934	213137	gene
+			locus_tag	NVP2275O_364
+212934	213137	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_364
+			db_xref	InterPro:IPS TMHMM
+213188	213325	gene
+			locus_tag	NVP2275O_365
+213188	213325	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_365
+			db_xref	InterPro:IPS TMHMM
+213315	213824	gene
+			locus_tag	NVP2275O_366
+213315	213824	CDS
+			product	Macro domain
+			protein_id	NVP2275O_366
+			db_xref	InterPro:IPR002589
+			note	tara_best_match:OM-RGC.v1.024772272
+213842	214186	gene
+			locus_tag	NVP2275O_367
+213842	214186	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_367
+214316	215515	gene
+			locus_tag	NVP2275O_368
+214316	215515	CDS
+			product	RNA polymerase sigma-70
+			protein_id	NVP2275O_368
+			db_xref	egg:COG0568
+			db_xref	InterPro:IPR000943
+			note	tara_best_match:OM-RGC.v1.004117261
+215599	215877	gene
+			locus_tag	NVP2275O_369
+215599	215877	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_369
+215901	216338	gene
+			locus_tag	NVP2275O_370
+215901	216338	CDS
+			product	Peptidyl-tRNA hydrolase II domain
+			protein_id	NVP2275O_370
+			db_xref	InterPro:IPR023476
+216340	217449	gene
+			locus_tag	NVP2275O_371
+216340	217449	CDS
+			product	MORN variant
+			protein_id	NVP2275O_371
+			db_xref	InterPro:IPR011652
+217684	217481	gene
+			locus_tag	NVP2275O_372
+217684	217481	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_372
+217743	218492	gene
+			locus_tag	NVP2275O_373
+217743	218492	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_373
+			note	tara_best_match:OM-RGC.v1.011138285
+			note	cvp_best_match:RF_PEP_414087113
+218865	219134	gene
+			locus_tag	NVP2275O_374
+218865	219134	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_374
+219201	219674	gene
+			locus_tag	NVP2275O_375
+219201	219674	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_375
+			db_xref	InterPro:IPS TMHMM
+222421	219836	gene
+			locus_tag	NVP2275O_376
+222421	219836	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_376
+			db_xref	InterPro:IPS Coils
+222553	223203	gene
+			locus_tag	NVP2275O_377
+222553	223203	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP2275O_377
+			db_xref	InterPro:IPR027417
+			note	tara_best_match:OM-RGC.v1.013633076
+			note	cvp_best_match:RF_PEP_414087115
+223274	226246	gene
+			locus_tag	NVP2275O_378
+223274	226246	CDS
+			product	Tail sheath protein
+			protein_id	NVP2275O_378
+			db_xref	InterPro:IPR007067
+			note	tara_best_match:OM-RGC.v1.000216977
+226382	227077	gene
+			locus_tag	NVP2275O_379
+226382	227077	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_379
+			note	tara_best_match:OM-RGC.v1.015476298
+			note	cvp_best_match:RF_PEP_414087117
+227156	228745	gene
+			locus_tag	NVP2275O_380
+227156	228745	CDS
+			product	Pectin lyase fold/virulence factor
+			protein_id	NVP2275O_380
+			db_xref	InterPro:IPR011050
+230038	228896	gene
+			locus_tag	NVP2275O_381
+230038	228896	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_381
+230203	230793	gene
+			locus_tag	NVP2275O_382
+230203	230793	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_382
+			note	tara_best_match:OM-RGC.v1.014622183
+			note	cvp_best_match:RF_PEP_414087117
+230797	231921	gene
+			locus_tag	NVP2275O_383
+230797	231921	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_383
+231982	232455	gene
+			locus_tag	NVP2275O_384
+231982	232455	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_384
+			db_xref	pog:POG0451
+			note	aclame_best_match:protein:vir:106852
+			note	tara_best_match:OM-RGC.v1.025391039
+			note	cvp_best_match:RF_PEP_422936935
+232507	233061	gene
+			locus_tag	NVP2275O_385
+232507	233061	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_385
+			db_xref	InterPro:IPS Coils
+233091	233681	gene
+			locus_tag	NVP2275O_386
+233091	233681	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_386
+			note	cvp_best_match:RF_PEP_414087122
+233684	234229	gene
+			locus_tag	NVP2275O_387
+233684	234229	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_387
+234239	235540	gene
+			locus_tag	NVP2275O_388
+234239	235540	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_388
+			db_xref	InterPro:IPS Coils
+235552	236787	gene
+			locus_tag	NVP2275O_389
+235552	236787	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_389
+236789	236998	gene
+			locus_tag	NVP2275O_390
+236789	236998	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_390
+236998	237348	gene
+			locus_tag	NVP2275O_391
+236998	237348	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_391
+237600	238928	gene
+			locus_tag	NVP2275O_392
+237600	238928	CDS
+			product	AAA+ ATPase domain
+			protein_id	NVP2275O_392
+			db_xref	InterPro:IPR003593
+			note	tara_best_match:OM-RGC.v1.004399578
+			note	cvp_best_match:NCBI_PEP_441462402
+238989	240500	gene
+			locus_tag	NVP2275O_393
+238989	240500	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_393
+240564	241898	gene
+			locus_tag	NVP2275O_394
+240564	241898	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_394
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.002955566
+			note	cvp_best_match:RF_PEP_422936944
+242110	242436	gene
+			locus_tag	NVP2275O_395
+242110	242436	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_395
+242518	242724	gene
+			locus_tag	NVP2275O_396
+242518	242724	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_396
+			note	tara_best_match:OM-RGC.v1.034702664
+			note	cvp_best_match:NCBI_PEP_441462400
+242724	243479	gene
+			locus_tag	NVP2275O_397
+242724	243479	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_397
+			db_xref	InterPro:IPS Coils
+243483	243794	gene
+			locus_tag	NVP2275O_398
+243483	243794	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_398
+			note	cvp_best_match:RF_PEP_414087132
+243739	244437	gene
+			locus_tag	NVP2275O_399
+243739	244437	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_399
+244404	244760	gene
+			locus_tag	NVP2275O_400
+244404	244760	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_400
+244757	245188	gene
+			locus_tag	NVP2275O_401
+244757	245188	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_401
+245188	245577	gene
+			locus_tag	NVP2275O_402
+245188	245577	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_402
+			db_xref	InterPro:IPS Coils
+245585	245803	gene
+			locus_tag	NVP2275O_403
+245585	245803	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_403
+245860	246753	gene
+			locus_tag	NVP2275O_404
+245860	246753	CDS
+			product	Thymidylate synthase, active site
+			protein_id	NVP2275O_404
+			db_xref	kegg:K00560
+			db_xref	pfam:PF00303
+			db_xref	cog:COG0207
+			db_xref	egg:COG0207
+			db_xref	pog:POG0092
+			db_xref	InterPro:IPR020940
+			note	tara_best_match:OM-RGC.v1.008145830
+			note	cvp_best_match:NCBI_PEP_380851555
+248449	246845	gene
+			locus_tag	NVP2275O_405
+248449	246845	CDS
+			product	Pectin lyase fold/virulence factor
+			protein_id	NVP2275O_405
+			db_xref	InterPro:IPR011050
+251423	248679	gene
+			locus_tag	NVP2275O_406
+251423	248679	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_406
+252248	251469	gene
+			locus_tag	NVP2275O_407
+252248	251469	CDS
+			product	HNH nuclease
+			protein_id	NVP2275O_407
+			db_xref	InterPro:IPR003615
+			note	tara_best_match:OM-RGC.v1.007265602
+254856	252349	gene
+			locus_tag	NVP2275O_408
+254856	252349	CDS
+			product	Parallel beta-helix repeat
+			protein_id	NVP2275O_408
+			db_xref	InterPro:IPR006626
+257430	254956	gene
+			locus_tag	NVP2275O_409
+257430	254956	CDS
+			product	Pectin lyase fold/virulence factor
+			protein_id	NVP2275O_409
+			db_xref	InterPro:IPR011050
+258419	257745	gene
+			locus_tag	NVP2275O_410
+258419	257745	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_410
+259331	258474	gene
+			locus_tag	NVP2275O_411
+259331	258474	CDS
+			product	Pectin lyase fold
+			protein_id	NVP2275O_411
+			db_xref	InterPro:IPR012334
+259465	259331	gene
+			locus_tag	NVP2275O_412
+259465	259331	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_412
+261736	259790	gene
+			locus_tag	NVP2275O_413
+261736	259790	CDS
+			product	Pectin lyase fold/virulence factor
+			protein_id	NVP2275O_413
+			db_xref	InterPro:IPR011050
+264248	261975	gene
+			locus_tag	NVP2275O_414
+264248	261975	CDS
+			product	Pectate lyase superfamily protein
+			protein_id	NVP2275O_414
+			db_xref	InterPro:IPR024535
+269158	264356	gene
+			locus_tag	NVP2275O_415
+269158	264356	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_415
+269250	270170	gene
+			locus_tag	NVP2275O_416
+269250	270170	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_416
+270201	272015	gene
+			locus_tag	NVP2275O_417
+270201	272015	CDS
+			product	Parallel beta-helix repeat
+			protein_id	NVP2275O_417
+			db_xref	InterPro:IPR006626
+274321	272105	gene
+			locus_tag	NVP2275O_418
+274321	272105	CDS
+			product	Clp, N-terminal
+			protein_id	NVP2275O_418
+			db_xref	kegg:K03694
+			db_xref	cog:COG0542
+			db_xref	egg:COG0542
+			db_xref	InterPro:IPR004176
+			note	aclame_best_match:protein:proph:184574
+			note	tara_best_match:OM-RGC.v1.000480541
+			note	cvp_best_match:RF_PEP_422936959
+274595	275650	gene
+			locus_tag	NVP2275O_419
+274595	275650	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_419
+			note	cvp_best_match:NCBI_PEP_441462932
+275781	277190	gene
+			locus_tag	NVP2275O_420
+275781	277190	CDS
+			product	Myoviridae tail sheath stabiliser
+			protein_id	NVP2275O_420
+			db_xref	InterPro:IPR031997
+			note	tara_best_match:OM-RGC.v1.004244195
+			note	cvp_best_match:RF_PEP_414087145
+277202	277663	gene
+			locus_tag	NVP2275O_421
+277202	277663	CDS
+			product	NUDIX hydrolase, conserved site
+			protein_id	NVP2275O_421
+			db_xref	pfam:PF00293
+			db_xref	InterPro:IPR020084
+			note	tara_best_match:OM-RGC.v1.025162682
+			note	cvp_best_match:RF_PEP_414087144
+278816	277665	gene
+			locus_tag	NVP2275O_422
+278816	277665	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_422
+279423	278827	gene
+			locus_tag	NVP2275O_423
+279423	278827	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_423
+			note	tara_best_match:OM-RGC.v1.014485263
+			note	cvp_best_match:RF_PEP_414087142
+290810	279495	gene
+			locus_tag	NVP2275O_424
+290810	279495	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_424
+294765	290902	gene
+			locus_tag	NVP2275O_425
+294765	290902	CDS
+			product	Carbohydrate-binding module family 5/12
+			protein_id	NVP2275O_425
+			db_xref	InterPro:IPR003610
+			note	cvp_best_match:RF_PEP_414087149
+295351	294980	gene
+			locus_tag	NVP2275O_426
+295351	294980	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_426
+			note	tara_best_match:OM-RGC.v1.027679832
+			note	cvp_best_match:RF_PEP_414087150
+298014	295363	gene
+			locus_tag	NVP2275O_427
+298014	295363	CDS
+			product	Glycoside hydrolase, family 24
+			protein_id	NVP2275O_427
+			db_xref	InterPro:IPR002196
+			note	cvp_best_match:RF_PEP_414087152
+298316	298014	gene
+			locus_tag	NVP2275O_428
+298316	298014	CDS
+			product	Base plate wedge protein 53
+			protein_id	NVP2275O_428
+			db_xref	pfam:PF11246
+			note	tara_best_match:OM-RGC.v1.030429411
+			note	cvp_best_match:NCBI_PEP_441462924
+299099	298377	gene
+			locus_tag	NVP2275O_429
+299099	298377	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_429
+			note	tara_best_match:OM-RGC.v1.014777477
+			note	cvp_best_match:NCBI_PEP_441462923
+299187	300089	gene
+			locus_tag	NVP2275O_430
+299187	300089	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_430
+			note	tara_best_match:OM-RGC.v1.007677076
+			note	cvp_best_match:RF_PEP_414087156
+300191	301228	gene
+			locus_tag	NVP2275O_431
+300191	301228	CDS
+			product	Metallo-dependent phosphatase-like
+			protein_id	NVP2275O_431
+			db_xref	InterPro:IPR029052
+			note	tara_best_match:OM-RGC.v1.005143755
+			note	cvp_best_match:NCBI_PEP_441462921
+301237	303393	gene
+			locus_tag	NVP2275O_432
+301237	303393	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_432
+			db_xref	InterPro:IPS Coils
+			note	cvp_best_match:NCBI_PEP_441462920
+303904	303404	gene
+			locus_tag	NVP2275O_433
+303904	303404	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_433
+			db_xref	pog:POG1000
+			note	cvp_best_match:NCBI_PEP_441462919
+303998	305698	gene
+			locus_tag	NVP2275O_434
+303998	305698	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP2275O_434
+			db_xref	InterPro:IPR027417
+305929	305726	gene
+			locus_tag	NVP2275O_435
+305929	305726	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_435
+			note	cvp_best_match:NCBI_PEP_441462918
+306777	305935	gene
+			locus_tag	NVP2275O_436
+306777	305935	CDS
+			product	Base plate protein, bacteriophage T4-like
+			protein_id	NVP2275O_436
+			db_xref	pfam:PF12322
+			db_xref	InterPro:IPR024364
+308670	306811	gene
+			locus_tag	NVP2275O_437
+308670	306811	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_437
+310835	308712	gene
+			locus_tag	NVP2275O_438
+310835	308712	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_438
+310984	311517	gene
+			locus_tag	NVP2275O_439
+310984	311517	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_439
+311517	313247	gene
+			locus_tag	NVP2275O_440
+311517	313247	CDS
+			product	Structural protein of head Gp20
+			protein_id	NVP2275O_440
+			db_xref	InterPro:IPR010823
+			note	tara_best_match:OM-RGC.v1.001132974
+			note	cvp_best_match:RF_PEP_414087163
+313256	313498	gene
+			locus_tag	NVP2275O_441
+313256	313498	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_441
+			note	tara_best_match:OM-RGC.v1.035813654
+			note	cvp_best_match:RF_PEP_414087164
+313595	314305	gene
+			locus_tag	NVP2275O_442
+313595	314305	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_442
+314323	314997	gene
+			locus_tag	NVP2275O_443
+314323	314997	CDS
+			product	Peptidase U9, T4 prohead protease
+			protein_id	NVP2275O_443
+			db_xref	pfam:PF03420
+			db_xref	pog:POG0351
+			db_xref	InterPro:IPR005082
+			note	aclame_best_match:protein:vir:104510
+			note	tara_best_match:OM-RGC.v1.014629662
+			note	cvp_best_match:NCBI_PEP_441462912
+315071	316168	gene
+			locus_tag	NVP2275O_444
+315071	316168	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_444
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.004195700
+			note	cvp_best_match:RF_PEP_414087167
+316244	317416	gene
+			locus_tag	NVP2275O_445
+316244	317416	CDS
+			product	Capsid protein, T4-like bacteriophage
+			protein_id	NVP2275O_445
+			db_xref	InterPro:IPR010762
+			note	tara_best_match:OM-RGC.v1.003599987
+			note	cvp_best_match:RF_PEP_414087168
+317537	317992	gene
+			locus_tag	NVP2275O_446
+317537	317992	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_446
+317989	318306	gene
+			locus_tag	NVP2275O_447
+317989	318306	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_447
+318293	318598	gene
+			locus_tag	NVP2275O_448
+318293	318598	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_448
+318601	319257	gene
+			locus_tag	NVP2275O_449
+318601	319257	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_449
+319257	319511	gene
+			locus_tag	NVP2275O_450
+319257	319511	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_450
+319519	319851	gene
+			locus_tag	NVP2275O_451
+319519	319851	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_451
+319838	320188	gene
+			locus_tag	NVP2275O_452
+319838	320188	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_452
+320157	320498	gene
+			locus_tag	NVP2275O_453
+320157	320498	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_453
+320518	320871	gene
+			locus_tag	NVP2275O_454
+320518	320871	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_454
+320898	321254	gene
+			locus_tag	NVP2275O_455
+320898	321254	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_455
+321254	321748	gene
+			locus_tag	NVP2275O_456
+321254	321748	CDS
+			product	Phage tail collar domain
+			protein_id	NVP2275O_456
+			db_xref	InterPro:IPR011083
+321960	321775	gene
+			locus_tag	NVP2275O_457
+321960	321775	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_457
+322022	322363	gene
+			locus_tag	NVP2275O_458
+322022	322363	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_458
+			db_xref	InterPro:IPS TMHMM
+322385	322765	gene
+			locus_tag	NVP2275O_459
+322385	322765	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_459
+			db_xref	InterPro:IPS TMHMM
+322816	323574	gene
+			locus_tag	NVP2275O_460
+322816	323574	CDS
+			product	Phage tail collar domain
+			protein_id	NVP2275O_460
+			db_xref	InterPro:IPR011083
+323586	324431	gene
+			locus_tag	NVP2275O_461
+323586	324431	CDS
+			product	Short tail fibre protein, C-terminal
+			protein_id	NVP2275O_461
+			db_xref	InterPro:IPR027448
+324441	325202	gene
+			locus_tag	NVP2275O_462
+324441	325202	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_462
+325287	325574	gene
+			locus_tag	NVP2275O_463
+325287	325574	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_463
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.033024750
+325611	328610	gene
+			locus_tag	NVP2275O_464
+325611	328610	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_464
+			note	tara_best_match:OM-RGC.v1.000179962
+			note	cvp_best_match:NCBI_PEP_441462904
+328741	329460	gene
+			locus_tag	NVP2275O_465
+328741	329460	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_465
+			note	tara_best_match:OM-RGC.v1.011247444
+329460	329642	gene
+			locus_tag	NVP2275O_466
+329460	329642	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_466
+329677	330156	gene
+			locus_tag	NVP2275O_467
+329677	330156	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_467
+330216	332006	gene
+			locus_tag	NVP2275O_468
+330216	332006	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_468
+332034	333146	gene
+			locus_tag	NVP2275O_469
+332034	333146	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_469
+333209	334108	gene
+			locus_tag	NVP2275O_470
+333209	334108	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_470
+			db_xref	kegg:K06879
+			db_xref	cog:COG2904
+			db_xref	egg:COG2904
+			note	aclame_best_match:protein:vir:5432
+			note	tara_best_match:OM-RGC.v1.007061927
+			note	cvp_best_match:RF_PEP_34419358
+334155	334784	gene
+			locus_tag	NVP2275O_471
+334155	334784	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2275O_471
+			db_xref	kegg:K09125
+			db_xref	pfam:PF02592
+			db_xref	cog:COG1738
+			db_xref	egg:COG1738
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.013376507
+334886	335647	gene
+			locus_tag	NVP2275O_472
+334886	335647	CDS
+			product	Queuosine biosynthesis protein QueC
+			protein_id	NVP2275O_472
+			db_xref	kegg:K06920
+			db_xref	pfam:PF06508
+			db_xref	cog:COG0603
+			db_xref	egg:COG0603
+			db_xref	pog:POG1020
+			note	aclame_best_match:protein:vir:5433
+			note	tara_best_match:OM-RGC.v1.010569590
+			note	cvp_best_match:NCBI_PEP_394774683
+335680	336294	gene
+			locus_tag	NVP2275O_473
+335680	336294	CDS
+			product	Nucleophile aminohydrolases, N-terminal
+			protein_id	NVP2275O_473
+			db_xref	InterPro:IPR029055
+			note	aclame_best_match:protein:vir:5434
+			note	tara_best_match:OM-RGC.v1.014960315
+336376	337242	gene
+			locus_tag	NVP2275O_474
+336376	337242	CDS
+			product	GTP cyclohydrolase I domain
+			protein_id	NVP2275O_474
+			db_xref	kegg:K01495
+			db_xref	cog:COG0302
+			db_xref	egg:COG0302
+			db_xref	InterPro:IPR020602
+			note	tara_best_match:OM-RGC.v1.012637756
+337287	337994	gene
+			locus_tag	NVP2275O_475
+337287	337994	CDS
+			product	von Willebrand factor, type A
+			protein_id	NVP2275O_475
+			db_xref	InterPro:IPR002035
+337996	338331	gene
+			locus_tag	NVP2275O_476
+337996	338331	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP2275O_476
+			db_xref	InterPro:IPR011991
+338400	338705	gene
+			locus_tag	NVP2275O_477
+338400	338705	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_477
+338702	339601	gene
+			locus_tag	NVP2275O_478
+338702	339601	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_478
+			note	tara_best_match:OM-RGC.v1.006627691
+			note	cvp_best_match:CAMPEP_0000001182
+339668	340798	gene
+			locus_tag	NVP2275O_479
+339668	340798	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_479
+340861	341745	gene
+			locus_tag	NVP2275O_480
+340861	341745	CDS
+			product	Coil containing protein
+			protein_id	NVP2275O_480
+			db_xref	InterPro:IPS Coils
+341808	343154	gene
+			locus_tag	NVP2275O_481
+341808	343154	CDS
+			product	RNA ligase domain, REL/Rln2
+			protein_id	NVP2275O_481
+			db_xref	egg:none
+			db_xref	InterPro:IPR021122
+343312	343935	gene
+			locus_tag	NVP2275O_482
+343312	343935	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_482
+344032	344727	gene
+			locus_tag	NVP2275O_483
+344032	344727	CDS
+			product	6-pyruvoyl tetrahydropterin synthase/QueD family protein
+			protein_id	NVP2275O_483
+			db_xref	InterPro:IPR007115
+344737	345021	gene
+			locus_tag	NVP2275O_484
+344737	345021	CDS
+			product	GroES chaperonin family
+			protein_id	NVP2275O_484
+			db_xref	pfam:PF00166
+			db_xref	cog:COG0234
+			db_xref	InterPro:IPR020818
+			note	cvp_best_match:NCBI_PEP_441462899
+345058	345654	gene
+			locus_tag	NVP2275O_485
+345058	345654	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_485
+346410	345706	gene
+			locus_tag	NVP2275O_486
+346410	345706	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_486
+			note	cvp_best_match:RF_PEP_414087182
+346984	346430	gene
+			locus_tag	NVP2275O_487
+346984	346430	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_487
+			note	cvp_best_match:RF_PEP_414087183
+347777	347094	gene
+			locus_tag	NVP2275O_488
+347777	347094	CDS
+			product	hypothetical protein
+			protein_id	NVP2275O_488
+347944	348903	gene
+			locus_tag	NVP2275O_489
+347944	348903	CDS
+			product	PIN domain-like
+			protein_id	NVP2275O_489
+			db_xref	InterPro:IPR029060
+			note	tara_best_match:OM-RGC.v1.005600403
+			note	cvp_best_match:RF_PEP_422936998
+169451	169539	gene
+			locus_tag	NVP2275O_tRNA_1
+169451	169539	tRNA
+			locus_tag	NVP2275O_tRNA_1
+			product	tRNA-Ser
+			note	anticodon:TGA
+169545	169617	gene
+			locus_tag	NVP2275O_tRNA_2
+169545	169617	tRNA
+			locus_tag	NVP2275O_tRNA_2
+			product	tRNA-Phe
+			note	anticodon:GAA
+170273	170359	gene
+			locus_tag	NVP2275O_tRNA_3
+170273	170359	tRNA
+			locus_tag	NVP2275O_tRNA_3
+			product	tRNA-Ser
+			note	anticodon:GCT
+170365	170450	gene
+			locus_tag	NVP2275O_tRNA_4
+170365	170450	tRNA
+			locus_tag	NVP2275O_tRNA_4
+			product	tRNA-Ser
+			note	anticodon:GGA
+171224	171339	gene
+			locus_tag	NVP2275O_tRNA_5
+171224	171339	tRNA
+			locus_tag	NVP2275O_tRNA_5
+			product	tRNA-Sup
+			note	anticodon:TTA
+182648	182720	gene
+			locus_tag	NVP2275O_tRNA_6
+182648	182720	tRNA
+			locus_tag	NVP2275O_tRNA_6
+			product	tRNA-Met
+			note	anticodon:CAT
+183829	183916	gene
+			locus_tag	NVP2275O_tRNA_7
+183829	183916	tRNA
+			locus_tag	NVP2275O_tRNA_7
+			product	tRNA-Tyr
+			note	anticodon:GTA
+184859	184931	gene
+			locus_tag	NVP2275O_tRNA_8
+184859	184931	tRNA
+			locus_tag	NVP2275O_tRNA_8
+			product	tRNA-Gln
+			note	anticodon:TTG
+184937	185008	gene
+			locus_tag	NVP2275O_tRNA_9
+184937	185008	tRNA
+			locus_tag	NVP2275O_tRNA_9
+			product	tRNA-Asn
+			note	anticodon:GTT
+185023	185096	gene
+			locus_tag	NVP2275O_tRNA_10
+185023	185096	tRNA
+			locus_tag	NVP2275O_tRNA_10
+			product	tRNA-Pro
+			note	anticodon:TGG
+185237	185316	gene
+			locus_tag	NVP2275O_tRNA_11
+185237	185316	tRNA
+			locus_tag	NVP2275O_tRNA_11
+			product	tRNA-Thr
+			note	anticodon:TGT
+185323	185396	gene
+			locus_tag	NVP2275O_tRNA_12
+185323	185396	tRNA
+			locus_tag	NVP2275O_tRNA_12
+			product	tRNA-Glu
+			note	anticodon:TTC
+189784	189858	gene
+			locus_tag	NVP2275O_tRNA_13
+189784	189858	tRNA
+			locus_tag	NVP2275O_tRNA_13
+			product	tRNA-Arg
+			note	anticodon:TCT
+190274	190346	gene
+			locus_tag	NVP2275O_tRNA_14
+190274	190346	tRNA
+			locus_tag	NVP2275O_tRNA_14
+			product	tRNA-Met
+			note	anticodon:CAT
+190512	190583	gene
+			locus_tag	NVP2275O_tRNA_15
+190512	190583	tRNA
+			locus_tag	NVP2275O_tRNA_15
+			product	tRNA-Gly
+			note	anticodon:TCC
+191520	191593	gene
+			locus_tag	NVP2275O_tRNA_16
+191520	191593	tRNA
+			locus_tag	NVP2275O_tRNA_16
+			product	tRNA-Ile
+			note	anticodon:GAT
+191940	192020	gene
+			locus_tag	NVP2275O_tRNA_17
+191940	192020	tRNA
+			locus_tag	NVP2275O_tRNA_17
+			product	tRNA-Leu
+			note	anticodon:TAA
+192862	192933	gene
+			locus_tag	NVP2275O_tRNA_18
+192862	192933	tRNA
+			locus_tag	NVP2275O_tRNA_18
+			product	tRNA-Cys
+			note	anticodon:GCA
+194037	194113	gene
+			locus_tag	NVP2275O_tRNA_19
+194037	194113	tRNA
+			locus_tag	NVP2275O_tRNA_19
+			product	tRNA-Ser
+			note	anticodon:ACT
+93899	93996	gene
+			locus_tag	NVP2275O_CRISPR-like_1
+93899	93996	ncRNA
+			product	 note=CRISPR region
+			locus_tag	NVP2275O_CRISPR-like_1

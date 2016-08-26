@@ -1,0 +1,404 @@
+>Features Vibrio_virus_1.034.O._10N.261.46.B7
+413	829	gene
+			locus_tag	NVP1034O_01
+413	829	CDS
+			product	HAD-like domain
+			protein_id	NVP1034O_01
+			db_xref	InterPro:IPR023214
+			note	tara_best_match:OM-RGC.v1.025506694
+822	1274	gene
+			locus_tag	NVP1034O_02
+822	1274	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_02
+1276	1470	gene
+			locus_tag	NVP1034O_03
+1276	1470	CDS
+			product	Putative regulatory protein, FmdB, Zinc ribbon domain
+			protein_id	NVP1034O_03
+			db_xref	InterPro:IPR013429
+1471	1776	gene
+			locus_tag	NVP1034O_04
+1471	1776	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_04
+1776	2066	gene
+			locus_tag	NVP1034O_05
+1776	2066	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_05
+			note	aclame_best_match:protein:proph:166029
+2076	2384	gene
+			locus_tag	NVP1034O_06
+2076	2384	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_06
+2377	3900	gene
+			locus_tag	NVP1034O_07
+2377	3900	CDS
+			product	Regulator of chromosome condensation 1/beta-lactamase-inhibitor protein II
+			protein_id	NVP1034O_07
+			db_xref	InterPro:IPR009091
+3910	4449	gene
+			locus_tag	NVP1034O_08
+3910	4449	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_08
+4424	4678	gene
+			locus_tag	NVP1034O_09
+4424	4678	CDS
+			product	Coil containing protein
+			protein_id	NVP1034O_09
+			db_xref	InterPro:IPS Coils
+4680	6236	gene
+			locus_tag	NVP1034O_10
+4680	6236	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_10
+			db_xref	pog:POG0042
+			note	aclame_best_match:protein:vir:3140
+			note	tara_best_match:OM-RGC.v1.001616084
+			note	cvp_best_match:RF_PEP_325171219
+6239	8044	gene
+			locus_tag	NVP1034O_11
+6239	8044	CDS
+			product	Coil containing protein
+			protein_id	NVP1034O_11
+			db_xref	pog:POG2360
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:3139
+			note	tara_best_match:OM-RGC.v1.000959381
+			note	cvp_best_match:RF_PEP_21234402
+8041	8295	gene
+			locus_tag	NVP1034O_12
+8041	8295	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_12
+8327	9088	gene
+			locus_tag	NVP1034O_13
+8327	9088	CDS
+			product	Coil containing protein
+			protein_id	NVP1034O_13
+			db_xref	InterPro:IPS Coils
+9113	10063	gene
+			locus_tag	NVP1034O_14
+9113	10063	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_14
+			db_xref	pog:POG0032
+			note	aclame_best_match:protein:vir:3136
+			note	tara_best_match:OM-RGC.v1.006230448
+			note	cvp_best_match:RF_PEP_21234405
+10077	10601	gene
+			locus_tag	NVP1034O_15
+10077	10601	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_15
+			note	aclame_best_match:protein:vir:3135
+			note	cvp_best_match:RF_PEP_21234406
+10669	11928	gene
+			locus_tag	NVP1034O_16
+10669	11928	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_16
+11937	14006	gene
+			locus_tag	NVP1034O_17
+11937	14006	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_17
+14006	16609	gene
+			locus_tag	NVP1034O_18
+14006	16609	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_18
+16618	16905	gene
+			locus_tag	NVP1034O_19
+16618	16905	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_19
+16908	17696	gene
+			locus_tag	NVP1034O_20
+16908	17696	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_20
+			db_xref	pog:POG2357
+			note	aclame_best_match:protein:vir:3130
+			note	cvp_best_match:RF_PEP_21234411
+17698	18006	gene
+			locus_tag	NVP1034O_21
+17698	18006	CDS
+			product	Coil containing protein
+			protein_id	NVP1034O_21
+			db_xref	InterPro:IPS Coils
+18138	18593	gene
+			locus_tag	NVP1034O_22
+18138	18593	CDS
+			product	Acyl-CoA N-acyltransferase
+			protein_id	NVP1034O_22
+			db_xref	InterPro:IPR016181
+18599	19072	gene
+			locus_tag	NVP1034O_23
+18599	19072	CDS
+			product	Coil containing protein
+			protein_id	NVP1034O_23
+			db_xref	InterPro:IPS Coils
+19082	23671	gene
+			locus_tag	NVP1034O_24
+19082	23671	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_24
+			db_xref	pog:POG2354
+			note	aclame_best_match:protein:vir:3126
+			note	cvp_best_match:RF_PEP_21234415
+23684	25483	gene
+			locus_tag	NVP1034O_25
+23684	25483	CDS
+			product	Coil containing protein
+			protein_id	NVP1034O_25
+			db_xref	InterPro:IPS Coils
+25493	25762	gene
+			locus_tag	NVP1034O_26
+25493	25762	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_26
+25764	26486	gene
+			locus_tag	NVP1034O_27
+25764	26486	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_27
+			note	aclame_best_match:protein:vir:3124
+			note	cvp_best_match:RF_PEP_21234417
+26784	26515	gene
+			locus_tag	NVP1034O_28
+26784	26515	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_28
+27074	26784	gene
+			locus_tag	NVP1034O_29
+27074	26784	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1034O_29
+			db_xref	InterPro:IPS TMHMM
+27584	27234	gene
+			locus_tag	NVP1034O_30
+27584	27234	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_30
+			db_xref	pog:POG0086
+			note	aclame_best_match:protein:vir:106806
+			note	tara_best_match:OM-RGC.v1.029134523
+			note	cvp_best_match:RF_PEP_333798274
+27859	27584	gene
+			locus_tag	NVP1034O_31
+27859	27584	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_31
+28321	27902	gene
+			locus_tag	NVP1034O_32
+28321	27902	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_32
+28517	28323	gene
+			locus_tag	NVP1034O_33
+28517	28323	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_33
+28672	28514	gene
+			locus_tag	NVP1034O_34
+28672	28514	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_34
+28938	28669	gene
+			locus_tag	NVP1034O_35
+28938	28669	CDS
+			product	Coil containing protein
+			protein_id	NVP1034O_35
+			db_xref	InterPro:IPS Coils
+29297	28935	gene
+			locus_tag	NVP1034O_36
+29297	28935	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1034O_36
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.024393170
+30062	29307	gene
+			locus_tag	NVP1034O_37
+30062	29307	CDS
+			product	Coil containing protein
+			protein_id	NVP1034O_37
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	cvp_best_match:RF_PEP_428782633
+30263	30066	gene
+			locus_tag	NVP1034O_38
+30263	30066	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_38
+30571	30260	gene
+			locus_tag	NVP1034O_39
+30571	30260	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_39
+31569	30568	gene
+			locus_tag	NVP1034O_40
+31569	30568	CDS
+			product	Coil containing protein
+			protein_id	NVP1034O_40
+			db_xref	InterPro:IPS Coils
+32345	31635	gene
+			locus_tag	NVP1034O_41
+32345	31635	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_41
+34239	32350	gene
+			locus_tag	NVP1034O_42
+34239	32350	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_42
+			db_xref	pog:POG0026
+			note	aclame_best_match:protein:vir:3098
+			note	tara_best_match:OM-RGC.v1.001021639
+			note	cvp_best_match:RF_PEP_21234370
+34514	34230	gene
+			locus_tag	NVP1034O_43
+34514	34230	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP1034O_43
+			db_xref	InterPro:IPR011991
+34777	34514	gene
+			locus_tag	NVP1034O_44
+34777	34514	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1034O_44
+			db_xref	InterPro:IPS TMHMM
+35982	34774	gene
+			locus_tag	NVP1034O_45
+35982	34774	CDS
+			product	AAA domain
+			protein_id	NVP1034O_45
+			db_xref	InterPro:IPS Pfam
+36862	35933	gene
+			locus_tag	NVP1034O_46
+36862	35933	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_46
+37130	36849	gene
+			locus_tag	NVP1034O_47
+37130	36849	CDS
+			product	Coil containing protein
+			protein_id	NVP1034O_47
+			db_xref	InterPro:IPS Coils
+37276	37127	gene
+			locus_tag	NVP1034O_48
+37276	37127	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_48
+37539	37273	gene
+			locus_tag	NVP1034O_49
+37539	37273	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_49
+37721	37536	gene
+			locus_tag	NVP1034O_50
+37721	37536	CDS
+			product	Coil containing protein
+			protein_id	NVP1034O_50
+			db_xref	InterPro:IPS Coils
+38009	37785	gene
+			locus_tag	NVP1034O_51
+38009	37785	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_51
+			note	aclame_best_match:protein:vir:3089
+			note	cvp_best_match:RF_PEP_418488957
+38425	37994	gene
+			locus_tag	NVP1034O_52
+38425	37994	CDS
+			product	Coil containing protein
+			protein_id	NVP1034O_52
+			db_xref	InterPro:IPS Coils
+38619	38425	gene
+			locus_tag	NVP1034O_53
+38619	38425	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_53
+38843	38607	gene
+			locus_tag	NVP1034O_54
+38843	38607	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_54
+39224	38856	gene
+			locus_tag	NVP1034O_55
+39224	38856	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_55
+39473	39228	gene
+			locus_tag	NVP1034O_56
+39473	39228	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_56
+40289	39507	gene
+			locus_tag	NVP1034O_57
+40289	39507	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_57
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:183413
+			note	tara_best_match:OM-RGC.v1.013225368
+			note	cvp_best_match:RF_PEP_9632919
+40567	40364	gene
+			locus_tag	NVP1034O_58
+40567	40364	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_58
+40776	40564	gene
+			locus_tag	NVP1034O_59
+40776	40564	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_59
+41352	40813	gene
+			locus_tag	NVP1034O_60
+41352	40813	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_60
+41560	41420	gene
+			locus_tag	NVP1034O_61
+41560	41420	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1034O_61
+			db_xref	InterPro:IPS TMHMM
+41983	41660	gene
+			locus_tag	NVP1034O_62
+41983	41660	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_62
+42270	42013	gene
+			locus_tag	NVP1034O_63
+42270	42013	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_63
+42741	42340	gene
+			locus_tag	NVP1034O_64
+42741	42340	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_64
+43211	42924	gene
+			locus_tag	NVP1034O_65
+43211	42924	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_65
+43844	43278	gene
+			locus_tag	NVP1034O_66
+43844	43278	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_66
+44259	44396	gene
+			locus_tag	NVP1034O_67
+44259	44396	CDS
+			product	hypothetical protein
+			protein_id	NVP1034O_67
+39739	40102	gene
+			locus_tag	NVP1034O_CRISPR-like_1
+39739	40102	ncRNA
+			product	 note=CRISPR region
+			locus_tag	NVP1034O_CRISPR-like_1

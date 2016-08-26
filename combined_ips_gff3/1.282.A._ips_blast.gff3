@@ -1,0 +1,85 @@
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	1	918	.	+	0	ID=NVP1282A_01;Name=Bacteriophage T5, Orf172 DNA-binding; Ontology_term="egg:none"; note="tara_best_match:OM-RGC.v1.001552365"; ontology_term="InterPro:IPR018306"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	905	2671	.	+	0	ID=NVP1282A_02; Name=hypothetical protein; Ontology_term="egg:COG1783"; note="aclame_best_match:protein:proph:175283"; note="cvp_best_match:NCBI_PEP_163716617"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	2766	2990	.	+	0	ID=NVP1282A_03; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	2980	3165	.	+	0	ID=NVP1282A_04;Name=TMhelix containing protein;; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	3153	3407	.	+	0	ID=NVP1282A_05; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	3492	3692	.	+	0	ID=NVP1282A_06; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	3696	3866	.	+	0	ID=NVP1282A_07;Name=TMhelix containing protein;; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	4041	4784	.	+	0	ID=NVP1282A_08; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	4823	5398	.	+	0	ID=NVP1282A_09; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	5484	6845	.	+	0	ID=NVP1282A_10; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	6953	7177	.	-	0	ID=NVP1282A_11; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	7466	7789	.	-	0	ID=NVP1282A_12;Name=Coil containing protein;; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	7776	8048	.	-	0	ID=NVP1282A_13; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	8071	8412	.	-	0	ID=NVP1282A_14; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	8498	8698	.	+	0	ID=NVP1282A_15; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	8698	8991	.	+	0	ID=NVP1282A_16; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	8993	9316	.	+	0	ID=NVP1282A_17; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	9297	9602	.	+	0	ID=NVP1282A_18; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	9599	9772	.	+	0	ID=NVP1282A_19; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	9858	10148	.	+	0	ID=NVP1282A_20; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	10188	11153	.	+	0	ID=NVP1282A_21; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.005402668"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	11150	11851	.	-	0	ID=NVP1282A_22;Name=Bacteriophage T5, Orf172 DNA-binding; note="tara_best_match:OM-RGC.v1.004041251"; note="cvp_best_match:RF_PEP_448245112"; ontology_term="InterPro:IPR018306"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	12201	12977	.	+	0	ID=NVP1282A_23; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	12977	14221	.	+	0	ID=NVP1282A_24; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	14221	14619	.	+	0	ID=NVP1282A_25; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	14634	15647	.	+	0	ID=NVP1282A_26; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.005864351"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	15750	16145	.	+	0	ID=NVP1282A_27; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	17120	17599	.	+	0	ID=NVP1282A_28; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	17592	18011	.	+	0	ID=NVP1282A_29; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	18011	18436	.	+	0	ID=NVP1282A_30; Name=hypothetical protein; Ontology_term="pog:POG1530"; note="aclame_best_match:protein:vir:97190"; note="tara_best_match:OM-RGC.v1.022874831"; note="cvp_best_match:RF_PEP_399529030"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	18446	18727	.	-	0	ID=NVP1282A_31; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.031721166"; note="cvp_best_match:CAMPEP_0000028998"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	18740	19120	.	-	0	ID=NVP1282A_32; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	19128	19340	.	-	0	ID=NVP1282A_33; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	19451	19897	.	+	0	ID=NVP1282A_34; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	19962	21416	.	+	0	ID=NVP1282A_35; Name=hypothetical protein; Ontology_term="pog:POG4228"; note="tara_best_match:OM-RGC.v1.001555854"; note="cvp_best_match:RF_PEP_331028132"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	21686	22207	.	-	0	ID=NVP1282A_36; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	22211	22444	.	-	0	ID=NVP1282A_37; Name=hypothetical protein; Ontology_term="egg:none"; note="aclame_best_match:protein:vir:4401"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	22444	22704	.	-	0	ID=NVP1282A_38;Name=Coil containing protein;; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	22710	23297	.	-	0	ID=NVP1282A_39; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	23309	23530	.	-	0	ID=NVP1282A_40; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	23662	24096	.	+	0	ID=NVP1282A_41; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	24392	26416	.	+	0	ID=NVP1282A_42;Name=Coil containing protein;; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	26416	26931	.	+	0	ID=NVP1282A_43; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	26928	27440	.	+	0	ID=NVP1282A_44;Name=Coil containing protein;; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	27521	27937	.	+	0	ID=NVP1282A_45;Name=Peptide deformylase; Ontology_term="kegg:K01462"; Ontology_term="pfam:PF01327"; Ontology_term="cog:COG0242"; Ontology_term="egg:COG0242"; note="aclame_best_match:protein:plasmid:151260"; note="tara_best_match:OM-RGC.v1.026080838"; note="cvp_best_match:NCBI_PEP_37626151"; ontology_term="InterPro:IPR023635"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	27946	28329	.	+	0	ID=NVP1282A_46; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	28283	31027	.	+	0	ID=NVP1282A_47; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	31103	31270	.	+	0	ID=NVP1282A_48;Name=TMhelix containing protein;; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	31379	32053	.	+	0	ID=NVP1282A_49; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	32050	32562	.	+	0	ID=NVP1282A_50;Name=TMhelix containing protein;; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	32559	32954	.	+	0	ID=NVP1282A_51;Name=Hedgehog signalling/DD-peptidase zinc-binding domain; Ontology_term="kegg:none"; Ontology_term="egg:ENOG411238Y"; note="aclame_best_match:protein:proph:172181"; note="tara_best_match:OM-RGC.v1.026991103"; ontology_term="InterPro:IPR009045"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	32958	33482	.	+	0	ID=NVP1282A_52;Name=TMhelix containing protein; Ontology_term="egg:none"; note="aclame_best_match:protein:proph:180239"; note="tara_best_match:OM-RGC.v1.020140590"; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	33528	33650	.	-	0	ID=NVP1282A_53; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	33647	33904	.	-	0	ID=NVP1282A_54;Name=TMhelix containing protein;; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	33907	34386	.	-	0	ID=NVP1282A_55;Name=HAD-like domain; Ontology_term="cog:COG2503"; Ontology_term="egg:ENOG4111HI5"; note="tara_best_match:OM-RGC.v1.022496169"; note="cvp_best_match:RF_PEP_311992965"; ontology_term="InterPro:IPR023214"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	34383	34706	.	-	0	ID=NVP1282A_56;Name=Domain of unknown function DUF551;; ontology_term="InterPro:IPR007539"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	34710	34898	.	-	0	ID=NVP1282A_57; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	34892	35239	.	-	0	ID=NVP1282A_58; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	35229	35654	.	-	0	ID=NVP1282A_59;Name=Protein of unknwon function DUF3310; note="tara_best_match:OM-RGC.v1.025179022"; ontology_term="InterPro:IPR021739"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	35734	38190	.	-	0	ID=NVP1282A_60; Name=hypothetical protein; note="cvp_best_match:NCBI_PEP_37626129"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	38181	38402	.	-	0	ID=NVP1282A_61; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	38474	39427	.	-	0	ID=NVP1282A_62; Name=hypothetical protein; note="tara_best_match:OM-RGC.v1.007656659"; note="cvp_best_match:RF_PEP_448261075"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	39441	40598	.	-	0	ID=NVP1282A_63;Name=Protein of unknown function DUF2800;; ontology_term="InterPro:IPR021229"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	40614	41036	.	-	0	ID=NVP1282A_64;Name=TMhelix containing protein; Ontology_term="egg:none"; Ontology_term="pog:POG0622"; note="aclame_best_match:protein:proph:181289"; note="cvp_best_match:NCBI_PEP_148566152"; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	41135	42322	.	-	0	ID=NVP1282A_65; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	42322	42510	.	-	0	ID=NVP1282A_66; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	42512	42724	.	-	0	ID=NVP1282A_67; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	42721	43227	.	-	0	ID=NVP1282A_68;Name=Protein of unknown function DUF2800;; ontology_term="InterPro:IPR021229"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	43376	46078	.	+	0	ID=NVP1282A_69;Name=Coil containing protein; note="cvp_best_match:RF_PEP_418489197"; ontology_term="InterPro:IPS Coils"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	46075	46668	.	+	0	ID=NVP1282A_70; Name=hypothetical protein; note="aclame_best_match:protein:vir:107755"; note="tara_best_match:OM-RGC.v1.023146540"; note="cvp_best_match:RF_PEP_448261081"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	47030	47284	.	+	0	ID=NVP1282A_71; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	47559	47870	.	+	0	ID=NVP1282A_72; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	47948	48223	.	+	0	ID=NVP1282A_73; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	48223	50589	.	+	0	ID=NVP1282A_74;Name=Helicase, superfamily 3, DNA virus;; ontology_term="InterPro:IPR014015"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	50586	51077	.	+	0	ID=NVP1282A_75;Name=DNA methylase, C-5 cytosine-specific, active site; Ontology_term="kegg:K00558"; Ontology_term="pfam:PF00145"; Ontology_term="cog:COG0270"; Ontology_term="egg:COG0270"; Ontology_term="pog:POG0191"; note="aclame_best_match:protein:proph:178416"; note="tara_best_match:OM-RGC.v1.001372571"; note="cvp_best_match:RF_PEP_422936552"; ontology_term="InterPro:IPR018117"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	51070	51282	.	+	0	ID=NVP1282A_76; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	51434	51862	.	+	0	ID=NVP1282A_77; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	51859	51960	.	+	0	ID=NVP1282A_78;Name=TMhelix containing protein;; ontology_term="InterPro:IPS TMHMM"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	52079	52411	.	+	0	ID=NVP1282A_79; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	52408	52893	.	+	0	ID=NVP1282A_80;Name=Winged helix-turn-helix DNA-binding domain;; ontology_term="InterPro:IPR011991"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	53423	54064	.	+	0	ID=NVP1282A_81; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	54180	54728	.	+	0	ID=NVP1282A_82;Name=Bacteriophage T5, Orf172 DNA-binding; Ontology_term="egg:ENOG4111WAT"; note="tara_best_match:OM-RGC.v1.008760582"; note="cvp_best_match:RF_PEP_448245112"; ontology_term="InterPro:IPR018306"
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	54827	55579	.	+	0	ID=NVP1282A_83; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	55582	55881	.	+	0	ID=NVP1282A_84; Name=hypothetical protein;
+Vibrio_virus_1.282.A._10N.286.54.F8	prod	CDS	56202	59009	.	+	0	ID=NVP1282A_85; Name=hypothetical protein;

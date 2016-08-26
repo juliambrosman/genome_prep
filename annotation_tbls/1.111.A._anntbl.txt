@@ -1,0 +1,382 @@
+>Features Vibrio_virus_1.111.A._10N.286.45.E6
+890	1261	gene
+			locus_tag	NVP1111A_01
+890	1261	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_01
+1279	1428	gene
+			locus_tag	NVP1111A_02
+1279	1428	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1111A_02
+			db_xref	InterPro:IPS TMHMM
+1551	1673	gene
+			locus_tag	NVP1111A_03
+1551	1673	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_03
+1707	1895	gene
+			locus_tag	NVP1111A_04
+1707	1895	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_04
+1867	2130	gene
+			locus_tag	NVP1111A_05
+1867	2130	CDS
+			product	Coil containing protein
+			protein_id	NVP1111A_05
+			db_xref	InterPro:IPS Coils
+2120	2725	gene
+			locus_tag	NVP1111A_06
+2120	2725	CDS
+			product	DNA methylase, N-6 adenine-specific, conserved site
+			protein_id	NVP1111A_06
+			db_xref	cog:COG0827
+			db_xref	egg:none
+			db_xref	InterPro:IPR002052
+			note	tara_best_match:OM-RGC.v1.018326941
+			note	cvp_best_match:NCBI_PEP_383395679
+2718	2996	gene
+			locus_tag	NVP1111A_07
+2718	2996	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_07
+3153	3422	gene
+			locus_tag	NVP1111A_08
+3153	3422	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1111A_08
+			db_xref	InterPro:IPS TMHMM
+3388	3834	gene
+			locus_tag	NVP1111A_09
+3388	3834	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_09
+			db_xref	egg:ENOG4111YU0
+			note	aclame_best_match:protein:proph:176022
+			note	tara_best_match:OM-RGC.v1.023582696
+3853	3993	gene
+			locus_tag	NVP1111A_10
+3853	3993	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1111A_10
+			db_xref	InterPro:IPS TMHMM
+3993	4217	gene
+			locus_tag	NVP1111A_11
+3993	4217	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_11
+4279	4734	gene
+			locus_tag	NVP1111A_12
+4279	4734	CDS
+			product	Bacteriophage VT1-Sakai, H0025
+			protein_id	NVP1111A_12
+			db_xref	InterPro:IPR009901
+4734	6719	gene
+			locus_tag	NVP1111A_13
+4734	6719	CDS
+			product	Phage terminase large subunit (GpA)
+			protein_id	NVP1111A_13
+			db_xref	pfam:PF05876
+			db_xref	cog:COG5525
+			db_xref	egg:none
+			db_xref	pog:POG0051
+			note	aclame_best_match:protein:proph:179515
+			note	tara_best_match:OM-RGC.v1.000623653
+			note	cvp_best_match:RF_PEP_148609384
+6900	8336	gene
+			locus_tag	NVP1111A_14
+6900	8336	CDS
+			product	Phage portal protein, lambda family
+			protein_id	NVP1111A_14
+			db_xref	InterPro:IPR006429
+8326	9279	gene
+			locus_tag	NVP1111A_15
+8326	9279	CDS
+			product	Clp protease proteolytic subunit /Translocation-enhancing protein TepA
+			protein_id	NVP1111A_15
+			db_xref	InterPro:IPR023562
+9334	10347	gene
+			locus_tag	NVP1111A_16
+9334	10347	CDS
+			product	Major capsid protein GpE
+			protein_id	NVP1111A_16
+			db_xref	InterPro:IPR005564
+10347	10679	gene
+			locus_tag	NVP1111A_17
+10347	10679	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_17
+10676	11143	gene
+			locus_tag	NVP1111A_18
+10676	11143	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_18
+			db_xref	pog:POG0839
+			note	aclame_best_match:protein:vir:96763
+			note	cvp_best_match:RF_PEP_126010915
+11118	11531	gene
+			locus_tag	NVP1111A_19
+11118	11531	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_19
+11500	12186	gene
+			locus_tag	NVP1111A_20
+11500	12186	CDS
+			product	Phage baseplate assembly protein V/Gp45
+			protein_id	NVP1111A_20
+			db_xref	InterPro:IPR013046
+			note	tara_best_match:OM-RGC.v1.014714518
+12183	12521	gene
+			locus_tag	NVP1111A_21
+12183	12521	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_21
+			note	tara_best_match:OM-RGC.v1.028088436
+			note	cvp_best_match:NCBI_PEP_46804786
+12514	13350	gene
+			locus_tag	NVP1111A_22
+12514	13350	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_22
+13350	13961	gene
+			locus_tag	NVP1111A_23
+13350	13961	CDS
+			product	Tail protein I
+			protein_id	NVP1111A_23
+			db_xref	pfam:PF09684
+			db_xref	egg:none
+			db_xref	pog:POG0574
+			db_xref	InterPro:IPR006521
+			note	aclame_best_match:protein:vir:10331
+			note	tara_best_match:OM-RGC.v1.014863804
+			note	cvp_best_match:NCBI_PEP_291621963
+13958	16468	gene
+			locus_tag	NVP1111A_24
+13958	16468	CDS
+			product	Phage tail fibre protein
+			protein_id	NVP1111A_24
+			db_xref	InterPro:IPR022225
+16657	17664	gene
+			locus_tag	NVP1111A_25
+16657	17664	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_25
+17756	18892	gene
+			locus_tag	NVP1111A_26
+17756	18892	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_26
+			note	tara_best_match:OM-RGC.v1.001768940
+18892	19404	gene
+			locus_tag	NVP1111A_27
+18892	19404	CDS
+			product	Tail tube protein
+			protein_id	NVP1111A_27
+			db_xref	InterPro:IPR006498
+19452	19703	gene
+			locus_tag	NVP1111A_28
+19452	19703	CDS
+			product	Bacteriophage tail protein Gp41, putative
+			protein_id	NVP1111A_28
+			db_xref	InterPro:IPR019289
+19901	21904	gene
+			locus_tag	NVP1111A_29
+19901	21904	CDS
+			product	Coil containing protein
+			protein_id	NVP1111A_29
+			db_xref	InterPro:IPS Coils
+21894	22289	gene
+			locus_tag	NVP1111A_30
+21894	22289	CDS
+			product	Myoviridae, GpU
+			protein_id	NVP1111A_30
+			db_xref	InterPro:IPR009734
+22286	22480	gene
+			locus_tag	NVP1111A_31
+22286	22480	CDS
+			product	Phage Tail Protein X-like
+			protein_id	NVP1111A_31
+			db_xref	pfam:PF05489
+			db_xref	egg:ENOG410XXU5
+			db_xref	pog:POG0569
+			db_xref	InterPro:IPR008861
+			note	aclame_best_match:protein:proph:184997
+			note	cvp_best_match:CAMPEP_0000012654
+22474	23445	gene
+			locus_tag	NVP1111A_32
+22474	23445	CDS
+			product	Coil containing protein
+			protein_id	NVP1111A_32
+			db_xref	InterPro:IPS Coils
+23726	23451	gene
+			locus_tag	NVP1111A_33
+23726	23451	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_33
+24015	23716	gene
+			locus_tag	NVP1111A_34
+24015	23716	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_34
+24408	24052	gene
+			locus_tag	NVP1111A_35
+24408	24052	CDS
+			product	YopX protein
+			protein_id	NVP1111A_35
+			db_xref	pfam:PF09643
+			db_xref	pog:POG0044
+			note	aclame_best_match:protein:proph:174257
+25918	24467	gene
+			locus_tag	NVP1111A_36
+25918	24467	CDS
+			product	RecT family
+			protein_id	NVP1111A_36
+			db_xref	InterPro:IPR018330
+26410	26012	gene
+			locus_tag	NVP1111A_37
+26410	26012	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_37
+26658	26407	gene
+			locus_tag	NVP1111A_38
+26658	26407	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_38
+27657	26662	gene
+			locus_tag	NVP1111A_39
+27657	26662	CDS
+			product	SAP domain
+			protein_id	NVP1111A_39
+			db_xref	InterPro:IPR003034
+27912	27727	gene
+			locus_tag	NVP1111A_40
+27912	27727	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_40
+28562	28113	gene
+			locus_tag	NVP1111A_41
+28562	28113	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_41
+28849	28562	gene
+			locus_tag	NVP1111A_42
+28849	28562	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_42
+30438	28846	gene
+			locus_tag	NVP1111A_43
+30438	28846	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP1111A_43
+			db_xref	InterPro:IPR027417
+			note	tara_best_match:OM-RGC.v1.001052432
+30468	30890	gene
+			locus_tag	NVP1111A_44
+30468	30890	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_44
+31169	30969	gene
+			locus_tag	NVP1111A_45
+31169	30969	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1111A_45
+			db_xref	InterPro:IPS TMHMM
+31791	31204	gene
+			locus_tag	NVP1111A_46
+31791	31204	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_46
+			note	tara_best_match:OM-RGC.v1.019220779
+32217	31873	gene
+			locus_tag	NVP1111A_47
+32217	31873	CDS
+			product	Coil containing protein
+			protein_id	NVP1111A_47
+			db_xref	InterPro:IPS Coils
+32603	32352	gene
+			locus_tag	NVP1111A_48
+32603	32352	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_48
+32979	32611	gene
+			locus_tag	NVP1111A_49
+32979	32611	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_49
+33198	33764	gene
+			locus_tag	NVP1111A_50
+33198	33764	CDS
+			product	Lambda repressor-like, DNA-binding domain
+			protein_id	NVP1111A_50
+			db_xref	InterPro:IPR010982
+33778	34020	gene
+			locus_tag	NVP1111A_51
+33778	34020	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_51
+34027	34347	gene
+			locus_tag	NVP1111A_52
+34027	34347	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1111A_52
+			db_xref	InterPro:IPS TMHMM
+34392	34778	gene
+			locus_tag	NVP1111A_53
+34392	34778	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1111A_53
+			db_xref	InterPro:IPS TMHMM
+35183	34842	gene
+			locus_tag	NVP1111A_54
+35183	34842	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1111A_54
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.024884846
+35380	35183	gene
+			locus_tag	NVP1111A_55
+35380	35183	CDS
+			product	Prokaryotic membrane lipoprotein lipid attachment site profile.
+			protein_id	NVP1111A_55
+			db_xref	InterPro:IPS ProSiteProfiles
+			note	tara_best_match:OM-RGC.v1.035431923
+35615	35367	gene
+			locus_tag	NVP1111A_56
+35615	35367	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_56
+36006	35554	gene
+			locus_tag	NVP1111A_57
+36006	35554	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_57
+			note	tara_best_match:OM-RGC.v1.020610671
+			note	cvp_best_match:CAMPEP_0000025924
+36268	36059	gene
+			locus_tag	NVP1111A_58
+36268	36059	CDS
+			product	Coil containing protein
+			protein_id	NVP1111A_58
+			db_xref	InterPro:IPS Coils
+36662	36465	gene
+			locus_tag	NVP1111A_59
+36662	36465	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_59
+38272	36659	gene
+			locus_tag	NVP1111A_60
+38272	36659	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_60
+38507	38325	gene
+			locus_tag	NVP1111A_61
+38507	38325	CDS
+			product	hypothetical protein
+			protein_id	NVP1111A_61
+39616	38591	gene
+			locus_tag	NVP1111A_62
+39616	38591	CDS
+			product	Toprim domain
+			protein_id	NVP1111A_62
+			db_xref	InterPro:IPR006171

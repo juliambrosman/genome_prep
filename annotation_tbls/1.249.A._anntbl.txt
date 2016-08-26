@@ -1,0 +1,137 @@
+>Features Vibrio_virus_1.249.A._10N.261.55.B9
+223	65	gene
+			locus_tag	NVP1249A_01
+223	65	CDS
+			product	hypothetical protein
+			protein_id	NVP1249A_01
+312	220	gene
+			locus_tag	NVP1249A_02
+312	220	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1249A_02
+			db_xref	InterPro:IPS TMHMM
+491	309	gene
+			locus_tag	NVP1249A_03
+491	309	CDS
+			product	hypothetical protein
+			protein_id	NVP1249A_03
+946	572	gene
+			locus_tag	NVP1249A_04
+946	572	CDS
+			product	hypothetical protein
+			protein_id	NVP1249A_04
+2603	1002	gene
+			locus_tag	NVP1249A_05
+2603	1002	CDS
+			product	Coil containing protein
+			protein_id	NVP1249A_05
+			db_xref	pfam:PF03175
+			db_xref	pog:POG0334
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:103833
+			note	tara_best_match:OM-RGC.v1.001450554
+			note	cvp_best_match:NCBI_PEP_61393996
+3342	2635	gene
+			locus_tag	NVP1249A_06
+3342	2635	CDS
+			product	Coil containing protein
+			protein_id	NVP1249A_06
+			db_xref	InterPro:IPS Coils
+3378	4130	gene
+			locus_tag	NVP1249A_07
+3378	4130	CDS
+			product	hypothetical protein
+			protein_id	NVP1249A_07
+4131	4631	gene
+			locus_tag	NVP1249A_08
+4131	4631	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP1249A_08
+			db_xref	InterPro:IPR027417
+			note	tara_best_match:OM-RGC.v1.021972741
+4649	4873	gene
+			locus_tag	NVP1249A_09
+4649	4873	CDS
+			product	hypothetical protein
+			protein_id	NVP1249A_09
+4934	5050	gene
+			locus_tag	NVP1249A_10
+4934	5050	CDS
+			product	hypothetical protein
+			protein_id	NVP1249A_10
+5096	5917	gene
+			locus_tag	NVP1249A_11
+5096	5917	CDS
+			product	hypothetical protein
+			protein_id	NVP1249A_11
+			db_xref	egg:ENOG410Y2MA
+			note	tara_best_match:OM-RGC.v1.009064437
+5989	6372	gene
+			locus_tag	NVP1249A_12
+5989	6372	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1249A_12
+			db_xref	InterPro:IPS TMHMM
+6382	6525	gene
+			locus_tag	NVP1249A_13
+6382	6525	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1249A_13
+			db_xref	InterPro:IPS TMHMM
+6525	6770	gene
+			locus_tag	NVP1249A_14
+6525	6770	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1249A_14
+			db_xref	InterPro:IPS TMHMM
+6767	7126	gene
+			locus_tag	NVP1249A_15
+6767	7126	CDS
+			product	Acyl-CoA N-acyltransferase
+			protein_id	NVP1249A_15
+			db_xref	InterPro:IPR016181
+7126	7566	gene
+			locus_tag	NVP1249A_16
+7126	7566	CDS
+			product	hypothetical protein
+			protein_id	NVP1249A_16
+7588	8151	gene
+			locus_tag	NVP1249A_17
+7588	8151	CDS
+			product	hypothetical protein
+			protein_id	NVP1249A_17
+8151	9578	gene
+			locus_tag	NVP1249A_18
+8151	9578	CDS
+			product	SGNH hydrolase-type esterase domain
+			protein_id	NVP1249A_18
+			db_xref	InterPro:IPR013830
+9578	10045	gene
+			locus_tag	NVP1249A_19
+9578	10045	CDS
+			product	hypothetical protein
+			protein_id	NVP1249A_19
+			db_xref	egg:ENOG4111U4Z
+			db_xref	pog:POG1420
+			note	aclame_best_match:protein:proph:159833
+			note	tara_best_match:OM-RGC.v1.016913695
+			note	cvp_best_match:RF_PEP_213163908
+10064	10222	gene
+			locus_tag	NVP1249A_20
+10064	10222	CDS
+			product	hypothetical protein
+			protein_id	NVP1249A_20
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.037283399
+10223	10405	gene
+			locus_tag	NVP1249A_21
+10223	10405	CDS
+			product	Coil containing protein
+			protein_id	NVP1249A_21
+			db_xref	InterPro:IPS Coils
+10402	10542	gene
+			locus_tag	NVP1249A_22
+10402	10542	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1249A_22
+			db_xref	InterPro:IPS TMHMM

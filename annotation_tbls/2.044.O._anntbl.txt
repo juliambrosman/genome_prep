@@ -1,0 +1,327 @@
+>Features Vibrio_virus_2.044.O._10N.261.51.B8
+152	562	gene
+			locus_tag	NVP2044O_01
+152	562	CDS
+			product	Putative phage terminase, small subunit, P27 family
+			protein_id	NVP2044O_01
+			db_xref	InterPro:IPR006448
+930	1166	gene
+			locus_tag	NVP2044O_02
+930	1166	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_02
+1150	1302	gene
+			locus_tag	NVP2044O_03
+1150	1302	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2044O_03
+			db_xref	InterPro:IPS TMHMM
+1293	3122	gene
+			locus_tag	NVP2044O_04
+1293	3122	CDS
+			product	Coil containing protein
+			protein_id	NVP2044O_04
+			db_xref	pfam:PF03354
+			db_xref	egg:COG4626
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.001153157
+3119	4438	gene
+			locus_tag	NVP2044O_05
+3119	4438	CDS
+			product	Phage portal protein, HK97
+			protein_id	NVP2044O_05
+			db_xref	InterPro:IPR006427
+4410	5060	gene
+			locus_tag	NVP2044O_06
+4410	5060	CDS
+			product	Prohead protease
+			protein_id	NVP2044O_06
+			db_xref	egg:COG3740
+			db_xref	InterPro:IPR006433
+			note	tara_best_match:OM-RGC.v1.014799126
+			note	cvp_best_match:CAMPEP_0000023972
+5145	6524	gene
+			locus_tag	NVP2044O_07
+5145	6524	CDS
+			product	Coil containing protein
+			protein_id	NVP2044O_07
+			db_xref	InterPro:IPS Coils
+6617	7141	gene
+			locus_tag	NVP2044O_08
+6617	7141	CDS
+			product	Phage gp6-like head-tail connector protein
+			protein_id	NVP2044O_08
+			db_xref	InterPro:IPR021146
+7131	7460	gene
+			locus_tag	NVP2044O_09
+7131	7460	CDS
+			product	Bacteriophage SPP1, head-tail adaptor
+			protein_id	NVP2044O_09
+			db_xref	InterPro:IPR008767
+7608	9758	gene
+			locus_tag	NVP2044O_10
+7608	9758	CDS
+			product	Coil containing protein
+			protein_id	NVP2044O_10
+			db_xref	InterPro:IPS Coils
+9761	12436	gene
+			locus_tag	NVP2044O_11
+9761	12436	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_11
+12439	12729	gene
+			locus_tag	NVP2044O_12
+12439	12729	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_12
+12873	13814	gene
+			locus_tag	NVP2044O_13
+12873	13814	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_13
+13911	14270	gene
+			locus_tag	NVP2044O_14
+13911	14270	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_14
+14282	14974	gene
+			locus_tag	NVP2044O_15
+14282	14974	CDS
+			product	Invasin/intimin cell-adhesion fragments
+			protein_id	NVP2044O_15
+			db_xref	InterPro:IPR008964
+14976	15353	gene
+			locus_tag	NVP2044O_16
+14976	15353	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_16
+15583	16101	gene
+			locus_tag	NVP2044O_17
+15583	16101	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_17
+16098	18440	gene
+			locus_tag	NVP2044O_18
+16098	18440	CDS
+			product	Coil containing protein
+			protein_id	NVP2044O_18
+			db_xref	InterPro:IPS Coils
+18443	19051	gene
+			locus_tag	NVP2044O_19
+18443	19051	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_19
+			note	aclame_best_match:protein:vir:5751
+			note	tara_best_match:OM-RGC.v1.016267011
+			note	cvp_best_match:RF_PEP_33770525
+19044	19622	gene
+			locus_tag	NVP2044O_20
+19044	19622	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_20
+			db_xref	egg:ENOG4111UF4
+19622	20017	gene
+			locus_tag	NVP2044O_21
+19622	20017	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_21
+			db_xref	egg:ENOG410XWP4
+			note	tara_best_match:OM-RGC.v1.026023124
+20014	22908	gene
+			locus_tag	NVP2044O_22
+20014	22908	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2044O_22
+			db_xref	InterPro:IPS TMHMM
+22980	25040	gene
+			locus_tag	NVP2044O_23
+22980	25040	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_23
+27308	25260	gene
+			locus_tag	NVP2044O_24
+27308	25260	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_24
+			note	tara_best_match:OM-RGC.v1.000537607
+			note	cvp_best_match:RF_PEP_448261073
+28268	27360	gene
+			locus_tag	NVP2044O_25
+28268	27360	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_25
+28783	28277	gene
+			locus_tag	NVP2044O_26
+28783	28277	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_26
+			note	tara_best_match:OM-RGC.v1.022231478
+31336	28847	gene
+			locus_tag	NVP2044O_27
+31336	28847	CDS
+			product	DNA primase, phage/plasmid
+			protein_id	NVP2044O_27
+			db_xref	InterPro:IPR006500
+			note	tara_best_match:OM-RGC.v1.000393748
+31578	31339	gene
+			locus_tag	NVP2044O_28
+31578	31339	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_28
+32009	31578	gene
+			locus_tag	NVP2044O_29
+32009	31578	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_29
+33125	32013	gene
+			locus_tag	NVP2044O_30
+33125	32013	CDS
+			product	Protein of unknown function DUF2815
+			protein_id	NVP2044O_30
+			db_xref	InterPro:IPR022595
+34263	33127	gene
+			locus_tag	NVP2044O_31
+34263	33127	CDS
+			product	Protein of unknown function DUF2800
+			protein_id	NVP2044O_31
+			db_xref	InterPro:IPR021229
+35171	34269	gene
+			locus_tag	NVP2044O_32
+35171	34269	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_32
+35320	35574	gene
+			locus_tag	NVP2044O_33
+35320	35574	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_33
+35571	37340	gene
+			locus_tag	NVP2044O_34
+35571	37340	CDS
+			product	Helicase/UvrB, N-terminal
+			protein_id	NVP2044O_34
+			db_xref	InterPro:IPR006935
+			note	tara_best_match:OM-RGC.v1.001184763
+37342	37569	gene
+			locus_tag	NVP2044O_35
+37342	37569	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_35
+			note	tara_best_match:OM-RGC.v1.032542216
+			note	cvp_best_match:CAMPEP_0000024132
+37581	37814	gene
+			locus_tag	NVP2044O_36
+37581	37814	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_36
+37774	38226	gene
+			locus_tag	NVP2044O_37
+37774	38226	CDS
+			product	EF-Hand 1, calcium-binding site
+			protein_id	NVP2044O_37
+			db_xref	kegg:K01447
+			db_xref	pfam:PF01510
+			db_xref	cog:COG3023
+			db_xref	egg:COG3023
+			db_xref	pog:POG0023
+			db_xref	InterPro:IPR018247
+			note	aclame_best_match:protein:vir:1517
+			note	tara_best_match:OM-RGC.v1.022945812
+			note	cvp_best_match:NCBI_PEP_441463247
+38235	38414	gene
+			locus_tag	NVP2044O_38
+38235	38414	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2044O_38
+			db_xref	InterPro:IPS TMHMM
+38411	38686	gene
+			locus_tag	NVP2044O_39
+38411	38686	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2044O_39
+			db_xref	InterPro:IPS TMHMM
+38655	38861	gene
+			locus_tag	NVP2044O_40
+38655	38861	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_40
+39214	38879	gene
+			locus_tag	NVP2044O_41
+39214	38879	CDS
+			product	TMhelix containing protein
+			protein_id	NVP2044O_41
+			db_xref	InterPro:IPS TMHMM
+39712	39425	gene
+			locus_tag	NVP2044O_42
+39712	39425	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_42
+39954	39724	gene
+			locus_tag	NVP2044O_43
+39954	39724	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_43
+40225	40046	gene
+			locus_tag	NVP2044O_44
+40225	40046	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_44
+			note	tara_best_match:OM-RGC.v1.036786759
+40581	40222	gene
+			locus_tag	NVP2044O_45
+40581	40222	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_45
+41307	40585	gene
+			locus_tag	NVP2044O_46
+41307	40585	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_46
+41683	41294	gene
+			locus_tag	NVP2044O_47
+41683	41294	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_47
+41909	41685	gene
+			locus_tag	NVP2044O_48
+41909	41685	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_48
+42560	41988	gene
+			locus_tag	NVP2044O_49
+42560	41988	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_49
+43419	42553	gene
+			locus_tag	NVP2044O_50
+43419	42553	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_50
+43711	43854	gene
+			locus_tag	NVP2044O_51
+43711	43854	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_51
+44049	44240	gene
+			locus_tag	NVP2044O_52
+44049	44240	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_52
+44240	44659	gene
+			locus_tag	NVP2044O_53
+44240	44659	CDS
+			product	hypothetical protein
+			protein_id	NVP2044O_53
+			note	aclame_best_match:protein:vir:81205
+			note	tara_best_match:OM-RGC.v1.028797246
+			note	cvp_best_match:RF_PEP_428781871
+28355	28491	gene
+			locus_tag	NVP2044O_CRISPR-like_1
+28355	28491	ncRNA
+			product	 note=CRISPR region
+			locus_tag	NVP2044O_CRISPR-like_1
+34656	34740	gene
+			locus_tag	NVP2044O_CRISPR-like_2
+34656	34740	ncRNA
+			product	 note=CRISPR region
+			locus_tag	NVP2044O_CRISPR-like_2

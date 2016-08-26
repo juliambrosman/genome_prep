@@ -1,0 +1,110 @@
+>Features Vibrio_virus_1.080.O._10N.286.48.A4
+367	158	gene
+			locus_tag	NVP1080O_01
+367	158	CDS
+			product	hypothetical protein
+			protein_id	NVP1080O_01
+984	370	gene
+			locus_tag	NVP1080O_02
+984	370	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1080O_02
+			db_xref	InterPro:IPS TMHMM
+1512	1177	gene
+			locus_tag	NVP1080O_03
+1512	1177	CDS
+			product	hypothetical protein
+			protein_id	NVP1080O_03
+3217	1622	gene
+			locus_tag	NVP1080O_04
+3217	1622	CDS
+			product	Coil containing protein
+			protein_id	NVP1080O_04
+			db_xref	pfam:PF03175
+			db_xref	pog:POG0334
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:2124
+			note	tara_best_match:OM-RGC.v1.001450554
+			note	cvp_best_match:RF_PEP_9626351
+3798	3223	gene
+			locus_tag	NVP1080O_05
+3798	3223	CDS
+			product	hypothetical protein
+			protein_id	NVP1080O_05
+3812	4519	gene
+			locus_tag	NVP1080O_06
+3812	4519	CDS
+			product	Coil containing protein
+			protein_id	NVP1080O_06
+			db_xref	InterPro:IPS Coils
+4522	5055	gene
+			locus_tag	NVP1080O_07
+4522	5055	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP1080O_07
+			db_xref	InterPro:IPR027417
+			note	tara_best_match:OM-RGC.v1.021972741
+5052	5279	gene
+			locus_tag	NVP1080O_08
+5052	5279	CDS
+			product	hypothetical protein
+			protein_id	NVP1080O_08
+5516	5641	gene
+			locus_tag	NVP1080O_09
+5516	5641	CDS
+			product	hypothetical protein
+			protein_id	NVP1080O_09
+5696	6550	gene
+			locus_tag	NVP1080O_10
+5696	6550	CDS
+			product	hypothetical protein
+			protein_id	NVP1080O_10
+			note	tara_best_match:OM-RGC.v1.009973837
+6593	6946	gene
+			locus_tag	NVP1080O_11
+6593	6946	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1080O_11
+			db_xref	InterPro:IPS TMHMM
+6958	7110	gene
+			locus_tag	NVP1080O_12
+6958	7110	CDS
+			product	hypothetical protein
+			protein_id	NVP1080O_12
+7138	7305	gene
+			locus_tag	NVP1080O_13
+7138	7305	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1080O_13
+			db_xref	InterPro:IPS TMHMM
+7307	7666	gene
+			locus_tag	NVP1080O_14
+7307	7666	CDS
+			product	hypothetical protein
+			protein_id	NVP1080O_14
+7663	8133	gene
+			locus_tag	NVP1080O_15
+7663	8133	CDS
+			product	hypothetical protein
+			protein_id	NVP1080O_15
+8145	8759	gene
+			locus_tag	NVP1080O_16
+8145	8759	CDS
+			product	hypothetical protein
+			protein_id	NVP1080O_16
+8768	9286	gene
+			locus_tag	NVP1080O_17
+8768	9286	CDS
+			product	hypothetical protein
+			protein_id	NVP1080O_17
+9297	9683	gene
+			locus_tag	NVP1080O_18
+9297	9683	CDS
+			product	hypothetical protein
+			protein_id	NVP1080O_18
+9693	9911	gene
+			locus_tag	NVP1080O_19
+9693	9911	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1080O_19
+			db_xref	InterPro:IPS TMHMM

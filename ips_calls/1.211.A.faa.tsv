@@ -1,0 +1,81 @@
+Vibriophage_1.211.A._10N.222.52.F11_30	f084c7b9d9af41e007e42f22e136c0bd	179	Pfam	PF13392	HNH endonuclease	51	94	2.6E-7	T	28-04-2016	IPR003615	HNH nuclease		
+Vibriophage_1.211.A._10N.222.52.F11_30	f084c7b9d9af41e007e42f22e136c0bd	179	SUPERFAMILY	SSF54060		25	97	8.0E-7	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_29	c3fc973f508346dfe6d06477b3748d05	620	Pfam	PF09588	YqaJ-like viral recombinase domain	13	148	2.7E-8	T	28-04-2016	IPR019080	YqaJ viral recombinase		
+Vibriophage_1.211.A._10N.222.52.F11_29	c3fc973f508346dfe6d06477b3748d05	620	Coils	Coil		421	500	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_29	c3fc973f508346dfe6d06477b3748d05	620	SUPERFAMILY	SSF52980		1	162	6.97E-20	T	28-04-2016	IPR011335	Restriction endonuclease  type II-like		
+Vibriophage_1.211.A._10N.222.52.F11_29	c3fc973f508346dfe6d06477b3748d05	620	Gene3D	G3DSA:3.90.320.10		2	196	2.4E-25	T	28-04-2016	IPR011604	Exonuclease, phage-type/RecB, C-terminal	GO:0003677|GO:0004518	
+Vibriophage_1.211.A._10N.222.52.F11_29	c3fc973f508346dfe6d06477b3748d05	620	Pfam	PF06074	Protein of unknown function (DUF935)	361	521	8.9E-5	T	28-04-2016	IPR009279	Protein of unknown function DUF935		
+Vibriophage_1.211.A._10N.222.52.F11_21	863c3723f2a3b217ed518f494575bab6	290	PANTHER	PTHR23068:SF3		5	160	2.2E-30	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_21	863c3723f2a3b217ed518f494575bab6	290	Pfam	PF00145	C-5 cytosine-specific DNA methylase	6	122	6.5E-22	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.211.A._10N.222.52.F11_21	863c3723f2a3b217ed518f494575bab6	290	Pfam	PF00145	C-5 cytosine-specific DNA methylase	194	288	6.1E-11	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.211.A._10N.222.52.F11_21	863c3723f2a3b217ed518f494575bab6	290	ProSiteProfiles	PS51679	C-5 cytosine-specific DNA methylase (Dnmt) domain profile.	4	290	27.947	T	28-04-2016	IPR001525	C-5 cytosine methyltransferase	GO:0008168	KEGG: 00270+2.1.1.37
+Vibriophage_1.211.A._10N.222.52.F11_21	863c3723f2a3b217ed518f494575bab6	290	Gene3D	G3DSA:3.90.120.10		169	274	1.6E-12	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_21	863c3723f2a3b217ed518f494575bab6	290	Gene3D	G3DSA:3.40.50.150		5	123	1.9E-27	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.211.A._10N.222.52.F11_21	863c3723f2a3b217ed518f494575bab6	290	PANTHER	PTHR23068		5	160	2.2E-30	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_21	863c3723f2a3b217ed518f494575bab6	290	SUPERFAMILY	SSF53335		5	288	1.77E-43	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.211.A._10N.222.52.F11_21	863c3723f2a3b217ed518f494575bab6	290	ProSitePatterns	PS00094	C-5 cytosine-specific DNA methylases active site.	70	82	-	T	28-04-2016	IPR018117	DNA methylase, C-5 cytosine-specific, active site		KEGG: 00270+2.1.1.37
+Vibriophage_1.211.A._10N.222.52.F11_12	ee622735672888d1a2df2517dd02c30e	241	ProDom	PD104351	DNA TRANSFER GP7 INJECTION AAF75053 GENE DIRECT ACCESSION PRECURSOR GENBANK	26	148	1.0E-8	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_12	ee622735672888d1a2df2517dd02c30e	241	Coils	Coil		37	57	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_31	ee525e05aec32e2a6a605ecebfa035e4	187	SUPERFAMILY	SSF53098		4	186	2.1E-32	T	28-04-2016	IPR012337	Ribonuclease H-like domain	GO:0003676	
+Vibriophage_1.211.A._10N.222.52.F11_31	ee525e05aec32e2a6a605ecebfa035e4	187	Gene3D	G3DSA:3.30.420.10		3	184	6.9E-25	T	28-04-2016	IPR012337	Ribonuclease H-like domain	GO:0003676	
+Vibriophage_1.211.A._10N.222.52.F11_31	ee525e05aec32e2a6a605ecebfa035e4	187	SMART	SM00479		4	187	1.6E-8	T	28-04-2016	IPR013520	Exonuclease, RNase T/DNA polymerase III		
+Vibriophage_1.211.A._10N.222.52.F11_31	ee525e05aec32e2a6a605ecebfa035e4	187	Pfam	PF00929	Exonuclease	8	179	9.6E-18	T	28-04-2016	IPR013520	Exonuclease, RNase T/DNA polymerase III		
+Vibriophage_1.211.A._10N.222.52.F11_4	19eddee1bc2b89aefdb9c234b6d18c9d	721	Coils	Coil		709	721	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_4	19eddee1bc2b89aefdb9c234b6d18c9d	721	Coils	Coil		636	658	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_4	19eddee1bc2b89aefdb9c234b6d18c9d	721	Coils	Coil		664	686	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_4	19eddee1bc2b89aefdb9c234b6d18c9d	721	Pfam	PF16510	Phage P22-like portal protein	132	691	3.0E-61	T	28-04-2016	IPR032427	Phage P22-like portal protein		
+Vibriophage_1.211.A._10N.222.52.F11_18	c5559b43c3b458555e4fed72eb78511a	147	Pfam	PF07105	Protein of unknown function (DUF1367)	2	61	5.5E-7	T	28-04-2016	IPR009797	Protein of unknown function DUF1367		
+Vibriophage_1.211.A._10N.222.52.F11_18	c5559b43c3b458555e4fed72eb78511a	147	Pfam	PF07105	Protein of unknown function (DUF1367)	63	141	3.5E-12	T	28-04-2016	IPR009797	Protein of unknown function DUF1367		
+Vibriophage_1.211.A._10N.222.52.F11_14	3eb4cf9f4be368109ba02c9c9b7a7917	2715	Pfam	PF05175	Methyltransferase small domain	1456	1553	1.5E-5	T	28-04-2016	IPR007848	Methyltransferase small domain	GO:0008168	
+Vibriophage_1.211.A._10N.222.52.F11_14	3eb4cf9f4be368109ba02c9c9b7a7917	2715	ProSitePatterns	PS00092	N-6 Adenine-specific DNA methylases signature.	1519	1525	-	T	28-04-2016	IPR002052	DNA methylase, N-6 adenine-specific, conserved site	GO:0003676|GO:0008168|GO:0032259	
+Vibriophage_1.211.A._10N.222.52.F11_14	3eb4cf9f4be368109ba02c9c9b7a7917	2715	Gene3D	G3DSA:3.40.50.150		1438	1607	1.2E-19	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.211.A._10N.222.52.F11_14	3eb4cf9f4be368109ba02c9c9b7a7917	2715	SUPERFAMILY	SSF53335		1400	1606	8.44E-26	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.211.A._10N.222.52.F11_14	3eb4cf9f4be368109ba02c9c9b7a7917	2715	PRINTS	PR00507	N12 class N6 adenine-specific DNA methyltransferase signature	1436	1452	1.6E-5	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_14	3eb4cf9f4be368109ba02c9c9b7a7917	2715	PRINTS	PR00507	N12 class N6 adenine-specific DNA methyltransferase signature	1516	1528	1.6E-5	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_14	3eb4cf9f4be368109ba02c9c9b7a7917	2715	PRINTS	PR00507	N12 class N6 adenine-specific DNA methyltransferase signature	1528	1552	1.6E-5	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_14	3eb4cf9f4be368109ba02c9c9b7a7917	2715	PRINTS	PR00507	N12 class N6 adenine-specific DNA methyltransferase signature	1460	1474	1.6E-5	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_24	361dd4c564404b021f82ba6b94f396b0	334	Gene3D	G3DSA:3.90.120.10		249	317	8.2E-11	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_24	361dd4c564404b021f82ba6b94f396b0	334	PANTHER	PTHR23068:SF3		1	162	3.1E-26	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_24	361dd4c564404b021f82ba6b94f396b0	334	Gene3D	G3DSA:3.40.50.150		1	133	2.3E-25	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.211.A._10N.222.52.F11_24	361dd4c564404b021f82ba6b94f396b0	334	ProSitePatterns	PS00094	C-5 cytosine-specific DNA methylases active site.	67	79	-	T	28-04-2016	IPR018117	DNA methylase, C-5 cytosine-specific, active site		KEGG: 00270+2.1.1.37
+Vibriophage_1.211.A._10N.222.52.F11_24	361dd4c564404b021f82ba6b94f396b0	334	Pfam	PF00145	C-5 cytosine-specific DNA methylase	1	126	6.4E-22	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.211.A._10N.222.52.F11_24	361dd4c564404b021f82ba6b94f396b0	334	Pfam	PF00145	C-5 cytosine-specific DNA methylase	248	327	6.2E-7	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.211.A._10N.222.52.F11_24	361dd4c564404b021f82ba6b94f396b0	334	PANTHER	PTHR23068		1	162	3.1E-26	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_24	361dd4c564404b021f82ba6b94f396b0	334	SUPERFAMILY	SSF53335		1	237	2.19E-40	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.211.A._10N.222.52.F11_24	361dd4c564404b021f82ba6b94f396b0	334	SUPERFAMILY	SSF53335		274	330	2.19E-40	T	28-04-2016	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase		
+Vibriophage_1.211.A._10N.222.52.F11_24	361dd4c564404b021f82ba6b94f396b0	334	ProSiteProfiles	PS51679	C-5 cytosine-specific DNA methylase (Dnmt) domain profile.	1	334	27.241	T	28-04-2016	IPR001525	C-5 cytosine methyltransferase	GO:0008168	KEGG: 00270+2.1.1.37
+Vibriophage_1.211.A._10N.222.52.F11_32	5134fbd8720244ea3081a309b6d2b1af	205	Pfam	PF13392	HNH endonuclease	93	137	6.6E-11	T	28-04-2016	IPR003615	HNH nuclease		
+Vibriophage_1.211.A._10N.222.52.F11_32	5134fbd8720244ea3081a309b6d2b1af	205	SUPERFAMILY	SSF54060		39	142	1.53E-16	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_17	704c725ca5afc89d6d995fde7bc704c5	211	Pfam	PF05766	Bacteriophage Lambda NinG protein	5	203	6.7E-37	T	28-04-2016	IPR008713	Bacteriophage lambda NinG		
+Vibriophage_1.211.A._10N.222.52.F11_6	9c2be8b413c5973864eda81a7d1ff258	418	Pfam	PF11651	P22 coat protein - gene protein 5	6	413	4.0E-81	T	28-04-2016	IPR024659	Major capsid protein Gp5		
+Vibriophage_1.211.A._10N.222.52.F11_6	9c2be8b413c5973864eda81a7d1ff258	418	ProDom	PD323026	MAJOR HEAD GENE DIRECT CAPSID P24 STRUCTURAL SEQUENCING COAT APSE	6	414	1.0E-8	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_15	5a4a7df8df5589a2b56ed4f0a13dc8e1	867	Pfam	PF13385	Concanavalin A-like lectin/glucanases superfamily	718	852	1.7E-9	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_15	5a4a7df8df5589a2b56ed4f0a13dc8e1	867	SUPERFAMILY	SSF49899		650	852	1.41E-16	T	28-04-2016	IPR013320	Concanavalin A-like lectin/glucanase domain		
+Vibriophage_1.211.A._10N.222.52.F11_15	5a4a7df8df5589a2b56ed4f0a13dc8e1	867	Gene3D	G3DSA:2.60.120.200		652	852	1.5E-10	T	28-04-2016	IPR013320	Concanavalin A-like lectin/glucanase domain		
+Vibriophage_1.211.A._10N.222.52.F11_15	5a4a7df8df5589a2b56ed4f0a13dc8e1	867	SUPERFAMILY	SSF52266		276	304	2.75E-19	T	28-04-2016	IPR013830	SGNH hydrolase-type esterase domain		
+Vibriophage_1.211.A._10N.222.52.F11_15	5a4a7df8df5589a2b56ed4f0a13dc8e1	867	SUPERFAMILY	SSF52266		451	603	2.75E-19	T	28-04-2016	IPR013830	SGNH hydrolase-type esterase domain		
+Vibriophage_1.211.A._10N.222.52.F11_15	5a4a7df8df5589a2b56ed4f0a13dc8e1	867	Pfam	PF00657	GDSL-like Lipase/Acylhydrolase	277	599	9.9E-8	T	28-04-2016	IPR001087	GDSL lipase/esterase	GO:0016788	
+Vibriophage_1.211.A._10N.222.52.F11_15	5a4a7df8df5589a2b56ed4f0a13dc8e1	867	Gene3D	G3DSA:3.40.50.1110		277	308	1.2E-18	T	28-04-2016	IPR013830	SGNH hydrolase-type esterase domain		
+Vibriophage_1.211.A._10N.222.52.F11_15	5a4a7df8df5589a2b56ed4f0a13dc8e1	867	Gene3D	G3DSA:3.40.50.1110		444	603	1.2E-18	T	28-04-2016	IPR013830	SGNH hydrolase-type esterase domain		
+Vibriophage_1.211.A._10N.222.52.F11_33	ccf0aa11fb512dd6aa10de69a849d96d	85	Pfam	PF03333	Adhesin biosynthesis transcription regulatory protein	2	74	7.3E-9	T	28-04-2016	IPR004356	Adhesin operon regulatory protein	GO:0006355	
+Vibriophage_1.211.A._10N.222.52.F11_33	ccf0aa11fb512dd6aa10de69a849d96d	85	Gene3D	G3DSA:3.30.1330.30		11	64	5.4E-4	T	28-04-2016	IPR029064	50S ribosomal protein L30e-like		
+Vibriophage_1.211.A._10N.222.52.F11_16	541442058ba0e3e21d9fd103b65eeb9b	318	SUPERFAMILY	SSF52266		103	254	3.97E-16	T	28-04-2016	IPR013830	SGNH hydrolase-type esterase domain		
+Vibriophage_1.211.A._10N.222.52.F11_16	541442058ba0e3e21d9fd103b65eeb9b	318	SUPERFAMILY	SSF52266		16	55	3.97E-16	T	28-04-2016	IPR013830	SGNH hydrolase-type esterase domain		
+Vibriophage_1.211.A._10N.222.52.F11_16	541442058ba0e3e21d9fd103b65eeb9b	318	Gene3D	G3DSA:3.40.50.1110		83	253	1.9E-12	T	28-04-2016	IPR013830	SGNH hydrolase-type esterase domain		
+Vibriophage_1.211.A._10N.222.52.F11_16	541442058ba0e3e21d9fd103b65eeb9b	318	Gene3D	G3DSA:3.40.50.1110		17	36	1.9E-12	T	28-04-2016	IPR013830	SGNH hydrolase-type esterase domain		
+Vibriophage_1.211.A._10N.222.52.F11_39	7884b5cced0a376821b8e64d93ff8d22	132	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	45	67	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_39	7884b5cced0a376821b8e64d93ff8d22	132	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	15	32	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_39	7884b5cced0a376821b8e64d93ff8d22	132	Pfam	PF16083	LydA holin phage, holin superfamily III	20	94	6.7E-20	T	28-04-2016	IPR032126	LydA-like holin		
+Vibriophage_1.211.A._10N.222.52.F11_10	5c1e22c00721e9e333a068d88cbfbcc5	218	Coils	Coil		51	71	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_9	ea21447392e493a186bc3cabe541496d	456	Pfam	PF11134	Phage stabilisation protein	84	453	1.5E-10	T	28-04-2016	IPR021098	Bacteriophage P22, Gp10, DNA-stabilising		
+Vibriophage_1.211.A._10N.222.52.F11_35	bd52ec679118f00ecd4ac14ba9cbe34c	77	Coils	Coil		25	45	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_35	bd52ec679118f00ecd4ac14ba9cbe34c	77	Coils	Coil		65	77	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_28	a2d570a692016423510beab8b6262282	251	Pfam	PF04404	ERF superfamily	58	208	2.0E-24	T	28-04-2016	IPR007499	Essential recombination function protein		
+Vibriophage_1.211.A._10N.222.52.F11_27	4cc3d8bf31c3c52a9fd605c61b22877f	101	Coils	Coil		13	40	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_37	3c6fa80032855a4519799b275f1e43d7	117	Gene3D	G3DSA:3.30.1380.10		6	117	2.8E-32	T	28-04-2016	IPR009045	Hedgehog signalling/DD-peptidase zinc-binding domain		
+Vibriophage_1.211.A._10N.222.52.F11_37	3c6fa80032855a4519799b275f1e43d7	117	SUPERFAMILY	SSF55166		6	111	2.24E-25	T	28-04-2016	IPR009045	Hedgehog signalling/DD-peptidase zinc-binding domain		
+Vibriophage_1.211.A._10N.222.52.F11_37	3c6fa80032855a4519799b275f1e43d7	117	Pfam	PF08291	Peptidase M15	5	108	7.7E-27	T	28-04-2016	IPR013230	Peptidase M15A, C-terminal		MetaCyc: PWY-6470
+Vibriophage_1.211.A._10N.222.52.F11_5	3433a654d31a2024b82d706208139523	323	Coils	Coil		106	133	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_38	db3b2b7907d640f2464dd75a0d11264c	169	Coils	Coil		36	56	-	T	28-04-2016
+Vibriophage_1.211.A._10N.222.52.F11_1	4baff830e3a82546d1dad8ea60cab229	211	Pfam	PF03592	Terminase small subunit	20	172	1.2E-12	T	28-04-2016	IPR005335	Terminase small subunit	GO:0006323	
+Vibriophage_1.211.A._10N.222.52.F11_7	6d4315ea212a31102194df5e13f12db2	182	Coils	Coil		164	182	-	T	28-04-2016

@@ -1,0 +1,110 @@
+>Features Vibrio_virus_1.141.A._10N.261.49.B3
+368	159	gene
+			locus_tag	NVP1141A_01
+368	159	CDS
+			product	hypothetical protein
+			protein_id	NVP1141A_01
+985	371	gene
+			locus_tag	NVP1141A_02
+985	371	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1141A_02
+			db_xref	InterPro:IPS TMHMM
+1513	1178	gene
+			locus_tag	NVP1141A_03
+1513	1178	CDS
+			product	hypothetical protein
+			protein_id	NVP1141A_03
+3218	1623	gene
+			locus_tag	NVP1141A_04
+3218	1623	CDS
+			product	Coil containing protein
+			protein_id	NVP1141A_04
+			db_xref	pfam:PF03175
+			db_xref	pog:POG0334
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:2124
+			note	tara_best_match:OM-RGC.v1.001450554
+			note	cvp_best_match:RF_PEP_9626351
+3799	3224	gene
+			locus_tag	NVP1141A_05
+3799	3224	CDS
+			product	hypothetical protein
+			protein_id	NVP1141A_05
+3813	4520	gene
+			locus_tag	NVP1141A_06
+3813	4520	CDS
+			product	Coil containing protein
+			protein_id	NVP1141A_06
+			db_xref	InterPro:IPS Coils
+4523	5056	gene
+			locus_tag	NVP1141A_07
+4523	5056	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP1141A_07
+			db_xref	InterPro:IPR027417
+			note	tara_best_match:OM-RGC.v1.021972741
+5053	5280	gene
+			locus_tag	NVP1141A_08
+5053	5280	CDS
+			product	hypothetical protein
+			protein_id	NVP1141A_08
+5517	5642	gene
+			locus_tag	NVP1141A_09
+5517	5642	CDS
+			product	hypothetical protein
+			protein_id	NVP1141A_09
+5697	6551	gene
+			locus_tag	NVP1141A_10
+5697	6551	CDS
+			product	hypothetical protein
+			protein_id	NVP1141A_10
+			note	tara_best_match:OM-RGC.v1.009973837
+6594	6947	gene
+			locus_tag	NVP1141A_11
+6594	6947	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1141A_11
+			db_xref	InterPro:IPS TMHMM
+6959	7111	gene
+			locus_tag	NVP1141A_12
+6959	7111	CDS
+			product	hypothetical protein
+			protein_id	NVP1141A_12
+7139	7306	gene
+			locus_tag	NVP1141A_13
+7139	7306	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1141A_13
+			db_xref	InterPro:IPS TMHMM
+7308	7667	gene
+			locus_tag	NVP1141A_14
+7308	7667	CDS
+			product	hypothetical protein
+			protein_id	NVP1141A_14
+7664	8134	gene
+			locus_tag	NVP1141A_15
+7664	8134	CDS
+			product	hypothetical protein
+			protein_id	NVP1141A_15
+8146	8760	gene
+			locus_tag	NVP1141A_16
+8146	8760	CDS
+			product	hypothetical protein
+			protein_id	NVP1141A_16
+8769	9287	gene
+			locus_tag	NVP1141A_17
+8769	9287	CDS
+			product	hypothetical protein
+			protein_id	NVP1141A_17
+9298	9684	gene
+			locus_tag	NVP1141A_18
+9298	9684	CDS
+			product	hypothetical protein
+			protein_id	NVP1141A_18
+9694	9912	gene
+			locus_tag	NVP1141A_19
+9694	9912	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1141A_19
+			db_xref	InterPro:IPS TMHMM

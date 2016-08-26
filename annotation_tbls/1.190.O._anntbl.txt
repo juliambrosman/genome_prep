@@ -1,0 +1,190 @@
+>Features Vibrio_virus_1.190.O._10N.286.51.F12
+1	405	gene
+			locus_tag	NVP1190O_01
+1	405	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_01
+408	1760	gene
+			locus_tag	NVP1190O_02
+408	1760	CDS
+			product	Bacteriophage terminase, large subunit
+			protein_id	NVP1190O_02
+			db_xref	InterPro:IPR006437
+1762	2271	gene
+			locus_tag	NVP1190O_03
+1762	2271	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_03
+2271	3338	gene
+			locus_tag	NVP1190O_04
+2271	3338	CDS
+			product	Coil containing protein
+			protein_id	NVP1190O_04
+			db_xref	InterPro:IPS Coils
+3338	3820	gene
+			locus_tag	NVP1190O_05
+3338	3820	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_05
+3817	4521	gene
+			locus_tag	NVP1190O_06
+3817	4521	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_06
+4534	5028	gene
+			locus_tag	NVP1190O_07
+4534	5028	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_07
+5099	5968	gene
+			locus_tag	NVP1190O_08
+5099	5968	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_08
+6039	6332	gene
+			locus_tag	NVP1190O_09
+6039	6332	CDS
+			product	Coil containing protein
+			protein_id	NVP1190O_09
+			db_xref	InterPro:IPS Coils
+6332	6847	gene
+			locus_tag	NVP1190O_10
+6332	6847	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_10
+6848	7246	gene
+			locus_tag	NVP1190O_11
+6848	7246	CDS
+			product	Coil containing protein
+			protein_id	NVP1190O_11
+			db_xref	InterPro:IPS Coils
+7253	8206	gene
+			locus_tag	NVP1190O_12
+7253	8206	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_12
+8214	8636	gene
+			locus_tag	NVP1190O_13
+8214	8636	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_13
+8620	9045	gene
+			locus_tag	NVP1190O_14
+8620	9045	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_14
+9214	10404	gene
+			locus_tag	NVP1190O_15
+9214	10404	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_15
+10401	11006	gene
+			locus_tag	NVP1190O_16
+10401	11006	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_16
+11008	11292	gene
+			locus_tag	NVP1190O_17
+11008	11292	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_17
+11285	11728	gene
+			locus_tag	NVP1190O_18
+11285	11728	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_18
+11694	12032	gene
+			locus_tag	NVP1190O_19
+11694	12032	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_19
+12029	12349	gene
+			locus_tag	NVP1190O_20
+12029	12349	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_20
+12352	13173	gene
+			locus_tag	NVP1190O_21
+12352	13173	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_21
+13175	14473	gene
+			locus_tag	NVP1190O_22
+13175	14473	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_22
+14478	15230	gene
+			locus_tag	NVP1190O_23
+14478	15230	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_23
+15347	15586	gene
+			locus_tag	NVP1190O_24
+15347	15586	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_24
+15589	16488	gene
+			locus_tag	NVP1190O_25
+15589	16488	CDS
+			product	Essential recombination function protein
+			protein_id	NVP1190O_25
+			db_xref	InterPro:IPR007499
+16469	16723	gene
+			locus_tag	NVP1190O_26
+16469	16723	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_26
+16704	17312	gene
+			locus_tag	NVP1190O_27
+16704	17312	CDS
+			product	Coil containing protein
+			protein_id	NVP1190O_27
+			db_xref	pfam:PF05766
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:166609
+17306	17515	gene
+			locus_tag	NVP1190O_28
+17306	17515	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_28
+17515	17790	gene
+			locus_tag	NVP1190O_29
+17515	17790	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_29
+17794	18297	gene
+			locus_tag	NVP1190O_30
+17794	18297	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_30
+18306	18728	gene
+			locus_tag	NVP1190O_31
+18306	18728	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_31
+			note	tara_best_match:OM-RGC.v1.027180698
+18866	19588	gene
+			locus_tag	NVP1190O_32
+18866	19588	CDS
+			product	Coil containing protein
+			protein_id	NVP1190O_32
+			db_xref	InterPro:IPS Coils
+19585	19995	gene
+			locus_tag	NVP1190O_33
+19585	19995	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_33
+20161	20352	gene
+			locus_tag	NVP1190O_34
+20161	20352	CDS
+			product	hypothetical protein
+			protein_id	NVP1190O_34
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.034707790
+20864	21148	gene
+			locus_tag	NVP1190O_35
+20864	21148	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1190O_35
+			db_xref	InterPro:IPS TMHMM

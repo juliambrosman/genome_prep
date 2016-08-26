@@ -1,0 +1,512 @@
+>Features Vibrio_virus_1.028.O._10N.286.45.B6
+1097	354	gene
+			locus_tag	NVP1028O_01
+1097	354	CDS
+			product	Peptidase S24/S26A/S26B
+			protein_id	NVP1028O_01
+			db_xref	cog:COG2932
+			db_xref	egg:COG2932
+			db_xref	pog:POG0148
+			db_xref	InterPro:IPR019759
+			note	aclame_best_match:protein:proph:167516
+			note	tara_best_match:OM-RGC.v1.010429109
+			note	cvp_best_match:RF_PEP_148727133
+1271	1495	gene
+			locus_tag	NVP1028O_02
+1271	1495	CDS
+			product	Lambda repressor-like, DNA-binding domain
+			protein_id	NVP1028O_02
+			db_xref	kegg:K07724
+			db_xref	pfam:PF13693
+			db_xref	cog:COG3423
+			db_xref	egg:none
+			db_xref	pog:POG0966
+			db_xref	InterPro:IPR010982
+			note	aclame_best_match:protein:proph:160564
+			note	tara_best_match:OM-RGC.v1.034426256
+			note	cvp_best_match:RF_PEP_9633495
+1527	3494	gene
+			locus_tag	NVP1028O_03
+1527	3494	CDS
+			product	Coil containing protein
+			protein_id	NVP1028O_03
+			db_xref	kegg:K07497
+			db_xref	cog:COG2801
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:1960
+			note	tara_best_match:OM-RGC.v1.000696995
+			note	cvp_best_match:CAMPEP_0000031334
+3529	4476	gene
+			locus_tag	NVP1028O_04
+3529	4476	CDS
+			product	B transposition protein, C-terminal
+			protein_id	NVP1028O_04
+			db_xref	kegg:K07132
+			db_xref	cog:COG2842
+			db_xref	egg:none
+			db_xref	pog:POG2788
+			db_xref	InterPro:IPR009084
+			note	aclame_best_match:protein:vir:1961
+			note	tara_best_match:OM-RGC.v1.006074807
+			note	cvp_best_match:CAMPEP_0000020606
+4485	4697	gene
+			locus_tag	NVP1028O_05
+4485	4697	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_05
+4708	5034	gene
+			locus_tag	NVP1028O_06
+4708	5034	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_06
+			note	cvp_best_match:CAMPEP_0000020604
+5092	5709	gene
+			locus_tag	NVP1028O_07
+5092	5709	CDS
+			product	Bacteriophage B3, Orf6
+			protein_id	NVP1028O_07
+			db_xref	pfam:PF11363
+			db_xref	egg:ENOG4111NEI
+			db_xref	pog:POG3992
+			db_xref	InterPro:IPR021505
+			note	aclame_best_match:protein:proph:167522
+			note	tara_best_match:OM-RGC.v1.015585198
+			note	cvp_best_match:CAMPEP_0000031306
+5720	5995	gene
+			locus_tag	NVP1028O_08
+5720	5995	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_08
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.032133023
+			note	cvp_best_match:CAMPEP_0000031278
+5988	6200	gene
+			locus_tag	NVP1028O_09
+5988	6200	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_09
+			note	tara_best_match:OM-RGC.v1.035023166
+			note	cvp_best_match:CAMPEP_0000031322
+6187	6435	gene
+			locus_tag	NVP1028O_10
+6187	6435	CDS
+			product	Coil containing protein
+			protein_id	NVP1028O_10
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.031993604
+			note	cvp_best_match:CAMPEP_0000031318
+6407	6598	gene
+			locus_tag	NVP1028O_11
+6407	6598	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_11
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.035779159
+			note	cvp_best_match:CAMPEP_0000031340
+6586	6795	gene
+			locus_tag	NVP1028O_12
+6586	6795	CDS
+			product	SEC-C motif
+			protein_id	NVP1028O_12
+			db_xref	InterPro:IPR004027
+			note	tara_best_match:OM-RGC.v1.035172079
+			note	cvp_best_match:CAMPEP_0000031348
+6812	7000	gene
+			locus_tag	NVP1028O_13
+6812	7000	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_13
+7098	7337	gene
+			locus_tag	NVP1028O_14
+7098	7337	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_14
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:167562
+			note	tara_best_match:OM-RGC.v1.033829212
+			note	cvp_best_match:CAMPEP_0000020572
+7353	7505	gene
+			locus_tag	NVP1028O_15
+7353	7505	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_15
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.037983965
+			note	cvp_best_match:CAMPEP_0000020574
+7509	8024	gene
+			locus_tag	NVP1028O_16
+7509	8024	CDS
+			product	Bacteriophage Mu, Gp16
+			protein_id	NVP1028O_16
+			db_xref	pfam:PF06252
+			db_xref	cog:COG4382
+			db_xref	egg:none
+			db_xref	InterPro:IPR009363
+			note	aclame_best_match:protein:proph:184561
+			note	tara_best_match:OM-RGC.v1.021132153
+			note	cvp_best_match:CAMPEP_0000020576
+8014	8196	gene
+			locus_tag	NVP1028O_17
+8014	8196	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_17
+8311	8709	gene
+			locus_tag	NVP1028O_18
+8311	8709	CDS
+			product	Homeodomain-like
+			protein_id	NVP1028O_18
+			db_xref	pfam:PF08765
+			db_xref	cog:COG5566
+			db_xref	egg:COG5566
+			db_xref	InterPro:IPR009057
+			note	aclame_best_match:protein:proph:167565
+			note	tara_best_match:OM-RGC.v1.026687812
+			note	cvp_best_match:CAMPEP_0000031272
+8720	9172	gene
+			locus_tag	NVP1028O_19
+8720	9172	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_19
+9259	9819	gene
+			locus_tag	NVP1028O_20
+9259	9819	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_20
+			db_xref	cog:COG3926
+			db_xref	egg:COG3926
+			note	aclame_best_match:protein:proph:184551
+			note	tara_best_match:OM-RGC.v1.018675184
+			note	cvp_best_match:NCBI_PEP_345524207
+9819	10082	gene
+			locus_tag	NVP1028O_21
+9819	10082	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_21
+			db_xref	cog:COG5042
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:167569
+			note	tara_best_match:OM-RGC.v1.031993592
+			note	cvp_best_match:CAMPEP_0000031292
+10067	10657	gene
+			locus_tag	NVP1028O_22
+10067	10657	CDS
+			product	Coil containing protein
+			protein_id	NVP1028O_22
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:184530
+			note	tara_best_match:OM-RGC.v1.019028068
+			note	cvp_best_match:CAMPEP_0000031258
+10654	10872	gene
+			locus_tag	NVP1028O_23
+10654	10872	CDS
+			product	Zinc finger, C4 DksA/TraR-type
+			protein_id	NVP1028O_23
+			db_xref	kegg:K06204
+			db_xref	cog:COG1734
+			db_xref	egg:none
+			db_xref	InterPro:IPR012783
+			note	aclame_best_match:protein:proph:184581
+			note	tara_best_match:OM-RGC.v1.034723251
+			note	cvp_best_match:CAMPEP_0000031324
+10872	11174	gene
+			locus_tag	NVP1028O_24
+10872	11174	CDS
+			product	Coil containing protein
+			protein_id	NVP1028O_24
+			db_xref	pfam:PF10805
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:167572
+			note	tara_best_match:OM-RGC.v1.030775467
+			note	cvp_best_match:CAMPEP_0000031300
+11183	11473	gene
+			locus_tag	NVP1028O_25
+11183	11473	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP1028O_25
+			db_xref	pfam:PF08461
+			db_xref	cog:COG0640
+			db_xref	egg:ENOG4112650
+			db_xref	InterPro:IPR011991
+			note	aclame_best_match:protein:proph:184522
+			note	tara_best_match:OM-RGC.v1.031318428
+			note	cvp_best_match:CAMPEP_0000031284
+11483	12073	gene
+			locus_tag	NVP1028O_26
+11483	12073	CDS
+			product	Bacteriophage Mu, Gp27
+			protein_id	NVP1028O_26
+			db_xref	pfam:PF11985
+			db_xref	egg:none
+			db_xref	InterPro:IPR021874
+			note	aclame_best_match:protein:proph:184546
+			note	tara_best_match:OM-RGC.v1.016887701
+			note	cvp_best_match:CAMPEP_0000020594
+12073	13665	gene
+			locus_tag	NVP1028O_27
+12073	13665	CDS
+			product	Terminase, large subunit
+			protein_id	NVP1028O_27
+			db_xref	pfam:PF03237
+			db_xref	cog:COG4373
+			db_xref	egg:COG4373
+			db_xref	pog:POG3326
+			db_xref	InterPro:IPR004921
+			note	aclame_best_match:protein:proph:184593
+			note	tara_best_match:OM-RGC.v1.001413613
+			note	cvp_best_match:CAMPEP_0000020596
+13662	15218	gene
+			locus_tag	NVP1028O_28
+13662	15218	CDS
+			product	Protein of unknown function DUF935
+			protein_id	NVP1028O_28
+			db_xref	pfam:PF06074
+			db_xref	cog:COG4383
+			db_xref	egg:COG4383
+			db_xref	InterPro:IPR009279
+			note	aclame_best_match:protein:proph:184544
+			note	tara_best_match:OM-RGC.v1.001515738
+			note	cvp_best_match:CAMPEP_0000031312
+15211	16005	gene
+			locus_tag	NVP1028O_29
+15211	16005	CDS
+			product	Phage head morphogenesis domain
+			protein_id	NVP1028O_29
+			db_xref	cog:COG2369
+			db_xref	egg:none
+			db_xref	InterPro:IPR006528
+			note	aclame_best_match:protein:proph:167578
+			note	tara_best_match:OM-RGC.v1.009501393
+			note	cvp_best_match:CAMPEP_0000020644
+16318	17289	gene
+			locus_tag	NVP1028O_30
+16318	17289	CDS
+			product	Coil containing protein
+			protein_id	NVP1028O_30
+			db_xref	pfam:PF10123
+			db_xref	cog:COG4388
+			db_xref	egg:COG4388
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:167581
+			note	tara_best_match:OM-RGC.v1.005449293
+			note	cvp_best_match:CAMPEP_0000020646
+17293	18189	gene
+			locus_tag	NVP1028O_31
+17293	18189	CDS
+			product	Bacteriophage Mu, GpT
+			protein_id	NVP1028O_31
+			db_xref	pfam:PF10124
+			db_xref	cog:COG4397
+			db_xref	egg:COG4397
+			db_xref	pog:POG2790
+			db_xref	InterPro:IPR018774
+			note	aclame_best_match:protein:proph:167582
+			note	tara_best_match:OM-RGC.v1.007198072
+			note	cvp_best_match:CAMPEP_0000031356
+18275	18523	gene
+			locus_tag	NVP1028O_32
+18275	18523	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_32
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:167583
+			note	tara_best_match:OM-RGC.v1.033248546
+			note	cvp_best_match:CAMPEP_0000031298
+18526	19083	gene
+			locus_tag	NVP1028O_33
+18526	19083	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_33
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:167584
+			note	tara_best_match:OM-RGC.v1.018672591
+			note	cvp_best_match:CAMPEP_0000031268
+19122	19709	gene
+			locus_tag	NVP1028O_34
+19122	19709	CDS
+			product	Coil containing protein
+			protein_id	NVP1028O_34
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:167585
+			note	tara_best_match:OM-RGC.v1.015314469
+			note	cvp_best_match:CAMPEP_0000031302
+19734	20168	gene
+			locus_tag	NVP1028O_35
+19734	20168	CDS
+			product	Bacteriophage Mu, Gp36
+			protein_id	NVP1028O_35
+			db_xref	pfam:PF07030
+			db_xref	cog:COG4387
+			db_xref	egg:none
+			db_xref	InterPro:IPR009752
+			note	aclame_best_match:protein:proph:184543
+			note	tara_best_match:OM-RGC.v1.025179187
+			note	cvp_best_match:CAMPEP_0000031350
+20168	20713	gene
+			locus_tag	NVP1028O_36
+20168	20713	CDS
+			product	Phage virion morphogensis protein
+			protein_id	NVP1028O_36
+			db_xref	pfam:PF05069
+			db_xref	cog:COG5005
+			db_xref	egg:none
+			db_xref	InterPro:IPR006522
+			note	aclame_best_match:protein:proph:184568
+			note	tara_best_match:OM-RGC.v1.019388688
+			note	cvp_best_match:CAMPEP_0000031338
+20706	21296	gene
+			locus_tag	NVP1028O_37
+20706	21296	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_37
+			db_xref	cog:COG5003
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:167588
+			note	tara_best_match:OM-RGC.v1.016887696
+			note	cvp_best_match:CAMPEP_0000020618
+21312	21521	gene
+			locus_tag	NVP1028O_38
+21312	21521	CDS
+			product	Protein of unknown function DUF2635
+			protein_id	NVP1028O_38
+			db_xref	egg:none
+			db_xref	InterPro:IPR024400
+			note	aclame_best_match:protein:vir:1995
+			note	tara_best_match:OM-RGC.v1.035172078
+			note	cvp_best_match:CAMPEP_0000031260
+21524	23002	gene
+			locus_tag	NVP1028O_39
+21524	23002	CDS
+			product	Tail sheath protein
+			protein_id	NVP1028O_39
+			db_xref	pfam:PF04984
+			db_xref	cog:COG4386
+			db_xref	egg:COG4386
+			db_xref	pog:POG2791
+			db_xref	InterPro:IPR007067
+			note	aclame_best_match:protein:proph:167590
+			note	tara_best_match:OM-RGC.v1.001778235
+			note	cvp_best_match:CAMPEP_0000031314
+23018	23371	gene
+			locus_tag	NVP1028O_40
+23018	23371	CDS
+			product	Bacteriophage Mu, GpM, tail tube
+			protein_id	NVP1028O_40
+			db_xref	pfam:PF10618
+			db_xref	egg:none
+			db_xref	InterPro:IPR019596
+			note	aclame_best_match:protein:proph:167591
+			note	tara_best_match:OM-RGC.v1.028578110
+			note	cvp_best_match:CAMPEP_0000031264
+23371	23742	gene
+			locus_tag	NVP1028O_41
+23371	23742	CDS
+			product	Bacteriophage tail protein Gp41, putative
+			protein_id	NVP1028O_41
+			db_xref	pfam:PF10109
+			db_xref	cog:COG4518
+			db_xref	egg:none
+			db_xref	InterPro:IPR019289
+			note	aclame_best_match:protein:proph:167592
+			note	tara_best_match:OM-RGC.v1.028328649
+			note	cvp_best_match:CAMPEP_0000031274
+23859	25487	gene
+			locus_tag	NVP1028O_42
+23859	25487	CDS
+			product	Caudovirus, tape measure, N-terminal
+			protein_id	NVP1028O_42
+			db_xref	cog:COG3941
+			db_xref	egg:COG3941
+			db_xref	InterPro:IPR013491
+			note	aclame_best_match:protein:proph:167593
+			note	tara_best_match:OM-RGC.v1.001146886
+25499	26818	gene
+			locus_tag	NVP1028O_43
+25499	26818	CDS
+			product	DNA circulation, N-terminal
+			protein_id	NVP1028O_43
+			db_xref	cog:COG4228
+			db_xref	egg:none
+			db_xref	InterPro:IPR009826
+			note	aclame_best_match:protein:proph:184535
+			note	tara_best_match:OM-RGC.v1.002544549
+			note	cvp_best_match:CAMPEP_0000031266
+26815	27924	gene
+			locus_tag	NVP1028O_44
+26815	27924	CDS
+			product	Baseplate-like protein, two-layer sandwich domain
+			protein_id	NVP1028O_44
+			db_xref	pfam:PF05954
+			db_xref	cog:COG4379
+			db_xref	egg:COG4379
+			db_xref	pog:POG2793
+			db_xref	InterPro:IPR023399
+			note	aclame_best_match:protein:proph:167595
+			note	tara_best_match:OM-RGC.v1.004525245
+			note	cvp_best_match:CAMPEP_0000020634
+27921	28526	gene
+			locus_tag	NVP1028O_45
+27921	28526	CDS
+			product	Phage baseplate assembly protein V/Gp45
+			protein_id	NVP1028O_45
+			db_xref	pfam:PF06890
+			db_xref	cog:COG4384
+			db_xref	egg:COG4384
+			db_xref	pog:POG0573
+			db_xref	InterPro:IPR013046
+			note	aclame_best_match:protein:proph:167596
+			note	tara_best_match:OM-RGC.v1.016148985
+			note	cvp_best_match:CAMPEP_0000020636
+28529	28999	gene
+			locus_tag	NVP1028O_46
+28529	28999	CDS
+			product	Bacteriophage Mu, Gp46
+			protein_id	NVP1028O_46
+			db_xref	pfam:PF07409
+			db_xref	cog:COG4381
+			db_xref	egg:none
+			db_xref	pog:POG2794
+			db_xref	InterPro:IPR010877
+			note	aclame_best_match:protein:proph:184562
+			note	tara_best_match:OM-RGC.v1.024307205
+			note	cvp_best_match:CAMPEP_0000020638
+28989	30056	gene
+			locus_tag	NVP1028O_47
+28989	30056	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_47
+			db_xref	cog:COG3299
+			db_xref	egg:COG3299
+			db_xref	pog:POG0077
+			note	aclame_best_match:protein:proph:167598
+			note	tara_best_match:OM-RGC.v1.004622279
+			note	cvp_best_match:NCBI_PEP_451988532
+30041	30628	gene
+			locus_tag	NVP1028O_48
+30041	30628	CDS
+			product	Bacteriophage Mu, Gp48
+			protein_id	NVP1028O_48
+			db_xref	pfam:PF10076
+			db_xref	cog:COG3778
+			db_xref	egg:none
+			db_xref	InterPro:IPR018755
+			note	aclame_best_match:protein:proph:184523
+			note	tara_best_match:OM-RGC.v1.017043707
+			note	cvp_best_match:CAMPEP_0000020652
+30628	31176	gene
+			locus_tag	NVP1028O_49
+30628	31176	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_49
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.001022608
+			note	cvp_best_match:CAMPEP_0000031326
+31180	31572	gene
+			locus_tag	NVP1028O_50
+31180	31572	CDS
+			product	hypothetical protein
+			protein_id	NVP1028O_50

@@ -1,0 +1,125 @@
+>Features Vibrio_virus_1.095.O._10N.286.46.E10
+376	119	gene
+			locus_tag	NVP1095O_01
+376	119	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_01
+585	376	gene
+			locus_tag	NVP1095O_02
+585	376	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_02
+1202	588	gene
+			locus_tag	NVP1095O_03
+1202	588	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1095O_03
+			db_xref	InterPro:IPS TMHMM
+1369	1214	gene
+			locus_tag	NVP1095O_04
+1369	1214	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1095O_04
+			db_xref	InterPro:IPS TMHMM
+1898	1566	gene
+			locus_tag	NVP1095O_05
+1898	1566	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_05
+3608	2013	gene
+			locus_tag	NVP1095O_06
+3608	2013	CDS
+			product	Coil containing protein
+			protein_id	NVP1095O_06
+			db_xref	pfam:PF03175
+			db_xref	pog:POG0334
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:2124
+			note	tara_best_match:OM-RGC.v1.001450554
+			note	cvp_best_match:RF_PEP_9626351
+4189	3614	gene
+			locus_tag	NVP1095O_07
+4189	3614	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_07
+4203	4919	gene
+			locus_tag	NVP1095O_08
+4203	4919	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_08
+4922	5455	gene
+			locus_tag	NVP1095O_09
+4922	5455	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase
+			protein_id	NVP1095O_09
+			db_xref	InterPro:IPR027417
+			note	tara_best_match:OM-RGC.v1.021972741
+5452	5679	gene
+			locus_tag	NVP1095O_10
+5452	5679	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_10
+5710	5805	gene
+			locus_tag	NVP1095O_11
+5710	5805	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_11
+5916	6041	gene
+			locus_tag	NVP1095O_12
+5916	6041	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_12
+6097	6951	gene
+			locus_tag	NVP1095O_13
+6097	6951	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_13
+			note	tara_best_match:OM-RGC.v1.009973837
+7021	7347	gene
+			locus_tag	NVP1095O_14
+7021	7347	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1095O_14
+			db_xref	InterPro:IPS TMHMM
+7357	7509	gene
+			locus_tag	NVP1095O_15
+7357	7509	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_15
+7513	7704	gene
+			locus_tag	NVP1095O_16
+7513	7704	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1095O_16
+			db_xref	InterPro:IPS TMHMM
+7706	8065	gene
+			locus_tag	NVP1095O_17
+7706	8065	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_17
+8062	8532	gene
+			locus_tag	NVP1095O_18
+8062	8532	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_18
+8544	9149	gene
+			locus_tag	NVP1095O_19
+8544	9149	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_19
+9159	9677	gene
+			locus_tag	NVP1095O_20
+9159	9677	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_20
+9688	10077	gene
+			locus_tag	NVP1095O_21
+9688	10077	CDS
+			product	hypothetical protein
+			protein_id	NVP1095O_21
+10087	10299	gene
+			locus_tag	NVP1095O_22
+10087	10299	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1095O_22
+			db_xref	InterPro:IPS TMHMM

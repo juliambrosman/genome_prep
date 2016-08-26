@@ -1,0 +1,585 @@
+>Features Vibrio_virus_1.089.O._10N.261.51.F9
+1	207	gene
+			locus_tag	NVP1089O_01
+1	207	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_01
+352	2094	gene
+			locus_tag	NVP1089O_02
+352	2094	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_02
+			db_xref	egg:none
+			db_xref	pog:POG0252
+			note	aclame_best_match:protein:proph:169031
+			note	tara_best_match:OM-RGC.v1.001243066
+			note	cvp_best_match:NCBI_PEP_163716617
+2133	2357	gene
+			locus_tag	NVP1089O_03
+2133	2357	CDS
+			product	Bacteriophage P22, Orf80
+			protein_id	NVP1089O_03
+			db_xref	InterPro:IPR022544
+2469	2687	gene
+			locus_tag	NVP1089O_04
+2469	2687	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_04
+2680	2856	gene
+			locus_tag	NVP1089O_05
+2680	2856	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1089O_05
+			db_xref	InterPro:IPS TMHMM
+2850	3065	gene
+			locus_tag	NVP1089O_06
+2850	3065	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_06
+3062	3316	gene
+			locus_tag	NVP1089O_07
+3062	3316	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_07
+3401	3637	gene
+			locus_tag	NVP1089O_08
+3401	3637	CDS
+			product	Coil containing protein
+			protein_id	NVP1089O_08
+			db_xref	InterPro:IPS Coils
+3707	4450	gene
+			locus_tag	NVP1089O_09
+3707	4450	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_09
+4490	5083	gene
+			locus_tag	NVP1089O_10
+4490	5083	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_10
+			note	tara_best_match:OM-RGC.v1.022743580
+5157	6518	gene
+			locus_tag	NVP1089O_11
+5157	6518	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_11
+			note	tara_best_match:OM-RGC.v1.002439939
+6764	6555	gene
+			locus_tag	NVP1089O_12
+6764	6555	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_12
+7279	6935	gene
+			locus_tag	NVP1089O_13
+7279	6935	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_13
+7538	7266	gene
+			locus_tag	NVP1089O_14
+7538	7266	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_14
+7997	7557	gene
+			locus_tag	NVP1089O_15
+7997	7557	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_15
+8082	8375	gene
+			locus_tag	NVP1089O_16
+8082	8375	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_16
+8378	8695	gene
+			locus_tag	NVP1089O_17
+8378	8695	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_17
+8692	9144	gene
+			locus_tag	NVP1089O_18
+8692	9144	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_18
+			note	tara_best_match:OM-RGC.v1.024733436
+9144	9473	gene
+			locus_tag	NVP1089O_19
+9144	9473	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_19
+9445	9846	gene
+			locus_tag	NVP1089O_20
+9445	9846	CDS
+			product	Bacteriophage P22, NinX
+			protein_id	NVP1089O_20
+			db_xref	InterPro:IPR019701
+10149	11123	gene
+			locus_tag	NVP1089O_21
+10149	11123	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_21
+			note	tara_best_match:OM-RGC.v1.005402668
+11394	12389	gene
+			locus_tag	NVP1089O_22
+11394	12389	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_22
+12389	13633	gene
+			locus_tag	NVP1089O_23
+12389	13633	CDS
+			product	Coil containing protein
+			protein_id	NVP1089O_23
+			db_xref	InterPro:IPS Coils
+13633	14031	gene
+			locus_tag	NVP1089O_24
+13633	14031	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_24
+14046	15059	gene
+			locus_tag	NVP1089O_25
+14046	15059	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_25
+			note	tara_best_match:OM-RGC.v1.005864351
+15162	15557	gene
+			locus_tag	NVP1089O_26
+15162	15557	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_26
+15637	15831	gene
+			locus_tag	NVP1089O_27
+15637	15831	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_27
+			db_xref	egg:ENOG41125XR
+			db_xref	pog:POG2483
+			note	aclame_best_match:protein:proph:167575
+			note	tara_best_match:OM-RGC.v1.035802335
+			note	cvp_best_match:RF_PEP_326536156
+15824	16111	gene
+			locus_tag	NVP1089O_28
+15824	16111	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_28
+17167	17610	gene
+			locus_tag	NVP1089O_29
+17167	17610	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_29
+17610	18029	gene
+			locus_tag	NVP1089O_30
+17610	18029	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_30
+18029	18454	gene
+			locus_tag	NVP1089O_31
+18029	18454	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_31
+			db_xref	pog:POG1530
+			note	tara_best_match:OM-RGC.v1.022874831
+			note	cvp_best_match:RF_PEP_331028130
+18761	18438	gene
+			locus_tag	NVP1089O_32
+18761	18438	CDS
+			product	ASCH domain
+			protein_id	NVP1089O_32
+			db_xref	pfam:PF04266
+			db_xref	cog:COG2411
+			db_xref	egg:COG2411
+			db_xref	InterPro:IPR007374
+19153	18758	gene
+			locus_tag	NVP1089O_33
+19153	18758	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_33
+19407	19171	gene
+			locus_tag	NVP1089O_34
+19407	19171	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_34
+19515	19961	gene
+			locus_tag	NVP1089O_35
+19515	19961	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_35
+20012	21469	gene
+			locus_tag	NVP1089O_36
+20012	21469	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_36
+			db_xref	pog:POG4228
+			note	tara_best_match:OM-RGC.v1.001555854
+			note	cvp_best_match:RF_PEP_331028132
+21718	21527	gene
+			locus_tag	NVP1089O_37
+21718	21527	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_37
+21948	21718	gene
+			locus_tag	NVP1089O_38
+21948	21718	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_38
+			note	tara_best_match:OM-RGC.v1.033107666
+			note	cvp_best_match:CAMPEP_0000015102
+22454	21945	gene
+			locus_tag	NVP1089O_39
+22454	21945	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_39
+22611	22459	gene
+			locus_tag	NVP1089O_40
+22611	22459	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_40
+22859	22611	gene
+			locus_tag	NVP1089O_41
+22859	22611	CDS
+			product	Coil containing protein
+			protein_id	NVP1089O_41
+			db_xref	InterPro:IPS Coils
+23451	22864	gene
+			locus_tag	NVP1089O_42
+23451	22864	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_42
+23689	23468	gene
+			locus_tag	NVP1089O_43
+23689	23468	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_43
+23822	24013	gene
+			locus_tag	NVP1089O_44
+23822	24013	CDS
+			product	Coil containing protein
+			protein_id	NVP1089O_44
+			db_xref	InterPro:IPS Coils
+24028	24462	gene
+			locus_tag	NVP1089O_45
+24028	24462	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_45
+24480	24755	gene
+			locus_tag	NVP1089O_46
+24480	24755	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_46
+24757	26844	gene
+			locus_tag	NVP1089O_47
+24757	26844	CDS
+			product	Coil containing protein
+			protein_id	NVP1089O_47
+			db_xref	InterPro:IPS Coils
+27938	26841	gene
+			locus_tag	NVP1089O_48
+27938	26841	CDS
+			product	Bacteriophage T5, Orf172 DNA-binding
+			protein_id	NVP1089O_48
+			db_xref	egg:ENOG410XU1A
+			db_xref	InterPro:IPR018306
+			note	tara_best_match:OM-RGC.v1.004393719
+			note	cvp_best_match:RF_PEP_448245112
+28054	28569	gene
+			locus_tag	NVP1089O_49
+28054	28569	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_49
+28566	29078	gene
+			locus_tag	NVP1089O_50
+28566	29078	CDS
+			product	Coil containing protein
+			protein_id	NVP1089O_50
+			db_xref	InterPro:IPS Coils
+29161	29739	gene
+			locus_tag	NVP1089O_51
+29161	29739	CDS
+			product	DNA polymerase III, beta chain, central
+			protein_id	NVP1089O_51
+			db_xref	pog:POG3659
+			db_xref	InterPro:IPR022637
+			note	aclame_best_match:protein:vir:96802
+			note	cvp_best_match:RF_PEP_62362365
+29747	30130	gene
+			locus_tag	NVP1089O_52
+29747	30130	CDS
+			product	Endopeptidase, NLPC/P60 domain
+			protein_id	NVP1089O_52
+			db_xref	InterPro:IPR000064
+30084	32828	gene
+			locus_tag	NVP1089O_53
+30084	32828	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_53
+32902	33357	gene
+			locus_tag	NVP1089O_54
+32902	33357	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_54
+			note	cvp_best_match:CAMPEP_0000029076
+33466	34140	gene
+			locus_tag	NVP1089O_55
+33466	34140	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_55
+34137	34628	gene
+			locus_tag	NVP1089O_56
+34137	34628	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1089O_56
+			db_xref	InterPro:IPS TMHMM
+34625	35023	gene
+			locus_tag	NVP1089O_57
+34625	35023	CDS
+			product	Hedgehog signalling/DD-peptidase zinc-binding domain
+			protein_id	NVP1089O_57
+			db_xref	kegg:none
+			db_xref	egg:ENOG411238Y
+			db_xref	InterPro:IPR009045
+			note	aclame_best_match:protein:proph:172181
+			note	tara_best_match:OM-RGC.v1.026991103
+35026	35550	gene
+			locus_tag	NVP1089O_58
+35026	35550	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1089O_58
+			db_xref	egg:none
+			db_xref	InterPro:IPS TMHMM
+			note	aclame_best_match:protein:proph:180239
+			note	tara_best_match:OM-RGC.v1.020140590
+35729	35607	gene
+			locus_tag	NVP1089O_59
+35729	35607	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_59
+35983	35726	gene
+			locus_tag	NVP1089O_60
+35983	35726	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1089O_60
+			db_xref	InterPro:IPS TMHMM
+36453	35986	gene
+			locus_tag	NVP1089O_61
+36453	35986	CDS
+			product	HAD-like domain
+			protein_id	NVP1089O_61
+			db_xref	pfam:PF03031
+			db_xref	egg:ENOG4111HI5
+			db_xref	InterPro:IPR023214
+			note	aclame_best_match:protein:proph:166358
+			note	tara_best_match:OM-RGC.v1.022073051
+			note	cvp_best_match:RF_PEP_311992965
+36773	36450	gene
+			locus_tag	NVP1089O_62
+36773	36450	CDS
+			product	Domain of unknown function DUF551
+			protein_id	NVP1089O_62
+			db_xref	InterPro:IPR007539
+36926	36777	gene
+			locus_tag	NVP1089O_63
+36926	36777	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1089O_63
+			db_xref	InterPro:IPS TMHMM
+37156	36929	gene
+			locus_tag	NVP1089O_64
+37156	36929	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_64
+37491	37150	gene
+			locus_tag	NVP1089O_65
+37491	37150	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_65
+37867	37481	gene
+			locus_tag	NVP1089O_66
+37867	37481	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_66
+			note	tara_best_match:OM-RGC.v1.026449699
+			note	cvp_best_match:NCBI_PEP_318064636
+40040	37947	gene
+			locus_tag	NVP1089O_67
+40040	37947	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_67
+			note	tara_best_match:OM-RGC.v1.000537607
+			note	cvp_best_match:RF_PEP_448261073
+40252	40040	gene
+			locus_tag	NVP1089O_68
+40252	40040	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_68
+41277	40324	gene
+			locus_tag	NVP1089O_69
+41277	40324	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_69
+			note	tara_best_match:OM-RGC.v1.007656659
+			note	cvp_best_match:RF_PEP_448261075
+41495	41295	gene
+			locus_tag	NVP1089O_70
+41495	41295	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_70
+41722	41492	gene
+			locus_tag	NVP1089O_71
+41722	41492	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_71
+			db_xref	egg:none
+42891	41734	gene
+			locus_tag	NVP1089O_72
+42891	41734	CDS
+			product	Protein of unknown function DUF2800
+			protein_id	NVP1089O_72
+			db_xref	InterPro:IPR021229
+43032	42916	gene
+			locus_tag	NVP1089O_73
+43032	42916	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_73
+44763	43108	gene
+			locus_tag	NVP1089O_74
+44763	43108	CDS
+			product	Ribonuclease H-like domain
+			protein_id	NVP1089O_74
+			db_xref	InterPro:IPR012337
+44904	44767	gene
+			locus_tag	NVP1089O_75
+44904	44767	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1089O_75
+			db_xref	InterPro:IPS TMHMM
+45093	44905	gene
+			locus_tag	NVP1089O_76
+45093	44905	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_76
+45369	45094	gene
+			locus_tag	NVP1089O_77
+45369	45094	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_77
+			note	tara_best_match:OM-RGC.v1.032049645
+45878	45366	gene
+			locus_tag	NVP1089O_78
+45878	45366	CDS
+			product	Protein of unknown function DUF2800
+			protein_id	NVP1089O_78
+			db_xref	InterPro:IPR021229
+46092	45889	gene
+			locus_tag	NVP1089O_79
+46092	45889	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_79
+46229	46531	gene
+			locus_tag	NVP1089O_80
+46229	46531	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_80
+46524	48167	gene
+			locus_tag	NVP1089O_81
+46524	48167	CDS
+			product	Coil containing protein
+			protein_id	NVP1089O_81
+			db_xref	egg:COG1061
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:171103
+			note	tara_best_match:OM-RGC.v1.001249157
+			note	cvp_best_match:RF_PEP_448261080
+48164	48439	gene
+			locus_tag	NVP1089O_82
+48164	48439	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_82
+48436	49029	gene
+			locus_tag	NVP1089O_83
+48436	49029	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_83
+			note	aclame_best_match:protein:vir:107755
+			note	tara_best_match:OM-RGC.v1.023146540
+			note	cvp_best_match:RF_PEP_448261081
+49077	49256	gene
+			locus_tag	NVP1089O_84
+49077	49256	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_84
+49355	49609	gene
+			locus_tag	NVP1089O_85
+49355	49609	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_85
+49602	49838	gene
+			locus_tag	NVP1089O_86
+49602	49838	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_86
+49918	50193	gene
+			locus_tag	NVP1089O_87
+49918	50193	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_87
+50193	52538	gene
+			locus_tag	NVP1089O_88
+50193	52538	CDS
+			product	Bacteriophage/plasmid primase, P4, C-terminal
+			protein_id	NVP1089O_88
+			db_xref	InterPro:IPR014818
+52915	53253	gene
+			locus_tag	NVP1089O_89
+52915	53253	CDS
+			product	Mycobacteriophage D29, Gp61
+			protein_id	NVP1089O_89
+			db_xref	egg:ENOG410XQ9U
+			db_xref	InterPro:IPR019627
+			note	aclame_best_match:protein:proph:162343
+			note	tara_best_match:OM-RGC.v1.029023065
+			note	cvp_best_match:RF_PEP_435844376
+53370	53714	gene
+			locus_tag	NVP1089O_90
+53370	53714	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_90
+53711	54031	gene
+			locus_tag	NVP1089O_91
+53711	54031	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_91
+54028	54513	gene
+			locus_tag	NVP1089O_92
+54028	54513	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP1089O_92
+			db_xref	InterPro:IPR011991
+55075	55716	gene
+			locus_tag	NVP1089O_93
+55075	55716	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_93
+55869	56510	gene
+			locus_tag	NVP1089O_94
+55869	56510	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_94
+56513	56800	gene
+			locus_tag	NVP1089O_95
+56513	56800	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_95
+56802	57056	gene
+			locus_tag	NVP1089O_96
+56802	57056	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1089O_96
+			db_xref	InterPro:IPS TMHMM
+57100	59850	gene
+			locus_tag	NVP1089O_97
+57100	59850	CDS
+			product	hypothetical protein
+			protein_id	NVP1089O_97
+16406	16476	gene
+			locus_tag	NVP1089O_tRNA_1
+16406	16476	tRNA
+			locus_tag	NVP1089O_tRNA_1
+			product	tRNA-Tyr
+			note	anticodon:GTA

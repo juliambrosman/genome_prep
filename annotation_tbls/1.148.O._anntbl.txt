@@ -1,0 +1,455 @@
+>Features Vibrio_virus_1.148.O._10N.286.54.A10
+1	459	gene
+			locus_tag	NVP1148O_01
+1	459	CDS
+			product	Terminase small subunit
+			protein_id	NVP1148O_01
+			db_xref	pfam:PF03592
+			db_xref	cog:COG3728
+			db_xref	egg:ENOG410YU5I
+			db_xref	pog:POG0796
+			db_xref	InterPro:IPR005335
+			note	tara_best_match:OM-RGC.v1.024495477
+			note	cvp_best_match:RF_PEP_327198562
+452	1738	gene
+			locus_tag	NVP1148O_02
+452	1738	CDS
+			product	Terminase, large subunit
+			protein_id	NVP1148O_02
+			db_xref	pfam:PF03237
+			db_xref	cog:COG1783
+			db_xref	egg:none
+			db_xref	pog:POG0252
+			db_xref	InterPro:IPR004921
+			note	aclame_best_match:protein:proph:179992
+			note	tara_best_match:OM-RGC.v1.002641965
+			note	cvp_best_match:RF_PEP_327198525
+1782	3305	gene
+			locus_tag	NVP1148O_03
+1782	3305	CDS
+			product	Coil containing protein
+			protein_id	NVP1148O_03
+			db_xref	egg:ENOG410YZUE
+			db_xref	pog:POG1518
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:vir:95014
+			note	tara_best_match:OM-RGC.v1.002131365
+			note	cvp_best_match:NCBI_PEP_397140400
+3307	4407	gene
+			locus_tag	NVP1148O_04
+3307	4407	CDS
+			product	Phage head morphogenesis domain
+			protein_id	NVP1148O_04
+			db_xref	pog:POG0721
+			db_xref	InterPro:IPR006528
+			note	aclame_best_match:protein:vir:95011
+			note	tara_best_match:OM-RGC.v1.005101840
+			note	cvp_best_match:NCBI_PEP_282533137
+4497	5144	gene
+			locus_tag	NVP1148O_05
+4497	5144	CDS
+			product	Coil containing protein
+			protein_id	NVP1148O_05
+			db_xref	InterPro:IPS Coils
+5157	6134	gene
+			locus_tag	NVP1148O_06
+5157	6134	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_06
+			db_xref	egg:COG5492
+			db_xref	pog:POG1554
+			note	aclame_best_match:protein:proph:170782
+			note	tara_best_match:OM-RGC.v1.005904138
+			note	cvp_best_match:NCBI_PEP_282534195
+6190	6372	gene
+			locus_tag	NVP1148O_07
+6190	6372	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_07
+			note	tara_best_match:OM-RGC.v1.037455357
+6535	6972	gene
+			locus_tag	NVP1148O_08
+6535	6972	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_08
+6975	7487	gene
+			locus_tag	NVP1148O_09
+6975	7487	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_09
+			db_xref	pog:POG1527
+			note	aclame_best_match:protein:vir:78383
+			note	cvp_best_match:NCBI_PEP_282547352
+7489	7848	gene
+			locus_tag	NVP1148O_10
+7489	7848	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_10
+			note	tara_best_match:OM-RGC.v1.028077836
+			note	cvp_best_match:CAMPEP_0000029052
+7848	8309	gene
+			locus_tag	NVP1148O_11
+7848	8309	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_11
+			note	tara_best_match:OM-RGC.v1.024307204
+			note	cvp_best_match:CAMPEP_0000029092
+8309	8725	gene
+			locus_tag	NVP1148O_12
+8309	8725	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_12
+			note	tara_best_match:OM-RGC.v1.025810965
+			note	cvp_best_match:CAMPEP_0000029042
+8762	9961	gene
+			locus_tag	NVP1148O_13
+8762	9961	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_13
+9958	10338	gene
+			locus_tag	NVP1148O_14
+9958	10338	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_14
+10359	10634	gene
+			locus_tag	NVP1148O_15
+10359	10634	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_15
+10627	12720	gene
+			locus_tag	NVP1148O_16
+10627	12720	CDS
+			product	Coil containing protein
+			protein_id	NVP1148O_16
+			db_xref	InterPro:IPS Coils
+12723	13208	gene
+			locus_tag	NVP1148O_17
+12723	13208	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_17
+			note	tara_best_match:OM-RGC.v1.022968936
+			note	cvp_best_match:CAMPEP_0000029004
+13199	13723	gene
+			locus_tag	NVP1148O_18
+13199	13723	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_18
+			note	tara_best_match:OM-RGC.v1.020331787
+			note	cvp_best_match:CAMPEP_0000029094
+13720	14070	gene
+			locus_tag	NVP1148O_19
+13720	14070	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_19
+			note	tara_best_match:OM-RGC.v1.029216920
+			note	cvp_best_match:CAMPEP_0000029036
+14048	16774	gene
+			locus_tag	NVP1148O_20
+14048	16774	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1148O_20
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.000243936
+			note	cvp_best_match:CAMPEP_0000029064
+16778	18592	gene
+			locus_tag	NVP1148O_21
+16778	18592	CDS
+			product	Pectin lyase fold
+			protein_id	NVP1148O_21
+			db_xref	InterPro:IPR012334
+19185	18922	gene
+			locus_tag	NVP1148O_22
+19185	18922	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1148O_22
+			db_xref	InterPro:IPS TMHMM
+19367	19182	gene
+			locus_tag	NVP1148O_23
+19367	19182	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1148O_23
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.036389138
+			note	cvp_best_match:CAMPEP_0000012426
+19722	19369	gene
+			locus_tag	NVP1148O_24
+19722	19369	CDS
+			product	Peptidase M15A, C-terminal
+			protein_id	NVP1148O_24
+			db_xref	pfam:PF08291
+			db_xref	cog:COG3108
+			db_xref	egg:none
+			db_xref	pog:POG0352
+			db_xref	InterPro:IPR013230
+			note	aclame_best_match:protein:vir:105680
+			note	tara_best_match:OM-RGC.v1.028967651
+			note	cvp_best_match:RF_PEP_83571771
+19931	19725	gene
+			locus_tag	NVP1148O_25
+19931	19725	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_25
+20071	19928	gene
+			locus_tag	NVP1148O_26
+20071	19928	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1148O_26
+			db_xref	InterPro:IPS TMHMM
+20304	20068	gene
+			locus_tag	NVP1148O_27
+20304	20068	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_27
+			note	aclame_best_match:protein:vir:96799
+			note	cvp_best_match:RF_PEP_62362376
+20764	20531	gene
+			locus_tag	NVP1148O_28
+20764	20531	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1148O_28
+			db_xref	InterPro:IPS TMHMM
+21520	21260	gene
+			locus_tag	NVP1148O_29
+21520	21260	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_29
+21735	21520	gene
+			locus_tag	NVP1148O_30
+21735	21520	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_30
+21904	21725	gene
+			locus_tag	NVP1148O_31
+21904	21725	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_31
+22225	21938	gene
+			locus_tag	NVP1148O_32
+22225	21938	CDS
+			product	Protein of unknown function CP83
+			protein_id	NVP1148O_32
+			db_xref	InterPro:IPR020284
+22710	22261	gene
+			locus_tag	NVP1148O_33
+22710	22261	CDS
+			product	Nucleic acid-binding, OB-fold
+			protein_id	NVP1148O_33
+			db_xref	egg:COG0629
+			db_xref	InterPro:IPR012340
+			note	tara_best_match:OM-RGC.v1.025556922
+23202	22720	gene
+			locus_tag	NVP1148O_34
+23202	22720	CDS
+			product	Coil containing protein
+			protein_id	NVP1148O_34
+			db_xref	pfam:PF05565
+			db_xref	egg:none
+			db_xref	pog:POG0321
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:183615
+			note	tara_best_match:OM-RGC.v1.023102383
+			note	cvp_best_match:RF_PEP_428781979
+23854	23204	gene
+			locus_tag	NVP1148O_35
+23854	23204	CDS
+			product	Single-strand annealing protein SAK3
+			protein_id	NVP1148O_35
+			db_xref	pfam:PF06378
+			db_xref	egg:none
+			db_xref	pog:POG0906
+			db_xref	InterPro:IPR009425
+			note	aclame_best_match:protein:vir:932
+			note	tara_best_match:OM-RGC.v1.017849183
+			note	cvp_best_match:RF_PEP_13095694
+23985	23851	gene
+			locus_tag	NVP1148O_36
+23985	23851	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_36
+24129	24320	gene
+			locus_tag	NVP1148O_37
+24129	24320	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_37
+24331	24570	gene
+			locus_tag	NVP1148O_38
+24331	24570	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_38
+24637	24969	gene
+			locus_tag	NVP1148O_39
+24637	24969	CDS
+			product	Coil containing protein
+			protein_id	NVP1148O_39
+			db_xref	InterPro:IPS Coils
+24960	25292	gene
+			locus_tag	NVP1148O_40
+24960	25292	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_40
+			db_xref	cog:COG1694
+			db_xref	egg:none
+			db_xref	pog:POG0148
+			note	aclame_best_match:protein:vir:99253
+			note	tara_best_match:OM-RGC.v1.030530205
+			note	cvp_best_match:RF_PEP_423261940
+25289	25462	gene
+			locus_tag	NVP1148O_41
+25289	25462	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_41
+25432	25629	gene
+			locus_tag	NVP1148O_42
+25432	25629	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_42
+25604	25774	gene
+			locus_tag	NVP1148O_43
+25604	25774	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_43
+25924	26097	gene
+			locus_tag	NVP1148O_44
+25924	26097	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_44
+26280	26546	gene
+			locus_tag	NVP1148O_45
+26280	26546	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_45
+26533	26733	gene
+			locus_tag	NVP1148O_46
+26533	26733	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_46
+26727	26885	gene
+			locus_tag	NVP1148O_47
+26727	26885	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_47
+26916	27110	gene
+			locus_tag	NVP1148O_48
+26916	27110	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_48
+27107	27367	gene
+			locus_tag	NVP1148O_49
+27107	27367	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_49
+			db_xref	egg:none
+			note	cvp_best_match:RF_PEP_169257173
+27721	28119	gene
+			locus_tag	NVP1148O_50
+27721	28119	CDS
+			product	Plasmid replication protein, RepL
+			protein_id	NVP1148O_50
+			db_xref	InterPro:IPR008813
+			note	tara_best_match:OM-RGC.v1.026206074
+28153	29685	gene
+			locus_tag	NVP1148O_51
+28153	29685	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1148O_51
+			db_xref	cog:COG1061
+			db_xref	egg:COG1061
+			db_xref	InterPro:IPS TMHMM
+			note	aclame_best_match:protein:proph:161601
+			note	tara_best_match:OM-RGC.v1.003381964
+			note	cvp_best_match:RF_PEP_410491631
+29682	30605	gene
+			locus_tag	NVP1148O_52
+29682	30605	CDS
+			product	Bacteriophage T7, Gp4, DNA primase/helicase, N-terminal
+			protein_id	NVP1148O_52
+			db_xref	cog:COG4643
+			db_xref	egg:COG4643
+			db_xref	InterPro:IPR013237
+			note	aclame_best_match:protein:proph:161602
+			note	tara_best_match:OM-RGC.v1.005660407
+			note	cvp_best_match:RF_PEP_410491632
+30615	30794	gene
+			locus_tag	NVP1148O_53
+30615	30794	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_53
+30841	31338	gene
+			locus_tag	NVP1148O_54
+30841	31338	CDS
+			product	YBCN ECS1616 SIMILAR 5'REGION ORF151 RUSA LAMBDOID DLP12 BACTERIOPHAGE PROPHAGE
+			protein_id	NVP1148O_54
+			db_xref	InterPro:IPS ProDom
+			note	tara_best_match:OM-RGC.v1.024715766
+31335	31907	gene
+			locus_tag	NVP1148O_55
+31335	31907	CDS
+			product	Bacteriophage lambda NinG
+			protein_id	NVP1148O_55
+			db_xref	pfam:PF05766
+			db_xref	cog:COG1403
+			db_xref	egg:none
+			db_xref	pog:POG0296
+			db_xref	InterPro:IPR008713
+			note	aclame_best_match:protein:proph:165929
+			note	tara_best_match:OM-RGC.v1.021928175
+			note	cvp_best_match:CAMPEP_0000029046
+32576	33250	gene
+			locus_tag	NVP1148O_56
+32576	33250	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP1148O_56
+			db_xref	InterPro:IPR011991
+33329	33478	gene
+			locus_tag	NVP1148O_57
+33329	33478	CDS
+			product	Coil containing protein
+			protein_id	NVP1148O_57
+			db_xref	InterPro:IPS Coils
+33493	33633	gene
+			locus_tag	NVP1148O_58
+33493	33633	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_58
+34067	34399	gene
+			locus_tag	NVP1148O_59
+34067	34399	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_59
+			note	tara_best_match:OM-RGC.v1.029600275
+			note	cvp_best_match:CAMPEP_0000024002
+34386	34580	gene
+			locus_tag	NVP1148O_60
+34386	34580	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_60
+35133	35249	gene
+			locus_tag	NVP1148O_61
+35133	35249	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_61
+35239	35550	gene
+			locus_tag	NVP1148O_62
+35239	35550	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_62
+35552	35677	gene
+			locus_tag	NVP1148O_63
+35552	35677	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_63
+35734	36558	gene
+			locus_tag	NVP1148O_64
+35734	36558	CDS
+			product	DNA methylase, C-5 cytosine-specific, active site
+			protein_id	NVP1148O_64
+			db_xref	pfam:PF00145
+			db_xref	pog:POG0191
+			db_xref	InterPro:IPR018117
+			note	tara_best_match:OM-RGC.v1.003932961
+			note	cvp_best_match:RF_PEP_422937084
+36568	36702	gene
+			locus_tag	NVP1148O_65
+36568	36702	CDS
+			product	hypothetical protein
+			protein_id	NVP1148O_65

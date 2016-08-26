@@ -1,0 +1,476 @@
+>Features Vibrio_virus_1.122.A._10N.286.46.F8
+3	656	gene
+			locus_tag	NVP1122A_01
+3	656	CDS
+			product	Terminase small subunit
+			protein_id	NVP1122A_01
+			db_xref	kegg:K07474
+			db_xref	pfam:PF03592
+			db_xref	egg:none
+			db_xref	pog:POG0796
+			db_xref	InterPro:IPR005335
+			note	tara_best_match:OM-RGC.v1.016045857
+			note	cvp_best_match:RF_PEP_197085631
+643	2364	gene
+			locus_tag	NVP1122A_02
+643	2364	CDS
+			product	Terminase, large subunit
+			protein_id	NVP1122A_02
+			db_xref	pfam:PF03237
+			db_xref	cog:COG5410
+			db_xref	egg:COG5410
+			db_xref	pog:POG0042
+			db_xref	InterPro:IPR004921
+			note	aclame_best_match:protein:proph:166228
+			note	tara_best_match:OM-RGC.v1.001228255
+			note	cvp_best_match:CAMPEP_0000020542
+2404	3951	gene
+			locus_tag	NVP1122A_03
+2404	3951	CDS
+			product	Protein of unknown function DUF1073
+			protein_id	NVP1122A_03
+			db_xref	InterPro:IPR024459
+			note	tara_best_match:OM-RGC.v1.001991723
+3932	4909	gene
+			locus_tag	NVP1122A_04
+3932	4909	CDS
+			product	Phage head morphogenesis domain
+			protein_id	NVP1122A_04
+			db_xref	egg:none
+			db_xref	InterPro:IPR006528
+			note	tara_best_match:OM-RGC.v1.005419194
+			note	cvp_best_match:RF_PEP_423262381
+5038	5280	gene
+			locus_tag	NVP1122A_05
+5038	5280	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_05
+5289	7274	gene
+			locus_tag	NVP1122A_06
+5289	7274	CDS
+			product	Coil containing protein
+			protein_id	NVP1122A_06
+			db_xref	InterPro:IPS Coils
+7285	7737	gene
+			locus_tag	NVP1122A_07
+7285	7737	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_07
+			note	tara_best_match:OM-RGC.v1.024839066
+7740	8852	gene
+			locus_tag	NVP1122A_08
+7740	8852	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_08
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.004765993
+8864	9199	gene
+			locus_tag	NVP1122A_09
+8864	9199	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_09
+9298	9960	gene
+			locus_tag	NVP1122A_10
+9298	9960	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_10
+9962	10177	gene
+			locus_tag	NVP1122A_11
+9962	10177	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_11
+10295	10675	gene
+			locus_tag	NVP1122A_12
+10295	10675	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_12
+10678	11979	gene
+			locus_tag	NVP1122A_13
+10678	11979	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_13
+11976	13739	gene
+			locus_tag	NVP1122A_14
+11976	13739	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_14
+13883	14557	gene
+			locus_tag	NVP1122A_15
+13883	14557	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_15
+			db_xref	pog:POG0184
+			note	aclame_best_match:protein:vir:96801
+			note	tara_best_match:OM-RGC.v1.012685103
+			note	cvp_best_match:CAMPEP_0000012440
+14585	14989	gene
+			locus_tag	NVP1122A_16
+14585	14989	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_16
+14986	15348	gene
+			locus_tag	NVP1122A_17
+14986	15348	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_17
+15352	15765	gene
+			locus_tag	NVP1122A_18
+15352	15765	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_18
+			note	tara_best_match:OM-RGC.v1.026973291
+15762	16196	gene
+			locus_tag	NVP1122A_19
+15762	16196	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_19
+16253	16762	gene
+			locus_tag	NVP1122A_20
+16253	16762	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_20
+16774	17133	gene
+			locus_tag	NVP1122A_21
+16774	17133	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_21
+17130	17729	gene
+			locus_tag	NVP1122A_22
+17130	17729	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_22
+17726	19819	gene
+			locus_tag	NVP1122A_23
+17726	19819	CDS
+			product	Coil containing protein
+			protein_id	NVP1122A_23
+			db_xref	InterPro:IPS Coils
+19819	20292	gene
+			locus_tag	NVP1122A_24
+19819	20292	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_24
+20355	20894	gene
+			locus_tag	NVP1122A_25
+20355	20894	CDS
+			product	Domain of unknown function DUF1833
+			protein_id	NVP1122A_25
+			db_xref	InterPro:IPR014974
+20891	21307	gene
+			locus_tag	NVP1122A_26
+20891	21307	CDS
+			product	NlpC/P60 family
+			protein_id	NVP1122A_26
+			db_xref	pfam:PF00877
+			note	tara_best_match:OM-RGC.v1.026312462
+			note	cvp_best_match:CAMPEP_0000012472
+21285	23855	gene
+			locus_tag	NVP1122A_27
+21285	23855	CDS
+			product	Coil containing protein
+			protein_id	NVP1122A_27
+			db_xref	InterPro:IPS Coils
+23855	26167	gene
+			locus_tag	NVP1122A_28
+23855	26167	CDS
+			product	Pectin lyase fold/virulence factor
+			protein_id	NVP1122A_28
+			db_xref	InterPro:IPR011050
+26535	26227	gene
+			locus_tag	NVP1122A_29
+26535	26227	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_29
+27196	26681	gene
+			locus_tag	NVP1122A_30
+27196	26681	CDS
+			product	Single-stranded DNA-binding protein
+			protein_id	NVP1122A_30
+			db_xref	kegg:K03111
+			db_xref	cog:COG0629
+			db_xref	egg:COG0629
+			db_xref	pog:POG0226
+			db_xref	InterPro:IPR011344
+			note	aclame_best_match:protein:plasmid:133420
+			note	tara_best_match:OM-RGC.v1.018675131
+			note	cvp_best_match:CAMPEP_0000016380
+27831	27196	gene
+			locus_tag	NVP1122A_31
+27831	27196	CDS
+			product	Single-strand annealing protein SAK3
+			protein_id	NVP1122A_31
+			db_xref	pfam:PF06378
+			db_xref	egg:none
+			db_xref	pog:POG0906
+			db_xref	InterPro:IPR009425
+			note	aclame_best_match:protein:vir:902
+			note	tara_best_match:OM-RGC.v1.015086857
+			note	cvp_best_match:NCBI_PEP_3282307
+28131	28319	gene
+			locus_tag	NVP1122A_32
+28131	28319	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_32
+28323	28502	gene
+			locus_tag	NVP1122A_33
+28323	28502	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_33
+			note	tara_best_match:OM-RGC.v1.036647497
+28495	28770	gene
+			locus_tag	NVP1122A_34
+28495	28770	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_34
+28795	29055	gene
+			locus_tag	NVP1122A_35
+28795	29055	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_35
+29070	29300	gene
+			locus_tag	NVP1122A_36
+29070	29300	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_36
+29290	29517	gene
+			locus_tag	NVP1122A_37
+29290	29517	CDS
+			product	Domain of unknown function DUF551
+			protein_id	NVP1122A_37
+			db_xref	InterPro:IPR007539
+29517	29999	gene
+			locus_tag	NVP1122A_38
+29517	29999	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_38
+29999	30307	gene
+			locus_tag	NVP1122A_39
+29999	30307	CDS
+			product	Protein of unknown function DUF1364
+			protein_id	NVP1122A_39
+			db_xref	pfam:PF07102
+			db_xref	egg:none
+			db_xref	pog:POG0618
+			db_xref	InterPro:IPR010774
+			note	aclame_best_match:protein:vir:105608
+			note	tara_best_match:OM-RGC.v1.030522789
+			note	cvp_best_match:RF_PEP_56692951
+30304	30582	gene
+			locus_tag	NVP1122A_40
+30304	30582	CDS
+			product	tRNA endonuclease-like domain
+			protein_id	NVP1122A_40
+			db_xref	InterPro:IPR011856
+			note	tara_best_match:OM-RGC.v1.031141498
+30579	30980	gene
+			locus_tag	NVP1122A_41
+30579	30980	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_41
+30984	31241	gene
+			locus_tag	NVP1122A_42
+30984	31241	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_42
+			db_xref	egg:ENOG41122AZ
+			note	aclame_best_match:protein:proph:165868
+			note	cvp_best_match:RF_PEP_448244902
+31358	32002	gene
+			locus_tag	NVP1122A_43
+31358	32002	CDS
+			product	KilA, N-terminal/APSES-type HTH, DNA-binding
+			protein_id	NVP1122A_43
+			db_xref	InterPro:IPR018004
+			note	tara_best_match:OM-RGC.v1.016061693
+32105	32458	gene
+			locus_tag	NVP1122A_44
+32105	32458	CDS
+			product	PUA-like domain
+			protein_id	NVP1122A_44
+			db_xref	pfam:PF04266
+			db_xref	egg:ENOG411245K
+			db_xref	InterPro:IPR015947
+			note	tara_best_match:OM-RGC.v1.007701456
+32473	32673	gene
+			locus_tag	NVP1122A_45
+32473	32673	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_45
+			note	tara_best_match:OM-RGC.v1.035943074
+32675	33184	gene
+			locus_tag	NVP1122A_46
+32675	33184	CDS
+			product	Coil containing protein
+			protein_id	NVP1122A_46
+			db_xref	InterPro:IPS Coils
+33795	35096	gene
+			locus_tag	NVP1122A_47
+33795	35096	CDS
+			product	DNA methylase, C-5 cytosine-specific, active site
+			protein_id	NVP1122A_47
+			db_xref	pfam:PF00145
+			db_xref	InterPro:IPR018117
+			note	tara_best_match:OM-RGC.v1.004201265
+35086	35373	gene
+			locus_tag	NVP1122A_48
+35086	35373	CDS
+			product	Coil containing protein
+			protein_id	NVP1122A_48
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.034531381
+35324	35731	gene
+			locus_tag	NVP1122A_49
+35324	35731	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_49
+			db_xref	egg:ENOG4112BZ9
+			note	tara_best_match:OM-RGC.v1.005938743
+35796	36074	gene
+			locus_tag	NVP1122A_50
+35796	36074	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_50
+			note	tara_best_match:OM-RGC.v1.032407151
+			note	cvp_best_match:RF_PEP_422937539
+36074	36232	gene
+			locus_tag	NVP1122A_51
+36074	36232	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_51
+36235	36684	gene
+			locus_tag	NVP1122A_52
+36235	36684	CDS
+			product	Protein of unknown function DUF1367
+			protein_id	NVP1122A_52
+			db_xref	egg:none
+			db_xref	pog:POG2339
+			db_xref	InterPro:IPR009797
+			note	aclame_best_match:protein:proph:163709
+			note	tara_best_match:OM-RGC.v1.024963271
+			note	cvp_best_match:RF_PEP_160700636
+36696	37235	gene
+			locus_tag	NVP1122A_53
+36696	37235	CDS
+			product	DNA N-6-adenine-methyltransferase
+			protein_id	NVP1122A_53
+			db_xref	pfam:PF05869
+			db_xref	egg:none
+			db_xref	pog:POG0822
+			db_xref	InterPro:IPR008593
+			note	aclame_best_match:protein:vir:79615
+			note	tara_best_match:OM-RGC.v1.019621919
+			note	cvp_best_match:RF_PEP_327198618
+37720	37343	gene
+			locus_tag	NVP1122A_54
+37720	37343	CDS
+			product	Holin of 3TMs, for gene-transfer release
+			protein_id	NVP1122A_54
+			db_xref	pfam:PF11351
+			db_xref	egg:none
+			db_xref	InterPro:IPR021497
+			note	tara_best_match:OM-RGC.v1.027618775
+38103	37720	gene
+			locus_tag	NVP1122A_55
+38103	37720	CDS
+			product	Coil containing protein
+			protein_id	NVP1122A_55
+			db_xref	egg:ENOG4111WYZ
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.026953781
+			note	cvp_best_match:CAMPEP_0000011658
+38238	39407	gene
+			locus_tag	NVP1122A_56
+38238	39407	CDS
+			product	Histidine kinase-like ATPase, C-terminal domain
+			protein_id	NVP1122A_56
+			db_xref	InterPro:IPR003594
+39415	39588	gene
+			locus_tag	NVP1122A_57
+39415	39588	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_57
+39699	40067	gene
+			locus_tag	NVP1122A_58
+39699	40067	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1122A_58
+			db_xref	InterPro:IPS TMHMM
+40095	40430	gene
+			locus_tag	NVP1122A_59
+40095	40430	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_59
+40418	40858	gene
+			locus_tag	NVP1122A_60
+40418	40858	CDS
+			product	Winged helix-turn-helix DNA-binding domain
+			protein_id	NVP1122A_60
+			db_xref	InterPro:IPR011991
+40875	41168	gene
+			locus_tag	NVP1122A_61
+40875	41168	CDS
+			product	Carbon storage regulator
+			protein_id	NVP1122A_61
+			db_xref	InterPro:IPR003751
+41659	41838	gene
+			locus_tag	NVP1122A_62
+41659	41838	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1122A_62
+			db_xref	InterPro:IPS TMHMM
+			note	tara_best_match:OM-RGC.v1.032830840
+41838	42008	gene
+			locus_tag	NVP1122A_63
+41838	42008	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_63
+			note	tara_best_match:OM-RGC.v1.036844510
+42227	42535	gene
+			locus_tag	NVP1122A_64
+42227	42535	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_64
+42535	42900	gene
+			locus_tag	NVP1122A_65
+42535	42900	CDS
+			product	Coil containing protein
+			protein_id	NVP1122A_65
+			db_xref	InterPro:IPS Coils
+42950	43165	gene
+			locus_tag	NVP1122A_66
+42950	43165	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_66
+43156	43389	gene
+			locus_tag	NVP1122A_67
+43156	43389	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_67
+43394	43999	gene
+			locus_tag	NVP1122A_68
+43394	43999	CDS
+			product	Peptidase S1, PA clan
+			protein_id	NVP1122A_68
+			db_xref	InterPro:IPR009003
+			note	tara_best_match:OM-RGC.v1.009887468
+			note	cvp_best_match:CAMPEP_0000011380
+44013	44429	gene
+			locus_tag	NVP1122A_69
+44013	44429	CDS
+			product	hypothetical protein
+			protein_id	NVP1122A_69
+			db_xref	egg:none
+			note	aclame_best_match:protein:proph:176699
+			note	tara_best_match:OM-RGC.v1.026210620
+41339	41410	gene
+			locus_tag	NVP1122A_tRNA_1
+41339	41410	tRNA
+			locus_tag	NVP1122A_tRNA_1
+			product	tRNA-Met
+			note	anticodon:CAT
+41418	41489	gene
+			locus_tag	NVP1122A_tRNA_2
+41418	41489	tRNA
+			locus_tag	NVP1122A_tRNA_2
+			product	tRNA-Cys
+			note	anticodon:ACA

@@ -1,0 +1,429 @@
+>Features Vibrio_virus_1.060.A._10N.261.48.B5
+1	537	gene
+			locus_tag	NVP1060A_01
+1	537	CDS
+			product	DNA-packaging protein gp3
+			protein_id	NVP1060A_01
+			db_xref	InterPro:IPR032066
+			note	tara_best_match:OM-RGC.v1.023711987
+			note	cvp_best_match:RF_PEP_422934279
+524	1837	gene
+			locus_tag	NVP1060A_02
+524	1837	CDS
+			product	Terminase, large subunit
+			protein_id	NVP1060A_02
+			db_xref	pfam:PF03237
+			db_xref	cog:COG1783
+			db_xref	egg:none
+			db_xref	pog:POG0252
+			db_xref	InterPro:IPR004921
+			note	aclame_best_match:protein:proph:180327
+			note	tara_best_match:OM-RGC.v1.002766696
+			note	cvp_best_match:NCBI_PEP_282533135
+1927	2646	gene
+			locus_tag	NVP1060A_03
+1927	2646	CDS
+			product	DNA methylase, N-6 adenine-specific, conserved site
+			protein_id	NVP1060A_03
+			db_xref	pfam:PF01555
+			db_xref	cog:COG0863
+			db_xref	egg:COG0863
+			db_xref	pog:POG0990
+			db_xref	InterPro:IPR002052
+			note	aclame_best_match:protein:vir:101565
+			note	tara_best_match:OM-RGC.v1.012586024
+			note	cvp_best_match:CAMPEP_0000029130
+2693	4153	gene
+			locus_tag	NVP1060A_04
+2693	4153	CDS
+			product	Domain of unknown function DUF4055
+			protein_id	NVP1060A_04
+			db_xref	InterPro:IPR025129
+4366	4545	gene
+			locus_tag	NVP1060A_05
+4366	4545	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_05
+4547	4864	gene
+			locus_tag	NVP1060A_06
+4547	4864	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1060A_06
+			db_xref	InterPro:IPS TMHMM
+4906	6003	gene
+			locus_tag	NVP1060A_07
+4906	6003	CDS
+			product	Phage head morphogenesis domain
+			protein_id	NVP1060A_07
+			db_xref	pog:POG0721
+			db_xref	InterPro:IPR006528
+			note	cvp_best_match:NCBI_PEP_282534190
+6046	6234	gene
+			locus_tag	NVP1060A_08
+6046	6234	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_08
+6525	7184	gene
+			locus_tag	NVP1060A_09
+6525	7184	CDS
+			product	Coil containing protein
+			protein_id	NVP1060A_09
+			db_xref	InterPro:IPS Coils
+7201	8217	gene
+			locus_tag	NVP1060A_10
+7201	8217	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_10
+			db_xref	egg:ENOG41114EC
+			note	tara_best_match:OM-RGC.v1.005333452
+8271	8498	gene
+			locus_tag	NVP1060A_11
+8271	8498	CDS
+			product	Coil containing protein
+			protein_id	NVP1060A_11
+			db_xref	InterPro:IPS Coils
+8495	8734	gene
+			locus_tag	NVP1060A_12
+8495	8734	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_12
+8743	9303	gene
+			locus_tag	NVP1060A_13
+8743	9303	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_13
+			note	tara_best_match:OM-RGC.v1.018686268
+9436	9335	gene
+			locus_tag	NVP1060A_14
+9436	9335	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_14
+9681	9436	gene
+			locus_tag	NVP1060A_15
+9681	9436	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1060A_15
+			db_xref	InterPro:IPS TMHMM
+10234	9734	gene
+			locus_tag	NVP1060A_16
+10234	9734	CDS
+			product	Nucleic acid-binding, OB-fold
+			protein_id	NVP1060A_16
+			db_xref	InterPro:IPR012340
+			note	aclame_best_match:protein:vir:104304
+			note	tara_best_match:OM-RGC.v1.023443173
+			note	cvp_best_match:CAMPEP_0000025924
+10700	10266	gene
+			locus_tag	NVP1060A_17
+10700	10266	CDS
+			product	dUTPase-like
+			protein_id	NVP1060A_17
+			db_xref	kegg:K01520
+			db_xref	pfam:PF00692
+			db_xref	cog:COG0756
+			db_xref	egg:COG0756
+			db_xref	pog:POG0085
+			db_xref	InterPro:IPR029054
+			note	aclame_best_match:protein:proph:168172
+			note	tara_best_match:OM-RGC.v1.025805043
+			note	cvp_best_match:RF_PEP_282599475
+11008	10787	gene
+			locus_tag	NVP1060A_18
+11008	10787	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1060A_18
+			db_xref	InterPro:IPS TMHMM
+11351	11010	gene
+			locus_tag	NVP1060A_19
+11351	11010	CDS
+			product	Peptidase M15A, C-terminal
+			protein_id	NVP1060A_19
+			db_xref	pfam:PF08291
+			db_xref	cog:COG3108
+			db_xref	egg:ENOG411267Z
+			db_xref	pog:POG0352
+			db_xref	InterPro:IPR013230
+			note	aclame_best_match:protein:vir:105680
+			note	tara_best_match:OM-RGC.v1.030515629
+			note	cvp_best_match:RF_PEP_456351073
+12258	12761	gene
+			locus_tag	NVP1060A_20
+12258	12761	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_20
+12955	12791	gene
+			locus_tag	NVP1060A_21
+12955	12791	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_21
+			note	tara_best_match:OM-RGC.v1.037290305
+13077	12955	gene
+			locus_tag	NVP1060A_22
+13077	12955	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_22
+			note	tara_best_match:OM-RGC.v1.038789531
+13460	13074	gene
+			locus_tag	NVP1060A_23
+13460	13074	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_23
+13849	13463	gene
+			locus_tag	NVP1060A_24
+13849	13463	CDS
+			product	Conserved hypothetical protein CHP1671
+			protein_id	NVP1060A_24
+			db_xref	pfam:PF09643
+			db_xref	egg:none
+			db_xref	pog:POG0044
+			db_xref	InterPro:IPR010024
+			note	aclame_best_match:protein:proph:172714
+			note	tara_best_match:OM-RGC.v1.029270200
+			note	cvp_best_match:NCBI_PEP_270209575
+14272	14637	gene
+			locus_tag	NVP1060A_25
+14272	14637	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_25
+14634	15110	gene
+			locus_tag	NVP1060A_26
+14634	15110	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_26
+15107	15520	gene
+			locus_tag	NVP1060A_27
+15107	15520	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_27
+15552	16685	gene
+			locus_tag	NVP1060A_28
+15552	16685	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_28
+16732	17040	gene
+			locus_tag	NVP1060A_29
+16732	17040	CDS
+			product	Domain of unknown function DUF551
+			protein_id	NVP1060A_29
+			db_xref	InterPro:IPR007539
+17040	17489	gene
+			locus_tag	NVP1060A_30
+17040	17489	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_30
+17510	17836	gene
+			locus_tag	NVP1060A_31
+17510	17836	CDS
+			product	Coil containing protein
+			protein_id	NVP1060A_31
+			db_xref	InterPro:IPS Coils
+17833	18006	gene
+			locus_tag	NVP1060A_32
+17833	18006	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1060A_32
+			db_xref	InterPro:IPS TMHMM
+18049	20100	gene
+			locus_tag	NVP1060A_33
+18049	20100	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1060A_33
+			db_xref	InterPro:IPS TMHMM
+20100	20645	gene
+			locus_tag	NVP1060A_34
+20100	20645	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_34
+20682	22436	gene
+			locus_tag	NVP1060A_35
+20682	22436	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_35
+22447	22599	gene
+			locus_tag	NVP1060A_36
+22447	22599	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_36
+22899	23396	gene
+			locus_tag	NVP1060A_37
+22899	23396	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_37
+23396	23770	gene
+			locus_tag	NVP1060A_38
+23396	23770	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_38
+23798	26551	gene
+			locus_tag	NVP1060A_39
+23798	26551	CDS
+			product	Coil containing protein
+			protein_id	NVP1060A_39
+			db_xref	InterPro:IPS Coils
+26864	26583	gene
+			locus_tag	NVP1060A_40
+26864	26583	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_40
+27518	26940	gene
+			locus_tag	NVP1060A_41
+27518	26940	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_41
+			db_xref	egg:ENOG4111V8I
+			note	tara_best_match:OM-RGC.v1.016561635
+			note	cvp_best_match:CAMPEP_0000025926
+28381	27521	gene
+			locus_tag	NVP1060A_42
+28381	27521	CDS
+			product	Putative exodeoxyribonuclease 8, PDDEXK-like domain
+			protein_id	NVP1060A_42
+			db_xref	pfam:PF12684
+			db_xref	egg:ENOG410XPW2
+			db_xref	pog:POG1171
+			db_xref	InterPro:IPR024432
+			note	tara_best_match:OM-RGC.v1.008346333
+			note	cvp_best_match:CAMPEP_0000025928
+28572	28384	gene
+			locus_tag	NVP1060A_43
+28572	28384	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_43
+29059	28547	gene
+			locus_tag	NVP1060A_44
+29059	28547	CDS
+			product	Coil containing protein
+			protein_id	NVP1060A_44
+			db_xref	InterPro:IPS Coils
+30928	29084	gene
+			locus_tag	NVP1060A_45
+30928	29084	CDS
+			product	Helicase superfamily 1/2, ATP-binding domain
+			protein_id	NVP1060A_45
+			db_xref	pog:POG0081
+			db_xref	InterPro:IPR014001
+			note	aclame_best_match:protein:vir:104309
+			note	tara_best_match:OM-RGC.v1.000884136
+			note	cvp_best_match:CAMPEP_0000025930
+31707	30925	gene
+			locus_tag	NVP1060A_46
+31707	30925	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_46
+			db_xref	pog:POG0184
+			note	aclame_best_match:protein:vir:96801
+			note	tara_best_match:OM-RGC.v1.014671897
+			note	cvp_best_match:RF_PEP_62362364
+31951	31700	gene
+			locus_tag	NVP1060A_47
+31951	31700	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_47
+32886	32008	gene
+			locus_tag	NVP1060A_48
+32886	32008	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_48
+33586	32879	gene
+			locus_tag	NVP1060A_49
+33586	32879	CDS
+			product	DNA methylase, N-6 adenine-specific, conserved site
+			protein_id	NVP1060A_49
+			db_xref	pfam:PF02086
+			db_xref	egg:none
+			db_xref	InterPro:IPR002052
+			note	tara_best_match:OM-RGC.v1.011736439
+33885	33679	gene
+			locus_tag	NVP1060A_50
+33885	33679	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1060A_50
+			db_xref	InterPro:IPS TMHMM
+35369	33897	gene
+			locus_tag	NVP1060A_51
+35369	33897	CDS
+			product	Protein of unknown function DUF3987)
+			protein_id	NVP1060A_51
+			db_xref	InterPro:IPR025048
+35840	35427	gene
+			locus_tag	NVP1060A_52
+35840	35427	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_52
+36086	35871	gene
+			locus_tag	NVP1060A_53
+36086	35871	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_53
+36337	36089	gene
+			locus_tag	NVP1060A_54
+36337	36089	CDS
+			product	Coil containing protein
+			protein_id	NVP1060A_54
+			db_xref	InterPro:IPS Coils
+			note	tara_best_match:OM-RGC.v1.034237314
+36914	37321	gene
+			locus_tag	NVP1060A_55
+36914	37321	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_55
+37408	37857	gene
+			locus_tag	NVP1060A_56
+37408	37857	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_56
+			note	tara_best_match:OM-RGC.v1.023536219
+			note	cvp_best_match:CAMPEP_0000029076
+37858	38082	gene
+			locus_tag	NVP1060A_57
+37858	38082	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_57
+38075	38200	gene
+			locus_tag	NVP1060A_58
+38075	38200	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_58
+38452	38841	gene
+			locus_tag	NVP1060A_59
+38452	38841	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_59
+38916	39272	gene
+			locus_tag	NVP1060A_60
+38916	39272	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_60
+39265	39624	gene
+			locus_tag	NVP1060A_61
+39265	39624	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_61
+39675	39824	gene
+			locus_tag	NVP1060A_62
+39675	39824	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1060A_62
+			db_xref	InterPro:IPS TMHMM
+39824	39991	gene
+			locus_tag	NVP1060A_63
+39824	39991	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_63
+39988	40587	gene
+			locus_tag	NVP1060A_64
+39988	40587	CDS
+			product	hypothetical protein
+			protein_id	NVP1060A_64
+40856	41104	gene
+			locus_tag	NVP1060A_65
+40856	41104	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1060A_65
+			db_xref	InterPro:IPS TMHMM
+11850	11921	gene
+			locus_tag	NVP1060A_tRNA_1
+11850	11921	tRNA
+			locus_tag	NVP1060A_tRNA_1
+			product	tRNA-Gly
+			note	anticodon:TCC

@@ -1,0 +1,188 @@
+>Features Vibrio_virus_1.166.O._10N.261.51.C7
+3	404	gene
+			locus_tag	NVP1166O_01
+3	404	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_01
+407	1759	gene
+			locus_tag	NVP1166O_02
+407	1759	CDS
+			product	Coil containing protein
+			protein_id	NVP1166O_02
+			db_xref	InterPro:IPS Coils
+1761	2270	gene
+			locus_tag	NVP1166O_03
+1761	2270	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_03
+2270	3337	gene
+			locus_tag	NVP1166O_04
+2270	3337	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_04
+3337	3819	gene
+			locus_tag	NVP1166O_05
+3337	3819	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_05
+3816	4523	gene
+			locus_tag	NVP1166O_06
+3816	4523	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_06
+4536	5033	gene
+			locus_tag	NVP1166O_07
+4536	5033	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_07
+5112	5981	gene
+			locus_tag	NVP1166O_08
+5112	5981	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_08
+6052	6345	gene
+			locus_tag	NVP1166O_09
+6052	6345	CDS
+			product	Coil containing protein
+			protein_id	NVP1166O_09
+			db_xref	InterPro:IPS Coils
+6345	6860	gene
+			locus_tag	NVP1166O_10
+6345	6860	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_10
+6861	7259	gene
+			locus_tag	NVP1166O_11
+6861	7259	CDS
+			product	Coil containing protein
+			protein_id	NVP1166O_11
+			db_xref	InterPro:IPS Coils
+7266	8219	gene
+			locus_tag	NVP1166O_12
+7266	8219	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_12
+8227	8649	gene
+			locus_tag	NVP1166O_13
+8227	8649	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_13
+8633	9058	gene
+			locus_tag	NVP1166O_14
+8633	9058	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_14
+9227	10417	gene
+			locus_tag	NVP1166O_15
+9227	10417	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_15
+10414	11019	gene
+			locus_tag	NVP1166O_16
+10414	11019	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_16
+11021	11305	gene
+			locus_tag	NVP1166O_17
+11021	11305	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_17
+11298	11741	gene
+			locus_tag	NVP1166O_18
+11298	11741	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_18
+11707	12045	gene
+			locus_tag	NVP1166O_19
+11707	12045	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_19
+12042	12362	gene
+			locus_tag	NVP1166O_20
+12042	12362	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_20
+12365	13186	gene
+			locus_tag	NVP1166O_21
+12365	13186	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_21
+13188	14486	gene
+			locus_tag	NVP1166O_22
+13188	14486	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_22
+14491	15243	gene
+			locus_tag	NVP1166O_23
+14491	15243	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_23
+15360	15599	gene
+			locus_tag	NVP1166O_24
+15360	15599	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_24
+15602	16501	gene
+			locus_tag	NVP1166O_25
+15602	16501	CDS
+			product	Essential recombination function protein
+			protein_id	NVP1166O_25
+			db_xref	InterPro:IPR007499
+16482	16736	gene
+			locus_tag	NVP1166O_26
+16482	16736	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_26
+16717	17325	gene
+			locus_tag	NVP1166O_27
+16717	17325	CDS
+			product	Coil containing protein
+			protein_id	NVP1166O_27
+			db_xref	pfam:PF05766
+			db_xref	egg:none
+			db_xref	InterPro:IPS Coils
+			note	aclame_best_match:protein:proph:166609
+17319	17528	gene
+			locus_tag	NVP1166O_28
+17319	17528	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_28
+17528	17803	gene
+			locus_tag	NVP1166O_29
+17528	17803	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_29
+17807	18310	gene
+			locus_tag	NVP1166O_30
+17807	18310	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_30
+18320	18742	gene
+			locus_tag	NVP1166O_31
+18320	18742	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_31
+			note	tara_best_match:OM-RGC.v1.024981070
+18880	19602	gene
+			locus_tag	NVP1166O_32
+18880	19602	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_32
+19599	20009	gene
+			locus_tag	NVP1166O_33
+19599	20009	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_33
+20175	20366	gene
+			locus_tag	NVP1166O_34
+20175	20366	CDS
+			product	hypothetical protein
+			protein_id	NVP1166O_34
+			db_xref	egg:none
+			note	tara_best_match:OM-RGC.v1.034707790
+20878	21162	gene
+			locus_tag	NVP1166O_35
+20878	21162	CDS
+			product	TMhelix containing protein
+			protein_id	NVP1166O_35
+			db_xref	InterPro:IPS TMHMM
